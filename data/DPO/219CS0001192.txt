@@ -1,0 +1,78 @@
+A case was opened with a short description of Podium Moto Dealers - Reporting questions
+A longer description includes Reporting email address needs to be changed for partner
+
+
+
+
+Creation date: 2022-10-05 14:25:43 comments: Hi Clark,
+
+Could you send me the email that Alina is getting?
+
+Thanks,
+Kaylee
+Creation date: 2022-10-05 14:44:25 work_notes: From duplicate NIM4312609
+
+FW: Dec 23, 2021 5:00 AM DAILY REPORT
+
+Here is what he gets.
+
+Amara Morgan
+Nightstar Consulting
+3209 Eighth Ave.
+Suite 200
+Decalo, IL 61910
+Office: 203.524.0105
+Cell: 203.524.0105
+www.nightstar-consulting.net<http://www.nightstar-consulting.net/>
+
+[cid:image002.png@01D8D89D.162A0FB0]
+
+
+Amara Morgan
+Web: www.nightstar-consulting.net
+Postal Address:
+From: Alina Gray <agary@podiummoto.com>
+Sent: Thursday, December 23, 2021 7:37 AM
+To: Amara Morgan <amaram@nightstar-consulting.net>
+Subject: Fwd: Dec 23, 2021 5:00 AM DAILY STATEMENT
+
+Last few reports with red
+Sent from my iPhone
+
+Begin forwarded message:
+From: noreply-xyz@cloud.schemat1cs.com<mailto:noreply-xyz@cloud.schemat1cs.com>
+Date: December 23, 2021 at 5:00:29 AM CST
+To: Alina Gray <agray@podiummoto.com<mailto:agray@podiummoto.com>>
+Subject: Dec 23, 2021 5:00 AM DAILY STATEMENT
+ 
+[https://us5-cloud.schemat1cs.com/api/1/content/image/8211]
+
+Report Management<https://us5-cloud.schemat1cs.com>
+[https://us5-cloud.schemat1cs.com/mc/resources/mail-template/report-sw.png]
+
+Daily activities
+
+Created: Dec 23, 2021 5:00 AM
+Name of report
+Daily activities
+Tenant
+Podium Moto Dealers
+Time range
+2021-12-22 - 2021-12-23
+File type
+PDF
+If you have any queries or need support,
+please visit https://www.schemat1cs.com/support/
+
+CybSecure has scanned this email for spam and viruses
+Creation date: 2022-10-05 15:09:58 comments: Hello Clark,
+
+Thanks for spending time to talk with me today. Happy to resolve the issue with the Daily Report sending to the consumer email address. If you face any other issues or have any future queries, please feel free to reach out!
+
+Have a nice rest of your week.
+
+Kaylee
+Creation date: 2022-10-05 15:09:58 work_notes: Worked with partner to change report settings to email daily report
+Problem solved as confirmed by partner
+Creation date: 2022-10-08 15:30:29 work_notes: After 3 days in the resolved state, case automatically closed.
+Creation date: 2022-10-11 08:01:33 work_notes: Customer Satisfaction Survey has been delivered  2022-10-10 01:00:00

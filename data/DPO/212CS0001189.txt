@@ -1,0 +1,204 @@
+A case was opened with a short description of E-mail delivery issues with applications sending through smtp.office365.com with authentication
+A longer description includes Hello,
+MGR Is currently facing an issue with mail delivery as one of its applications attempts to send messages to smtp.office365.com while authenticating with the account van@mgrplace.com.
+Some messages are being delivered while others are not. The issue started yesterday, and the message trace does not provide comprehensive details. Even the SMTP authentication mail flow report is lacking in details.
+Is there a method for reviewing SMTP logs to determine if Microsoft is rejecting a message at the SMTP level.
+We need to verify whether Microsoft is rejecting the message, such as due to a lack of handshake, etc.
+
+
+
+
+Creation date: 2022-10-14 22:25:22 comments: Hello, Rory.
+
+I want to inform you that we have received your request, and we will provide more information as soon as possible.
+
+The Nimbus support department operates 24/7/365 days a year. With that said, if you wish to speak with a Nimbus support engineer sooner, please contact our main line to speak with the next available engineer!
+
+Regards,
+Creation date: 2022-10-14 22:37:44 work_notes: Compatibility of the device must be TLS 1.2 
+Creation date: 2022-10-14 22:39:34 comments: Hi,
+
+ Perform a message trace for the sender and recipient of a specific message. Additionally, is the device TLS.12 compatible?
+
+Regards
+Alex
+Creation date: 2022-10-14 22:45:34 comments: Hello Alex,
+
+Could you give me a call to discuss? I believe communication through e-mail may be slower.
+
+Rory
+t: (515) 628-9932
+e: rory.blair@BluetagIT.com<mailto:rory.blair@BluetagIT.com>
+ [btit_logo140] <http://www.bluetagIT.com/>
+Creation date: 2022-10-14 23:56:38 comments: Hello Rory,
+
+It was a pleasure talking to you today. I have generated a ticket with Microsoft and included an article on utilizing direct send or a connector for your application:
+
+https://learn.microsoft.com/en-us/exchange/best-practice-for-mail=flow/how-to-set-up-multifunction-device-or-application-to-send-email-using-ms-365-or-office-365
+Creation date: 2022-10-14 23:56:38 work_notes: Rory experienced multiple failures when SMTP messages were sent to his application. SMTP was previously enabled on the tenant, and he faced the problem today. Contacted MS for support and also recommended considering either direct send or creating a connector for the application.
+Creation date: 2022-10-15 03:28:34 comments: Yes, It is compatible.
+
+Rory
+t: (515) 628-9932
+e: rory.blair@BluetagIT.com<mailto:rory.blair@BluetagIT.com>
+ [btit_logo150] <http://www.bluetagIT.com/>
+Creation date: 2022-10-15 06:27:42 work_notes:  Setting and logs are aattached. 
+
+Rory
+t: (515) 628-9932
+e: rory.blair@BluetagIT.com
+  
+
+From: Microsoft  Premier Support <mspremsup@microsoft.com> 
+Sent: October 13, 2022 5:53 PM
+To: zbrighton @nimbus.com
+Cc: Rory Blair <rory.blair@bluetagit.com>; ve-productivity@nimbus.com; Ravi Kumar <rkumar@microsoft.com>
+Subject: [Case #:22277519] -  Application is failing (SMTP authenticated)
+
+## In order to reply, please type  above this line ##
+________________________________________
+
+Title: Application is failing (SMTP authenticated)
+                                                                                                                                                                                                                                                                       
+ 
+Your inquiry (22277519) has been revised. If you have additional comments, please respond to this e-mail.
+________________________________________
+   Sai (Microsoft) 
+ Friday, October 14, 2022 12:53 AM GMT
+ Hello Adam, 
+
+Appreciate your communication with Microsoft Support.
+
+I am Sai, the support professional assigned to assist you with this service request. You can contact me using the information provided below, referring to the SR number 22277519. 
+
+As per the ticket, e-mail is the preferred method of communication. However, I have noticed a preferred contact number in the case profile. Taking this opportunity to expedite the resolution, I will try to reach you by phone within the next two hours or at your earliest convenience.
+
+I am outlining the scope of your issue based on the description provided,
+
+Issue Definition: Application is failing (SMTP authenticated)
+
+
+Scope Agreement: We will mark this issue as resolved once we identify and address the underlying cause of this behavior, unless the issue is determined to be caused by: 
+
+- A product or service from a third party.
+- A behavior intentionally designed.
+- A behavior that is no longer supported.
+- Any issue that deviates from the defined problem will necessitate the creation of a new or separate case, which will be addressed by the relevant team.
+
+We are now commencing collaborative efforts to address your concerns. If you disagree with the outline scope or wish to make amendments, please inform me promptly. Feel free to reach out if you have any questions or concerns.
+
+Before we delve into details, could you provide additional context about the situation?
+1. When did this issue first occur?
+2.    How many users are experiencing this problem?
+3.    Could you provide the e-mail ID's of the affected users?
+4.    Is this issue consistent or intermittent?
+5.    Have you attempted any solutions independently?
+
+Please consult the following article:
+Basic Authentication Deprecation in Exchange Online   Update from September 2022 - Microsoft Community Forum
+
+If you have any questions or concerns, please inform me. Thank you for choosing the Microsoft Partner Network.
+
+Thanks,
+
+Sai S | Microsoft 365 Support Engineer   Partner Support
+Email Address: saiscs@office365support.com
+Working Hours : Monday to Friday : 10:00 AM to 7:30 PM AEDT
+My Escalation Engineer: Naveen Sood| Email: nsoodcs@office365support.com
+MY Tech Lead: Vivek Shetty| Email: vshetty@microsoft.com
+My Team Manager: Noyan Goel | Email: ngoel@office365support.com
+My Technical Advisor: Puneet Malik| Email: pMalik@microsoft.com
+
+For a consistent support experience, we suggest using the REPLY ALL option when responding to this e-mail message.
+Creation date: 2022-10-19 21:09:09 work_notes: Hello Rory,
+
+Can you suggest a convenient time for Ramu to call you back?
+From: Rory Blair <rory.blair@BluetagIT.com> 
+Sent: Monday, October 17, 2022 10:24 PM
+To: Microsoft Premier Support <mspremsup@microsoft.com>; Zach Brighton <zbrighton @nimbus.com>
+Cc: Vendor Escalations - Productivity Technical Support <ve-productivity@nimbus.com>; Ravi Kumar <rkumar@microsoft.com>
+Subject: [External] RE: [Case #:22277519] - Application is failing (SMTP authenticated)
+
+
+Do you have any update on this.  
+
+Rory
+t: (515) 628-9932
+e: rory.blair@BluetagIT.com
+  
+
+From: Microsoft Premier Support <mspremsup@microsoft.com> 
+Sent: October 15, 2022 4:07 AM
+To: zbrighton@nimbus.com
+Cc: rory blair <rory.blair@BluetagIT.com>; ve-productivity@nimbus.com; Ravi Kumar <rkumar@microsoft.com>
+Subject: [Case #:22277519] - Application is failing (SMTP authenticated)
+
+
+## In order to reply, please type  above this line ##
+________________________________________
+
+Sub: Application is failing (SMTP authenticated)
+                                                                                                                                                                                                                                                                       
+ 
+Your inquiry (22277519) has been revised. If you have additional comments, please respond to this e-mail.
+________________________________________
+   Ramu (Microsoft) 
+ Saturday, October 15, 2022 11:06 PM GMT
+ Hello Adam,
+
+Hello and good day!!
+
+Kindly inform me of a convenient time for a call to discuss and understand the issue.
+
+Appreciate your communication with Microsoft Support.
+
+Warm Regards,
+Ramu Verma
+Microsoft 365 Support Engineer   Partner Support
+Email Address: mdt_hyd_raverm_css@office365support.com
+Working Hours: Monday to Friday: 12:00 PM to UTC - 09:30 PM UTC
+My Tech Lead: Shravan Pandu| mdt_hyd_shrapa_css@office365support.com
+My Team Manager: Mukul Roy| Email: v-mukulroy@microsoft.com
+My Technical Advisor: Shivam Malik| shivam.malik@microsoft.com
+
+________________________________________
+   Ramu (Microsoft) 
+ Friday, October 14, 2022 11:02 PM GMT
+ Hello Adam,
+
+Hello and good day!!
+
+Kindly inform me of a convenient time for a call to discuss and understand the issue.
+
+Appreciate your communication with Microsoft Support.
+
+Warm Regards,
+Ramu Verma
+Microsoft 365 Support Engineer   Partner Support
+Email Address: mdt_hyd_raverm_css@office365support.com
+Working Hours: Monday to Friday: 12:00 PM to UTC - 09:30 PM UTC
+My Tech Lead: Shravan Pandu| mdt_hyd_shrapa_css@office365support.com
+My Team Manager: Mukul Roy| Email: v-mukulroy@microsoft.com
+My Technical Advisor: Shivam Malik| shivam.malik@microsoft.com
+
+________________________________________
+Creation date: 2022-10-20 21:25:21 work_notes:    imran(Microsoft) 
+ Tuesday, October 18, 2022 09:57 PM GMT
+ Hello Rory,
+
+We appreciate your response.
+
+Please grant us some time to investigate, as this issue has been occurring sporadically since October 13th.
+
+In the meantime, could you kindly utilize the SMTP test tool below to verify if emails are being sent?
+
+
+SMTP Test Tool - Mail Server Online Test (dmshecker.org)
+Feel free to inform me of any questions and concerns. 
+Warm Regards,
+Imran Khan| Microsoft 365 Support Engineer   Partner Support
+Email Address: ikhan@office365support.com
+Working Hours: Monday to Friday: 8:00 AM to 03:30 PM EST
+My Tech Lead: My Technical Lead: Imren Khan| Email: mdt_hyd_imrekh_css@office365support.com
+My Team Manager: Mukul Roy| v-mukulroy@microsoft.com
+My Technical Advisor: Shivam Malik| shivam.malik@microsoft.com

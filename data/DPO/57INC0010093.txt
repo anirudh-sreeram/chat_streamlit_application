@@ -1,0 +1,90 @@
+A case was opened with a short description of 8/14 Working- problem with branch phone line
+A longer description includes  affected branch cant hear the inbound calls from other branches
+
+
+
+
+Creation date: 2022-08-15 14:50:54 work_notes: Issue reported by User - inbound interbranch calls is not able to hear affected branch
+Time duration of issue occurrence -
+Error messages - No
+Impacting one, multiple, or all users - All users
+Happening on handset and/or headset - both
+Is the closed light on - No
+Are incoming, outgoing, or both type of calls impacted - incoming interbranch
+
+Ping statistics for 11.225.208.16:
+    Packets: Sent = 64, Received = 32, Lost = 32 (50% loss),
+Approx round trip times in milli-seconds:
+    Minimum = 48ms, Maximum = 63ms, Avg = 50ms
+Ping statistics for 11.225.208.140:
+    Packets: Sent = 70, Received = 70, Lost = 1 (0% loss),
+Approx round trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 65ms, Avg = 54ms
+KB0016745
+Creation date: 2022-08-15 15:23:13 work_notes: Branch Telephony, kindly help
+Creation date: 2022-08-15 16:40:09 work_notes: From: SAANVI REDDY 
+Sent: Sunday, August 14, 2022 11:40 PM
+To: NOC<noc@ibq.com>; Shrey, Srivasthav <Srivasthav.Shrey@SatWeb.com>
+Cc: Candy Christian <Candy.Christian@ibq.com>; Maria Neil <Neilm@ibq.com>
+Subject: Score 5561
+
+Good afternoon,
+
+Please check this branch they are stating when calling another branch via 711 and visa versa the end party cannot hear the branch. They also stated CLASS has been freezing all morning. Was this branch upgraded on Thursday?
+
+Thank you!
+
+Saanvi Reddy
+Telephony Solutions Engineer Lead
+625 Mannat Ave Red Villa, VT 26813
+  802.274.0031 | saanvi.reddy@ibq.com
+Creation date: 2022-08-15 17:07:22 work_notes: From: Saanvi Reddy 
+Sent: Sunday, August 14, 2022 11:40 PM
+To: NOC <noc@ibq.com>; Shrey, Srivasthav <Srivasthav.Shrey@SatWeb.com>
+Cc: Candy Christian <Candy.Christian@ibq.com>; Maria Neil <Neilm@ibq.com>
+Subject: Score 4561
+
+Good afternoon,
+
+Could you kindly take a look at this branch? They conveyed that the receiver cannot hear when they call another branch via 741 and the other way round. They also conveyed that CLASS has been freezing throughout morning. Was this branch upgraded on Thursday?
+
+Thank you!
+
+Saanvi Reddy
+Telephony Solutions Engineer Lead
+625 Mannat Ave Red Villa, VT 26813
+  802.274.0031 | saanvi.reddy@ibq.com
+Creation date: 2022-08-15 18:45:14 work_notes: From: James Martin <James.Martin@ibq.com> 
+Sent: Sunday, August 14, 2022 1:43 PM
+To: SAANVI REDDY <Saanvi.Reddy@ibq.com>; Ranjith Manguluri <Ranjith.Manguluri@ibq.com>; Candy Christian <Candy.Christian@ibq.com>; NOC <noc@ibq.com>; Shrey, Srivasthav <Srivasthav.Shrey@SatWeb.com>
+Cc: Maria Neil <Neilm@ibq.com>
+Subject: RE: Score 5561
+
+Saanvi,
+
+One branch affected by the identified problem that is happening is 5561. If you have an issue, don t hesitate to send a ticket over.
+
+Thanks,
+
+James Martin
+Network Analyst
+Branch Network Operations
+T 812-468-4556  E James.Martin@ibq.com
+ 
+
+From: SAANVI REDDY <Saanvi.Reddy@ibq.com> 
+Sent: Sunday, August 14, 2022 12:42 PM
+To: Ranjith Manguluri <Ranjith.Manguluri@ibq.com>; Candy Christian <Candy.Christian@ibq.com>; NOC <noc@ibq.com>; Shrey, Srivasthav <Srivasthav.Shrey@SatWeb.com>
+Cc: Maria Neil <Neilm@ibq.com>
+Subject: RE: Score 5561
+
+Good afternoon,
+
+I am just following up. Did someone examine this branch? I am sorry if I missed a reply.
+
+Saanvi Reddy
+Telephony Solutions Engineer Lead
+625 Mannat Ave Red Villa, VT 26813
+  802.274.0031 | saanvi.reddy@ibq.com
+Creation date: 2022-08-15 18:45:54 work_notes: ticket has been sent to the NOC.
+Creation date: 2022-08-15 18:54:11 work_notes: Waiting SatWeb fix

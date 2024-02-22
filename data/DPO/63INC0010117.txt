@@ -1,0 +1,182 @@
+A case was opened with a short description of [Iphone] - [Error: liquid found]
+A longer description includes 1. Application Name:
+2. Could the user access this previously? [Y/N]
+3. Thorough explanation of the request:
+Work Iphone SE goes on saying "liqiud detected on the lightning porot" however there is no liquid on it i am 100% certain
+
+
+
+
+Creation date: 2023-02-27 19:11:53 work_notes: Incident created from Interaction IMS0855000
+Creation date: 2023-02-27 19:13:55 work_notes: Knowledge article KB2497400:
+What to do nextNavigate Service HUB -&gt; IT -&gt; Devices + Accessories -&gt; Mobile&nbsp;to see all the available services
+&nbsp;
+If there is a call concerning a mobile carrier issue - please transfer it to following numbers:
+
+AT&amp;T (US) &ndash; +18009995445
+Vingard (US) &ndash; +18009220204
+EE/ Malfoy Communications (FR) &ndash; +3301920449606
+
+The Indian carriers operate normal service levels between 6:00 AM and 6:00 PM IST (1:00 PM - 01:00 AM IST). The Skill Calculation works 24/7. Outside of these hours they can still be reached but only for an emergency query, such as a stolen device.
+When contacting AT&amp;T, agent will be asked to provide "Wireless phone number with the area code" which is the&nbsp; end user phone number.
+&nbsp;
+
+HOW TO TRANSFER THE USER TO THE CARRIER THROUGH (click)
+1. Choose the transfer option from the 3CLogic
+
+&nbsp;
+2. Mark the "External Number" and paste the necessary number. Click Transfer and follow the script below:
+
+When transferring to one of the carriers. please adhere to the following script:
+"Hello this is [agent's name] from quirk-naught Service Desk, I'm currently talking with [first and last name of the user], who is reporting [problem description]. Is it something you could assist him/her with?"
+&nbsp;
+3. While you are explaining the case to the carrier, the user will be automatically placed on "hold". After the introduction, press Join to connect both carrier and user.
+
+&nbsp;
+4. To leave the call, press Complete.
+&nbsp;
+
+&nbsp;
+
+IMPORTANT: Before assigning a ticket to resolving team always gather user Mobile Number 
+WHAT KIND OF ISSUES SHOULD BE HANDLED BY THE SD/OSS AND WHAT SHOULD BE TAKEN CARE OF BY THE CARRIERS
+
+Device support/functionality &ndash;&nbsp;SD/local IT
+Bluetooth issues/queries &ndash;&nbsp;SD/local IT
+Battery/charging issues - SD/local IT
+Questions and problems regarding out-of-box device settings - SD/Local IT
+Issues with order - QHI Vendor Management - Mobility
+Adding services to the phone plan - Carrier
+Network coverage - Carrier
+Voicemail - Carrier
+Call diverts -&nbsp;Carrier
+SMS messaging (text messaging) - Carrier
+Network pricing and tariff queries - Carrier
+Hotspot - Carrier
+Feature requests - as related to email and PIM - Service HUB Portal &ndash; the only feature requests they should have is related to international travel
+Mobile Callter (India) Transfer Number Out - please follow self-service article
+
+Service Desk will still support Outlook, Intune, and other Q+H applications on mobile devices.
+&nbsp;
+Local IT&nbsp;handles mobile device issues and orders in countries other than US/UK
+for other country support, check: KB0052401 - Mobile devices - related issues (Other countries)
+&nbsp;
+&nbsp;
+Creation date: 2023-02-27 19:15:48 work_notes: L1 Forwarding - QHI-OSS-FR-Dall ||
+
+Hello Team,
+Could you help me with this?
+Following steps were carried out in attempt to solve the problem:
+- [Asked to restart iPhone]
+Thanks in advance.
+Creation date: 2023-02-27 19:16:54 work_notes: Chat History:
+ 
+[18:04] Virtual Agent: Hello! Welcome to Q+H chat support.
+[18:04] Virtual Agent: For which service do you require assistance?
+[18:04] Keshav Singh: IT Services
+[18:04] Virtual Agent: Kindly choose from the following options:
+[18:04] Keshav Singh: Start live chat with IT Support
+[18:04] Virtual Agent: Transferring to a Live IT agent.
+[18:04] Virtual Agent: While I connect you with a live agent, kindly wait.
+[18:04] System: Kevin Dew has joined.
+[18:04] Kevin Dew: Thanks for contacting live support. We will be with you shortly.
+[18:04] Keshav Singh: Hello there
+[18:05] Kevin Dew: Hello Rahulart, how can I help you?
+[18:05] Keshav Singh: Work Iphone SE goes on saying "liqiud detected on the lightning porot" however there is no liquid on it i am 100% certain - thoughts?
+[18:07] Kevin Dew: Let me look into it for you
+[18:09] Kevin Dew: After seeing these errors, have you restarted your iPhone?
+[18:09] Keshav Singh: yep
+[18:09] Keshav Singh: its currently completing teh 18.1 software update
+[18:11] Kevin Dew: Alright, then I'll open a ticket with your local on-site support so they can look into it further. Kindly give me a moment to do this.
+[18:12] Keshav Singh: alright thank you
+[18:16] Kevin Dew: Ticket has been created, it's number is INC0577911
+[18:16] Kevin Dew: @L[/incident.do?sys_id=9b8a78yd9678a1234bdc7d045678qwe|INC0577911]
+[18:16] Keshav Singh: Okay thats great - thank you
+[18:16] Kevin Dew: Is there anything else I can help you with?
+[18:16] Keshav Singh: Nah, thats all thanks - have a good shft
+[18:16] Virtual Agent: I appreciate your time and wish you a pleasant day!
+
+Creation date: 2023-02-28 08:07:28 comments: Hello Pete,
+
+I just took up your iPhone problem ticket. I understand that you don't think it got wet but it is possible that the charging port in the phone picked up some moisture by some means. When you travel, where do you put your phone? Condensate is most likely the reason because I've experienced it when biking in previously coz temperature changes from outside to inside. 
+
+It would be best not to override the warning. That could damage the phone further if there is in fact some moisture in it. 
+
+The recommended course of action for resolving these problems is to let the phone dry for one day in a dry location. A bowl of rice isn't really helpful  :) Should that not address the issue, you'll have to make an order for a new phone. 
+
+Tell me how it goes for you.
+
+Cheers 
+Kesh
+Creation date: 2023-02-28 19:31:00 comments: Many thanks Kesh - My phone is kept inside my backpack rather than in my pocket because it can get damp out there at times.
+Creation date: 2023-02-28 19:31:25 comments: tried many ways and it charges briefly before stopping
+Creation date: 2023-02-28 19:31:38 comments: I suppose I'll have to ask Amit to get me another one?
+Creation date: 2023-03-01 09:04:07 work_notes: From: Jones, Peter 
+Sent: 28 February 2023 07:41
+To: Singh, Keshav <Keshav.Singh@quirk-naught.com>; Shah, Amit <Amit.Shah@quirk-naught.com>
+Subject: RE: Case Update - [INC0577911 - [Iphone] - [Error: liquid detected]]
+
+Hello Kesh,
+
+I could examine the charging port and clean it out gently.
+
+They certainly have a tendency to gather fluffy bits. When too much goes in the charging cable could compress it and result in problems with charging.
+
+Now if there is moist fluff that's a completely different problem!
+
+Let me know when you are around then I'll bring something to jab in it and remove fluff from the port.
+
+Cheers
+Pete
+
+From: Singh, Keshav <Keshav.Singh@quirk-naught.com> 
+Sent: 27 February 2023 18:33
+To: Shah, Amit <Amit.Shah@quirk-naught.com>; Jones, Peter <Jones.Peter@quirk-naught.com>
+Subject: FW: Case Update - [INC0577911 - [Iphone] - [Error: liquid detected]
+
+Amit,
+
+See below re:my phone   Without constantly unplugging and plugging it back in, I can't get the charge to get over 39%.
+
+I've updated the software, tried several cords, etc., and it's not moist from cycling (kept safe  in my backpack).
+
+I'll give it my best go, but I may need to request another one
+
+Pete
+
+From: GBS Portal <quirknaught@quickly-help.com> 
+Sent: 27 February 2023 07:08
+To: Singh, Keshav <Keshav.Singh@quirk-naught.com>
+Subject: Case Update - [INC0577911 - [Iphone] - [Error: liquid detected]]
+
+
+ Ticket Update 
+
+Hello Keshav,
+Thanks for contacting the IT Services team.
+We have an update on your Ticket: INC0577911
+Subject: [Iphone] - [Error: liquid detected]
+Comment Details 
+Commented by: Peter Jones at 2023-02-27 07:07:28
+Comments: 
+Hello Kesh, 
+
+I just took up your iPhone problem ticket. I understand that you don't think it got wet but it is possible that the charging port in the phone picked up some moisture by some means. When you travel, where do you put your phone? Condensate is most likely the reason because I've experienced it when biking in previously coz temperature changes from outside to inside. 
+
+It would be best not to override the warning. That could damage the phone further if there is in fact some moisture in it. 
+
+The recommended course of action for resolving these problems is to let the phone dry for one day in a dry location. A bowl of rice isn't really helpful  :) Should that not address the issue, you'll have to make an order for a new phone. 
+
+Tell me how it goes for you.
+
+Cheers 
+Kesh
+All your Ticket: INC0577911 details, including updates and attachments, can be found on the GBS Portal.
+Regards,
+IT Services team
+ 
+ 
+
+ 
+Ref:MSG70086014
+Creation date: 2023-03-09 06:38:57 comments: After 6 days in the resolved state, incident automatically closed.

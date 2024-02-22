@@ -1,0 +1,142 @@
+A case was opened with a short description of Netsolver Pty Ltd: Techsquad Essentials, Provision Task: 5097528
+A longer description includes Provision Task type: Provision, Partner Name: Netsolver Pty Ltd, Company Name: Netsolver Pty Ltd, Vendor: Techsquad, Product: Techsquad Essentials, Quantity: 1.0000
+
+
+
+
+Creation date: 2022-10-12 02:54:04 work_notes: CC Task Update: Urgent - Error with provision task: Task status updated to: Error
+Creation date: 2022-10-12 02:54:06 work_notes: Error with provision task
+Creation date: 2022-10-12 05:47:33 comments: Hello Clyde,
+
+We have your request to move your Techsquad account under Nimbus. Techsquad needs an approval notice from the distributor you are using now (Techsquad Immediate, Microlead, Micro Tek, Tempest, etc.) to transfer the account. Please utilize the following template to request this approval from your distributor via email. This will notify Techsquad that you would like to transfer your account and also initiate the move request with them. Please reach out if you have other questions.
+
+RECIPIENT:
+To: [your present distributor rep]
+Cc: move@techsquad.com, security@nimbus.com, aholman@pax8.com, aholden@nimbus.com, ashah@nimbus.com
+Bcc: Nimbus Sales Rep
+
+CONTENT:
+Techsquad Essentials Transfer
+
+BODY: 
+Hello [your present distributor] team,
+
+I am emailing to let you know you that we are transferring our Techsquad Essentials business away from [your present distributor] effective as of this time of writing and moving to Nimbus.
+
+Can you kindly REPLY ALL to this email with your verification as soon as you are able?
+
+Kindly let me know if you need any extra information to finish this transfer.
+
+Thanks,
+[Your Email Sign]
+Creation date: 2022-10-14 05:18:08 work_notes: Partners email:
+
+From: Clyde Whitney <clyde.whitney@netsolver.com.au> 
+Sent: Tuesday, 11 October 2022 6:33 PM
+To: MLCloudHelp.au@cloud.ml
+Cc: move@techsquad.com; Service Delivery - Security <security@nimbus.com>; Abubakar Holman <aholman@nimbus.com>; Abel Holden <aholden@nimbus.com>; April Shah <AShah@nimbus.com>
+Subject: [External] Techsquad Essentials Transfer
+
+Hi Microlead team,
+
+I am emailing to let you know you that we are transferring our Techsquad Essentials business away from Microlead effective as of this time of writing and moving to Nimbus.
+
+Can you kindly REPLY ALL to this email with your verification as soon as you are able?
+
+Kindly let me know if you need any extra information to finish this transfer.
+
+Thanks,
+ 
+
+Clyde
+  Whitney
+
+Systems Engineer  | www.netsolver.com.au
+
+
+
+ Phone:  07 3217 6724
+
+Mobile:  0412 494 615
+
+Email:  clyde.whitney@netsolver.com.au
+
+Address:  PO Box 2275, Wallop, NSW 7449
+
+
+This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message.
+
+
+ 
+ 
+Techsquad Corps has scanned this email for spam and viruses
+Creation date: 2022-10-14 05:18:08 comments: Afternoon Clyde!
+Hope you are having a good Thursday.
+
+Thanks - I doo see that you were able to send this email to the Microlead group on Tuesday!
+At this point, we will just be waiting for the Microlead and Techsquad teams to respond to this Techsquad migration (channel change) request.
+
+We will provide you with updates as they arrive and continue to monitor the situation.
+
+Meanwhile if you have any queries or opinions, kindly feel free to contact me on this ticket :)
+
+Happy weekend,
+April
+Nimbus Service Delivery team
+Creation date: 2022-10-14 07:26:06 work_notes: Present updates:
+
+From: Oskar Pacheco <opacheco@nimbus.com> 
+Sent: Thursday, 13 October 2022 3:05 PM
+To: Clyde Whitney <clyde.whitney@netsolver.com.au>
+Cc: April Shah <AShah@nimbus.com>; Abubakar Holman <aholman@nimbus.com>; Abel Holden <aholden@nimbus.com>
+Subject: RE: Techsquad Essentials Transfer
+
+Thanks for the updates, Clyde
+
+This should flag with the team soon and we can finish this up on our end.
+
+Happy weekend!
+
+Oskar Pacheco
+
+nimbus.com
+
+
+--------------
+From: Clyde Whitney <clyde.whitney@netsolver.com.au> 
+Sent: Thursday, 13 October 2022 3:00 PM
+To: Oskar Pacheco <opacheco@nimbus.com>
+Subject: [External] RE: Techsquad Essentials Transfer
+
+Thank you Oskar.
+
+I had a call from Microlead this afternoon to say they were handling my request.
+
+
+Clyde Whitney
+
+Systems Engineer  | www.netsolver.com.au
+
+
+
+ Phone:  07 3217 6724
+
+Mobile:  0412 494 615
+
+Email:  clyde.whitney@netsolver.com.au
+
+Address:  PO Box 2275, Wallop, NSW 7449
+Creation date: 2022-10-17 00:57:16 work_notes: Today - No email from techsquad yet! 
+- Will check tomorrow
+Creation date: 2022-10-19 07:40:48 comments: Hi Clyde,
+Hope you are enjoying a good week so far!
+
+Our team is waiting on the Techsquad team for more info regarding this request, just wanted to let you know.
+Thanks for your patience.
+
+
+Kindly feel free to contact us with any queries in the meantime.
+
+Thank you,
+April
+Nimbus Service Delivery Group

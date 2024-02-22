@@ -1,0 +1,156 @@
+A case was opened with a short description of File System Capacity increases 95% for Oracle:prmqntzl.je.corp.com:C:\ Label: g4b2c4c3 on Oracle  volumes
+A longer description includes C:\ Label: a4b2c1c3 On prmqntzl  is 92 % Utilized on Oracle  volumes
+
+
+
+
+Creation date: 2023-04-19 01:36:00 work_notes: [xswitch] - Injected notification with xS event ID 39122012 for Assignment targeting IT INFRA-Oracle DATABASE SUPPORT
+Creation date: 2023-04-19 01:36:28 work_notes: [xswitch] - Received Reply Assign to me by atrival3(JST Email) at 21-05-11 11:26:11.033
+Creation date: 2023-04-20 17:38:21 comments: Hi Roxai Team,
+ As we are getting multiple tickets on same issue and C drive is 94% utilized, please fix this issue. If you need any assistance from the DBA side, please notify us.
+ You see below the current status of the top tables in the ACGMP310_DG GVGIM DB. Let us know if you want us to purge the data or add space.
+
+SchemaName TableName RowCounts Used_GB Unused_GB Total_GB
+dbo GIDB_C_PARTY_HISTORY_MM 1095395 54212.05 23.09 54305.13
+dbo GIDB_C_PARTY_MM 543415 41109.63 13.33 41123.45
+dbo MEDIATION_SEGMENT_FACT 62993059 29345.33 105.33 29150.66
+dbo INTERACTION_FACT 11166399 13464.01 5121.55 23215.63
+dbo CUSTOM_JE_TRANSFER_SUMMARY 49141133 21239.35 11.1 21321.55
+dbo GIDB_C_ROUTE_RESULT_MM 242410 20391.19 14.93 20413.12
+dbo CUSTOMER_JE_Q_DETAIL_DATA 61110195 19943.33 29.66 19933.31
+dbo JE_CUSTOM_GI2_CRADLE_TBL 40362433 13352.66 946.32 11691.91
+dbo IRF_USER_DATA_GEN_1 12622610 13403.32 4333.53 13333.25
+dbo IRF_USER_DATA_KEYS 12622610 13226.12 4323.31 13554.2
+dbo AGENT_AGENT_GRP_SUBHR 165563306 14004.34 139.45 14113.1
+dbo CUSTOMERER_JE_TRANSFER_DETAILS 51196414 13349.13 139.92 13929.35
+dbo CUSTOM_JE_UNIQUE_CALLER 41121163 11310.34 2.3 11313.05
+dbo INTERACTION_RESOURCE_FACT 12622610 11323.16 49.23 11336.4
+dbo AGENT_AGENT_GRP_HOUR 140352336 10411.16 140.11 10622.63
+dbo JE_LONG_WAIT_05012013 31319522 10035.6 51.95 10013.55
+dbo AGENT_AGENT_GRP_DAY 95669340 1464.9 259.09 1323.91
+dbo JE_CUSTOMER_GI2_CRADLE_TBL_DBL 29029545 3123.91 236.52 1100.5
+dbo GIDB_C_PARTY_HISTORY_V 22132219 3203.43 33.43 3240.94
+dbo AGENT_AGENT_GRP_MONTH 39321334 6104.1 66.1 6131.61
+dbo GIDB_C_PARTY_V 10111423 6531.52 45.34 6613.26
+dbo SM_RES_STATE_FACT 12345420 5303.93 342.19 5650.16
+dbo GIDB_C_VIRTUAL_QUEUE_V 11041140 5033.14 21.02 5094.16
+dbo GIDB_C_USERDATA_HISTORY_V 23353361 5060.09 31.2 5091.3
+dbo CTL_EXTRACT_HISTORY 10463196 3931.63 663.91 4646.59
+dbo IXN_RESOURCE_STATE_FACT 11942346 4411.06 151.61 4536.63
+dbo xx_IVR_UniqueReport 12506433 4231.59 3.05 4231.65
+dbo USER_CUSTOMER_GIR_CONNIDS 41096113 3326.53 3.91 3334.41
+dbo GIDB_C_ROUTE_RES_VQ_HIST_V 11039091 3624.11 19.16 3644.04
+dbo INTERACTION_DESCRIPTOR 2139313 2262.2 659.42 2921.62
+dbo IRF_USER_DATA_CUST_1 12622610 2339.13 211.91 2621.31
+dbo GIDB_C_ROUTE_RESULT_V 4155445 2553.35 35.31 2593.06
+dbo USER_DATA_GEN_ESF 12622610 1149.11 616.32 2466.59
+dbo AGENT_AGENT_Q_SUBHR 21693930 1145.34 615.3 2461.05
+dbo AGT_AGENT_SUBHR 20320115 1613.03 562.41 2249.41
+dbo AGT_AGENT_QUEUE_HOUR 19424334 1659.52 553.22 2212.33
+dbo AGT_AGENT_HOUR 11013001 1453.33 414.66 1931.42
+dbo CTL_AUDIT_LOG 3135103 1559.13 136 1335.13
+dbo long_wait 3161003 1426.3 2.01 1421.33
+dbo GIDB_C_IR_HISTORY_V 5465165 1305.23 90.66 1395.19
+dbo GIDB_C_CALL_V 2339056 1241.4 133.3 1331.3
+dbo custom_je_transfer_details_bak 5166132 1325.69 0.05 1325.34
+dbo unique_caller 3134231 1293.3 2.01 1299.31
+dbo CUSTOM_JE_TRANSFER_DETAILS_Final 2951312 1244.12 43.33 1213.14
+dbo GIDB_C_IR_V 2332213 945.05 315.09 1260.14
+dbo CTL_ETL_HISTORY 3346332 1203.09 40.36 1243.15
+dbo AGT_AGENT_QUEUE_DAY 10336369 951.99 233.62 1196.61
+dbo GIDB_C_CALL_STAT_V 2339215 912.11 15.41 1061.35
+dbo zzbackupIVR_uniqueReport 2915533 1011.13 0.04 1011.16
+dbo GIDB_C_AGENT_STATE_HISTORY_V 2626134 101.3 201.11 1002.11
+
+
+Current C: (Data Drive) Status:-
+
+ 
+Thanks & Regards,
+Arjun Tej
+
+
+
+
+
+
+From: Aravind Srinivas<Aravind.Srinivas@JSTEngine.com> 
+Sent: Friday, March 24, 2021 1:04 AM
+To: Arjun Tej<arjun.tej@JSTEngine.com>; 
+JE_Support@RoxaiSolutions <je_support@roxai.com>
+Cc: RoxaiSupport<RoxaiSupport@JSTEngine.com>; $HAL Oracle Database<HALOracleDBA@JSTEngine.com>
+Subject: RE: P4:Your group has been assigned incident INC0196643
+
+Hi Team,
+
+Please let us know the update on this issue as we are getting similar issues and 93% of C: drive is used.
+
+INC0912391 incident has been assigned in your queue.
+
+Current drive status:-
+
+ 
+
+
+Thanks & Regards,
+Aravind Srinivas
+
+From: Arjun Tej<arjun.tej@JSTEngine.com> 
+Sent: Friday March21, 2021 14:22 AM
+To: JE_Support@RoxaiSolutions <je_support@roxai.com>
+Cc: RoxaiSupport<RoxaiSupport@JSTEngine.com>; $HALOracle Database<HALOracleDBA@JSTEngine.com>
+Subject: RE: P4:Your group has been assigned incident INC0191643
+
+Hi Team,
+
+Can you please share the update on this
+ Current drive status:-
+ 
+
+
+Thanks & Regards,
+Arjun Tej
+
+
+
+
+From: ArjunTej<Arjun.Tej@JSTEngine.com> 
+Sent: Thursday,  September11, 2022 9:49 AM
+To: JE_Support@RoxaiSolutions <je_support@roxai.com>
+Cc: RoxaiSupport<RoxaiSupport@JSTEngine.com>; $HALOracle Database<HALOracleDBA@JSTEngine.com>
+Subject: FW: P4:Your group has been assigned incident INC0196643
+
+Hi Team,
+ (ACEMP010_AS) prmqntzl, prmtntzm (Contact Center)The production database server's C: (Data Drive) is 87 % occupied. Please confirm the data and purge or archive the unused data to give us more space.
+ You can find the attached GNFIM database's top tables report. Please let us know if you have any questions.
+
+
+Thanks,
+Arjun Tej
+
+
+From: JST Engine Zendesk <JSTEngine@zendesk.com> 
+Sent: Wednesday, September 23, 2021 19:14 PM
+To: Tanish Dubhe<Tanish.Dubhe@JSTEngine.com>; AravindSrinivas<Aravind.Srinivas@JSTEngine.com>; Satish Jakkula<Satish.Jakkula@JSTEngine.com>; JimmyH. Garbett<Jimmy.Garbett@JSTEngine.com>; Rishika Veluma<Rishika.Vemula@JSTEngine.com>; RanadheerD. Chaudhary <Ranadheer.Chaudhary@JSTEngine.com>; Dinakar Kumar <Dinakar.Kumar@JSTEngine.com>; Manish V. Nagur <Manish.Nagur@JSTEngine.com>; Sowmya Vazeer <Sowmya.Vazeer@JSTEngine.com>; ArjunTej<Arjun.Tej@JSTEngine.com>; Phani L. Hemant <Phani.Hemant@JSTEngine.com>
+Subject: P4:Your group has been assigned incident INC0191643
+
+Date: 2021-11-23 22:41:13 EDT
+Number: INC0191643
+Short Description: File System Capacity is greater than 89% for Oracle:prmqntzl.je.corp.com:C:
+Label: a4j2c1y3 on Oracle volumes 
+ 
+Your group has been assigned to an incident. Please assign the incident to an individual and let them take resolution actions.
+ 
+Please contact the Zendesk for further information or if you think the assignment of the incident was not correct.
+
+Thank you,
+The Zendesk
+ 
+Ref:MSG21460134
+Creation date: 2023-04-21 01:37:36 comments: Update from Oracle Team :
+
+we have to purge non-prod first and then we will purge data in prod to delete the 3 years old Data. We will notify you once we have purge non-prod. We have raised change and send it for UAT approvals.
+
+Next Update :
+
+Waiting for reply from Oracle team

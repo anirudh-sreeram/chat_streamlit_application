@@ -1,0 +1,212 @@
+A case was opened with a short description of FW: Verifying Delinquent Cancellations
+A longer description includes PRIVATE
+
+Please review the response below for processing.
+
+From: Frank Watson <Frank.Watson@BenchmarkMortgage.com>
+Sent: Thursday, October 13, 2022 5:37 PM
+To: Butler, Milo (Shield - Contractor) <Milo.Butler@shield.com>; Bryan Ruiz <Bryan.Ruiz@shield.com>
+Subject: RE: Verifying Delinquent Cancellations
+
+
+CAUTION: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+Hi Milo,
+
+Please cancel the certificates mentioned below.
+
+Thanks.
+
+Frank Watson   
+Escrow Analysis
+4062 Winter Jasmine Pl
+Kannapolis, NC 28081
+
+T: +904-571- 2634
+E: Frank.Watson@benchmarkmortgage.com<mailto:Frank.Watson@benchmarkmortgage.com>
+www.benchmarkmortgage.com<http://www.benchmarkmortgage />
+
+[Trademark, company name Description generated automatically]
+The content of this e-mail is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this e-mail by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law.
+
+
+From: Butler, Milo (Shield - Contractor) <Milo.Butler@shield.com<<mailto:Milo.Butler@shield.com>>
+Sent: Thursday, September 13, 2022 5:26 PM
+To: Frank Watson <Frank.Watson@benchmarkmortgage.com<mailto:frank.watson@benchmarkmortgage.com>>; Bryan Ruiz <Bryan.Ruiz@benchmarkmortgage.com<mailto:bryan.ruiz@benchmarkmortgage.com>>
+Cc: Butler, Milo (Shield - Contractor) <milo.butler@shield.com<mailto:milo.butler@shield.com>>
+Sub: Verifying Delinquent Cancellations
+Priority: High
+
+CAUTION: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+PRIVATE
+
+
+
+Hi,
+
+The loans listed below were submitted for cancellation. However, our system indicates they are delinquent so cancellation was put on hold. Would you mind checking and confirming whether a claim will be submitted or whether these loans really need to be canceled so that we can process them today?
+
+
+
+CERTIFICATION_NUM
+JOB_NAME
+job_age
+JOB_DETAILS
+received_date
+CUSTOMER_ID
+ORIGIN_TYPE
+SERVICING_ORGANISATION_ID
+SERVICING_ORGANISATION_NAME
+CANCELLATION_REASON
+CANCELLATION_DETAILS
+4985841169
+DELINQUENT
+2
+["DELQ CAT 11"]
+10/12/2022
+
+ACCUCERT
+C333331NR7
+BENCHMARK MORTGAGE
+C   Money Lender Request
+3 - LTV Drop / HPA
+4988481441
+DELINQUENT
+2
+["DELQ CAT 11"]
+10/12/2022
+
+ACCUCERT
+C333331NR7
+BENCHMARK MORTGAGE
+C   Money Lender Request
+3 - LTV Drop / HPA
+4988481441
+DELINQUENT
+2
+["DELQ CAT 11"]
+10/12/2022
+
+EDI
+C333331NR7
+BENCHMARK MORTGAGE
+C   Money Lender Request
+2   Fully Paid
+
+
+Milo Butler   
+Money Lender Services Team
+4060 Faith Baptist Church Rd,
+Pinetops, NC 27864
+Phone:  800-511-7858
+moneylenderservices@shield.com<mailto: moneylenderservices@shield.com>
+
+
+
+
+Creation date: 2022-10-14 22:50:41 comments: visitor 10/13/2022 17:50:41
+received from: milo.butler@shield.com
+
+PRIVATE
+
+Please review the response below for processing.
+
+From: Frank Watson <Frank.Watson@BenchmarkMortgage.com>
+Sent: Thursday, October 13, 2022 5:37 PM
+To: Butler, Milo (Shield - Contractor) <Milo.Butler@shield.com>; Bryan Ruiz <Bryan.Ruiz@shield.com>
+Subject: RE: Verifying Delinquent Cancellations
+
+
+CAUTION: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+Hi Milo,
+
+Please cancel the certificates mentioned below.
+
+Thanks.
+
+Frank Watson   
+Escrow Analysis
+4062 Winter Jasmine Pl
+Kannapolis, NC 28081
+
+T: +904-571- 2634
+E: Frank.Watson@benchmarkmortgage.com<mailto:Frank.Watson@benchmarkmortgage.com>
+www.benchmarkmortgage.com<http://www.benchmarkmortgage />
+
+[Trademark, company name Description generated automatically]
+The content of this e-mail is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this e-mail by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law.
+
+
+From: Butler, Milo (Shield - Contractor) <Milo.Butler@shield.com<<mailto:Milo.Butler@shield.com>>
+Sent: Thursday, September 13, 2022 5:26 PM
+To: Frank Watson <Frank.Watson@benchmarkmortgage.com<mailto:frank.watson@benchmarkmortgage.com>>; Bryan Ruiz <Bryan.Ruiz@benchmarkmortgage.com<mailto:bryan.ruiz@benchmarkmortgage.com>>
+Cc: Butler, Milo (Shield - Contractor) <milo.butler@shield.com<mailto:milo.butler@shield.com>>
+Sub: Verifying Delinquent Cancellations
+Priority: High
+
+CAUTION: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+PRIVATE
+
+
+
+Hi,
+
+The loans listed below were submitted for cancellation. However, our system indicates they are delinquent so cancellation was put on hold. Would you mind checking and confirming whether a claim will be submitted or whether these loans really need to be canceled so that we can process them today?
+
+
+
+CERTIFICATION_NUM
+JOB_NAME
+job_age
+JOB_DETAILS
+received_date
+CUSTOMER_ID
+ORIGIN_TYPE
+SERVICING_ORGANISATION_ID
+SERVICING_ORGANISATION_NAME
+CANCELLATION_REASON
+CANCELLATION_DETAILS
+4985841169
+DELINQUENT
+2
+["DELQ CAT 11"]
+10/12/2022
+
+ACCUCERT
+C333331NR7
+BENCHMARK MORTGAGE
+C   Money Lender Request
+3 - LTV Drop / HPA
+4988481441
+DELINQUENT
+2
+["DELQ CAT 11"]
+10/12/2022
+
+ACCUCERT
+C333331NR7
+BENCHMARK MORTGAGE
+C   Money Lender Request
+3 - LTV Drop / HPA
+4988481441
+DELINQUENT
+2
+["DELQ CAT 11"]
+10/12/2022
+
+EDI
+C333331NR7
+BENCHMARK MORTGAGE
+C   Money Lender Request
+2   Fully Paid
+
+
+Milo Butler   
+Money Lender Services Team
+4060 Faith Baptist Church Rd,
+Pinetops, NC 27864
+Phone:  800-511-7858
+moneylenderservices@shield.com<mailto: moneylenderservices@shield.com>

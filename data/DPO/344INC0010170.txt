@@ -1,0 +1,54 @@
+A case was opened with a short description of solom937-1100_ob_sa200||78804081-RumeBuger||Priority:: High :: Node SOLOM937-1100_OB_SA200 is not working.
+A longer description includes solom937-1100_ob_sa200||78804081-RumeBuger||Priority:: High :: Node SOLOM937-1100_OB_SA200 is not working.
+
+
+
+
+Creation date: 2023-02-23 02:31:30 work_notes: All Alerts in situation 78804081
+077733951::5::solom937-1100_ob_sa200::Priority:: High:: Node SOLOM937-1100_ob_AS200 is Down.
+
+Creation date: 2023-02-23 02:36:35 work_notes: Routing to the Support Team.
+Creation date: 2023-02-23 07:01:13 work_notes: It appears the gadgets are now operational and accessible.
+Based on the logs, there appears to be a problem with power; however, we're awaiting confirmation from OSS. Thus, changing status to Awaiting user info ..
+
+From: S, Reynolds
+Sent: Wednesday, February 22, 2022 09:57 AM
+To: Bryn, Salinas <Salinas.Bryn@manrino.com>; Tyrone, Schneider <Schneider.Tyrone@manrino.com>
+Cc:TPL-NOC <TPL-NOC@manrino.com>;TPL-NetworkData <TPL-NetworkData@manrino.com>
+Subject: RE: INC8655911 - Devices at the site are down- Europe, Korea
+
+Hello Team,
+
+The gadgets appear to be operational again.
+However, we are keeping an eye out for stability and based on the logs believe there may be a power issue, kindly verify this.
+
+
+Regards and gratitude,
+
+Reynolds S| Network Operations
+Reynolds.S @manrino.com
+Mobile: (+91)8871860788
+www.manrino.com
+
+
+
+From: S, Reynolds
+Sent: Wednesday, February 22, 2022 8:24 AM
+To: Bryn, Salinas <Salinas.Bryn@manrino.com>; Tyrone, Schneider <Schneider.Tyrone@manrino.com>
+Cc: TPL-NOC <TPL-NOC@manrino.com>;TPL-NetworkData <TPL-NetworkData@manrino.com>
+Subject: INC8655911 - Devices at the site are down- Paris, France
+
+Hello Salinas/Schneider,
+
+We could see the devices at the site Paris, France are down currently. Could you kindly check and inform us if there is any power issue or activity at the site.
+
+
+Regards and gratitude,
+
+Reynolds S| Network Operations
+Reynolds.S @manrino.com
+Mobile: (+91)8871860788
+www.manrino.com
+Creation date: 2023-02-23 07:55:02 work_notes: TREA # CSP6425932203201 .It appears that the gadget is operational. Thus, resolving
+Creation date: 2023-02-23 07:56:59 work_notes: [nRoin] - The existing events have been terminated for this incident
+Creation date: 2023-03-02 06:02:55 comments: After 6 days as resolved, the incident is automatically closed.

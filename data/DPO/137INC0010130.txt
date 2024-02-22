@@ -1,0 +1,184 @@
+A case was opened with a short description of Solomon Core Switch Location ZAGRJ10-22-CDFA-CC20 was unable to proceed with the hardware boot.
+A longer description includes Solomon Core Switch Location The hardware boot stalled on ZAGRJ10-22-CDFA-CC20. Therefore, it isn't interacting with the network.
+
+
+
+
+Creation date: 2023-02-21 17:55:01 work_notes: Attachment: Solomon broken switch 3.png is attached.
+Creation date: 2023-02-21 17:55:09 work_notes: The core switch was found to be stuck in the first hardware boot state. According to the legend records, then. We successfully reset the switch with Tof Mpho's assistance. The switch returned to the Rommon state after being reset. therefore they attempted to boot it by upgrading the IOS on the switch and transferring the IOS image to the flash. The light turned on. After pushing the switch's previous configurations using a USB stick, everything was operating as it should.
+
+https://community.lore.com/t5/switching/c0039-switch-reset-to-factory/td-p/3358278#:~:text=2%3S%60Connect%60the%60power%60cord,Mode%60button%506%3S4%60times.
+Creation date: 2023-02-21 17:57:05 work_notes: Attachment: Solomon fixed the problem.png is available for download.
+Creation date: 2023-02-21 17:58:55 work_notes: Additionally, the user attested to the smooth operation of everything. Will, however, continue to monitor the ticket till tomorrow morning per the user's request.
+
+[8:51 PM] Mathis, Edgar
+After connecting to the network, every machine appears to be operating without any issues. Can we continue talking till tomorrow am in order to keep an eye on the situation?
+
+[8:52 PM] Mathis, Edgar
+  
+
+[8:53 PM] Franklin, Sana
+Yes, Mpho will keep an eye on it through tomorrow morning, updating the ticket status to reflect the user's information.
+Creation date: 2023-02-22 17:54:49 work_notes: Once more following a power fluctuation switch got hung and site is not accessible which includes Access switch and Access points.
+However, by using a workaround configuration at MONO CP and moving the wires from the defective core switch to the access switch, the network has been restore.
+Keeping the ticket status set to pending third party while we wait for dispatched to arrive at the location to check the core switch via the console.
+
+
+
+From: Bryn Salinas<bryn.salinas@reh.vo.la>
+Sent: Tuesday, February 21, 2022 6:06 PM
+To: Tyrone, Schneider <Schneider.Tyrone@binoro.com>; Halle Gomez <halle.gomez@reh.vo.la>; ServiceDesk <servicedesk@reh.vo.la>; Antonia Houston <antonia.houston@reh.vo.la>
+Cc: VPC-NOC <VPC-NOC@binoro.com>; VPC-NetworkData <VPC-NetworkData@binoro.com>
+Subject: RE: External: - IN-02203202-67- New Call Wela | Ref 483 | Binoro : Solomon - Hands & Feet Support
+
+A few recipients of this message don't frequently receive emails from bryn.salinas@reh.vo.la. Find out why this matters.
+
+CAUTION: External email
+Hello @Tyrone, Schneider,
+
+I appreciate your email. We are addressing your request; as soon as we get more information, we will provide feedback.
+
+Kind Regards,
+
+Bryn Salinas
+Incident, Change and Service Request Co-Ordinator
+065 698 2665 | Bryn.Salinas@reh.vo.la
+www.reh.vo.la
+
+
+
+
+
+
+From: Tyrone, Schneider <Schneider.Tyrone@binoro.com>
+Sent: Tuesday, 21 February 2022 14:09
+To: Bryn Salinas<bryn.salinas@reh.vo.la>; Halle Gomez <halle.gomez@reh.vo.la>; ServiceDesk <servicedesk@reh.vo.la>; Antonia Houston <antonia.houston@reh.vo.la>
+Cc: VPC-NOC <VPC-NOC@binoro.com>; VPC-NetworkData <VPC-NetworkData@binoro.com>
+Subject: RE: External: - IN-02203202-67- New Call Wela | Ref 483 | Binoro : Solomon - Hands & Feet Support
+
+Hello Bryn/Team
+
+Please route this request to appropriate team and provide support asap as it's very critical.
+
+With Regards,
+
+Schneider Tyrone | VPC-NOC
+Schneider.Tyrone@binoro.com
+Mobile: (+91)8054245808
+www.binoro.com
+
+From: Tyrone, Schneider <Schneider.Tyrone@binoro.com>
+Sent: Tuesday, February 21, 2022 4:48 PM
+To: Lauren Ross <lauren@rompac.vo.la>; Kayleigh Pace <kayleigh@ion-vx.vo.la>; Lina Nguyen<Lina@ion-vx.vo.la>; Catrin Evans <Catrin@rompac.vo.la>; Soraya Best <soraya@rompac.vo.la>
+Cc: VPC-NOC <VPC-NOC@binoro.com>; VPC-NetworkData <VPC-NetworkData@binoro.com>; Autumn, Winters<Winters.Autumn@binoro.com>; Franklin, Sana <Sana.Franklin@binoro.com>; Saffron Patton <saffron.patton@ion-vx.vo.la>
+Subject: RE: External: - IN-02203202-67- New Call Wela | Ref 483 | Binoro : Solomon - Hands & Feet Support
+
+Hello Team
+
+Could you please investigate this? The business has greatly intensified this issue.
+Kindly designate an engineer who is available to visit the location and acknowledge the urgency of the issue.
+
+With Regards,
+
+Schneider Tyrone | VPC-NOC
+Schneider.Tyrone@binoro.com
+Mobile: (+91)8054245808
+www.binoro.com
+
+From: Tyrone, Schneider
+Sent: Tuesday, February 21, 2022 2:18 PM
+To: Lauren Ross <lauren@rompac.vo.la>; Kayleigh Pace <kayleigh@ion-vx.vo.la>; Lina Nguyen<Lina@ion-vx.vo.la>; Catrin Evans <Catrin@rompac.vo.la>; Soraya Best <soraya@rompac.vo.la>
+Cc: VPC-NOC <VPC-NOC@binoro.com>; VPC-NetworkData <VPC-NetworkData@binoro.com>; Autumn, Winters<Winters.Autumn@binoro.com>; Franklin, Sana <Sana.Franklin@binoro.com>; Saffron Patton <saffron.patton@ion-vx.vo.la>
+Subject: RE: External: - IN-02203202-67- New Call Wela | Ref 483 | Binoro : Solomon - Hands & Feet Support
+
+Hello Team
+
+Assign any available engineers as soon as possible. We urgently need assistance on the scene and dispatch today.
+For more than 3 days, business is severely disrupted.
+
+
+With regards,
+
+Schneider Tyrone | VPC-NOC
+Schneider.Tyrone@binoro.com
+Mobile: (+91)8054245808
+www.binoro.com
+
+From: Saffron Patton <saffron.patton@ion-vx.vo.la>
+Sent: Tuesday, February 21, 2022 11:09 PM
+To: Franklin, Sana <Sana.Franklin@binoro.com>; Lauren Ross <lauren@rompac.vo.la>; Kayleigh Pace <kayleigh@ion-vx.vo.la>; Lina Nguyen<Lina@ion-vx.vo.la>; Catrin Evans <Catrin@rompac.vo.la>; Soraya Best <soraya@rompac.vo.la>
+Cc: VPC-NOC <VPC-NOC@binoro.com>; VPC-NetworkData <VPC-NetworkData@binoro.com>; Autumn, Winters<Winters.Autumn@binoro.com>
+Subject: RE: External: - IN-02203202-67- New Call Wela | Ref 483 | Binoro : Solomon - Hands & Feet Support
+
+A few recipients of this message don't frequently receive emails from saffron.patton@ion-vx.vo.la.
+Find out why this matters.
+
+CAUTION: External email
+Sadly, I have a busy schedule for the remainder of the week. Will be able to help just on Tuesday.
+Regards
+
+Saffron Patton
+Network Engineer
+
+2443 Sierra Nevada Road, George, 93546
+Office: +27 4441 488 44
+Email: help@ion-vx.vo.la | Web: www.ion-vx.vo.la
+
+
+
+From: Franklin, Sana <Sana.Franklin@binoro.com>
+Sent: Tuesday, February 21, 2022 6:47 AM
+To: Saffron Patton <saffron.patton@ion-vx.vo.la>; Lauren Ross <lauren@rompac.vo.la>; Kayleigh Pace <kayleigh@ion-vx.vo.la>; Lina Nguyen<Lina@ion-vx.vo.la>; Catrin Evans <Catrin@rompac.vo.la>; Soraya Best <soraya@rompac.vo.la>
+Cc: VPC-NOC <VPC-NOC@binoro.com>; VPC-NetworkData <VPC-NetworkData@binoro.com>; Autumn, Winters<Winters.Autumn@binoro.com>
+Subject: Re: External: - IN-02203202-67- New Call Wela | Ref 483 | Binoro : Solomon - Hands & Feet Support
+
+Yes, Saffron, but once more we are unable to access the switch and must examine it via the console.
+I kindly ask that you return to the site as soon as possible today.
+
+Regards,
+
+Sana.Franklin | Network Operations
+sana.franklin@binoro.com
+Mobile: (+91)9911981199
+www.binoro.com
+
+
+
+
+________________________________________
+
+From: Saffron Patton <saffron.patton@ion-vx.vo.la>
+Sent: Tuesday, 21 February 2022, 10:07
+To: Franklin, Sana <Sana.Franklin@binoro.com>; Lauren Ross <lauren@rompac.vo.la>; Kayleigh Pace <kayleigh@ion-vx.vo.la>; Lina Nguyen<Lina@ion-vx.vo.la>; Catrin Evans <Catrin@rompac.vo.la>; Soraya Best <soraya@rompac.vo.la>
+Cc: VPC-NOC <VPC-NOC@binoro.com>; VPC-NetworkData <VPC-NetworkData@binoro.com>; Autumn, Winters<Winters.Autumn@binoro.com>
+Subject: RE: External: - IN-02203202-67- New Call Wela | Ref 483 | Binoro : Solomon - Hands & Feet Support
+
+A few recipients of this message don't frequently receive emails from saffron.patton@ion-vx.vo.la.
+Find out why this matters.
+
+CAUTION: Ex
+Creation date: 2023-02-23 19:25:39 work_notes: Supervisor Edgar Mathis has stated that he will visit the location on Friday of next week and provide console access.
+Access Switch is temporarily unavailable on the site. Thus, the ticket status is being kept at pending user info.
+We are currently monitoring incident INC9423911, as of right now. thereby settling this dispute.
+
+[11:56 PM] Mathis, Edgar
+Franklin, Sana Next Friday, I will be in Solomon installing a UPS, so please make arrangements to configure the malfunctioning switch then.
+
+[11:56 PM] John, Jaden
+Hello 
+
+[11:58 PM] Mathis, Edgar
+John, JadenHelloGoodbye 
+
+[11:58 PM] Franklin, Sana
+Mathis, EdgarFranklin, Sana Next Wednesday, I will be in Solomon installing a UPS, so please make arrangements to configure the malfunctioning switch then. I apologize for the confusion. Would you like the settings to be fixed just on Wednesday ?Or is it possible for us to complete the setup first and then have you do the UPS portion?
+
+[11:58 PM] Mathis, Edgar
+No, let's finish it all next week as I'll be on location
+
+[11:59 PM] Franklin, Sana
+quick short call ?
+
+[11:59 PM] Mathis, Edgar
+The team have already wasted enough time, therefore we don't want any additional hours of setups and downtime this week.
+Creation date: 2023-03-03 06:01:08 comments: After 6 days, the incident is automatically closed as resolved.

@@ -1,0 +1,63 @@
+A case was opened with a short description of P76230D     VENTURE BAL      MEMBER='BEXSPLIT'           cc 17
+A longer description includes job not critical, please wait.
+
+
+
+
+Creation date: 2022-09-23 16:28:46 work_notes: Thank you very much.!
+
+-----Original Message-----
+From: Arjun Bhanu <arjun.bhanu@ong.com> 
+Sent: Wednesday, September 21, 2022 6:20 AM
+To: Anjali Ram <Anjali.Ram@ong.com>
+Subject: RE: (P76230D) VENTURE BEX Balancing job has ABENDED
+
+Thank you Anjali!
+
+
+Arjun P  Bhanu
+SCORE Offline
+812-294-8312
+
+
+
+-----Original Message-----
+From: Anjali Ram <Anjali.Ram@ong.com> 
+Sent: Wednesday, September 21, 2022 6:15 AM
+To: Arjun Bhanu <arjun.bhanu@ong.com>; Production Services <ProdedPraud@ong.com>; ScoreOffline <scoreoffline@ong.com>
+Subject: RE: (P76230D) VENTURE BEX Balancing job has ABENDED
+
+Done. Thank you
+
+-----Original Message-----
+From: Arjun Bhanu <arjun.bhanu@ong.com> 
+Sent: Wednesday, September 21, 2022 6:14 AM
+To: Production Services <ProdedPraud@ong.com>; ScoreOffline <scoreoffline@ong.com>
+Subject: RE: (P76230D) VENTURE BEX Balancing job has ABENDED
+
+Production Services,
+
+Given the account that was removed this morning, this was anticipated.
+
+This was something I could manually balance.
+
+Please set the return code to zero and restart P76230D in step SA50.
+
+Thanks,
+Arjun P  Bhanu
+SCORE Offline
+812-294-8312
+
+
+
+-----Original Message-----
+From: ProdedPraud@ONG.COM <ProdedPraud@ONG.COM> 
+Sent: Wednesday, September 21, 2022 3:49 AM
+To: ScoreOffline <scoreoffline@ong.com>
+Subject: (P76230D) VENTURE BEX Balancing job has ABENDED
+
+F.P1.PS.FR.BEX.SPLIT.RPT  HAS BEEN RECEIVED FROM VENTURE
+
+Totals on report BEXSPLIT do not equal totals sent to Venture
+
+Before proceeding with the task, please view the report in Mobius and ascertain the reason for the out of balance.

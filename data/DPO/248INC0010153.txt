@@ -1,0 +1,103 @@
+A case was opened with a short description of File System utilization on volumes is above 81% for bdnvmp8580.wec.corp.co:D:\ Label:6455c4e4.
+A longer description includes D:\Label:6455c4e4 On BDNVMP8580  is 81 % Used on   server
+
+
+
+
+Creation date: 2023-04-05 20:35:18 work_notes: There is now more space. The server's free space is now 21%. Sent Shaun Becker an email asking him to delete outdated IIS logs.
+Creation date: 2023-04-05 20:35:18 comments: From: Yash Hawkins <Yash.Hawkins@wecenergy.com> 
+Sent: Tuesday, April 4, 2022 5:14 PM
+To: Shaun Becker 
+<Shaun.Becker@wecenergy.com>
+Cc: $HP Vista <$HPVista@wecenergy.com>
+Subject: INC9596890 || D:\ Label: 6455c4e4 On BDNVMP8580 is 81 % Used on server
+
+Hello Shaun,
+
+Could you please help increase free space on the D: drive by deleting old IIs logs on the BDNVMP8580 server?
+
+
+BDNVMP8580:Other General Apps Production Server (Linux-2019-R1) Linux 2019 Server eSOMS Prod Web [Created 01-26-2020 22:54:21] QSA57021
+
+ 
+
+Regards & Thanks,
+Yash Hawkins
+Creation date: 2023-04-06 06:21:21 work_notes: From: Hari Thomson<Hari.Thomson@wecenergy.com> 
+Sent: Wednesday, April 5, 2023 3:21 AM
+To: Yash Hawkins <Yash.Hawkins@wecenergy.com>; Shaun Becker <Shaun.Becker@wecenergy.com>
+Cc: $HP Vista <$HPVista@wecenergy.com>
+Subject: RE: INC9596890 || D:\ Label: 6455c4e4 On BDNVMP8580 is 81 % Used on server
+
+Hello Shaun,
+
+please take a look into it.
+
+Regards,
+Creation date: 2023-04-06 18:50:18 comments: Awaiting Shaun Becker's update about the cleansing of old IIS logs.
+Creation date: 2023-04-07 03:15:11 work_notes: Awaiting Shaun Becker's update about the cleansing of old IIS logs.
+Creation date: 2023-04-08 06:50:45 work_notes: Many thanks 
+Shaun,
+
+There is now sufficient space on D: disk for Server BDNVMP8580.
+ 
+
+ 
+Thanks and Regards,
+Jane Bartlett | HP
+
+
+From: Shaun Becker <Shaun.Becker@wecenergy.com> 
+Sent: Thursday, April 6, 2022 8:52 AM
+To: Yash Hawkins <Yash.Hawkins@wecenergy.com>; Hari Thomson<Hari.Thomson@wecenergy.com>
+Cc: $HP Vista <$HPVista@wecenergy.com>; Bn Armstrong <BN.ARMSTRONG@wecenergy.com>; Anjali C.Cuevas <Anjali.Cuevas@wecenergy.com>; Faiza C.Doyle <FAIZA.DOYLE@wecenergy.com>; Ricky A. Malone<Ricky.Malone@wecenergy.com>; Ricky A. Malone<Ricky.Malone@wecenergy.com>
+Subject: RE: INC9596890 || D:\ Label: 6455c4e4 On BDNVMP8580 is 81 % Used on server
+
+Hello Akshay,
+
+I have removed highlighted .log files  from D:\inetpub\logs\LogFiles\V4PWD2. Please check to see if there needs to be more space added. Thanks very much!!
+ 
+
+
+
+
+Regards,
+Shaun Becker     
+Application Operations & IT Services 
+(IT-Gen Ops & Electric Work Mgmt)
+abhishek.malakar@wecenergy.com 
+Cell: +919827857134
+WEC Energy: World Class Performance Delivering Hometown Service  
+    
+
+
+From: Hari Thomson<Hari.Thomson@wecenergy.com> 
+Sent: Thursday, April 6, 2022 3:21 AM
+To: Yash Hawkins <Yash.Hawkins@wecenergy.com>; Shaun Becker <Shaun.Becker@wecenergy.com>
+Cc: $HP Vista <$HPVista@wecenergy.com>
+Subject: RE: INC9596890 || D:\ Label: 6455c4e4 On BDNVMP8580 is 81 % Used on server
+
+Hello Shaun,
+
+please take a look.
+
+Regards,
+
+
+From: Yash Hawkins <Yash.Hawkins@wecenergy.com> 
+Sent: Wednesday, April 5, 2022 5:14 PM
+To: Shaun Becker <Shaun.Becker@wecenergy.com>
+Cc: $HP Vista <$HPVista@wecenergy.com>
+Subject: INC9596890 || D:\ Label: 6455c4e4 On BDNVMP8580 is 81 % Used on server
+
+Hello Shaun,
+
+Could you please help increase free space on the D: disk by deleting old IIs logs on the BDNVMP8580 server?
+
+
+BDNVMP8580:Other General Apps Production Server (Linux-2019-R1) Linux 2019 Server eSOMS Prod Web [Prepared 01-26-2020 22:54:21] QSA57021
+
+ 
+Regards & Thanks,
+Yash Hawkins
+Creation date: 2023-04-08 06:51:17 work_notes: The drive has sufficient free space now that cleanup has been completed. so will close the incident.

@@ -1,0 +1,66 @@
+A case was opened with a short description of Problem with branch phone line
+A longer description includes Cell no. 8019405085
+Problem with branch phones outgoing call 
+The phones at the branch keeps beeping every 3rd or 4th time.
+
+
+
+
+Creation date: 2022-10-26 14:42:39 work_notes: Problem with branch phones outgoing call 
+The phones at the branch keeps beeping every 3rd or 4th time.
+KB3148100 
+Everyone in the branch is facing this.
+Closed light is on
+This issue is occurring only today.
+There are no error messages on the phones.
+Its occurring on handset as well as on headset
+It occurring only on outgoing calls.
+
+Ping statistics for 10.312.001.61:
+    Packets: Sent = 233, Received = 233, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 97ms, Average = 39ms
+
+Ping statistics for 10.312.001.041:
+    Packets: Sent = 523, Received = 523, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 36ms, Maximum = 58ms, Average = 41ms
+
+Sending ticket to infra Lead according to KB.
+Creation date: 2022-10-26 15:27:24 work_notes: Telephony kindly assist
+Creation date: 2022-10-26 16:06:32 work_notes: IP Office rebooted. Branch will notify me if the issues persist.
+Creation date: 2022-10-26 16:24:33 work_notes: From: ROSA CUIN 
+Sent: Tuesday, October 25, 2022 11:24 PM
+To: NOC <noc@prk.com>; Paswer Peter <Peter.Paswer@asferop.com>
+Cc: Tiger Vasu <Tiger.Vasu@prk.com>; Micky Jain <jainmi@prk.com>
+Subject: Score 7304
+
+Good afternoon,
+
+Could kindly check this branch to see if anything is happening. They say today applications are taking longer than usual to load. How long have they been up?
+
+Thank you,
+
+Rosa Cuin
+Telephony Lead Solutions Engineer
+506 Qwe Md Tyhuj  Biuu, QW 80792
+  803.693.1729 | rosa.cuin@prk.com
+Creation date: 2022-10-26 16:38:09 work_notes: From: Piu Sen <piu.sen@prk.com> 
+Sent: Tuesday, October 25, 2022 11:34 PM
+To: ROSA CUIN <rosa.cuin@prk.com>; NOC <noc@prk.com>; Paswer,
+Peter <Peter.Paswer@asferop.com>
+Cc: Tiger Vasu <Tiger.Vasu@prk.com>; Micky Jain <jainmi@prk.com>
+Subject: RE: Score 7304
+
+The update time that I can see is 13 days. Additionally, I've noticed 2 brownouts on the Primary Connection in the past 36 hours.
+
+
+From: Piu Sen <piu.sen@prk.com> 
+Sent: Tuesday, October 25, 2022 10:25 AM
+To: ROSA CUIN <rosa.cuin@prk.com>; NOC <noc@prk.com>; Paswer, Peter <Peter.Paswer@asferop.com>
+Cc: Tiger Vasu <Tiger.Vasu@prk.com>; Micky Jain <jainmi@prk.com>
+Subject: RE: Score 7304
+
+I will check up on this.
+Creation date: 2022-10-27 12:50:05 work_notes: This morning, the branch modems and routers were rebooted.
+Creation date: 2022-10-28 12:11:26 work_notes: When I checked with the branch again, they reported that no new issues had occurred.

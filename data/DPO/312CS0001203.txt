@@ -1,0 +1,374 @@
+A case was opened with a short description of Enabling SMB over QUIC on Azure for Windows Server 2022 resulted in an error.
+A longer description includes Hello,
+
+I believe this ticket will need to be escalated to Microsoft, as I am confident that not many people have attempted to use SMB for QUIC, which is exclusively available on Server 2022 Data Centre for Azure with Windows Admin Centre. 
+
+As you can see in the screenshot below, I am consistently encountering the same error, regardless of how many times I deploy a fresh VM. 
+
+Here are a few important points:
+1. I have reinstalled a fresh instance of Server 2022 on Azure multiple times in my efforts to troubleshoot the issue myself.
+2. I have installed all Windows updates to ensure I have the latest version of Windows Admin Centre.
+3. I have followed all the guides available on the internet, including the articles mentioned below.
+4. I have extensively searched for information on SMB over QUIC, but couldn't find any mention of this specific error. It seems that not many people have experimented with this feature.
+5. I have used valid certificates from Dreamhost and even attempted to create an internet certificate authority, following a video tutorial precisely.
+6. After exhausting all my options, I have decided to seek assistance from Microsoft.
+
+https://learn.microsoft.com/en-us/server-for-windows/storage/file-server/smc-over-quic
+
+https://community.microsoft.com/t6/microsoft-storage/smb-over-quic/ba-p/2928696
+
+[cid:image004.png@01D8D1CB.36110151]
+
+[cid:image005.png@01D8D1CA.5B4B2551]
+
+[signature_547540828]
+JACKIE WOOLLEY
+Mobile / SMS: 646.431.9428
+24x7x365 Help Desk: 800.CT.HELP2
+Email: jackie@manchetek.com<mailto:jackie@manchetek.com>
+Web: http://www.manchetek.com<http://www.manchetek.com/>
+AMSTERDAM | AUBURN | DENVER
+
+Dropsuite Intl has conducted a scan of this email to ensure it is free from spam and viruses
+
+
+
+
+Creation date: 2022-09-26 21:46:47 comments: Hello Woolley,
+
+Thank you for reaching out to Love Space Support. My name is Darren Kim, and I am an analyst on the Cloudspace Infrastructure Support team. I will be assisting you with escalating this case to Microsoft. Could you please confirm/insert the following information?
+
+POC: Jackie Woolley
+Email:  JWoolley@manchetek.com
+Phone:  646.431.9428
+Business Hours or 24/7
+Preferred Method of Contact:
+Additional Contacts:
+
+Regards,
+Darren
+Creation date: 2022-09-27 15:28:44 comments: Hello Woolley,
+
+I hope you are having a good day. To escalate this to Microsoft, could you please confirm or provide the following information:
+POC: Jackie Woolley
+Email: JWoolley@manchetek.com
+Phone: 646.431.9428
+Business Hours or 24/7
+Preferred Method of Contact:
+Additional Contacts:
+
+Regards,
+Darren
+Creation date: 2022-09-27 17:26:22 comments: Regards.
+I have provided the information below.
+
+ Email or text communication is preferred if feasible, unless I am notified in advance about the scheduled call.
+Regards
+Creation date: 2022-09-27 18:03:09 comments: Hello Woolley,
+
+We have escalated this issue to Microsoft. Once a Microsoft analyst has been assigned to the case, we will transfer it to our vendor assistance team. They will be responsible for facilitating communication with Microsoft and providing further assistance.
+
+Regards,
+Darren
+Creation date: 2022-09-27 18:03:09 work_notes: VA: A Microsoft case with ID 2209270010004316 has been created with a severity level of B. The case is currently in an open status and no Microsoft analyst has been assigned yet. Additionally, the partner is not listed as an additional contact on the case.
+
+Overview:
+- Severity: B
+- Status: Open
+- Support request ID: 2209270010004316
+- Created on: Mon, Sep 26, 2022, 11:59:30 PM
+- Created by: Darren Kim
+- Contact method: Email: dkim@cloudspace.com
+- Support plan: Premier
+- Advanced Diagnostic information: Access has been granted.
+
+
+POC: Jackie Woolley
+Email: JWoolley@manchetek.com
+Phone: 646.431.9428
+
+Client (Issue details)
+Mon, Sep 26, 2022, 11:59:30 PM
+
+As you can see in the screenshot below, I am consistently encountering the same error, regardless of how many times I deploy a fresh VM. 
+
+Here are a few important points:
+1. I have reinstalled a fresh instance of Server 2022 on Azure multiple times in my efforts to troubleshoot the issue myself.
+2. I have installed all Windows updates to ensure I have the latest version of Windows Admin Centre.
+3. I have followed all the guides available on the internet, including the articles mentioned below.
+4. I have extensively searched for information on SMB over QUIC, but couldn't find any mention of this specific error. It seems that not many people have experimented with this feature.
+5. I have used valid certificates from Dreamhost and even attempted to create an internet certificate authority, following a video tutorial precisely.
+6. After exhausting all my options, I have decided to seek assistance from Microsoft.
+
+https://learn.microsoft.com/en-us/windows-server/storage/file-server/smc-over-quic
+
+https://techcommunity.microsoft.com/t6/storage-at-microsoft/smb-over-quic-is-ga-and-we-have-lots-of-news/ba-p/2928696
+
+Problem start date and time
+Sun, Sep 25, 2022, 11:00 AM (UTC-04:00) Eastern Time (US & Canada)
+Creation date: 2022-09-30 18:39:26 work_notes: Hi Okany,
+
+I hope you are doing well. Upon reviewing your request, I noticed that the partner was not added during the key creation process. I have now added them accordingly.
+
+Please @Wjackiet@manchetek.com let us know the most convenient time for you to connect and discuss further details.
+
+
+Regards,
+
+From: Okany Summer (SILVERGATE LLC) <v-summerokany@microsoft.com> 
+Sent: Thursday, September 29, 2022 10:57 AM
+To: Darren Kim <dkim@cloudspace.com>; Ben Cain<bcain@microsoft.com>; Microsoft Support <help@microsoft.com>
+Cc: Microsoft Support <help@microsoft.com>; Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@cloudspace.com>; Mable Villarreal <mvillarreal@cloudspace.com>; Jane Winter <jwinter@cloudspace.com>
+Subject: [External] RE: [PAX4584996] Encountering an error while enabling SMB over QUIC. -... - TrackingID#2209270010004316- 3x mail
+
+Hello Darren, 
+  
+I hope this message finds you well. 
+
+I have been unable to reach you for the past couple of days and I am curious to know if your issue has been resolved or not. 
+
+If you still require assistance, please send us an email so that we can promptly address your needs according to your convenience.
+
+
+Regards,
+Okany Summer
+Creation date: 2022-09-30 18:39:44 work_notes: The case was overlooked as it was assigned and remained in a pending state.
+Creation date: 2022-10-07 19:20:49 work_notes: Awaiting an update from Microsoft after the meeting held on Tue 
+Creation date: 2022-10-13 16:16:57 work_notes: Hi all,
+
+I hope you are having a great day. I have not received any updates regarding the progress of this case. Could you please provide me with the current status?
+
+Thanks!
+
+ 
+
+ Jane Winter
+
+
+Help Desk Admin I
+
+(855) 884 7299
+
+
+cloudspace.com
+Creation date: 2022-10-13 17:17:20 work_notes: Hi Jane,
+
+Thanks for getting back to us.
+
+We are currently awaiting a response from Jackie regarding the case. 
+
+Please inform us of the next course of action that needs to be taken. If there is any assistance required, kindly let us know.
+
+
+Regards,
+Okany Summer
+Support Analyst || Windows Networking Analyst                           v-summerokany@microsoft.com 
+Client Service & Support                                                                      Mon   Fri 10:00am to 07:30pm EST
+ 
+Technical Advisor: Freda Tran |  v-fretr@microsoft.com  ||    Mon-Fri 5:30PM to 03:00 AM IST
+Backup analyst : Eric Mar | v-ermar@microsoft.com ||   Tues to Sat 8:00 AM to 5:30PM EST
+Supervisor : Margarito Baxter | v-margaritobx@microsoft.com  ||   8:00 AM to 5:30 PM EST 
+   
+Require assistance outside of my regular working hours? 
+
+Feel free to reach out to Premier Support at +1-800-947-3101 to connect with the next available analyst.
+
+
+From: Okany Summer (SILVERGATE LLC)
+Sent: Wednesday, October 12, 2022 8:08 PM
+To: Jackie Woolley <JWoolley@manchetek.com>
+Cc: Microsoft Support <help@microsoft.com>; support@mailbox.support.microsoft.com; Ben Cain <bcain@microsoft.com>; Elliott Eliason <elliotteliason@microsoft.com>
+Subject: RE: [PAX4584996] Encountering an error while enabling SMB over QUIC. -... - TrackingID#2209270010004316- 3x mail 
+
+Hi Jackie,
+
+I hope this email finds you in good health.
+
+ I have attempted to contact you for the past few days but have not received a response. I am curious to know if the issue has been resolved or if you still require assistance. 
+
+If you need further support, please feel free to send an email and we will be happy to assist you at your convenience.
+
+Regards,
+Okany Summer
+Support Analyst || Windows Networking Analyst                           v-summerokany@microsoft.com 
+Client Service & Support                                                                      Mon   Fri 10:00am to 07:30pm EST
+ 
+Technical Advisor: Freda Tran |  v-fretr@microsoft.com  ||    Mon-Fri 5:30PM to 03:00 AM IST
+Backup analyst : Eric Mar | v-ermar@microsoft.com ||   Tues to Sat 8:00 AM to 5:30PM EST
+Supervisor : Margarito Baxter | v-margaritobx@microsoft.com  ||   8:00 AM to 5:30 PM EST 
+   
+Require assistance outside of my regular working hours? 
+
+Feel free to reach out to Premier Support at +1-800-947-3101 to connect with the next available analyst.
+
+ 
+ 
+     
+
+From: Okany Summer ((SILVERGATE LLC)) 
+Sent: Monday, October 10, 2022 2:08 AM
+To: Jackie Woolley <JWoolley@manchetek.com>
+Cc: Microsoft Support <help@microsoft.com>; support@mailbox.support.microsoft.com
+Subject: RE: [PAX4584996] Encountering an error while enabling SMB over QUIC. -... - TrackingID#2209270010004316- 
+
+Hi Jackie,
+
+I hope this email finds you in good health.
+
+Please follow up on the previous email if there are any updates. 
+
+If you have any further concerns, please let us know and we will be happy to assist you.
+
+Regards,
+Okany Summer
+Support Analyst || Windows Networking Analyst                           v-summerokany@microsoft.com 
+Client Service & Support                                                                      Mon   Fri 10:00am to 07:30pm EST
+ 
+Technical Advisor: Freda Tran |  v-fretr@microsoft.com  ||    Mon-Fri 5:30PM to 03:00 AM IST
+Backup analyst : Eric Mar | v-ermar@microsoft.com ||   Tues to Sat 8:00 AM to 5:30PM EST
+Supervisor : Margarito Baxter | v-margaritobx@microsoft.com  ||   8:00 AM to 5:30 PM EST 
+   
+Require assistance outside of my regular working hours? 
+
+Feel free to reach out to Premier Support at +1-800-947-3101 to connect with the next available analyst.
+ 
+     
+
+
+From: Okany Summer (SILVERGATE LLC)
+Sent: Friday, October 7, 2022 1:05 AM
+To: Jackie Woolley <JWoolley@manchetek.com>
+Cc: Microsoft Support <help@microsoft.com>; support@mailbox.support.microsoft.com
+Subject: RE: [PAX4584996] Encountering an error while enabling SMB over QUIC. -... - TrackingID#2209270010004316- 
+
+Hi Jackie,
+
+Following up on below email if there is any update.
+
+Please let us know in case of further concerns we'd be glad to assist you.
+
+
+Regards,
+Okany Summer
+Support Analyst || Windows Networking Analyst                           v-summerokany@microsoft.com 
+Client Service & Support                                                                      Mon   Fri 10:00am to 07:30pm EST
+ 
+Technical Advisor: Freda Tran |  v-fretr@microsoft.com  ||    Mon-Fri 5:30PM to 03:00 AM IST
+Backup analyst : Eric Mar | v-ermar@microsoft.com ||   Tues to Sat 8:00 AM to 5:30PM EST
+Supervisor : Margarito Baxter | v-margaritobx@microsoft.com  ||   8:00 AM to 5:30 PM EST 
+   
+Require assistance outside of my regular working hours? 
+
+Feel free to reach out to Premier Support at +1-800-947-3101 to connect with the next available analyst.
+ 
+     
+
+
+
+
+From: Okany Summer (SILVERGATE LLC)
+Sent: Tuesday, October 6, 2022 11:31 AM
+To: Jackie Woolley <JWoolley@manchetek.com>
+Cc: Microsoft Support <help@microsoft.com>; support@mailbox.support.microsoft.com
+Subject: RE: [PAX4584996] Encountering an error while enabling SMB over QUIC. -... - TrackingID#2209270010004316- 
+
+Hi Jackie, 
+
+Issue: Configuration of SMB over QUIC is failing
+Error: Unable to configure SMB over QUIC
+Cause: Not applicable
+Troubleshooting Summary:
+- Attempted to install the SMB over QUIC feature on a Server 2022 VM
+- Verified that all necessary certificates for SMB over QUIC were present and correct
+- Windows Server 2022 Data Centre Azure edition is being utilized
+- Ensured that UDP 443 traffic is allowed from the Azure portal
+- However, the configuration of SMB over QUIC continues to fail
+- The error received is: "Could not configure SMB over QUIC. Remote exception: Cannot create a file when the file already exists"
+- Attempted to resolve the issue by uninstalling and reinstalling the Windows Admin Centre and properly configuring SMB over QUIC, but the problem persists
+- Tried the same configuration on different machines, but encountered the same error message
+- Manual configuration also resulted in the same error message
+- Informed the client that additional time is required to research the issue, as this is a new implementation
+- Research is needed before proceeding further. 
+
+Next steps:
+As we discussed on the call, please provide us with the Procmon log and network trace for further analysis. To capture the network trace, please use the network monitoring tool.
+
+Here are the steps to follow:
+1. Start Procmon.
+2. Start the network trace.
+3. Reproduce the issue (e.g., create a share, click configure, click enable).
+4. Stop Procmon.
+5. Stop the network trace.
+
+Please find the links below to download the required tools:
+- Procmon: Windows Sysinternals | Microsoft Learn
+- Download Microsoft Network Monitor 3.4 (archive) from the official Microsoft Download Center.
+
+After capturing the logs, please upload the files to the designated workspace. 
+ 
+
+File Transfer - Case 2209270010004316
+dkim@cloudspace.com
+
+Additional Information: 
+Na
+
+Reference: 
+NA
+
+
+
+Regards,
+Okany Summer
+Support Analyst || Windows Networking Analyst                           v-summerokany@microsoft.com 
+Client Service & Support                                                                      Mon   Fri 10:00am to 07:30pm EST
+ 
+Technical Advisor: Freda Tran |  v-fretr@microsoft.com  ||    Mon-Fri 5:30PM to 03:00 AM IST
+Backup analyst : Eric Mar | v-ermar@microsoft.com ||   Tues to Sat 8:00 AM to 5:30PM EST
+Supervisor : Margarito Baxter | v-margaritobx@microsoft.com  ||   8:00 AM to 5:30 PM EST 
+   
+Require assistance outside of my regular working hours? 
+
+Feel free to reach out to Premier Support at +1-800-947-3101 to connect with the next available analyst.
+
+
+From: Okany Summer (SILVERGATE LLC)
+Sent: Wednesday, October 5, 2022 10:52 PM
+To: Jackie Woolley <JWoolley@manchetek.com>
+Cc: Microsoft Support <help@microsoft.com>; support@mailbox.support.microsoft.com
+Subject: RE: [PAX4584996] Encountering an error while enabling SMB over QUIC. -... - TrackingID#2209270010004316- 
+
+Hi Jackie,
+
+As discussed, I am providing you with a copy of our scope agreement for your issue.
+
+Issue definition: Configuration failure of SMB over QUIC
+
+Scope agreement:
+
+BreakFix:
+
+We will handle the case until it is resolved or meets any of the following conditions:
+
+1. We provide a workaround that addresses your business needs.
+2. We determine that the configuration you are attempting is not supported by Microsoft.
+3. The issue you are experiencing is determined to be a "by design" behavior.
+4. The problem is identified to be caused by a non-Microsoft component, third-party, or custom code.
+5. If you disagree with the defined scope or wish to make changes, please inform me promptly. Should you have any questions or require any further consent, feel free to reach out.
+
+We will now work together to resolve your issue. If you disagree with the defined scope or wish to make changes, please inform me promptly. Should you have any questions or require any further consent, feel free to reach out.
+
+Regards,
+Okany Summer
+Support Analyst || Windows Networking Analyst                           v-summerokany@microsoft.com 
+Client Service & Support                                                                      Mon   Fri 10:00am to 07:30pm EST
+ 
+Technical Advisor: Freda Tran |  v-fretr@microsoft.com  ||    Mon-Fri 5:30PM to 03:00 AM IST
+Backup analyst : Eric Mar | v-ermar@microsoft.com ||   Tues to Sat 8:00 AM to 5:30PM EST
+Supervisor : Margarito Baxter | v-margaritobx@microsoft.com  ||   8:00 AM to 5:30 PM EST 
+   
+Require assistance outside of my regular working hours? 
+
+Feel free to reach out to Premier Support at +1-800-947-3101 to connect with the next available analyst.
+
+ 

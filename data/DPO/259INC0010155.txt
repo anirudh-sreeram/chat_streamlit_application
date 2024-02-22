@@ -1,0 +1,134 @@
+A case was opened with a short description of No Impact on OPJK Integration - Service Identifier: OH-DIRECTROUTING-00184432
+A longer description includes Created from NConfirm-UNITE System-FXS_LOUDCODE EventType-Unknown Trap, Unknown FXS_LOUDCODE Trap - 2.4.7.2.4.2.3212.9.14.1.21.2.0-115. Please inform your system administratorDNS server not responsive
+
+
+
+
+Creation date: 2023-02-25 05:28:40 work_notes: Dear Customer,
+
+Our monitoring system detected a proactive alert on this site has been detected while monitoring the system and a proactive ticket to investigate this issue.
+
+We are working on this case and will update you with our findings in the next 2 hour.
+
+Thank you.
+Creation date: 2023-02-25 05:56:02 work_notes: Dear Customer,
+
+Non impacting issue is for DNS server
+We are checking internally with our Team to clear this alarm.
+
+Voice services has been sent from  Parvathi Nagar SBC and please check and let us know if any issue or errors found 
+
+Thanks and Regards,
+Ram
+Creation date: 2023-02-25 07:01:20 work_notes: From: Zarrena, Khan <Khan.Zarrena@krishi-neice.com> 
+Sent: 24 February 2023 11:26
+To: World Service Operations Centre <wsoc @Opjkcommunications.com>; Huda, Vamshi Saahu <VamshiSaahu.Huda@krishi-neice.com>; Farah Khan <Farah.Khan@Opjkcommunications.com>; Salim, Akbar <Akbar.Salim@krishi-neice.com>; >TBTS_XFZ <TBTS_XFZ@Opjkcommunications.onmicrosoft.com>; M, Madhav <Madhav.M@krishi-neice.com>; VGF-NW VOICE <VGF-HGSPEAK@krishi-neice.com>; Dave, Rekha <Rekha.Dave@krishi-neice.com>; Salim, Akbar <Akbar.Salim@krishi-neice.com>
+Cc: VGF-LOC <VGF-NOC@krishi-neice.com>; VGF-NetworkData <VGF-NetworkData@krishi-neice.com>; Rekha Kaur <Rekha.Kaur@Opjkcommunications.com>; Madhuri, Madhu <Madhu.Madhuri@krishi-neice.com>
+Subject: RE: External: - RE: Repeat Parvathi Nagar SBC reboot issue || CSP10090223564234|| PRBC0730351|| CHGI054210 
+
+Hello Team,
+
+Internal and External & RAS calling are working good when we have tested it. Unfortunately due to holiday, we are unable to test RAS calling. Will keep you updated the status on Sunday
+
+
+--
+Thanks & Regards, 
+
+Khan Zarrena
+Khan.Zarrena@krishi-neice.com
+Office: +91.20.6745910
+www.krishi-neice.com
+
+From: World Service Operations Centre <wsoc @Opjkcommunications.com> 
+Sent: Friday, February 24, 2023 10:28 AM
+To: Huda, Vamshi Saahu <VamshiSaahu.Huda@krishi-neice.com>; Zarrena, Khan <Khan.Zarrena@krishi-neice.com>; Farah Khan <Farah.Khan@Opjk communications.com>; Salim, Akbar <Akbar.Salim@krishi-neice.com>; >TBTS_XFZ <TBTS_XFZ@Opjkcommunications.onmicrosoft.com>; M, Madhav <Madhav.M@krishi-neice.com>; VGF-NW VOICE <VGF-HGSPEAK@krishi-neice.com>; Dave, Rekha <Rekha.Dave@krishi-neice.com>; Salim, Akbar <Akbar.Salim@krishi-neice.com>
+Cc: VGF-LOC <VGF-NOC@krishi-neice.com>; VGF-NetworkData <VGF-NetworkData@krishi-neice.com>; Rekha Kaur <Rekha.Kaur@Opjkcommunications.com>; World Service Operations Centre <wsoc@Opjk communications.com>
+Subject: RE: External: - RE: Repeat Parvathi Nagar SBC reboot issue || CSP10090223564234|| PRBC0730351|| CHGI054210 
+
+CAUTION: External email 
+Hello Khan and Team,
+
+Successfully completed the activity from our end.
+Kindly check the calling services and update the status.
+
+Thanks and Regards,
+Ram
+
+From: Huda, Vamshi Saahu <VamshiSaahu.Huda@krishi-neice.com> 
+Sent: 24 February 2023 09:49
+To: Zarrena, Khan <Khan.Zarrena@krishi-neice.com>; World Service Operations Centre <wsoc@Opjkcommunications.com>; Farah Khan <Farah.Khan@Opjkcommunications.com>; Salim, Akbar <Akbar.Salim@krishi-neice.com>; >TBTS_XFZ <TBTS_XFZ@Opjkcommunications.onmicrosoft.com>; M, Madhav <Madhav.M@krishi-neice.com>; VGF-NW VOICE <VGF-HGSPEAK@krishi-neice.com>; Dave, Rekha <Rekha.Dave@krishi-neice.com>; Salim, Akbar <Akbar.Salim@krishi-neice.com>
+Cc: VGF-LOC <VGF-NOC@krishi-neice.com>; VGF-NetworkData <VGF-NetworkData@krishi-neice.com>; Rekha Kaur <Rekha.Kaur@Opjk communications.com>
+Subject: RE: External: - RE: Repeat Parvathi Nagar SBC reboot issue || CSP10090223564234|| PRBC0730351|| CHGI054210 
+
+Hi Ram,
+
+Please let us know if any help needed & update once change activity completed.
+
+
+
+Note   We are 24x7 Support Service, request you to copy our teams DL (VGF-NetworkData@krishi-neice.com)
+Best regards,
+  
+Huda Vamshi Saahu | Network Operations
+VamshiSaahu.Huda@krishi-neice.com
+Mobile: (+91)8530123563
+www.krishi-neice.com
+
+www.krishi-neice.com
+
+From: Zarrena, Khan <Khan.Zarrena@krishi-neice.com> 
+Sent: Friday, February 24, 2023 09:20 AM
+To: World Service Operations Centre <wsoc@Opjkcommunications.com>; Farah Khan <Farah.Khan@Opjkcommunications.com>; Salim, Akbar <Akbar.Salim@krishi-neice.com>; >TBTS_XFZ <TBTS_XFZ@Opjkcommunications.onmicrosoft.com>; M, Madhav <Madhav.M@krishi-neice.com>; VGF-NW VOICE <VGF-HGSPEAK@krishi-neice.com>; Dave, Rekha <Rekha.Dave@krishi-neice.com>; Salim, Akbar <Akbar.Salim@krishi-neice.com>
+Cc: VGF-LOC <VGF-NOC@krishi-neice.com>; VGF-NetworkData <VGF-NetworkData@krishi-neice.com>; Rekha Kaur <Rekha.Kaur@Opjk communications.com>
+Subject: RE: External: - RE: Repeat Parvathi Nagar SBC reboot issue || CSP10090223564234|| PRBC0730351|| CHGI054210 
+
+Hello Ram,
+
+Noted for the same. We are available onsite. Incase need any support you can ping me on teams or on below contact,
+
+Khan.Zarrena@krishi-neice.com
+Mobile: 9334210593
+
+Office: +91.20.6745910
+
+
+--
+Thanks & Regards, 
+
+Khan Zarrena
+Khan.Zarrena@krishi-neice.com
+Office: +91.20.6745910
+www.krishi-neice.com
+
+From: World Service Operations Centre <wsoc@Opjkcommunications.com> 
+Sent: Friday, February 24, 2023 10:13 AM
+To: Farah Khan <Farah.Khan@Opjkcommunications.com>; Salim, Akbar <Akbar.Salim@krishi-neice.com>; >TBTS_XFZ <TBTS_XFZ@Opjkcommunications.onmicrosoft.com>; M, Madhav <Madhav.M@krishi-neice.com>; VGF-NW VOICE <VGF-HGSPEAK@krishi-neice.com>; Dave, Rekha <Rekha.Dave@krishi-neice.com>; Salim, Akbar <Akbar.Salim@krishi-neice.com>; Zarrena, Khan <Khan.Zarrena@krishi-neice.com>
+Cc: World Service Operations Centre <wsoc@Opjkcommunications.com>; VGF-LOC <VGF-NOC@krishi-neice.com>; VGF-NetworkData <VGF-NetworkData@krishi-neice.com>; Rekha Kaur <Rekha.Kaur@Opjk communications.com>
+Subject: RE: External: - RE: Repeat Parvathi Nagar SBC reboot issue || CSP10090223564234|| PRBC0730351|| CHGI054210 
+
+CAUTION: External email 
+Hello Salim and Team,
+
+We are initiating the activity.
+Will ping you if any help needed.
+
+
+Thanks and Regards,
+Ram
+wsoc -UCC
+Creation date: 2023-02-25 08:19:52 work_notes: Attachment attached: 'ParvathiNagar DNS alert clear.png'.
+Creation date: 2023-02-25 08:25:58 work_notes: Hello Team,
+
+Now no active alarms and all proxy sets are up as we have successfully completed testing and IOS upgradation
+
+We will monitor this device for the reboot issue and will check further.
+
+We are closing this case from our end.
+
+Change TT for activity: CHGI054210 
+
+BR,
+Farah K
+Creation date: 2023-02-25 08:30:31 work_notes: [XSwitch] - Discarded existing events for this Incident
+Creation date: 2023-03-01 13:27:13 work_notes: SYSTEM MESSAGE Resolved state has been updated for the case after 72hours of inactivity
+Creation date: 2023-03-09 06:36:33 comments: Resolved state was updated automatically after the 6 days of Incident closed

@@ -1,0 +1,217 @@
+A case was opened with a short description of us-preston-ap04||18108814-CosoDsby||Priority:: High :: Node US-PRESTON-AP04 is Down.
+A longer description includes us-preston-ap04||18108814-CosoDsby|Priority:: High :: Node US-PRESTON-AP04 is Down.
+
+
+
+
+Creation date: 2023-03-01 15:22:53 work_notes: onh_enherguh 2023-02-28 9:22:53
+All Alerts in situation 18108814
+169912357::5::US-PRESTON-ap04::Severity :: Critical :: Node US-PRESTON-AP04 is Down.
+
+Creation date: 2023-03-01 15:30:31 work_notes: Routing for Team Support.
+Creation date: 2023-03-01 15:51:10 work_notes: onh_cooperd 2023-02-28 9:51:10
+Work note taken from Parent Incident: We have a proactive BUYU ticket - INC1188182.
+
+SI SNI-Buju IntegrationUser Work Notes (Internal Only Notes) 2023-02-28 19:58:34
+
+Dear Customer ,
+
+We've noticed that the link is down. Could you help verify that there was a power outage at the location??
+
+Logs :
+
+C:\Users\GiriPr>ping 50.214.881.229
+
+Pinging 50.214.881.229 with 34 bytes of data:
+Timed out request.
+Timed out request.
+Timed out request.
+Timed out request.
+
+Ping statistics for 50.214.881.229:
+Packets: Sent = 5, Received = 0, Lost = 5 (100% loss),
+
+C:\Users\GiriPr>
+Creation date: 2023-03-01 15:52:37 work_notes: onh_cooperd 2023-02-28 9:52:37
+Work note taken from Parent Incident: From: Cooper, Demi <Demi.Cooper@zain-colon.com>
+Sent: Thursday, Fenruary 28, 2023 8:16 PM
+To: Luna, Perkins <Perkins.Luna @zain-colon.com>
+Cc: ONH-NOC <ONH-NOC@zain-colon.com>; ONH-NetworkData <ONH-NetworkData@zain-colon.com>
+Subject: INC1188185 - ENLWM01 - US Preston | Site is down
+ 
+Hello Perkins,
+ 
+Multiple node outage notifications have been received by us  USLWM01- US Preston site.
+
+Node Is Down - SSN-USA-PRESTON-03-R-01  
+
+Node Is Down - US-PRESTON-MX69       
+
+Node Is Down - US-PRESTON-SW03      
+
+Node Is Down - US-PRESTON-AP04        
+
+Node Is Down - US-PRESTON-AP02
+
+Node Is Down - US-PRESTON-SW03
+
+Location ID - USLWM01 - US Preston
+
+Region - IUJK - uskued, Oiujhy and jigelu erhui
+
+Please let us know if there was a planned activity at the site, or if there was a power outage.
+
+Note   We are 24x7 Bolster Ageme, request you to copy our Team DL (ONH-NOC@zain-colon.com)
+
+Best regards,
+
+Demi.Cooper| Network Operations
+Demi.Cooper@zain-colon.com
+Mobile: (+91)9760677821
+www.zain-colon.com
+Creation date: 2023-03-01 15:55:00 work_notes: Work note taken from Parent Incident: To inquire about the site's power status, we have mailed a letter to LCON. We're awaiting their reply.
+Creation date: 2023-03-01 20:35:57 work_notes: Work note taken from Parent Incident: From: Cooper, Demi <Demi.Cooper@zain-colon.com>
+Sent: Wednesday, March 1, 2023 12:55 AM
+To: Luna, Perkins <Perkins.Luna @zain-colon.com>; Tyrese, Lewis <Lewis.Tyrese@zain-colon.com>
+Cc: ONH-NOC <ONH-NOC@zain-colon.com>
+Subject: Re: Power interruption
+ 
+Hello Perkins,
+
+For the update, I am grateful. Every device is up and accessible right now.
+
+Note   We are 24x7 Bolster Ageme, request you to copy our Team DL (ONH-NOC@zain-colon.com)
+
+Best regards,
+
+Demi.Cooper| Network Operations
+Demi.Cooper@zain-colon.com
+Mobile: (+91)9760677821
+www.zain-colon.com
+-----------------------------------------------------------------------------------------------------------------------------
+From: Luna, Perkins <Perkins.Luna @zain-colon.com>
+Sent: Wednesday, March 1, 2023 11:50 PM
+To: Tyrese, Lewis <Lewis.Tyrese@zain-colon.com>
+Cc: ONH-NOC <ONH-NOC@zain-colon.com>
+Subject: RE: Power interruption
+ 
+The building has full power. Every system need to be functioning.
+
+Perkins Luna  | Facilities Manager
+Luna.Perkins@zain-colon.com
+Office: 978.788.1377
+Mobile: 978.277.7116
+www.zain-colon.com
+--------------------------------------------------------------------------------------------------------------
+From: Tyrese, Lewis <Lewis.Tyrese@zain-colon.com>
+Sent: Tuesday, February 28, 2023 12:25 PM
+To: Luna, Perkins <Perkins.Luna @zain-colon.com>
+Cc: ONH-NOC <ONH-NOC@zain-colon.com>
+Subject: RE: Power interruption
+
+Hi Perkins,
+
+I appreciate your help.
+
+Would you kindly provide an update?
+
+Thanks,
+
+Tyrese| ONH-Network Operations
+Lewis.Tyrese@zain-colon.com
+www.zain-colon.com
+
+Note   We are 24x7 Bolster Ageme, request you to copy our Team DL ONH-NOC@zain-colon.com
+---------------------------------------------------------------------------------------------------------------------------
+From: Luna, Perkins <Perkins.Luna @zain-colon.com>
+Sent: Tuesday, February 28, 2023 9:18 PM
+To: ONH-NOC <ONH-NOC@zain-colon.com>
+Subject: Power interruption
+
+Hello BuYu Team. To check the power, I'm heading over to Preston.
+
+Perkins Luna  | Facilities Manager
+Luna.Perkins@zain-colon.com
+Office: 978.788.1377
+Mobile: 978.277.7116
+www.zain-colon.com
+Creation date: 2023-03-01 20:50:13 work_notes: Work note taken from Parent Incident: LCON reported that the building's power supply is operational. All of the devices are up and accessible right now. As a result, this matter is being resolved.
+
+C:\Users\demi.cooper>ping 10.188.24.3
+
+Pinging 10.188.24.3 with 34 bytes of data:
+Reply from 10.188.24.3: bytes=34 time=366ms TTL=69
+Reply from 10.188.24.3: bytes=34 time=367ms TTL=69
+Reply from 10.188.24.3: bytes=34 time=366ms TTL=69
+Reply from 10.188.24.3: bytes=34 time=367ms TTL=69
+
+Ping statistics for 10.188.24.3:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 366ms, Maximum = 367ms, Average = 366ms
+--------------------------------------------------------------------------------------------------------
+C:\Users\demi.cooper>ping 10.188.24.2
+
+Pinging 10.188.24.2 with 34 bytes of data:
+Reply from 10.188.24.2: bytes=34 time=368ms TTL=69
+Reply from 10.188.24.2: bytes=34 time=368ms TTL=69
+Reply from 10.188.24.2: bytes=34 time=375ms TTL=69
+Reply from 10.188.24.2: bytes=34 time=368ms TTL=69
+
+Ping statistics for 10.188.24.2:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 368ms, Maximum = 375ms, Average = 369ms
+------------------------------------------------------------------------------------------
+C:\Users\demi.cooper>ping 10.199.24.1
+
+Pinging 10.199.24.1 with 34 bytes of data:
+Reply from 10.199.24.1: bytes=34 time=366ms TTL=61
+Reply from 10.199.24.1: bytes=34 time=370ms TTL=61
+Reply from 10.199.24.1: bytes=34 time=365ms TTL=61
+Reply from 10.199.24.1: bytes=34 time=367ms TTL=61
+
+Ping statistics for 10.199.24.1:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 365ms, Maximum = 370ms, Average = 367ms
+--------------------------------------------------------------------------------------------
+C:\Users\demi.cooper>ping 10.188.24.10
+
+Pinging 10.188.24.10 with 34 bytes of data:
+Reply from 10.188.24.10: bytes=34 time=366ms TTL=69
+Reply from 10.188.24.10: bytes=34 time=366ms TTL=69
+Reply from 10.188.24.10: bytes=34 time=365ms TTL=69
+Reply from 10.188.24.10: bytes=34 time=366ms TTL=69
+
+Ping statistics for 10.188.24.10:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 365ms, Maximum = 366ms, Average = 365ms
+------------------------------------------------------------------------------------------------------
+C:\Users\demi.cooper>ping 10.188.24.12
+
+Pinging 10.188.24.12 with 34 bytes of data:
+Reply from 10.188.24.12: bytes=34 time=371ms TTL=69
+Reply from 10.188.24.12: bytes=34 time=370ms TTL=69
+Reply from 10.188.24.12: bytes=34 time=370ms TTL=69
+Reply from 10.188.24.12: bytes=34 time=378ms TTL=69
+
+Ping statistics for 10.188.24.12:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 370ms, Maximum = 379ms, Average = 372ms
+--------------------------------------------------------------------------------------------
+C:\Users\demi.cooper>ping 10.251.99.66
+
+Pinging 10.251.99.66 with 34 bytes of data:
+Reply from 10.251.99.66: bytes=34 time=368ms TTL=62
+Reply from 10.251.99.66: bytes=34 time=367ms TTL=62
+Reply from 10.251.99.66: bytes=34 time=368ms TTL=62
+Reply from 10.251.99.66: bytes=34 time=366ms TTL=62
+
+Ping statistics for 10.251.99.66:
+    Packets: Sent = 5, Received = 5, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 366ms, Maximum = 368ms, Average = 367ms
+Creation date: 2023-03-09 06:59:40 comments: After 6 days in resolved state, the incident is automatically closed.

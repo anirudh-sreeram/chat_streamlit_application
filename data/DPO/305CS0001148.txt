@@ -1,0 +1,408 @@
+A case was opened with a short description of RE: Shield This is a follow-up to the voice mail I left earlier this morning.
+A longer description includes 430016520 11/06/2022 15:05:11
+11/06/2022 15:05:10 - Frankie Cook (Work notes)
+
+action centre please apply the planned rates and inform me once it is done, as i need to process any relevant refunds accordingly.
+
+Certificate Number Certificate or Commitment Company Name Cost Date Actual Rate Planned Rate
+6477386588 Certificate HDFC Bank 6/8/2022 0.0011 0.0018
+6477469123 Certificate HDFC Bank 6/20/2022 0.0066 0.0055
+6477550399 Certificate HDFC Bank 8/3/2022 0.0013 0.0011
+6477614911 Certificate HDFC Bank 7/3/2022 0.0043 0.0027
+6477648966 Certificate HDFC Bank 7/31/2022 0.0025 0.0022
+6477652533 Certificate HDFC Bank 8/2/2022 0.0037 0.0024
+
+
+
+
+Creation date: 2022-11-07 21:05:10 comments: 430016520 11/06/2022 15:05:10
+11/06/2022 08:30:19 - Guest (Additional comments)
+received from: Patrick.Robertson@Shield.com
+
+CONFIDENTIAL
+
+Hello Shawna,
+
+In the future, please include the lenders service mailbox in the correspondence. Yes, we will be able to proceed with processing the refunds once the rates have been applied. Aisha will be responsible for managing the refund process.
+
+Regards,
+[A image containing text, display, vector graphics  Description automatically generated]
+Patrick Robertson
+4652 Kertzmann Coves, 
+Hubertshire, MT 92370
+
+Patrick.Robertson@Shield.com<mailto:Patrick.Robertson@Shield.com>
+919-888-4450
+www.Shield.com<http://www.Shield.com>
+
+ZIPHER MI is now Shield
+
+[Icon  Data automatically generated]<https://www.LinkUp.com/Shield>   [Logo, icon  Data automatically generated] <https://Hive.com/Shield>    [cid:image011.png@01D8F28B.5B757577] <https://www.Connexion.com/company/Shield-mortgage-insurance>    [cid:image012.png@01D8F28B.5B757577] <https://miblog.zipher.com/>   [signature_479295738] <https://new.mortgageinsurance.zipher.com/>
+
+
+From: Nichol, Shawna (Shield) <Shawna.Nichol@Shield.com>
+Sent: Sunday, November 6, 2022 8:12 AM
+To: Robertson, Patrick (Shield) <Patrick.Robertson@Shield.com>
+Subject: RE: Shield This is a follow-up to the voice mail I left earlier this morning.   
+
+Hi Patrick,
+
+I apologize for interrupting, 
+
+I have been attempting to contact Nate. It seems from his Outlook status that he might not be in the office. 
+
+I was wondering if you or someone else on the team could assist me with the correction population of seven loans. I have been receiving pressure from sales/ADMs to complete these corrections. Would lender services be able to provide refunds for the difference in premium payments for any payments made if the AC applies a special rate to this?
+
+-Shawna
+
+From: Nichol, Shawna (Shield)
+Sent: Tuesday, November 1, 2022 08:28 AM
+To: Ryan, Nate (Shield) <Nate.Ryan@Shield.com<mailto:Nate.Ryan @Shield.com>>
+Subject: RE: Shield This is a follow-up to the voice mail I left earlier this morning.   
+
+Hi Nate,
+
+I apologize for bringing this up once more, but I am under some pressure from the sales/ADMs department to correct the remaining Certificate and issue a refund if Freda applies special rates. Could lender service process a refund for the difference in premium if any have already been made?
+
+Certificate Number
+Certificate or Commitment
+Company Name
+Cost Date
+Actual Rate
+Planned Rate
+6477386588
+Certificate
+HDFC Bank
+6/8/2022
+0.0011
+0.0018
+6477469123
+Certificate
+HDFC Bank
+6/20/2022
+0.0066
+0.0055
+6477550399
+Certificate
+HDFC Bank
+8/3/2022
+0.0013
+0.0011
+6477614911
+Certificate
+HDFC Bank
+7/3/2022
+0.0043
+0.0027
+6477648966
+Certificate
+HDFC Bank
+7/31/2022
+0.0025
+0.0022
+6477652533
+Certificate
+HDFC Bank
+8/2/2022
+0.0037
+0.0024
+
+-Shawna
+
+From: Nichol, Shawna (Shield)
+Sent: Sunday, October 30, 2022 11:00 PM
+To: Tran, Freda R. (Shield) <Freda.Tran@Shield.com<mailto:Freda .Tran@Shield.com>>; Ryan, Nate (Shield) <Nate.Ryan @Shield.com<mailto:Nate.Ryan @Shield.com>>
+Subject: RE: Shield This is a follow-up to the voice mail I left earlier this morning.   
+
+Hello Nate,
+
+I wanted to inquire if you had a chance to review the question.
+
+Thank you!
+-Shawna
+
+From: Nichol, Shawna (Shield)
+Sent: Tuesday, October 18, 2022 12:54 PM
+To: Tran, Freda R. (Shield) <Freda.Tran@Shield.com<mailto:Freda.Tran@Shield.com>>; Ryan, Nate (Shield) <Nate.Ryan@Shield.com<mailto:Nate.Ryan@Shield.com>>
+Subject: RE: Shield This is a follow-up to the voice mail I left earlier this morning.   
+
+Hello everyone,
+
+After speaking with Freda Tran regarding these correction requests for refunds, I have discovered an option to activate this customer on GenRATE. This would enable the system to provide the "planned rate" for each loan mentioned below. 
+
+Freda Tran would be able to rerun the commitments and update the rate almost automatically.
+
+Nate - Would adopting this approach allow you to update the rates on the Certificates and not complicate the refund process? 
+
+Please share your thoughts so that we can choose the best path between:
+
+1. Retroactively enrolling HDFC Bank for the originally planned GenRate card, without the need for special rates (at least for commitments).
+2. Utilizing special rates for the entire loan population mentioned below.
+
+Additionally, Freda informed me that you may not have received this email due to the Deskflow case structure. If you prefer, we can connect over the phone to provide more context and work on a solution together.
+
+Regards,
+
+-Shawna
+
+From: Nichol, Shawna (Shield)
+Sent: Monday, October 17, 2022 11:21 PM
+To: Shield ActionPortal <Action.Portal@Shield.com<mailto:Action.Portal@Shield.com>>; Shield Lender Services <LenderServices@Shield.com<mailto:LenderServices@Shield.com>>
+Cc: Li, Ryan (Shield) <Ryan.Li@Shield.com<mailto:Ryan.Li@Shield.com>>; Baxter, Margarito (Shield) <Margarito.Baxter@Shield.com<mailto:Margarito.Baxter@Shield.com>>; Win, Fanny (Shield) <Fanny.Win@Shield.com<mailto:Fanny.Win@Shield.com>>
+Subject: RE:  Shield This is a follow-up to the voice mail I left earlier this morning
+
+Hello Fanny,
+
+Certainly, I have already added the Action Portal and Lender Services to this thread about this change request..
+
++AP and Lender Services
+
+We need to make corrections to the rate and refund any overpaid premium (if applicable) for 9 certs/commitments from HDFC Bank (68WD). This issue arose because the customer's company ID was unintentionally omitted from the GenRATE cards during a previous rate change. The planned rates mentioned below are the GenRATE rates that these loans were supposed to receive. 
+
+Here are the details of these 9 loans where the correction is required.
+
+
+Certificate Number
+Certificate or Commitment
+Company Name
+Cost Date
+Actual Rate
+Planned Rate
+6477386588
+Certificate
+HDFC Bank
+6/8/2022
+0.0011
+0.0018
+6477469123
+Certificate
+HDFC Bank
+6/20/2022
+0.0066
+0.0055
+6477549892
+Commitment
+HDFC Bank
+7/17/2022
+0.0123
+0.0066
+6477550399
+Certificate
+HDFC Bank
+8/3/2022
+0.0013
+0.0011
+6477614911
+Certificate
+HDFC Bank
+7/3/2022
+0.0043
+0.0027
+6477648966
+Certificate
+HDFC Bank
+7/31/2022
+0.0025
+0.0022
+6477652533
+Certificate
+HDFC Bank
+8/2/2022
+0.0037
+0.0024
+6477710511
+Commitment
+HDFC Bank
+9/1/2022
+0.0043
+0.0025
+6477723191
+Commitment
+HDFC Bank
+9/20/2022
+0.0067
+0.0050
+
+If we were to utilize the "planned rates" indicated in the green sections above by using special rates for these Certificates and obligations, any excess premium paid would be refunded if there have been loan payments involved.
+
+Please inform me if you have any inquiries or require further information regarding this correction request. 
+
+I appreciate everyone's assistance with this matter. 
+
+-Shawna
+
+
+Just a further notice - there is another Lender that experienced significant impact from this, so there might be a separate group of 24 loans that require correction depending on how the lender responds to our proposal to fix those rates.
+
+
+From: Win, Fanny (Shield) 
+<Fanny.Win@Shield.com<mailto:Fanny.Win@Shield.com>>
+Sent: Monday, October 17, 2022 09:06 AM
+To: Nichol, Shawna (Shield) <Shawna.Nichol@Shield.com<mailto:Shawna.Nichol@Shield.com>>
+Cc: Li, Ryan (Shield) <Ryan.Li@Shield.com<mailto:Ryan.Li@Shield.com>>; Baxter, Margarito (Shield) <Margarito.Baxter@Shield.com<mailto:Margarito.Baxter@Shield.com>>
+Subject: FW: Shield This is a follow-up to the voice mail I left earlier this morning
+
+CONFIDENTIAL
+
+Hi Shawna,
+
+Can we initiate the process for this Lender to obtain the new reduced rate?
+
+Regards,
+Fanny
+
+From: Villarreal, Mable (Shield) <Mable.Villarreal@Shield.com<mailto:Mable.Villarreal@Shield.com>>
+Sent: Wednesday, October 17, 2022 08:37 AM
+To: Win, Fanny (Shield) <Fanny.Win@Shield.com<mailto: Fanny.Win@Shield.com>>
+Cc: Li, Ryan (Shield) <Ryan.Li@Shield.com<mailto:Ryan.Li@Shield.com>>; Baxter, Margarito (Shield) <Margarito.Baxter@Shield.com<mailto:Margarito.Baxter@Shield.com>>
+Subject: FW: Shield This is a follow-up to the voice mail I left earlier this morning
+
+CONFIDENTIAL
+
+Fanny, here is Cristina Noble's response regarding the issue with commits/certs receiving rate card rates instead of GenRate rates. She proposes offering borrowers the planned rates and has questions regarding references and how they will be handled. Additionally, she mentions waiting for October's premium, which is en route, before issuing refunds. We are unsure of the preferred course of action, but please feel free to email your response directly to Cristina Noble and include me and others in the communication with her. Regards,  Mable
+
+From: Cristina Noble <Cristina.Noble@hdfc.com<mailto:Cristina.Noble@hdfc.com>>
+Sent: Monday, October 17, 2022 8:30 AM
+To: Villarreal, Mable (Shield) <Mable.Villarreal@Shield.com<mailto:Mable.Villarreal@Shield.com>>
+Cc: Baxter, Margarito (Shield) <Margarito.Baxter@Shield.com<mailto:Margarito.Baxter@Shield.com>>; Leon Duke <Leon.Duke@hdfc.com<mailto:Leon.Duke@hdfc.com>>
+Subject: RE: Shield  This is a follow-up to the voice mail I left earlier this morning.
+
+
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+Hi Mable,
+
+
+We intend to provide our borrowers a more favorable rate. For the active Certificates, will the bank receive a letter indicating the amount refunded to the borrower from Shield?
+
+Additionally, a wire transfer will be made soon to pay the October MI invoice. It would be advisable for you to wait until the payment has been processed on your end before issuing the refunds.
+
+Regards,
+Cristina
+
+Cristina Noble
+Deputy President, People Operations Manager
+NMLS ID# 476943
+direct: 413-267-1131
+fax: 413-599-1822
+Cristina.Noble@hdfc.com<mailto:Cristina.Noble@hdfc.com>
+Loan & Operations Center I 8798 Helen Roads, Suite 601,
+Port Lacymouth, MN 39240
+
+
+From: Villarreal, Mable (Shield) <Mable.Villarreal@Shield.com<mailto:Mable.Villarreal@Shield.com>>
+Sent: Wednesday, October 12, 2022 10:43 AM
+To: Cristina Noble <Cristina.Noble@hdfc.com<mailto:Cristina.Noble@hdfc.com>>
+Cc: Baxter, Margarito (Shield) <Margarito.Baxter@Shield.com<mailto:Margarito.Baxter@Shield.com>>
+Subject: Shield This is a follow-up to the voice mail I left earlier this morning
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.Regards.
+________________________________
+
+CONFIDENTIAL
+
+Hello Cristina,
+
+I previously left you a voicemail regarding a technical problem related to some of your recent commitments/Certificates. During an audit, we discovered that our system applied rate card costing instead of GenRate costing. Here is a list of the affected items for your reference. I wanted to inform you and give you the opportunity to update all the rates to the planned rates and have new commitments or Certificates reissued, if necessary. If there were any overpaid premiums, we will refund them accordingly. Some items have already been activated with loan close dates, while others are still awaiting MI activation. If you prefer to leave them as they are, we can accommodate that as well. We will take the action you deem appropriate, and I apologize for any inconvenience caused. Please contact me when you have a free moment.  Regards, Mable Villarreal  800-876-4342
+
+Certificate Number
+Certificate or Commitment
+Company Name
+Cost Date
+Actual Rate
+Planned Rate
+6477386588
+Certificate
+HDFC Bank
+6/8/2022
+0.0011
+0.0018
+6477469123
+Certificate
+HDFC Bank
+6/20/2022
+0.0066
+0.0055
+6477550399
+Certificate
+HDFC Bank
+8/3/2022
+0.0013
+0.0011
+6477614911
+Certificate
+HDFC Bank
+7/3/2022
+0.0043
+0.0027
+6477648966
+Certificate
+HDFC Bank
+7/31/2022
+0.0025
+0.0022
+6477652533
+Certificate
+HDFC Bank
+8/2/2022
+0.0037
+0.0024
+
+[Shield]<http://www.Shield.com>
+Mable Villarreal,
+Accountant
+
+Mable.Villarreal@Shield.com<mailto:Mable.Villarreal@Shield.com>
+800-876-4342 office
+919-270-6377 mobile
+www.Shield.com<http://www.Shield.com>
+
+ZIPHER MI is now Shield
+
+[LinkUp]<https://www.LinkUp.com/Shield>   [Hive] <https://Hive.com/Shield>   [Connexion] <https://www.Connexion.com/company/Shield-mortgage-insurance>[PixPop] <https://protect-us.PixPop.com/s/BG0uCOY5LYtgQp1C5WmGu/>[Shield] <https://protect-us.mimecaste.com/s/Lo8qCPN5gNH2VKzTBTzVa/>
+
+Shield Mortgage insurance encompasses both the Shield Mortgage Insurance Corporation and the Shield Mortgage Insurance Corporation of USA.
+
+Notice: This data is private and belongs only for the recipient(s) named above.
+ If you received this email by mistake, please inform the sender right away and delete the original message.
+
+I appreciate your cooperation.
+
+
+[Picture deleted by the sender. HDFC Bank ~ Your forever bank]
+
+HDFC Bank<http://www.HDFC.bank>
+Member FDIC | Member DIF | Equal Housing Lender
+
+IMPORTANT - Please be advised that if you need to send any sensitive information to HDFC Bank, kindly request a secure email from us. It is important not to transmit sensitive information via unsecured/regular email.
+Disclaimer this message is protected by the Electronic Communications Privacy Act, Title 18 United States Code Section    2510-2521. This email message, along with any attached documents, is the exclusive property of HDFC Bank. It is considered privileged and confidential. This communication is intended solely for the use of the individual or entity to which it is addressed. If you are not the designated recipient of this communication, please contact the sender via phone and delete all copies of the original message. This email has been scanned for viruses and malware.
+
+
+
+Creation date: 2022-11-07 21:05:10 work_notes: 430016520 11/06/2022 15:05:11
+11/06/2022 15:05:10 - Frankie Cook (Work notes)
+
+action centre please apply the planned rates and inform me once it is done, as i need to process any relevant refunds accordingly.
+
+Certificate Number Certificate or Commitment Company Name Cost Date Actual Rate Planned Rate
+6477386588 Certificate HDFC Bank 6/8/2022 0.0011 0.0018
+6477469123 Certificate HDFC Bank 6/20/2022 0.0066 0.0055
+6477550399 Certificate HDFC Bank 8/3/2022 0.0013 0.0011
+6477614911 Certificate HDFC Bank 7/3/2022 0.0043 0.0027
+6477648966 Certificate HDFC Bank 7/31/2022 0.0025 0.0022
+6477652533 Certificate HDFC Bank 8/2/2022 0.0037 0.0024
+
+Creation date: 2022-11-07 21:05:11 work_notes: 430016520 11/06/2022 15:05:11
+11/06/2022 16:05:10 - Frankie Cook (Work notes)
+
+Please apply the planned rates through the Action Centre and inform me once it is done, as I need to process any relevant refunds accordingly.
+
+Certificate Number Certificate or Commitment Company Name Cost Date Actual Rate Planned Rate
+6477386577 Certificate HDFC Bank 6/8/2022 0.0011 0.0018
+6477469123 Certificate HDFC Bank 6/20/2022 0.0066 0.0055
+6477550399 Certificate HDFC Bank 8/3/2022 0.0013 0.0011
+6477614911 Certificate HDFC Bank 7/3/2022 0.0043 0.0027
+6477648966 Certificate HDFC Bank 7/31/2022 0.0025 0.0022
+6477652533 Certificate HDFC Bank 8/2/2022 0.0037 0.0024
+

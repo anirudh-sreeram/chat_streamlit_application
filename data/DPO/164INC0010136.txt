@@ -1,0 +1,98 @@
+A case was opened with a short description of SSN-aus-andrea,-02-r-04||23498621-Windblows||Severity :: Critical :: Node  kintornem-jubkiner-AUS-ANDREA,-02-R-04 is Down.
+A longer description includes kintornem-jubkiner-aus-andrea,-02-r-04||23498621-Windblows||Severity :: Critical :: Node  kintornem-jubkiner-AUS-ANDREA,-02-R-04 is Down.
+
+
+
+
+Creation date: 2023-02-23 02:45:45 work_notes:  Every situational alert 9865423
+9865423::8::ssn-aus-andrea-02-r-04::Severity :: Critical :: Node SSN-AUS- ANDREA-02-R-04 is Down.
+
+Creation date: 2023-02-23 06:10:51 work_notes: It appears the gadgets are now operational and accessible. Based on the logs, there may be a power issue. But I'm still awaiting an answer from OSS on the confirmation. Thus, adding the state "Awaiting user info,"
+
+From: Aishah Harmon
+Sent: Wednesday, February 22, 2023 09:57 AM
+To: Holland, Glenn <gholland@kintornem-jubkiner.com>; Conway, Vinny  VinnyConway@kintornem-jubkiner.com>
+Cc: Ultrablue-NetworkData-lotusgeo <Ultrablue-NetworkData-lotusgeo@ kintornem-jubkiner.com>; Ultrablue-NetworkData-NetworkData <Ultrablue-NetworkData-NetworkData@kintornem-jubkinerr.com>
+Subject: RE: INC5689241 - Devices at the site are down- Andrea, Australia
+
+Hey Team,
+
+The gadgets appear to be operational again. However, based on the logs, we are keeping an eye out for stability and believe there may be a power issue. Could you kindly confirm? 
+
+Regards and thanks.
+
+
+Thanks and Regards,
+  
+Aishah Harmon| Network Operations
+aharmon@kintornem-jubkiner.com
+Mobile: (+91)7789543212
+www.@kintornem-jubkiner.com.com
+
+
+
+From: Aishah Harmon
+Sent: Wednesday, February 22, 2023 8:24 AM
+To: Holland, Glenn <gholland@kintornem-jubkiner.com>; Conway, Vinny  VinnyConway@ kintornem-jubkiner.com>
+Cc: Ultrablue-NetworkDataL-lotusgeo <Ultrablue-NetworkData-lotusgeo@stryker.com>; Ultrablue-NetworkData-NetworkData <Ultrablue-NetworkData-NetworkData@ kintornem-jubkiner.com>
+Subject: INC5689241 - Devices at the site are down- Andrea Australia
+
+Hi Holland/Vinny
+
+We observed that Andrea, Australia's website's devices are presently down by it. If there is a power outage or activity at the location, could you please notify and let us know?
+
+
+
+Thanks and Regards,
+  
+Aishah Harmon| Network Operations
+aharmon@kintornem-jubkiner.com
+Mobile: (+91)7789543212
+www.@kintornem-jubkiner.com.com
+Creation date: 2023-02-23 06:10:54 work_notes: It appears the gadgets are now operational and accessible. Based on the logs, there may be a power issue. But I'm still awaiting an answer from OSS on the confirmation. Thus, adding the state "Awaiting user info,"
+
+From: Aishah Harmon
+Sent: Wednesday, February 22, 2023 9:57 AM
+To: Holland, Glenn <gholland@kintornem-jubkiner.com>; Conway, Vinny  VinnyConway@ kintornem-jubkiner.com>
+Cc: Ultrablue-NetworkData-lotusgeo <Ultrablue-NetworkData-lotusgeo@stryker.com>; Ultrablue-NetworkData-NetworkData <Ultrablue-NetworkData-NetworkData@kintornem-jubkiner.com>
+Subject: RE: INC5689241 - Devices at the site are down- Andrea, Australia
+
+Hey Team,
+
+The gadgets appear to be operational again. However, based on the logs, we are keeping an eye out for stability and believe there may be a power issue. Could you kindly confirm? 
+
+Regards and thanks.
+
+
+Thanks and Regards,
+  
+Aishah Harmon| Network Operations
+aharmon@kintornem-jubkiner
+Mobile: (+91)7789543212
+www.@kintornem-jubkiner.com
+
+
+
+From: Aishah Harmon
+Sent: Wednesday, February 22, 2023 8:24 AM
+To: Holland, Glenn <gholland@kintornem-jubkiner.com>; Conway, Vinny  VinnyConway@ kintornem-jubkiner.com>
+Cc: Ultrablue-NetworkDataL-lotusgeo <Ultrablue-NetworkData-lotusgeo@stryker.com>; Ultrablue-NetworkData-NetworkData <Ultrablue-NetworkData-NetworkData@ kintornem-jubkiner.com>
+Subject: INC5689241 - Devices at the site are down- Andrea Australia
+
+Hi Holland/Vinny
+
+We observed that Andrea, Australia's website's devices are presently down by it. If there is a power outage or activity at the location, could you please notify and let us know?
+
+
+
+Thanks and Regards,
+  
+Aishah Harmon| Network Operations
+aharmon@kintornem-jubkiner.com
+Mobile: (+91)7789543212
+www.@kintornem-jubkiner.com.com
+Creation date: 2023-02-23 07:54:42 work_notes: Number TOMTOM: CSP1235678932  I could see that the gadget is operational.
+Thus, settling
+Creation date: 2023-02-23 07:56:31 work_notes: Existing events for this occurrence have been terminated by [xSwitch]
+
+Creation date: 2023-03-02 06:02:56 comments: After 6 days, the incident is automatically closed as resolved.

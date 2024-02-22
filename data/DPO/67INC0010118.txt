@@ -1,0 +1,57 @@
+A case was opened with a short description of Keeps facing issue saying file is used by a different program
+A longer description includes Keeps facing issue saying file is used by a different program
+
+-please remove Calendly - Scheduling List.csv
+\\cbewnt0219\alteryx\Calendly - Scheduling List.csv
+PD1074
+517-406-7112
+
+
+
+
+
+
+Creation date: 2023-03-31 13:24:16 work_notes: This Incident was raised on behalf of TALIA RAY from CALL0847187
+Creation date: 2023-04-03 21:20:40 comments: From: Fabian Park <Fabian.Park@mcpower.com> 
+Sent: Monday, April 3, 2022 6:20 PM
+To: Talia Ray <TALIA.RAY@mcpower.com>
+Cc: $SAP Unix <$SAPUnix@mcpower.com>; Krishan Doyle<Krishan.Doyle@mcpower.com>; Monty Sherman
+<Monty.Sherman@mcpower.com>
+Subject: INC0948915 || \\cbewnt0219\alteryx\Calendly - Scheduling List.csv Keeps facing issue saying file is used by a different  program
+
+Hi Talia,
+
+I have changed the name of the file "Calendly - Scheduling List.csv" as "Calendly - Scheduling List_bckup3rd April2022" since I don't know how important the file to be removed is beforehand.
+
+Could you please confirm now if this is fine or we have to still remove this file? Thanks!
+
+
+Regards,
+
+Fabian Park
+Creation date: 2023-04-04 12:04:09 comments: From: Fabian Park <Fabian.Park@mcpower.com> 
+Sent: Tuesday, April 4, 2022 9:04 AM
+To: Talia Ray <TAILA.RAY@mcpower.com>
+Cc: $SAP Unix <$SAPUnix@mcpower.com>; Krishan Doyle<Krishan.Doyle@mcpower.com>; Monty Sherman
+<Monty.Sherman@mcpower.com>
+Subject: RE: INC0948915 || \\cbewnt0219\alteryx\iScheduling - Scheduling List.csv Keeps facing issue saying file is used by a different program.
+
+Thanks - Fabian.
+
+
+Regards,
+
+Fabian Park
+
+From: Talia Ray,<TALIA.RAY@mcpower.com> 
+Sent: Tuesday, April 4, 2022 9:02 AM
+To: Fabian Park <Fabian.Ray@mcpower.com>
+Cc: $SAP Unix <$SAPUnix@mcpower.com>; Krishan Doyle<Krishan.Doyle@mcpower.com>; Monty Sherman
+<Monty.Sherman@mcpower.com>
+Subject: RE: INC0948915 || \\cbewnt0219\alteryx\Calendly - Scheduling List.csv Keeps facing issue saying file is used by a different program.
+
+HI Fabian! Thank you  for making the change. I was able to remove the file from the server and now I am closing the ticket. Thanks. 
+
+Talia Ray | Manager, Strategy & Analytics 
+Ops. Performance | Workplan Strategy
+Cell: (517) 318-6672

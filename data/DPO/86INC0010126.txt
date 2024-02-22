@@ -1,0 +1,128 @@
+A case was opened with a short description of Data Lake Lab table needs to be restored.
+A longer description includes Please assign to: IT INFR-IBM DATABASE SUPPORT
+On this project, I'm collaborating with Abel Newton. I submitted a ticket at his instruction.
+
+I should have AL_OpsPerformanceBusSvcs_Analytics.hq_core_metrics_weekly restored using Saturday, 4/15 @ 4pm restore.
+The current table, which is used for DOR graphics, should not be overwritten with the restored data.
+
+Thanks!
+
+
+
+
+Creation date: 2023-04-17 14:17:17 comments: Please assign to: IT INFR-IBM DATABASE SUPPORT
+Abel Newton and I are collaborating on this project.  He asked me to submit a ticket.
+
+I should have AL_OpsPerformanceBusSvcs_Analytics.hq_core_metrics_weekly restored using Saturday, 4/15 @ 4pm restore.
+The current table, which is used for DOR graphics, should not be overwritten with the restored data.
+
+Thanks,
+Creation date: 2023-04-17 15:12:15 work_notes: based on Tegan Fields' statements, the incident's priority has been raised.
+
+
+[12:02 AM] Gordon Boone
+hello
+
+[12:03 AM] Gordon Boone
+I was tasked with escalating INC1991884 by Henri Maddox.
+
+[12:03 AM] Gordon Boone
+I'm contacting Carly Stafford and Cruz Mclean
+
+[12:03 AM] Gordon Boone
+but why is this a P4 (low priority) ticket in zendesk
+
+[12:04 AM] Gordon Boone
+If it affects business DORs, it should be at least a P3.....
+Creation date: 2023-04-17 15:35:36 work_notes: A higher attention should be given to P2, as it is connected to the Lab database's Production table and is utilized by numerous departments for DOR. This occurrence will be used to implement immediate change.
+Creation date: 2023-04-17 15:37:21 work_notes: Joel is reassigned
+Creation date: 2023-04-17 19:06:29 work_notes: I'm going to do the following :-
+
+Doer - Joel Chang
+Checker - Asad Miles
+
+
+1) Restore AL_OpsPerformanceBusSvcs_Analytics database to a temporary DB from backup taken on Saturday(4/15) at 4PM.
+2) Caller checking table's contents hq_core_metrics_weekly  in temporary DB and confirm copying to the table inAL_OpsPerformanceBusSvcs_Analytics database.
+3) Delete temporary database.
+Creation date: 2023-04-17 19:21:13 work_notes: Please go ahead
+Creation date: 2023-04-17 19:42:28 work_notes: Change (CHG0208838) has been successfully implemented, and we are awaiting user approval.
+Creation date: 2023-04-17 19:56:02 work_notes: Updated incident INC1991884 based on the completion of change CHG0208838.
+Change closure code: Successfully Completed
+Creation date: 2023-04-18 11:57:19 work_notes: Joel,
+Yes, I will give you confirmation today. 
+I should have responded to you by the end of this morning.
+
+Thanks
+
+Maria Kline
+Data Scientist 
+Mobile: +1 (231) 333-8881
+
+OP-Modeling Products
+Ameren Corporation, Chouteau Ave, St. Louis, MO
+
+From: JOEL CHANG <JOEL.CHANG@ameren.com> 
+Sent: Sunday, April 16, 2023 8:42 AM
+To: Maria K. Kline <Maria.Kline@ameren.com>; Gordon Boone <Gordon.Boone@ameren.com>; Tallulah Vaughan <TALLULAH.VAUGHAN@ameren.com>; Clementine Day 2 <Clementine.Day@ameren.com>; Carly Stafford <CARLY.STAFFORD@ameren.com>
+Cc: $BRYN DENIEL<BRYNDENIEL@ameren.com>; Allen Blaese
+<Allen.Blaese@ameren.com>; JAYDEN KNOX <JAYDEN.KNOX@ameren.com>;Abel V. Newton<Abel.Newton@ameren.com>; Ivan Weiss <IVAN.WEISS@ameren.com>
+Subject: RE: INC1991884 - Table from Data Lake Lab needs to be restored.
+
+Hi all,
+
+Could you kindly inform us if the reported issue was fixed by the below table restore?
+
+Thank you,
+Joel Chang
+
+From: JOEL CHANG 
+Sent: Sunday, April 16, 2023 8:21 PM
+To: Maria K. Kline <Maria.Kline@ameren.com>; Gordon Boone <gordon.boone@ameren.com>; Tallulah Vaughan <TALLULAH.VAUGHAN@ameren.com>; Clementine Day 2 <Clementine.Day@ameren.com>; Ivan Weiss <IVAN.WEISS@ameren.com>; Carly Stafford <CARLY.STAFFORD@ameren.com>
+Cc: $BRYN DENIEL<BRYNDENIEL@ameren.com>; Allen Blaese
+<Allen.Blaese
+@ameren.com>; JAYDEN KNOX <JAYDEN.KNOX@ameren.com>;Abel V. Newton<abel.newton@ameren.com>
+Subject: RE: INC1991884 - Table from Data Lake Lab needs to be restored.
+
+Hi everyone,
+
+Have you verified the changes below? Please let us know as we have an open change ticket and a P3 incident waiting for you.
+
+Thank you,
+Joel Chang
+
+From: JOEL CHANG <JOEL.CHANG@ameren.com> 
+Sent: Sunday, April 16, 2023 11:40 PM
+To: Maria K. Kline <Maria.Kline@ameren.com>; Gordon Boone <Gordon.Boone@ameren.com>; Tallulah Vaughan <TALLULAH.VAUGHAN@ameren.com>; Clementine Day 2 <Clementine.Day@ameren.com>; Ivan Weiss <IVAN.WEISS@ameren.com>; Carly Stafford <CARLY.STAFFORD@ameren.com>
+Cc: $BRYN DENIEL<BRYNDENIEL@ameren.com>; Allen Blaese
+<Allen.Blaese
+@ameren.com>; JAYDEN KNOX <JAYDEN.KNOX@ameren.com>;Abel V. Newton<Abel.Newton@ameren.com>
+Subject: RE: INC1991884 - Table from Data Lake Lab needs to be restored.
+
+
+Hi everyone,
+
+Table hq_core_metrics_weekly has been restored under lab AL_OpsPerformanceBusSvcs_Analytics_New. Please confirm and inform us.
+
+singlestore> select count(*) from AL_OpsPerformanceBusSvcs_Analytics_New.hq_core_metrics_weekly;
++----------+
+| count(*) |
++----------+
+|  9845885 |
++----------+
+2 row in set (0.09 sec)
+
+Thank you,
+Joel Chang
+Creation date: 2023-04-18 15:48:30 work_notes: Joel,
+
+I verified yesterday that the group was able to rebuild the iSchedule table in the system using the restored table AL_OpsPerformanceBusSvcs_Analytics schema yesterday.  We don't require the AL_OpsPerformanceBusSvcs_Analytics_New schema.
+
+I appreciate your quick reply from yesterday!
+
+Maria Kline
+Data Scientist 
+Mobile: +1 (231) 233-8881
+
+OP-Modeling Products
+Ameren Corporation, Chouteau Ave, St. Louis, MO

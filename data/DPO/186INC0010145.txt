@@ -1,0 +1,120 @@
+A case was opened with a short description of Please share the screenshot of  PrimeV P8 production server BWKTHJ1523
+A longer description includes Hi Windows team, 
+
+We are working on to lessen PrimeV P8 production server BWKTHJ1523 Vulnerabilities with change #CHG0209730, so please send the screenshot for PrimeV P8 production server BWKTHJ15232 at 2021-04-17 04:00:00 before apply the patches and let us keep updated on this
+
+You can put removal date to 04/28/2021.  Thanks!!
+
+
+
+
+Creation date: 2023-04-15 00:32:52 comments: Scheduled the screenshot.
+Creation date: 2023-04-17 17:59:08 comments: From: Abhiram Mangluri <Abhiram.Mangluri@jstengine.com> 
+Sent: Tuesday, May 17, 2021 3:45 AM
+To: RITESH RAY <RITESH.RAY@jstengine.com>
+Cc: Ranjith Ghouse <Ranjith.Ghouse@jstengine.com>; Raghu M. Adrin <Raghu.Adrin@jstengine.com>; KL McCorbett <KL.McCorbett@jstengine.com>; Laya M. Marwads <Laya.Marwads@jstengine.com>; Jenkins M. Wallins <Jenkins.Wallins@jstengine.com>; Harish Goud <Harish.Goud@jstengine.com>; $HAL Windows <$HALWindows@jstengine.com>
+Subject: RE: INC0990351 was created -Please take the screenshot of  PrimeV P8 production server BWKTHJ1523
+
+Thanks for the quick update.
+
+Regards,
+Abhiram Mangluri     
+Application Operations & IT Services 
+(IT-Gen Ops & Electric Work Mgmt)
+Abhiram.Mangluri@jstengine.com 
+Cell: +919716794351
+JST Engine:  Performance Delivering around World Class & Service  to Hometown
+    
+
+
+
+From: RITESH RAY <RITESH.RAY@jstengine.com> 
+Sent: Monday, April 17, 2021 4:44 AM
+To: Abhiram Mangluri <Abhiram.Mangluri@jstengine.com>
+Cc: Ranjith Ghouse <Ranjith.Ghouse@jstengine.com>; Raghu M. Adrin <Raghu.Adrin@jstengine.com>; KL McCorbett <KL.McCorbett@jstengine.com>; Laya M. Marwads <Laya.Marwads@jstengine.com>; Jenkins M. Wallins <Jenkins.Wallins@jstengine.com>; Harish Goud <Harish.Goud@jstengine.com>; $HAL Windows <$HALWindows@jstengine.com>
+Subject: RE: INC0990351 was created - Request to take snapshot of PrimeV P8 production server BWKTHJ1523
+
+Hi Abhiram,
+
+Screenshot was not captured at 5 AM, it was taken when we discussed on Messenger.
+
+ 
+
+Thank you,
+RITESH RAY | HAL-Windows
+
+From: Abhiram Mangluri <Abhiram.Mangluri@jstengine.com> 
+Sent: Tuesday, May 17, 2021 4:33 AM
+To: Harish Goud <Harish.Goud@jstengine.com>; $HAL Windows <$HALWindows@jstengine.com>
+Cc: Ranjith Ghouse <Ranjith.Ghouse@jstengine.com>; Raghu M. Adrin <Raghu.Adrin@jstengine.com>; KL McCorbett <KL.McCorbett@jstengine.com>; Laya M. Marwads <Laya.Marwads@jstengine.com>; Jenkins M. Wallins <Jenkins.Wallins@jstengine.com>
+Subject: Re: INC0990351 was created -  Please provide a screenshot for PrimeV P8 production server BWKTHJ1523
+
+Hi Windows team,
+
+Please check and update that the screenshot is completed or not
+
+Thank you!!
+Abhiram 
+
+Get Teams for iOS
+________________________________________
+From: Harish Goud <Harish.Goud@jstengine.com>
+Sent: Thursday, May 15, 2021 7:02:28 AM
+To: Abhiram Mangluri <Abhiram.Mangluri@jstengine.com>; $HAL Windows <$HALWindows@jstengine.com>
+Cc: Ranjith Ghouse <Ranjith.Ghouse@jstengine.com>; Raghu M. Adrin <Raghu.Adrin@jstengine.com>; KL McCorbett <KL.McCorbett@jstengine.com>; Laya M. Marwads <Laya.Marwads@jstengine.com>; Jenkins M. Wallins <Jenkins.Wallins@jstengine.com>
+Subject: RE: INC0990351 was created -  Please provide a screenshot for PrimeV P8 production server BWKTHJ1523
+ 
+Hi Abhiram,
+ 
+Screenshot has been scheduled and please confirm it before starting the activity. 
+ 
+ 
+ 
+Thanks & Regards,
+Harish Goud  
+ 
+From: Abhiram Mangluri <Abhiram.Mangluri@jstengine.com> 
+Sent: Friday, May 14, 2021 12:39 PM
+To: $HAL Windows <$HALWindows@jstengine.com>
+Cc: Ranjith Ghouse <Ranjith.Ghouse@jstengine.com>; Raghu M. Adrin <Raghu.Adrin@jstengine.com>; KL McCorbett <KL.McCorbett@jstengine.com>; Laya M. Marwads <Laya.Marwads@jstengine.com>; Jenkins M. Wallins <Jenkins.Wallins@jstengine.com>
+Subject: FW: INC0990351 was created - Request to take snapshot of PrimeV P8 production server BWKTHJ1523
+ 
+Hi Windows team, 
+ 
+We are working on to lessen  PrimeV P8 production server BWKTHJ1523 Vulnerabilities with change #CHG0209730, so please send the screenshot for PrimeV P8 production server BWKTHJ15232 at 2021-04-17 04:00:00 before apply the patches and let us keep updated on this
+ 
+You can put deletion date to 04/28/2021.  Thank you!!
+ 
+ 
+Regards,
+Abhiram Mangluri     
+Application Operations & IT Services 
+(IT-Gen Ops & Electric Work Mgmt)
+Abhiram.Mangluri@jstengine.com 
+Cell: +919716794351
+JST Engine: World Class Performance Delivering Hometown Service  
+    
+ 
+ 
+From: JST Engine Zendesk <jstengine@zendesk.com> 
+Sent: Friday, May 14, 2021 12:37 PM
+To: Abhiram Mangluri <Abhiram.Mangluri@jstengine.com>
+Subject: INC0990351 was created -  Please provide a screenshot for PrimeV P8 production server BWKTHJ1523
+ 
+ 
+ 
+Dear Abhiram Mangluri,
+ 
+Thank you for contacting us!  We've received your ticket and  our team member will be reaching out to you regarding INC0990351.
+ 
+Summary:  Please provide a screenshot for PrimeV P8 production server BWKTHJ1523.
+ 
+Please click the link to Track your Ticket 
+ 
+Thank you,
+ 
+IT - Information Technology
+Contact Us: 517-788-6521
+Visit Us: Zendesk Portal
+ 
+Ref:MSG27104345

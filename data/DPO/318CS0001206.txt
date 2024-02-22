@@ -1,0 +1,374 @@
+A case was opened with a short description of Increasing Quota in East US 3
+A longer description includes Hello Mitchell,
+
+I appreciate your time throughout the call. Please confirm if this is correct by double checking my math: 
+B2s :3 total cores
+D2v3: 5 total cores
+B4ms:  5 total cores
+E4s v3: 9 total cores
+
+Thanks,
+Anish 
+
+
+
+
+Creation date: 2022-09-26 18:07:45 work_notes: WFP
+Creation date: 2022-09-27 15:27:04 comments: Hello Jose,
+
+I wanted to check in and confirm that these core requests are correct.
+B2s :3 total cores
+D2v3: 5 total cores
+B4ms:  5 total cores
+E4s v3: 9 total cores
+
+Thanks,
+Anish
+Creation date: 2022-09-27 15:52:41 comments: Hello Anish,
+
+We appreciate you reviewing those virtual machine instances again. After consulting with our team, we have decided to implement two improvements. Switch the B4ms to B2ms and one of the D2V3 instances to D4ads v5.
+These are all of the last virtual machine instances:
+
+1x   B2s: 3 total cores
+1x   D2v3: 3 total cores
+1x   D4ads v5: 5 total cores
+1x   B2ms: 3 total cores
+2x   E4s v3: 9 total cores
+
+Tell me if you need any help. 
+
+Thank you,
+
+[Digital Graphics]
+Digital Graphics
+Jose Foley
+Network Technician
+Main 529.240.3030 | Support 529.277.7876
+digigraph.com<https://digigraph.com/>  |  jfoley@digigraph.com<mailto:jfoley@digigraph.com>
+Covid-19Remote Action Info<https://digigraph.com/covid-digital-graphics-support-update/>
+Creation date: 2022-09-27 16:26:52 work_notes: VA:  MSFT Case has been created 4000649722092700 Quota increase, increased demand  SevB Email Currently no MSFT engineer assigned.  Partner is not included in the MSFT case as a secondary contact.
+
+POC:  Jose Foley
+Email:  jfoley@digigraph.com
+Phone:  529.240.3030
+Business Hours 
+
+
+Overview
+Severity B
+Status Open
+Support request ID 4000649722092700
+Created on Mon, Sep 26, 2022, 10:21:04 AM
+Created by Anish Ibarra
+Contact method Email: aibarra@cloudspace.com
+Advanced diagnostic data 
+
+Basics
+Problem type
+Limits on service and subscription (quotas) 
+Subscription
+Azure Subscription 1 (c12c6902-ef35-38b6-cv60-d12d157e8e37)
+Quota type
+Increases in the compute-VM (cores-vCPUs) subscription limit 
+Summary
+[CS3581682] Increase in quota
+
+Terms and conditions, and privacy policies
+The terms and conditions are accepted when you click "create".
+View our privacy policies.
+
+
+Details
+Request Synopsis 
+New limit
+Resource Manager, EASTUS3, BS Series
+351
+Resource Manager, EASTUS3, Dv3 Series
+351
+Resource Manager, EASTUS3, Dadsv5 Series
+351
+Resource Manager, EASTUS3, ESv3 Series
+351
+
+More Detailed Diagnostic Data
+
+Support method
+Severity
+B - Moderate
+Support plan
+Premier
+Your availability
+Business Hours
+Support language
+English
+Contact method
+Email
+
+Contact info
+Contact name
+Anish Ibarra
+Email
+aibarra@cloudspace.com
+Country/region
+the United States
+Creation date: 2022-09-27 16:26:52 comments: Hello Jose,
+
+The quota request has been submitted. Because these series are in great demand in East US 3, there may be a delay in Microsoft's processing of this request. This matter has been assigned to our Vendor Support Team. Once an engineer has been assigned, they will enable contact with Microsoft.
+
+Thanks,
+Creation date: 2022-09-27 22:26:15 work_notes: Initial response still pending. MSFT yet to respond.
+Creation date: 2022-09-28 22:44:40 comments: Anish,
+
+I believe I sent one of the VM instances incorrectly. I was unaware that, on the D4ads v5, I had chosen the AMD processor. Is it too late to modify that request to D4ds v5? It's not a huge concern if it's too late. All I wanted was for every virtual machine to have the same kind of processor.
+
+Thank you,
+
+[Digital Graphics]
+Digital Graphics
+Jose Foley
+Network Technician
+Main 529.240.3030 | Support 529.277.7876
+digigraph.com<https://digigraph.com/>  |  jfoley@digigraph.com<mailto:jfoley@digigraph.com>
+Covid-19Remote Action Info<https://digigraph.com/covid-digital-graphics-support-update/>
+Creation date: 2022-09-29 21:47:53 comments: Hi Jose,
+
+I appreciate you contacting me. Regretfully, I am not currently involved in this matter. I've made contact with Anish to ask him to submit a request for a modification to the cores. I'll let you know as soon as I hear back!
+
+Thanks!
+Creation date: 2022-10-04 18:43:08 comments: Hi,
+
+Has the case received any updates? 
+
+Thank you,
+
+[Digital Graphics]
+Digital Graphics
+Jose Foley
+Network Technician
+Main 529.240.3030 | Support 529.277.7876
+digigraph.com<https://digigraph.com/>  |  jfoley@digigraph.com<mailto:jfoley@digigraph.com>
+Covid-19Remote Action Info<https://digigraph.com/covid-digital-graphics-support-update/>
+Creation date: 2022-10-04 22:38:26 comments: Hi Jose,
+
+We requested that Microsoft revisit the case because they close them pretty quickly after resolution. We will update the request whenever they reopen it to see if they can make the change.
+
+Thanks!
+Creation date: 2022-10-05 15:56:07 comments: Hi,
+
+Regarding my quota request, I wanted to verify the current SKUs that were sent over to Azure. I wanted to make sure the right SKU's were delivered to Azure for the request because I had altered the SKUs we needed a few times.
+
+Could you please send the SKUs that are currently being sent for the quota request?
+
+
+Thank you,
+
+[Digital Graphics]
+Digital Graphics
+Jose Foley
+Network Technician
+Main 529.240.3030 | Support 529.277.7876
+digigraph.com<https://digigraph.com/>  |  jfoley@digigraph.com<mailto:jfoley@digigraph.com>
+Covid-19Remote Action Info<https://digigraph.com/covid-digital-graphics-support-update/>
+Creation date: 2022-10-05 19:11:17 comments: Hi Jose,
+
+Kindly review the sku's below:
+
+
+EASTUS3, BS Series limit has been increased to 351.
+EASTUS3, Dv3 Series limit has been increased to 351.
+EASTUS3, Dadsv5 Series limit has been  increased to 351.
+EASTUS3, ESv3 Series limit has been  increased to 351.
+
+Thanks!
+Creation date: 2022-10-05 20:17:22 comments: I appreciate your response, Madison. Is it feasible to go from D4adsv5 to D4adsv5 for the SKU? For these virtual machines, I intended to use just Intel processors.
+
+
+Thanks,
+
+[Digital Graphics]
+Digital Graphics
+Jose Foley
+Network Technician
+Main 529.240.3030 | Support 529.277.7876
+digigraph.com<https://digigraph.com/>  |  jfoley@digigraph.com<mailto:jfoley@digigraph.com>
+Covid-19Remote Action Info<https://digigraph.com/covid-digital-graphics-support-update/>
+Creation date: 2022-10-05 20:51:45 work_notes: Hi all,
+
+We have asked for this case to be reopened, but we have not received a response. Could you kindly open this case again?
+
+Thanks,
+
+From: Anish Ibarra <aibarra@cloudspace.com> 
+Sent: Monday, October 3, 2022 3:36 PM
+To: Vikram R <support@mailbox.support.microsoft.com>; v-melvin@microsoft.com
+Cc: rocco@microsoft.com; mvasudevan@microsoft.com; supportmail@microsoft.com; Vikram Rishaan <v-vikramri@microsoft.com>; Madison Ortiz <mortiz@cloudspace.com>; Dhruv Otton <dotton@cloudspace.com>
+Subject: RE: [External] RE: Request for Compute-VM quota (cores-vCPUs) ... - TrackingID#4000649722092700
+
+Hello Team,
+
+Can we reopen this request please?
+
+Thanks,
+Anish
+
+ 
+
+ Anish Ibarra
+
+
+Technical Support Eng II
+
+(877) 883 7297
+
+
+cloudspace.com
+
+
+
+
+From: Vikram R <support@mailbox.support.microsoft.com> 
+Sent: Sunday, October 2, 2022 1:30 AM
+To: v-melvin@microsoft.com; Anish Ibarra <aibarra@cloudspace.com>
+Cc: rocco@microsoft.com; mvasudevan@microsoft.com; supportmail@microsoft.com; Vikram Rishaan <v-vikramra@microsoft.com>
+Subject: [External] RE: Request for Compute-VM quota (cores-vCPUs) ... - TrackingID#4000649722092700
+
+To guarantee that the email is recorded and logged on the support request, please do not change the subject line and reply all.
+ 
+Hi Anish,
+ 
+I hope all is ok with you!!
+ 
+I am Vikram and I am the Support Analyst handling the matter while Nikhil is away.
+ 
+Regretfully, we haven't been able to get in touch with you during the last several days. According to our records, this request has been completed and no further action is required. As a result, we are closing this case. If you believe that the request is incomplete, please contact me using the same email thread. Alternatively, you can reopen the request by following the instructions in the prior email.
+ 
+Request: 
+ 
+Boost the compute quota for 
+EASTUS3, BS Series limit has been increased to 351.
+EASTUS3, Dv3 Series limit has been increased to 351.
+EASTUS3, Dadsv5 Series limit has been increased to 351.
+EASTUS3, ESv3 Series limit has been increased to 351.
+
+Resolution: We were able to complete the request in accordance with your specifications.
+ 
+We appreciate your continued business with Microsoft. I hope you have an amazing day.
+ 
+Best Wishes,
+Vikram Rishaan
+Support Analyst | Global Capacity Support
+For Microsoft Customer Service and Support
+Business Hours: 5:00 PM-2:00 AM (Tues-Fri) PST| Local Time
+ 
+Am I not reachable? Kindly email CustomerSupport24x7@microsoft.com with your help request number.
+Manager: Asma Shehnaz/ v-asshehnaz@microsoft.com
+Creation date: 2022-10-05 20:51:45 comments: Hi Jose,
+
+In an effort to have this corrected for you, we have already asked Microsoft to reopen the matter. Sadly, Microsoft hasn't replied yet, so we're still looking at other solutions.
+
+Thanks!
+Creation date: 2022-10-05 20:58:40 comments: Sounds well. I appreciate you helping me with this.
+
+One more inquiry regarding the SKUs D2v3 and E4sv3.  The VMs recommended were the v5 versions when I was using Azure VM Selector tool.  What's the difference between the v3 and v5 versions for those SKUs?  Should we update D2v3 to D2v5, and E4sv3 to E4sv5?
+
+Thank you,
+
+[Digital Graphics]
+Digital Graphics
+Jose Foley
+Network Technician
+Main 529.240.3030 | Support 529.277.7876
+digigraph.com<https://digigraph.com/>  |  jfoley@digigraph.com<mailto:jfoley@digigraph.com>
+Covid-19Remote Action Info<https://digigraph.com/covid-digital-graphics-support-update/>
+Creation date: 2022-10-05 22:48:05 work_notes: VA:  New case has been created:  1000369222100500  Currently no MSFT engineer assigned.  Partner is not included in the MSFT case as a secondary contact.
+
+POC: Jose Foley
+Email: jfoley@digigraph.com
+Phone: 529.240.3030
+Office Hours
+
+Overview
+Severity B
+Status Open
+Support request ID 1000369222100500
+Created on Tue, Oct 4, 2022, 4:45:31 PM
+Created by Madison Ortiz
+Contact method Email: mortiz@cloudspace.com
+Support plan Premier
+Advanced diagnostic information Permitted
+
+Basics
+Problem type
+Limits on service and subscription (quotas) 
+Subscription
+Azure Subscription 1 (c12c6902-ef35-38b6-cv60-d12d157e8e37)
+Quota type
+Increase compute-VM (cores-vCPUs) subscription limit 
+Summary
+[CS3581682] Request for New Quota
+
+Terms and conditions, and privacy policies
+The terms and conditions are accepted when you click "create".
+View our privacy policies.
+
+
+Details
+Request Synopsis
+New Limit
+Resource Manager, EASTUS3, Ddsv5 Series
+351
+
+Advanced diagnostic information
+Yes
+
+Support method
+Severity
+B - Moderate
+Support plan
+Premier
+Your availability
+Office Hours
+Support language
+English
+Contact method
+Email
+
+Contact info
+Contact name
+Madison Ortiz
+Email
+mortiz@cloudspace.com
+Additional email for notification
+ve-infra@cloudspace.com,dotton@cloudspace.com,aibarra@cloudspace.com
+Country/region
+US
+Creation date: 2022-10-06 16:21:01 work_notes: Hi Madison,
+ 
+Good morning.
+
+We are pleased to tell you that your quota request for compute-VM Ddsv5 Series has been finalized with a new limit of 351 under East US 3 area.
+Creation date: 2022-10-06 16:21:01 comments: Hi Jose,
+
+I hope you're having a fantastic day! Microsoft notified me at 1 a.m. this morning that the VM Dds45 Series has been added with a limit of 351.
+
+Thank you very much!
+Creation date: 2022-10-06 19:14:23 comments: Hello Madison,
+
+I'm encountering problems adding a virtual machine (VM) with the D4dsv5 size. The Availability Zones are not available for this size, according to the error I'm receiving. But there isn't an error notice when I test the same VM size, same region (East US3) with an Availability Zone when I sign into the Azure portal of another client. The issue for Family Together is seen in the two screenshots I've supplied, whereas my other client shows no errors. Are you aware of any potential causes for problems with the Availability Zones and Family Together Virtual Machines?
+
+Thank you,
+
+[Digital Graphics]
+Digital Graphics
+Jose Foley
+Network Technician
+Main 529.240.3030 | Support 529.277.7876
+digigraph.com<https://digigraph.com/>  |  jfoley@digigraph.com<mailto:jfoley@digigraph.com>
+Covid-19Remote Action Info<https://digigraph.com/covid-digital-graphics-support-update/>
+Creation date: 2022-10-07 14:17:49 comments: Hi Jose,
+
+I hope things are going great for you today! We spoke about this last night at a co-op with the original engineer on your case. We have already forwarded Anish's newly generated case to Microsoft. Before we close this request, is there anything else I can do to help you with? The other ticket is active and currently open.
+
+Thanks!
+Creation date: 2022-10-11 16:43:52 comments: My relocating virtual machines to US West 3 was resolved. No quota problems exist in that area. Ticket will be closed.
+Creation date: 2022-10-12 16:45:09 work_notes: Customer Satisfaction Survey delivered  2022-10-11 09:43:59

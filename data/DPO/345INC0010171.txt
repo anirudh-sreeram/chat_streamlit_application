@@ -1,0 +1,48 @@
+A case was opened with a short description of Login attempts on Device - DFTYUIRTSPW31 have failed
+A longer description includes Hi All,
+
+We've noted that in the last 5 days account. - svc_prod_farvu has made over 5,000 failed login attempts on device -DFTYUIRTSPW31. This server is used for FarVU Case Processing of Images according to CMDB
+
+Please look over the logs that are attached and look into this issue. 
+
+Kindly note that Logon type 5 is a Batch Logon
+
+
+
+
+Creation date: 2023-02-28 21:22:17 work_notes: Attachment: DFTYUIRTSPW31.csv has been attached.
+Creation date: 2023-02-28 23:14:08 work_notes: From: Sumanrai, Mukerjee <Mukerjee.Sumanrai@raphael-mate.com> 
+Sent: Tuesday, February 28, 2023 3:43 AM
+To: Juivy, Johny <Johny.Juivy@raphael-mate.com>; Tulsi, Taru <Taru.tulsi@raphael-mate.com>
+Cc: GTY-Paneldio <GTY-Paneldio@raphael-mate.com>; Global, Threat Management <Threat-Management.Global@raphael-mate.com>; Bose, Ankit <Ankit.Bose@raphael-mate.com>
+Subject: RE: Failed login attempts - DFTYUIRTSPW31 (INC8558911)
+
+Hi Jonhny,
+
+Thank you for the update here.
+
+@ Taru- Like Johny stated in the email below, This was the result of a scheduled activity that was activated even though it isn't necessary at the moment. He has since disabled it. Therefore, we are going to take care of this INC8558911 event on our end. 
+
+
+Thanks & Regards,
+
+Mukerjee.Sumanrai 
+Jutnerl   Raphael&mate Infrastructure
+PLC Technologies Ltd.
+201A, 13th Floor, FKL1, Poonkunnam, Thrissur, India
+M: +91-9783337798
+mukerjee.sumanrai@plc.com  |  Mukerjee.Sumanrai@raphael-mate.com
+www.plctech.com
+ 
+
+Please include Team DL GTY-Paneldio@raphael-mate.com for help in my absence.
+
+From: Juivy, Johny <Johny.Juivy@raphael-mate.com> 
+Sent: Tuesday, February 28, 2023 3:16 AM
+To: Tulsi, Taru <Taru.tulsi@raphael-mate.com>; Bose, Ankit <Ankit.Bose@raphael-mate.com>
+Cc: GTY-Paneldio <GTY-Paneldio@raphael-mate.com>; Global, Threat Management <Threat-Management.Global@raphael-mate.com>
+Subject: RE: Failed login attempts - DFTYUIRTSPW31 (INC8558911)
+
+I saw the problem, a scheduled activity that isn't needed at the moment was running I deactivated it.
+Creation date: 2023-02-28 23:16:47 work_notes: These failed login attempts on device -DFTYUIRTSPW31This resulted because of a planned task that was ongoing but isn't necessary at the moment. Hence, Jonhny The owner of service account svc_prod_farvu has deactivated it now. from our side, no action has been taken. So, we go ahead to resolve the incident INC8558911 from our side.
+Creation date: 2023-03-08 07:23:16 comments: After 6 days in resolved state, the incident is automatically closed.

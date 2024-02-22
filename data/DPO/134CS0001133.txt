@@ -1,0 +1,257 @@
+A case was opened with a short description of FW: Derelict Abandonment Validation
+A longer description includes PRIVATE
+
+Kindly look below response for processing.
+
+From: Logan Tremblay <tremblay.logan@fitb.com>
+Sent: Thursday, October 26, 2022 1:09 PM
+To: Theo Wright (Astoria Finance - Contractor) <wright.theo@astoriafinance.com>
+Cc: Sophia, Levesque <levesquesophia@fitb.com>; Chloe, Clark <clark.chloe@fitb.com>; Emmett, Morin <morin.emmett@fitb.com>; Harper, Wilson <wilson.harper@fitb.com>;Chloe, Chan (Astoria Finance) <chan.chloe@astoriafinance.com>;Astoria Finance Loan Hub <loanhub@astoriafinance.com>
+Subject: RE: Derelict Abandonment Validation
+
+
+WARNING: This is an outside email. Be careful with links and attachments.
+
+Lovely afternoon,
+
+The loan fully Paid and PB cleared on  10/21/2022. I agree that MI will be cancelled on this loan.
+
+With regards,
+
+Tremblay Logan 
+Senior Executive | FIT Bank
+Customer Asset Wing | CAM Analyst I
+98095 Kirlin Lock, 
+Suite 878, PV26 4RX, Krajcikmouth, 
+Kansas, Great Britain
+Phone 706.527.0212
+[https://insider.fitb.com/marketing/PublishingImages/email_signatures/MT-Bank11.21.16.jpg]
+
+From: Theo Wright (Astoria Finance - Contractor) <wright.theo@astoriafinance.com<mailto:wright.theo@astoriafinance.com>>
+Sent: Monday, October 24, 2022 3:56 PM
+To: Harper, Wilson <wilson.harper@fitb.com<mailto:wilson.harper@fitb.com>>; Emmett, Morin <morin.emmett@fitb.com<mailto:morin.emmett@fitb.com>>; Chloe, Chan (Astoria Finance) <chan.chloe@astoriafinance.com<mailto:chan.chloe@astoriafinance.com>>; Astoria Finance Loan Hub  <<loanhub@astoriafinance.com><mailto:<loanhub@astoriafinance.com>>>
+Cc: Theo Wright (Astoria Finance - Contractor) <wright.theo@astoriafinance.com<mailto:wright.theo@astoriafinance.com>>
+Subject: RE: Derelict Abandonment Validation
+Importance: High Priority
+
+
+
+Outside Email: Be cautious before clicking links or opening links and trust the source.
+
+
+
+PRIVATE
+
+
+
+Dear,
+
+
+
+The below loans have come up for cancellation but the cancellation has been put on hold as it is showing as defaulted in our system. Can you  verify that they really need to be cancelled so they can be processed  today if a claim will is filed?
+
+
+
+
+
+CERTIFICATE_NUMBER
+
+Name of the task
+
+Age of the Task
+
+TASK_INFORMATION
+
+Sent_date
+
+USER_NUMBER
+
+SOURCE_TYPE
+
+SERVICING_COMAPNY_NUMBER
+
+SERVICING_COMPANY_NAME
+
+ABANDONMENT_REASON
+
+CANCELLATION_DEFEINITION
+
+
+2806434577
+
+3000062181
+
+NEGLIGENCE
+1
+["NEGL CAT 30"]
+09/23/2022
+
+Electronic data interchange 
+
+B221214M43
+
+FIT BANK
+
+B - Banker Request
+
+1 - Paid in whole amount
+
+
+
+
+
+
+
+Best regards,
+
+
+
+Theo Wright 
+
+Loan Hub Team
+
+756 Jarrell Drives,
+ 
+Suite 820, QZ27 0GV, 
+
+Jarodfort, Vermont, Great Britain
+
+Phone:  607-401-6727
+
+loanhub@astoriafinance.com<mailto:Loanhub@astoriafinance.com>
+
+
+
+________________________________
+This e-mail along with any attached files may contain privileged and confidential information, and it is intended solely for the specified recipient. If you have received this e-mail unintentionally, kindly inform the sender immediately. Please be aware that the confidentiality, privileges, and copyright associated with this e-mail remain intact, even if it was sent to you in error.  The sender is not liable for any legal issues or damage resulting from use of this material.  This communication may contain nonpublic personal information about consumers subject to the restrictions of the Gramm-Leach-Bliley Act and the Sarbanes-Oxley Act. You shall not directly or indirectly reproduce or publish  such information for any purpose other than to provide the services for which you obtain the information. There are risk involved in using electronic transmission. the sender of this information does not control the transmission method or service providers and has no responsibility or liability for the security, receipt or third party interception of this transmission. 
+
+
+
+
+Creation date: 2022-10-27 20:25:27 comments: visitor 10/26/2022 16:25:27
+Sent from: wright.theo@astoriafinance.com
+
+PRIVATE
+
+Kindly look below response for processing.
+
+From: Logan Tremblay <tremblay.logan@fitb.com>
+Sent: Thursday, October 26, 2022 1:09 PM
+To: Theo Wright (Astoria Finance - Contractor) <wright.theo@astoriafinance.com>
+Cc: Sophia, Levesque <levesquesophia@fitb.com>; Chloe, Clark <clark.chloe@fitb.com>; Emmett, Morin <morin.emmett@fitb.com>; Harper, Wilson <wilson.harper@fitb.com>;Chloe, Chan (Astoria Finance) <chan.chloe@astoriafinance.com>;Astoria Finance Loan Hub <loanhub@astoriafinance.com>
+Subject: RE: Derelict Abandonment Validation
+
+WARNING: This is an outside email. Be careful with links and attachments.
+
+Lovely afternoon,
+
+The loan fully Paid and PB cleared on  10/21/2022. I agree that MI will be cancelled on this loan.
+
+With regards,
+
+Tremblay Logan 
+Senior Executive | FIT Bank
+Customer Asset Wing | CAM Analyst I
+98095 Kirlin Lock, 
+Suite 878, PV26 4RX, Krajcikmouth, 
+Kansas, Great Britain
+Phone 706.527.0212
+[https://insider.fitb.com/marketing/PublishingImages/email_signatures/MT-Bank11.21.16.jpg]
+
+From: Theo Wright (Astoria Finance - Contractor) <wright.theo@astoriafinance.com<mailto:wright.theo@astoriafinance.com>>
+Sent: Monday, October 24, 2022 3:56 PM
+To: Harper, Wilson <wilson.harper@fitb.com<mailto:wilson.harper@fitb.com>>; Emmett, Morin <morin.emmett@fitb.com<mailto:morin.emmett@fitb.com>>; Chloe, Chan (Astoria Finance) <chan.chloe@astoriafinance.com<mailto:chan.chloe@astoriafinance.com>>; Astoria Finance Loan Hub  <<loanhub@astoriafinance.com><mailto:<loanhub@astoriafinance.com>>>
+Cc: Theo Wright (Astoria Finance - Contractor) <wright.theo@astoriafinance.com<mailto:wright.theo@astoriafinance.com>>
+Subject: RE: Derelict Abandonment Validation
+Importance: High Priority
+
+
+
+Outside Email: Be cautious before clicking links or opening links and trust the source.
+
+
+
+
+PRIVATE
+
+
+
+Dear,
+
+
+
+The below loans have come up for cancellation but the cancellation has been put on hold as it is showing as defaulted in our system. Can you  verify that they really need to be cancelled so they can be processed  today if a claim will is filed?
+
+
+
+
+
+CERTIFICATE_NUMBER
+
+Name of the task
+
+Age of the Task
+
+TASK_INFORMATION
+
+Sent_date
+
+USER_NUMBER
+
+SOURCE_TYPE
+
+SERVICING_COMAPNY_NUMBER
+
+SERVICING_COMPANY_NAME
+
+ABANDONMENT_REASON
+
+CANCELLATION_DEFEINITION
+
+2806434577
+
+3000062181
+
+NEGLIGENCE
+1
+["NEGL CAT 30"]
+09/23/2022
+
+Electronic data interchange 
+
+B221214M43
+
+FIT BANK
+
+B - Banker Request
+
+1 - Paid in whole amount
+
+
+
+
+
+
+
+Best regards,
+
+
+
+Theo Wright 
+
+Loan Hub Team
+
+756 Jarrell Drives,
+ 
+Suite 820, QZ27 0GV, 
+
+Jarodfort, Vermont, Great Britain
+
+Phone:  607-401-6727
+
+loanhub@astoriafinance.com<mailto:Loanhub@astoriafinance.com>
+
+
+
+________________________________
+This e-mail along with any attached files may contain privileged and confidential information, and it is intended solely for the specified recipient. If you have received this e-mail unintentionally, kindly inform the sender immediately. Please be aware that the confidentiality, privileges, and copyright associated with this e-mail remain intact, even if it was sent to you in error.  The sender is not liable for any legal issues or damage resulting from use of this material.  This communication may contain nonpublic personal information about consumers subject to the restrictions of the Gramm-Leach-Bliley Act and the Sarbanes-Oxley Act. You shall not directly or indirectly reproduce or publish  such information for any purpose other than to provide the services for which you obtain the information. There are risk involved in using electronic transmission. the sender of this information does not control the transmission method or service providers and has no responsibility or liability for the security, receipt or third party interception of this transmission. 

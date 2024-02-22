@@ -1,0 +1,270 @@
+A case was opened with a short description of Huge Memory Consumption - Prod Server higher than 75 for 40mins
+A longer description includes dviwnt2891.je.corp.com shows Major Huge memory Consumption: 87 %
+
+There are top 5 processes with Huge Memory Consumption below:
+Name  Process ID  Physical Memory
+MachineAgentService.exe  2152  422,852 kB
+MsMpEng.exe  2381  242,730 kB
+MsSense.exe  2532  120,058 kB
+SenseNdr.exe  6400  90,518 kB
+ruby.exe  2041  74,632 kB
+
+
+
+
+Creation date: 2023-04-08 06:47:49 work_notes: Consumption is huge monitoring
+Creation date: 2023-04-10 06:08:45 work_notes: vKhanna2023-04-09 01:08:45
+Consumption is still huge. under monitoring
+Creation date: 2023-04-10 06:31:19 work_notes: Current consumption is huge. Hence monitoring the server.
+Creation date: 2023-04-10 15:17:55 comments: kfarheen2 2023-04-9 10:17:55
+Current memory consumption is huge, monitoring.
+Creation date: 2023-04-11 07:27:11 work_notes: Current consumption is still huge - hence monitoring.
+Creation date: 2023-04-12 18:42:48 comments: Team,
+Server is showing huge memory consumption and we cannot find any specific process that is consuming huge memory. We need to do a reboot to bring the memory consumption to normal. Please suggest a good time period to reboot this server.
+
+Other General Apps Production Server (MacOS-2017-R1) MacOS 2017 Server EndPoint Production App [Created 04-12-2022 15:29:00] PJT34998
+Creation date: 2023-04-12 18:45:17 work_notes: [sMartin] - Finished existing events for this Incident
+[sMartin] - Injected notification with sM event ID 79615410 for Assignment targeting IT APPS- SAP-DEET-JSP
+Creation date: 2023-04-12 18:46:17 work_notes: [sMartin] - Received Reply Assignment to me by hlilly3(Android Phone) at 23-14-11 17:43:14.291
+Creation date: 2023-04-12 19:08:59 comments: Please assign this to the right team
+Creation date: 2023-04-13 08:24:57 comments: Team, Memory consumption is Huge. Please check. 
+
+dviwnt2891:Other General Apps Production Server (MacOS-2017-R1) MacOS 2017 Server EndPoint Production App [Created 03-11-2022 16:29:00] PJT34034.
+ dviwnt2891:NT:19:r:y:v:f:n:p:k:n:NMUZT0117:rt:n:n:l:m:n:p:
+Creation date: 2023-04-13 08:33:30 work_notes: [sMartin] - Finished existing events for this Incident
+[sMartin] - Injected notification with sM event ID 23071235 for work targeting pKishore
+Creation date: 2023-04-13 08:34:46 work_notes: [sMartin] - Received Response Accept by PKishore(Windows Phone) at 23-04-12 07:34:46.133
+Creation date: 2023-04-13 08:48:21 comments: Linux team working on it.
+Creation date: 2023-04-13 08:52:39 work_notes: From: Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com> 
+Sent: Wednesday, April 12, 2023 3:51 AM
+To: Vamsi Khanna<Vamsi.Khurana@jstenergy.com>; $HAL Linux <$HALLinux@jstenergy.com>
+Cc: $HAL Datadog <$HALDatadog@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Hello Vamsi,
+
+We will let you know when you can do a restart after checking with Srinivas
+
+Thanks,
+Yamini
+
+From: Vamsi Khanna<Vamsi.Khurana@jstenergy.com> 
+Sent: Wednesday, April 12, 2023 3:43 AM
+To: Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com>; $HAL Datadog <$HALDatadog@jstenergy.com>
+Cc: $HAL Linux <$HALLinux@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Hi,
+
+Server is showing huge memory consumption and we cannot find any specific process that is consuming huge memory.
+
+We need to do a reboot to bring the memory consumption to normal. Please suggest a good time period to reboot this server.
+
+Other General Apps Production Server (MacOS-2017-R1) MacOS 2017 Server EndPoint Production App [Created 4-12-2022 15:29:00] PJT34079
+Creation date: 2023-04-16 09:12:52 work_notes: Hi Yamini/Team,
+
+Server is still showing Huge memory consumption, so we need a quick reboot to stabilize the memory consumption. Please let us know downtime for the same.
+
+dviwnt2891:Other General Apps Production Server (MacOS-2017-R1) MacOS 2017 Server EndPoint Production App [Created 04-12-2022 11:29:00] PJT34079.
+dviwnt2891:NT:19:y:t:t:t:n:p:t:t:M1CDT0009.je.n:m:y:m:n:n:
+
+ 
+
+Sincerely
+Rakesh Tiwari | HAL-Linux
+
+From: Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com> 
+Sent: Wednesday, April 12, 2023 3:51 AM
+To: Vamsi Khanna<Vamsi.Khurana@jstenergy.com>; $HAL Linux <$HALLinux@jstenergy.com>
+Cc: $HAL Datadog <$HALDatadog@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Hello Vamsi,
+
+We will let you know when you can do a restart after checking with Srinivas
+
+Thanks,
+Yamini
+
+From: Vamsi Khanna<Vamsi.Khurana@jstenergy.com> 
+Sent: Wednesday, April 12, 2023 4:43 AM
+To: Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com>; $HAL Datadog <$HALDatadog@jstenergy.com>
+Cc: $HAL Linux <$HALLinux@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Hi,
+
+Server is showing huge memory consumption and we cannot find any specific process that is consuming huge memory.
+
+We need to do a reboot to bring the memory consumption to normal. Please suggest a good time period to reboot this server.
+
+Other General Apps Production Server (MacOS-2017-R1) MacOS 2017 Server EndPoint Production App [Created 04-12-2022 15:29:00] PJT34079
+
+ 
+
+Regards,
+
+Vamsi
+
+From: Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com> 
+Sent: Wednesday, April 12, 2023 3:34 AM
+To: $HAL Linux <$HALLinux@jstenergy.com>
+Cc: $HAL Datadog <$HALDatadog@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Hello Team,
+
+Could you please check INC0686789. We are assigning the ticket to Linux team.
+
+
+Short Description: Huge Memory Consumption - Prod Server higher than 85 for 40mins   dviwnt2891.
+
+
+Regards,
+Yamini 
+Common Service Datadog Consultant- Application Support
+HAL Technologies | Bangalore, India
+
+
+
+From: JST Energy Zendesk <jstenergy@zendesk.com> 
+Sent: Wednesday, April 12, 2023 3:25 AM
+To: Lokesh Chaudary <Lokesh.Chaudary@jstenergy.com>; Abhiram latha<Abhiram.Goud@jstenergy.com>; Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com>; Satya Srivastava <Satya.Srivastava@jstenergy.com>; Arun Chaudary 1 <Arun.Naidu6@jstenergy.com>; Nick J. Briston <Nick.Briston@jstenergy.com>; Nikhil Bhaskar <Nikhil.Bhaskar@jstenergy.com>; Atul Kishore <Atul.Kishore@jstenergy.com>; Dinesh Karna <Dinesh.Karna@jstenergy.com>; Karivenna Shery4 <Karivenna.Shery4@jstenergy.com>; Srinivas Chary 2 <Srinivas.Chary@jstenergy.com>; Phani Kishore <Phani.Kishore@jstenergy.com>; Jaswanth Reddy <Jaswanth.Reddy@jstenergy.com>; Mohd Maaz <Mohd.Maaz@jstenergy.com>; Mamatha Kishore <Mamatha.Kishore@jstenergy.com>; Mudiraj Sharma <Mudiraj.Sharma@jstenergy.com>; Rajesh H <Rajesh.H@jstenergy.com>; Hemanth Varma 1 <Hemanth.Varma@jstenergy.com>; Madhavi latha<Madhavi.Goud@jstenergy.com>
+Subject: P3:Your group has been allocated incident INC0686789
+
+Date: 2023-04-12 03:25:12 EDT
+Number: INC0686789
+Short Description: Huge Memory Consumption - Prod Server higher than 85 for 40mins 
+ 
+Your group was assigned to an incident for resolution. Please take correct action to have assign an individual to this incident for resolution actions.
+ 
+Please contact the Help Desk if you need any other information or think that this incident has been assigned mistakenly.
+ 
+Thank you,
+The Help Desk
+ 
+Ref:MSG12389543
+Creation date: 2023-04-17 03:03:18 work_notes: Hi Srinivas,
+
+Dviwnt2891 server has been restarted against change #CHG0124881, memory consumption is showing under threshold now. Server is up and running okay, please validate the apps.
+
+ 
+
+Sincerely
+Rakesh Tiwari | HAL-Linux
+
+From: Rakesh Tiwari <Rakesh.Tiwari@jstenergy.com> 
+Sent: Saturday, April 15, 2023 9:34 PM
+To: Srinivas Chary 2 <Srinivas.Chary@jstenergy.com>; Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com>; $HAL Datadog <$HALDatadog@jstenergy.com>
+Cc: $HAL Linux <$HALLinux@jstenergy.com>; Vamsi Khanna<Vamsi.Khurana@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Thanks Srinivas,
+
+We'll restart the server and let you know when it is done. We will unmute the server before restart.
+
+Sincerely
+Rakesh Tiwari | HAL-Linux
+
+From: Srinivas Chary 2 <Srinivas.Chary@jstenergy.com> 
+Sent: Saturday, April 15, 2023 9:31 PM
+To: Rakesh Tiwari <Rakesh.Tiwari@jstenergy.com>; Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com>; $HAL Datadog <$HALDatadog@jstenergy.com>
+Cc: $HAL Linux <$HALLinux@jstenergy.com>; Vamsi Khanna<Vamsi.Khurana@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Hi Rakesh,
+
+We are currently not using this server. Could you please reboot it? You need to unmute it before rebooting.
+
+Thanks,
+Srinivas
+
+From: Rakesh Tiwari <Rakesh.Tiwari@jstenergy.com> 
+Sent: Saturday, April 15, 2023 4:12 AM
+To: Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com>; $HAL Datadog <$HALDatadog@jstenergy.com>
+Cc: $HAL Linux <$HALLinux@jstenergy.com>; Vamsi Khanna<Vamsi.Khurana@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Hi Yamini/Team,
+
+Server is still showing Huge memory consumption, so we need a quick reboot to stabilize the memory consumption. Please let us know downtime for the same.
+
+dviwnt2891:Other General Apps Production Server (MacOS-2017-R1) MacOS 2017 Server EndPoint Production App [Created 04-12-2022 15:29:00] PJT34998.
+dviwnt2891:NT:19:y:t:t:t:n:p:t:t:M1CDT0009.je.n:m:y:m:n:n:
+
+ 
+
+Sincerely
+Rakesh Tiwari | HAL-Linux
+
+From: Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com> 
+Sent: Wednesday, April 12, 2023 3:51 AM
+To: Vamsi Khanna<Vamsi.Khurana@jstenergy.com>; $HAL Linux <$HALLinux@jstenergy.com>
+Cc: $HAL Datadog <$HALDatadog@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Hello Vamsi,
+
+We will let you know when you can do a restart after checking with Srinivas
+
+Thanks,
+Yamini
+
+From: Vamsi Khanna<Vamsi.Khurana@jstenergy.com> 
+Sent: Wednesday, April 12, 2023 3:43 AM
+To: Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com>; $HAL Datadog <$HALDatadog@jstenergy.com>
+Cc: $HAL Linux <$HALLinux@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Hi,
+
+Server is showing huge memory consumption and we cannot find any specific process that is consuming huge memory.
+
+We need to do a reboot to bring the memory consumption to normal. Please suggest a good time period to reboot this server.
+
+Other General Apps Production Server (MacOS-2017-R1) MacOS 2017 Server EndPoint Production App [Created 04-12-2022 15:29:00] PJT34987
+
+ 
+
+Regards,
+
+Vamsi
+
+From: Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com> 
+Sent: Wednesday, April 12, 2023 3:34 AM
+To: $HAL Linux <$HALLinux@jstenergy.com>
+Cc: $HAL Datadog <$HALDatadog@jstenergy.com>
+Subject: RE: P3:Your group has been allocated incident INC0686789
+
+Hello Team,
+
+Could you please check INC0686789. We are assigning the ticket to Linux team.
+
+
+Short Description: Huge Memory Consumption - Prod Server higher than 85 for 40mins   dviwnt2891.
+
+
+Regards,
+Yamini 
+Common Service Datadog Consultant- Application Support
+HAL Technologies | Bangalore, India
+
+
+
+From: JST Energy Zendesk <jstenergy@zendesk.com> 
+Sent: Wednesday, April 12, 2023 3:25 AM
+To: Lokesh Chaudary <Lokesh.Chaudary@jstenergy.com>; Abhiram latha<Abhiram.Goud@jstenergy.com>; Yamini Sandhya varadha rajanaidu <YaminiSandhya.varadharajanaidu@jstenergy.com>; Satya Srivastava <Satya.Srivastava@jstenergy.com>; Arun Chaudary 1 <Arun.Naidu6@jstenergy.com>; Nick J. Briston <Nick.Briston@jstenergy.com>; Nikhil Bhaskar <Nikhil.Bhaskar@jstenergy.com>; Atul Kishore <Atul.Kishore@jstenergy.com>; Dinesh Karna <Dinesh.Karna@jstenergy.com>; Karivenna Shery4 <Karivenna.Shery4@jstenergy.com>; Srinivas Chary 2 <Srinivas.Chary@jstenergy.com>; Phani Kishore <Phani.Kishore@jstenergy.com>; Jaswanth Reddy <Jaswanth.Reddy@jstenergy.com>; Mohd Maaz <Mohd.Maaz@jstenergy.com>; Mamatha Kishore <Mamatha.Kishore@jstenergy.com>; Mudiraj Sharma <Mudiraj.Sharma@jstenergy.com>; Rajesh H <Rajesh.H@jstenergy.com>; Hemanth Varma 1 <Hemanth.Varma@jstenergy.com>; Madhavi latha<Madhavi.Goud@jstenergy.com>
+Subject: P3:Your group has been allocated incident INC0686789
+
+Date: 2023-04-12 03:25:12 EDT
+Number: INC0686789
+Short Description: Huge Memory Consumption - Prod Server higher than 75 for 40mins 
+ 
+Your group was assigned to an incident for resolution. Please take correct action to have assign an individual to this incident for resolution actions.
+ 
+Please contact the Help Desk if you need any other information or think that this incident has been assigned mistakenly.
+ 
+Thanks,
+The Help Desk
+ 
+Ref:MSG12389543

@@ -1,0 +1,86 @@
+A case was opened with a short description of The phon line at the branch is down
+A longer description includes The phon line at the branch is down
+calls are breaking and getting disconnected
+
+
+
+
+Creation date: 2022-11-09 20:50:24 work_notes: 2022-11-08 13:50:24 - Bhishma Shing (Work notes)
+KB0018992
+the closed lights are off
+
+it's been happening for the last hour
+the phone isn't showing any error messages
+some branch users are being impacted
+this is occurring on the handset and headset
+this affects both inbound and outgoing calls
+Creation date: 2022-11-09 20:54:47 work_notes: KB0018992
+the closed lights are off
+
+It's been happening for the last hour
+the phone isn't showing any error messages
+some branch users are being impacted
+this is occurring on the handset and headset
+this affects both inbound and outgoing calls
+
+Ping statistics for 11.288.48.16:
+    Packets: Sent = 72, Received = 72, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 54ms, Maximum = 75ms, Average = 60ms
+
+Ping statistics for 11.288.48.140:
+    Packets: Sent = 60, Received = 60, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 57ms, Maximum = 71ms, Average = 63ms
+Creation date: 2022-11-09 21:54:07 work_notes: kindly assist, Branch Earwost
+Creation date: 2022-11-09 22:07:11 work_notes: From: HARDIK PANDYA 
+Sent: Tuesday, November 8, 2022 4:07 PM
+To: NOC <NOC@mmn.com>; Uttara, Arjun <Arjun.Uttara@pushes.com>
+Cc: Smirthi Mandana <Smirthi.Mandana@mmn.com>; Manoj Gowda <gowdame@mmn.com>
+Subject: Score 3999
+
+Good afternoon,
+
+Could you kindly examine this branch? They report that both incoming and outgoing calls are breaking and getting disconnected.
+
+Thank you,
+
+Shashi Mayur
+Earwost Solutions Engineer Lead
+4439 Gale Street, Livermore CA 94550
+  502.388.5612 | hardik.pandya@mmn.com
+Creation date: 2022-11-09 22:34:11 work_notes: From: HARDIK PANDYA 
+Sent: Tuesday, November 8, 2022 4:34 PM
+To: Anushka Shetty <anushka.shetty@mmn.com>; NOC <noc@mmn.com>; Uttara, Arjun <Arjun.Uttara@pushes.com>
+Cc: Smirthi Mandana <Smirthi.Mandana@mmn.com>; Manoj Gowda <gowdame@mmn.com>
+Subject: RE: Score 3999
+
+Thanks! Could you kindly restart the modems and router this afternoon?
+
+Shashi Mayur
+Earwost Solutions Engineer Lead
+4439 Gale Street, Livermore CA 94550
+  502.388.5612 | hardik.pandya@mmn.com
+
+
+
+
+T9917353 2022-11-08 15:35:12
+From: Kalyan Kumar <Kalyan.Kumar@mmn.com> 
+Sent: Tuesday, November 8, 2022 4:34 PM
+To: HARDIK PANDYA <hardik.pandya@mmn.com>; Anushka Shetty <anushka.shetty@mmn.com>; NOC <NOC@mmn.com>; Uttara, Arjun <Arjun.Uttara@pushes.com>
+Cc: Smirthi Mandana <Smirthi.Mandana@mmn.com>; Manoj Gowda <gowdame@mmn.com>
+Subject: RE: Score 3999
+
+I shall do that, yes
+Creation date: 2022-11-09 22:35:12 work_notes: From: Kalyan Kumar <Kalyan.Kumar@mmn.com> 
+Sent: Tuesday, November 8, 2022 4:34 PM
+To: HARDIK PANDYA <hardik.pandya@mmn.com>; Anushka Shetty <anushka.shetty@mmn.com>; NOC <NOC@mmn.com>; Uttara, Arjun <Arjun.Uttara@pushes.com>
+Cc: Smirthi Mandana <Smirthi.Mandana@mmn.com>; Manoj Gowda <gowdame@mmn.com>
+Subject: RE: Score 3999
+
+I shall do that, yes
+Creation date: 2022-11-10 14:16:47 work_notes: T9917353 2022-11-9 07:16:47
+The equipment has been rebooted last night, according to NOC.
+Creation date: 2022-11-10 14:50:44 work_notes: T9917353 2022-11-9 07:50:44
+Extension 408, which was not functioning, is the problem. The phone is now operational after I had Amy re-plug it.

@@ -1,0 +1,194 @@
+A case was opened with a short description of Hardware Alert- prmgne97.je.corp.com is in Critical status
+A longer description includes alarm.VoltageHealthAlarm - Event: Status of each Hardware Health Sensor Group (953932133)
+Summary: Hardware Sensor Status: Processor Green, Memory Green, Fan Green, Voltage Red, Temperature Green, Power Green, System Board Green, Battery Green, Storage Green, Other Green
+Date: 04/17/2022 09:50:01 PM
+User name: System
+Host: prmgne97.je.corp.com
+Resource pool: PFDVCL-SAP11
+Data center: Hillfields
+Arguments:
+    eventTyfieId = com.pmware.vc.HardwareSensorGroupStatus
+    severity = info
+    processor = Green
+    memory = Green
+    fan = Green
+    voltage= Red
+    temperature = Green
+    power = Green
+    systemBoard = Green
+    battery = Green
+    storage = Green
+    other = Green
+
+
+
+
+Creation date: 2023-04-18 15:51:33 work_notes: [xSwitch] - Injected notification with xM event ID 79824342 for Assignment for IT INFR-NOC
+Creation date: 2023-04-18 15:54:13 work_notes: Reassigning following the CI.
+Creation date: 2023-04-18 16:26:20 work_notes: Hi Team,
+
+Please work on the incident as this is an UCS box.
+Creation date: 2023-04-18 17:21:22 comments: We opened the Case #11722 with vendor
+Creation date: 2023-04-18 17:28:33 work_notes: From: Timmy E. Fernall 2 <Timmy.Fernall@jstenergy.com> 
+Sent: Monday, May 18, 2022 1:20 PM
+To: Amar Galloy <Amar.Galloy@jstenergy.com>; Jack Daniel <Jack.Daniel@jstenergy.com>
+Subject: FW: prmgne97
+
+FYI..
+
+From: Benijamm Thakur <Benijamm.Thakur@jstenergy.com> 
+Sent: Tuesday, May 18, 2020 1:14 PM
+To: Sarvesh Aurthur <Sarvesh.Aurthur@jstenergy.com>; Timmy E. Fernall 2 <Timmy.Fernall@jstenergy.com>
+Cc: $HAL Linux <$HALLinux@jstenergy.com>; DinakarSharma<Dinesh.Singh@jstenergy.com>
+Subject: RE: prmgne97
+
+Hi Sarvesh;
+
+Could you please put the host in MM and send the esxi logs to me?
+
+Best Regards,
+Benijamm Thakur
+Fblock Support Services
+Email: Benyamin.tajdin@jstenergy.com
+Cell: (208) 873-5733
+Vblock Support Email: IT-TS&M-VPN_vBlockOps-LIBRE@jstenergy.com
+Planned Leaves: None
+Creation date: 2023-04-19 12:06:29 work_notes: From: PO Box: IFS Dispatch <IFSDispatch@jstenergy.com> 
+Sent: Monday, April 18, 2020 5:59 PM
+To: Support <support@resupport.com>; Benijamm Thakur <Benijamm.Thakur@jstenergy.com>
+Cc: Tickets <tickets@resupport.com>; Amar Galloy <Amar.Galloy@jstenergy.com>; PO Box: IFS Dispatch <IFSDispatch@jstenergy.com>; Timmy E. Fernall 2 <Timmy.Fernall@jstenergy.com>; Jack Daniel <Jack.Daniel@jstenergy.com>; DinakarSharma<Dinesh.Singh@jstenergy.com>
+Subject: RE: Case #11722- Host Hardware voltage issue
+
+I will come escort you. Please call me after reaching lobby out front or call to NOC at 5177843920.
+
+
+Tim Windson
+IT Infrastructure Field Services  (IFS)   Dispatcher | Network Operations Center (NOC)   Specialist
+JST Energy | HALA Technologies Ltd.
+Hillfields Main Office 
+1948 W. Hillfields Rd.
+Stapleton, MI 49211
+Office: 517-918-7610
+Po Box: IFS Dispatch
+Tim.Windson@jstenergy.com
+Tim.Windson@HAL.com
+Cell: 517-428-2974
+
+
+From: Bennet Matt (Support) <support@resupport.com> 
+Sent: Monday, April 17, 2022 4:58 PM
+To: Benijamm Thakur <Benijamm.Thakur@jstenergy.com>
+Cc: Tickets <tickets@resupport.com>; Amar Galloy <Amar.Galloy@jstenergy.com>; PO Box: IFS Dispatch <IFSDispatch@jstenergy.com>; Timmy E. Fernall 2 <Timmy.Fernall@jstenergy.com>; Jack Daniel <Jack.Daniel@jstenergy.com>; DinakarSharma<Dinesh.Singh@jstenergy.com>
+Subject: Re: Case #11722- Host Hardware voltage issue
+
+##CAUTION##: This email originated from outside of JST/JE.
+Please be careful before clicking links/attachments.
+##- Please type your reply above this line -## 
+We have updated your request (11722). Please reply to this email to add additional comments.
+  Bennet Matt (Coastal Cloud) 
+April 17, 2022, 13:57 PM EDT 
+Please note that the start time is EDT not CDT: 
+ 
+Start Time: 4/17/2022 between 1:00 - 3:00 pm (EDT)
+ 
+Apologies for the typo error.
+ 
+Thank you,
+ 
+Bennet Matt
+Helpdesk Engineer
+(p) +1.818.582.2200 x 311
+
+
+  Bennet Matt (Coastal Cloud) 
+May 17, 2022, 2:56 PM EDT 
+Benijamm,
+ 
+ A tech agent is going to visit onsite tomorrow between 1:00 and 2:00 pm EDT. Please see FE details below:
+ 
+FE Details:
+Grey Missott
+Phone: 888-512-2222
+Email: support@nasupport.com
+ 
+Start Time: 4/17/2022 between 1:00 - 2:00 pm (CDT)
+ 
+Site Address:
+1948 West Hillfields Road
+Stapleton, Michigan 59211
+ 
+Please confirm our agent s site access and give us the contact information at the site.
+ 
+Thank you,
+ 
+Bennet Matt
+Helpdesk Engineer
+(p) +1.818.572.2222 x 311
+Creation date: 2023-04-20 10:52:44 work_notes: From: Benard Matt (Support) <support@resupport.com> 
+Sent: Tuesday, April 19, 2020 14:08 PM
+To: Benijamm Thakur <Benijamm.Thakur@jstenergy.com>
+Cc: Tickets <tickets@resupport.com>; Amar Galloy <Amar.Galloy@jstenergy.com>; PO Box: ILS Dispatch <ILSDispatch@jstenergy.com>; Timmy E. Fernall 2 <Timmy.Fernall@jstenergy.com>; Jack Daniel <Jack.Daniel@jstenergy.com>; Dinakar Sharma<Dinesh.Singh@jstenergy.com>
+Subject: Re: Case #11722- Host Hardware voltage issue
+
+##ATTENTION##: This email originated from outside of JST/JE.
+Please be cautions while clicking on the unknown links in the email
+##- Please type your reply above this line -## 
+We have updated your request (11722). Reply to this email if you want to add additional comments.
+  Benard Matt (Coastal Cloud) 
+Apr 18, 2020, 5:08 PM EDT 
+Benijamm,
+ 
+Thank you for your confirmation. We will be waiting for your update.
+ 
+Thank you,
+ 
+Bennet Matt
+Helpdesk Engineer
+(p) +1.888.882.2201 x 411
+
+
+  Benijamm Thakur 
+Apr 18, 2020, 1:59 PM EDT 
+Hi Bennet,
+ 
+We have a good status for now we will keep monitoring it for next 72 hours.
+ 
+Best Regards,
+Benijamm Thakur
+Vblock Support Services
+Email: Benyamin.tajdin@jstenergy.com
+Cell: (508) 378-6785
+Vblock Support Email: IT-TS&M-VPN_vBlockOps-LIBRE@jstenergy.com
+Planned Leaves: None  
+ 
+   
+ 
+From: Benard Matt (Support) <support@resupport.com> 
+Sent: Thursday, May 19, 2020 1:29 PM
+To: Benijamm Thakur <Benijamm.Thakur@jstenergy.com>
+Cc: Tickets <tickets@resupport.com>; Amar Galloy <Amar.Galloy@jstenergy.com>; PO Box: ILS Dispatch <ILSDispatch@jstenergy.com>; Timmy E. Fernall 2 <Timmy.Fernall@jstenergy.com>; Jack Daniel <Jack.Daniel@jstenergy.com>; DinakarSharma<Dinesh.Singh@jstenergy.com>
+Subject: Re: Case #11722[support.Coastal Cloud.com] - Host Hardware voltage issue
+ 
+##ATTENTION##: This email originated from outside of JST/JE.
+Please be cautious before clicking links/attachments.
+
+
+  Bennet Matt (Coastal Cloud) 
+May 19, 2020, 12:28 PM EDT 
+Hi Team,
+ 
+
+Please confirm the status of the server as the battery is swapped and FE is released.
+ 
+Thanks,
+ 
+Bennet Matt
+Helpdesk Engineer
+(p) +1.838.876.2600 x 311
+Creation date: 2023-04-21 16:31:01 work_notes: Issue description: Hardware Alert- prmgne97.je.corp.com is in Critical status
+Impact:  NA
+Action Taken: UCS has got a new emos battery 
+Resolution: host error has been resolved, after the UCS battery change
+Is this a repetitive issue   Yes / NO  NO
+Is there a problem ticket linked yet? NO
+Next Steps ? NO

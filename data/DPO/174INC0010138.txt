@@ -1,0 +1,157 @@
+A case was opened with a short description of File System Capacity is greater than 90% in Firebase:uruewntzd.am.corp.com:F:\ Label: a4c2d2c3 on Firebase  volumes
+A longer description includes F:\ Label: a4c2d2c3 on uruewntzd  is 92 % Used
+
+
+
+
+Creation date: 2023-04-20 17:38:02 work_notes: Hello iTextico Team,
+Please fix this because G drive is 95% used and we keep having the same incidents. If you require any DBA-side assistance or information, kindly let us know. 
+ Below is the current status of the top tables in the ACFMP110_AG GNGKM DB. Please advise if the data can be deleted or if more space should be added.
+
+SchemaName TableName RowCounts Used_MB Unused_MB Total_MB
+dbo GIDB_G_PARTY_HISTORY_MM 1045395 52282.05 23.09 54505.13
+dbo GIDB_G_PARTY_MM 547415 48199.67 17.97 48227.45
+dbo MEDIATION_SEGMENT_FACT 62993959 29245.33 104.33 26850.66
+dbo INTERACTION_FACT 11166299 17364.08 5891.55 23235.63
+dbo CUSTOM_AM_TRANSFER_SUMMARY 49828137 23239.75 89.8 21338.55
+dbo GIDB_G_ROUTE_RESULT_MM 244480 20378.89 14.93 20403.82
+dbo CUSTOM_AM_QUEUE_DETAIL_DATA 62180195 19043.73 22.66 19073.38
+dbo AM_CUSTOM_GI2_CRADLE_TBL 40262473 15652.66 936.32 18498.98
+dbo IRF_USER_DATA_GEN_1 12622890 13473.72 4323.53 17667.25
+dbo IRF_USER_DATA_KEYS 12322610 13666.82 4327.38 17994.2
+dbo AGT_AGENT_GRP_SUBHR 165534306 14114.34 879.45 14993.8
+dbo CUSTOM_AM_TRANSFER_DETAILS 52396414 18949.83 179.92 13929.90
+dbo CUSTOM_AM_UNIQUE_CALLER 42228867 11300.34 2.7 11283.05
+dbo INTERACTION_RESOURAM_FACT 11622610 11329.16 49.23 11326.4
+dbo AGT_AGENT_GRP_HOUR 140722736 10281.86 140.81 10632.67
+dbo AM_LONG_WAIT_05012017 38713522 10095.6 51.95 11187.55
+dbo AGT_AGENT_GRP_DAY 95669840 8424.9 229.09 8823.98
+dbo AM_CUSTOM_GI2_CRADLE_TBL_DBL 29989545 7983.98 226.52 8900.5
+dbo GIDB_G_PARTY_HISTORY_V 22892289 7293.47 37.47 7240.94
+dbo AGT_AGENT_GRP_MONTH 79898334 6904.8 66.8 6171.61
+dbo GIDB_G_PARTY_V 1051427 6971.52 45.74 6717.26
+dbo SM_RES_STATE_FACT 12845420 5377.97 312.89 5670.86
+dbo GIDB_G_VIRTUAL_QUEUE_V 14041840 5053.84 21.02 5004.86
+dbo GIDB_G_USERDATA_HISTORY_V 23727361 5070.09 31.2 5071.3
+dbo CTL_EXTRACT_HISTORY 10907896 3968.67 697.91 4686.59
+dbo IXN_RESOURAM_STATE_FACT 11962346 4428.06 158.61 4276.67
+dbo xx_IVR_UniqueReport 12806433 4171.59 7.05 4278.65
+dbo USER_CUST_GIR_CONNIDS 41076183 3126.57 7.91 3794.48
+dbo GIDB_G_ROUTE_RES_VQ_HIST_V 11079098 3628.88 19.16 3644.04
+dbo INTERACTION_DESCRIPTOR 2199713 2282.2 659.42 2221.62
+dbo IRF_USER_DATA_CUST_1 12692610 2239.87 288.91 2228.78
+dbo GIDB_G_ROUTE_RESULT_V 4845445 2257.35 35.71 2193.06
+dbo USER_DATA_GEN_ESF 12688610 1819.88 616.72 2166.59
+dbo AGT_AGENT_QUEUE_SUBHR 21627930 1815.74 615.3 2471.05
+dbo AGT_AGENT_SUBHR 20722185 1697.07 562.41 2249.48
+dbo AGT_AGENT_QUEUE_HOUR 19224374 1699.52 553.22 2232.73
+dbo AGT_AGENT_HOUR 18013991 1453.77 484.66 1938.42
+dbo CTL_AUDIT_LOG 7176107 1159.17 176 1735.17
+dbo long_wait 7821003 1426.7 2.08 1428.77
+dbo GIDB_G_IR_HISTORY_V 5475165 1305.23 90.66 1385.89
+dbo GIDB_G_CALL_V 2239056 1241.4 137.3 1378.7
+dbo custom_am_transfer_details_bak 5116832 1325.69 0.05 1325.74
+dbo unique_caller 7834831 1297.7 2.01 1289.71
+dbo CUSTOM_AM_TRANSFER_DETAILS_Final 2918382 1244.12 43.73 1277.84
+dbo GIDB_G_IR_V 2732113 945.05 315.09 1210.14
+dbo CTL_ETL_HISTORY 3746372 1213.09 40.76 1293.85
+dbo AGT_AGENT_QUEUE_DAY 10396369 958.99 237.62 1186.61
+dbo GIDB_G_CALL_STAT_V 2731285 982.88 85.48 1098.35
+dbo zzbackupIVR_uniqueReport 2912233 1011.13 0.04 1011.16
+dbo GIDB_G_AGENT_STATE_HISTORY_V 2615834 801.7 201.11 1002.81
+
+
+Current F: (Data drive) Status:-
+
+ 
+Greetings and thanks,
+Louie Ponce
+
+
+
+
+
+
+From: JEROME SNYDER<JEROME.SNYDER@ameren.com> 
+Sent: Thursday, March 23, 2023 12:04 AM
+To: Louie Ponce<Louie.Ponceameren.com>; AM_Support@iTexticoSolutions <AM_Support@iTextico.com>
+Cc: iTexticoSupport <iTexticoSupport@ameren.com>; $Accenture Firebase DBA <AccentureFirebaseDBA@ameren.com>
+Subject: RE: P4:Your group has been assigned incident INC0889893
+
+Hello Team,
+
+Please give us an update on this. We keep seeing the same incidents and F: drive is 95% used.
+
+You have been assigned the INC0898993 incident in your queue.
+
+Current drive status:-
+
+ 
+
+
+Greetings and thanks,
+JEROME.SNYDER
+
+
+From: Louie Ponce<Louie.Ponceameren.com> 
+Sent: Monday, February 27, 2023 3:20 AM
+To: AM_Support@iTexticoSolutions <AM_support@itextico.com>
+Cc: iTexticoSupport <itexticoSupport@ameren.com>; $Accenture Firebase DBA <AccentureFirebaseDBA@ameren.com>
+Subject: RE: P4:Your group has been assigned incident INC0889893
+
+Hello Team,
+
+Would you mind updating us on this?
+ Current drive status:-
+ 
+
+
+Greetings and thanks,
+Louie Ponce
+
+
+
+
+From: Louie Ponce<Louie.Ponce@ameren.com> 
+Sent: Friday, May 12, 2021 9:39 AM
+To: AM_Support@iTexticoSolutions <AM_support@itextico.com>
+Cc: iTexticoSupport <itexticoSupport@ameren.com>; $Accenture Firebase DBA <AccentureFirebaseDBA@ameren.com>
+Subject: FW: P4:Your group has been assigned incident INC0889893
+
+Hello Team,
+ (ACGMP010_AG) urmwntzd, uruewntzd (Contact Center)The production database server's F: (Data drive) is operating at 90% capacity. I kindly ask you to check the data and free up space by archiving or deleting the material that isn't used.
+ Attached is the GUGIM database's top tables report. Let us know if you need any other information, please.
+
+
+
+Greetings and thanks,
+Louie Ponce
+
+
+From: Ameren Zendesk <ameren@zendesk.com> 
+Sent: Friday, May 12, 2021 9:47 PM
+To: Zayd Baxter<Zayd.Baxter@ameren.com>; JEROME SNYDER<JEROME.SNYDER@ameren.com>; Usman Wyatt<Usman.Wyatt@ameren.com>; Jasper Crawford <JAPER.CRAWFORD@ameren.com>; Jenny Mays<Jenny.Mays@ameren.com>; Heath Hale<Heath.Hale@ameren.com>; Diane Stevens <Diane.Stevens@ameren.com>; Edgar Hunter<Edgar.Hunter@ameren.com>; NANA PECK<NANA.PECK@ameren.com>; Louie Ponce<Louie.Ponceameren.com>; Sulaiman Best<Sulaiman.Best@ameren.com>
+Subject: P4:Incident INC0889893 has been given to your team.
+
+Date: 2021-02-18 11:23:37 EDT
+Number: INC0889893
+Short Description: File capacity is greater than 90% for Firebase:urmwntzd.am.corp.com:F:
+Label: a4c2d2c3 on Firebase volumes 
+ 
+Your group is assigned to an incident. Please take the necessary steps to designate a person to handle this incident's resolution.
+ 
+If you need more details or think this incident's assignment was made in error, please get in touch with the help scout. 
+
+Regards,
+The Help Scout
+ 
+Ref:MNG28960834
+Creation date: 2023-04-21 01:35:57 comments: Update from Firebase Team :
+
+Prior to this purging job in prod to remove the four years' worth of data, we must first implement purging in non-prod.  Once we have put it into non-prod, we'll let you know. The request for change has been made and forwarded to UAT approval.
+
+
+Next Update :
+
+waiting for a response from Firebase Team.
+Creation date: 2023-04-21 02:27:36 work_notes: Alert0335599 status is now Reopen for the related alert

@@ -1,0 +1,207 @@
+A case was opened with a short description of Issue with Real Timi
+A longer description includes Unable to share the Screen on Real Timi
+
+
+
+
+Creation date: 2022-10-06 16:18:02 work_notes: 2022-10-05 10:18:01 - Sujan Vangara (Work notes)
+TID verified, Managers name and Email ID verified
+-Working from Home
+-Company Issued Bauner
+-Asset Tag- P131631
+-User is able to use Real Timi through KOTA
+-Bauner OS Version- 206.0.4549.81
+
+Machine name CORP\CX1004CCG060762
+Display name Dove 09 - CC - Group 7
+Delivery Group Do 09 CC - Group 7 - Prod
+
+
+Creation date: 2022-10-06 16:20:54 work_notes:  INC0577513: a child incident has been added to this incident
+Creation date: 2022-10-06 16:21:39 work_notes: KB0010569
+Creation date: 2022-10-10 18:54:11 work_notes: Work note copied from Parent Incident: Hey Mahesh!
+ 
+I was not able to get the logs as i left the adapter in the office and I'm in wfh mode. Tomorrow once i reach the office I will get these logs sent over. Sorry for the delay!
+ 
+Thank you!
+ 
+Lakshmi Ratnam
+__________________________________________
+
+Hi Lakshmi,
+ 
+Thank you for testing the new release. Please update the following using the new release
+ 
+1.       XWA Bauner Client logs
+2.       XWA Bauner Console logs
+3.       Real Timi Optimization logs
+4.       Issue of screen recording
+ 
+The steps for collecting the logs below are listed here:
+ 
+https://docs.Xtrix.com/en-us/Xtrix-workspace-app-for-Bauner/troubleshoot.html
+ 
+Feel free to reach out for any queries.
+ 
+ 
+Thank you,
+--Mahesh
+Creation date: 2022-10-11 20:25:13 work_notes: Work note copied from Parent Incident: Good afternoon!
+ 
+I tried, but couldn't complete all the steps
+ 
+1) Able to obtain client logs. which are attached 
+
+2)Unable to obtain console logs. and couldn't find the in options listed , but I can see this in the instructions you sent: 
+"Starting with the version 5207 and later, the console logs are a part of the client logs. Hence, collecting the client logs alone can suffice."
+Xtrix Workspace on this Bauner computer is version 21.9.0.26.  Do you still need me to obtain console logs?
+ 
+3) Real Timi optimization logs were unable to be generated. I tried the on-screen keyboard and clicked CTRL + ALT + SHIFT + 2, but unable to find the downloads folder in the VDI or on the Bauner computer. This might be because of the issue I have won't allow the call to connect. Steps one & two say to launch the Real Timi application and initiate a call with one of the users which never established, as shown in the screen recording.
+
+4) Issue of the screen recording, also attached (to the email)
+ 
+Please let us know if you need any assistance further
+ 
+Lakshmi Ratnam
+Creation date: 2022-11-02 20:56:08 work_notes: Work note copied from Parent Incident: Recent update on the ticket
+_________________________________
+From: Mahesh Bhatt <Martin.Bhatt@Xtrix.com>
+Date: Sunday, October 23, 2022 at 1:30 PM
+To: Lakshmi Ratnam <Lakshmi.Ratnam@lfx.com>
+Cc: Xtrix Technical support <technicalsupport@Xtrix.com>
+Subject: RE: Xtrix Case 81427467 - Problem using freemicrosoft  Real Timi from XWA Bauner [ ref:_11D809M4V._4224z00002hrRvn:ref ]
+Hi Lakshmi,
+Thanks for the clarifying, and I apologize for the misunderstanding. logs were not generated for some reason and will check and update you with the provided logs.
+Thank you,
+--Mahesh
+NOTE:  Upcoming out of office Oct 26   Oct -31 
+Mahesh Bhatt
+Senior Escalation Engineer | Xtrix Workspace App
+Europe Technical Support
+T    +1 800-424-6549 ext.24528
+ __________________________________
+From: Lakshmi Ratnam <Lakshmi.Ratnam@lfx.com> 
+Sent: Sunday, October 16, 2022 4:19 PM
+To: Mahesh Bhatt <Martin.Bhatt@Xtrix.com>
+Cc: Xtrix Technical support <technicalsupport@Xtrix.com>
+Subject: Re: Xtrix Case 81427467 - Problem using  Real Timi from XWA Browser [ ref:_11D809M4V._4224z00002hrRvn:ref]
+Hello again,
+I'm unable send you the logs because I can't obtain the console logs in the first place.
+When I followed the instructions, listed here:
+https://docs.Xtrix.com/en-us/Xtrix-workspace-app-for-Bauner/troubleshoot.html
+Step 1 for console logs says "open Bauner://inspect/#apps". I was able to do this.
+Step 2 says "In the Apps tab, click inspect for all Xtrix Workspace-related dove: Sessiondove.html, Main.html"
+However, i couldn't find any thng on the page ans its just blank and  I do not even have the option to click inspect. I cant get the logs in this step and cant go next step without completing this .I tried this both in the browser on the VDI, and the browser in Storefront and they both show the same thing..
+(screenshot)
+Description automatically generated
+Thank you!
+Lakshmi Ratnam
+EUC Cam & MDM Manager
+812-463-3487
+ ________________________________
+From: Mahesh Bhatt <Martin.Bhatt@Xtrix.com>
+Date: Sunday, October 16, 2022 at 1:49 PM
+To: Lakshmi Ratnam <Lakshmi.Ratnam@lfx.com>
+Cc: Xtrix Technical support1<technicalsupport@Xtrix.com>
+Subject: RE: Xtrix Case 81427467 - Problem using  Real Timi from XWA Bauner [ ref:_11D809M4V._4224z00002hrRvn:ref ]
+Hi Lakshmi,
+After saving the log files, you can either attach them to an email or upload them to https://cis.Xtrix.com (specifying this case number when prompted).
+Thank you,
+--Mahesh
+NOTE:  Upcoming out of office Oct 19-20
+Mahesh Bhatt
+Senior Escalation Engineer | Xtrix Workspace App
+Europe Technical Support
+T    +1 800-454-8749 ext.21582
+ _______________________________
+From: Lakshmi Ratnam <Lakshmi.Ratnam@lfx.com> 
+Sent: Sunday, October 16 2022 10:07 AM
+To: Mahesh Bhatt <Martin.Bhatt@Xtrix.com>
+Cc: Xtrix Technical support <technicalsupport@Xtrix.com>
+Subject: Re: Xtrix Case 81427467 - Problem using freemicrosoft Real Timi from XWA Bauner [ ref:_11D809M4V._4224z00002hrRvn:ref]
+How can I upload console logs? There are no options listed when I go to apps on that page.
+Thank you!
+Lakshmi Ratnam
+EUC Cam & MDM Manager
+812-463-3487
+ _________________________________
+From: Mahesh Bhatt <Martin.Bhatt@Xtrix.com>
+Date: Sunday, October 16, 2022 at 09:01 AM
+To: Lakshmi Ratnam <Lakshmi.Ratnam@lfx.com>
+Cc: Xtrix Technical support <technicalsupport@Xtrix.com>
+Subject: RE: Xtrix Case 81427467 - Problem using freemicrosoft Real Timi from XWA Bauner [ ref:_11D809M4V._4224z00002hrRvn:ref ]
+Hi Lakshmi,
+Thanks,  Engineering team will look into the issue from a code level. for the uploaded logs. Please upload the console logs when you can as they might request for them also those when you are able.
+Thank you,
+--Mahesh
+NOTE:  Upcoming out of office Oct 19-20
+Mahesh Bhatt
+Senior Escalation Engineer | Xtrix Workspace App
+Europe Technical Support
+T    +1 800-424-6549 ext.24182
+Creation date: 2022-11-04 19:21:32 work_notes: Work note copied from Parent Incident: Hi Lakshmi,
+ 
+Request to have a glance on the recent update. I went over the logs you sent, and there might be a problem with the connection method or protocol used. I'm getting help from the internal resources and will update you asap.
+ 
+ 
+Thank you,
+--Mahesh
+ 
+ 
+NOTE: Upcoming out of office Nov 6
+ 
+Mahesh Bhatt
+Senior Escalation Engineer | Xtrix Workspace App
+Europe Technical Support
+T   +1 800-424-6549 ext.20582
+Creation date: 2022-11-22 21:18:49 work_notes: Work note copied from Parent Incident: Hello Lakshmi,
+
+Thanks much for connecting with us and providing feedback. As Mahesh is out of the office this week so I am handling this case. 
+
+Looking at the internal communications our internal teams have actively worked on the case. We asked to get the new version of XWA installed since it should patch some similar problems and wanted 1) to see if those fixes would help with your issue and 2) if not, then need to work with new version and new set of logs to get the issue fixed
+
+Next we need to gather a new set of logs and won't need to wait for the release of new version. After researching the logs which would fix the issue, we may be able to find a solution. However if there's a bug we'll need to install a new XWA version with that fix.
+
+I appreciate your patience and apologies for the time to get to a solution. Could you please collect a new set of logs and upload them so that I can provide them to our internal team to move toward fixing this problem.
+
+Best Regards,
+Rahul Laren
+Lead Escalation Engineer
+Xtrix Technical Support
+----------------------------------------
+From: Lakshmi Ratnam [Lakshmi.Ratnam@lfx.com]
+Sent: 11/20/2022 1:17 PM
+To: Martin.Bhatt@Xtrix.com
+Cc: technicalsupport@Xtrix.com; Clarie.Dave@lfx.com
+Subject: Re: Xtrix Case 81427467 - Problem using freemicrosoft Real Timi from XWA Bauner [ ref:_00D106M9V._2004z1hrDvu:ref ]
+Good afternoon!
+Even after updating the Xtrix Workspace app to 21.12.0.19, still got the same error message. When I XWA trying to connect to the Real Timi i can see myself in the camera's preview but while trying to join the call it says  "Sorry, we couldn't connect you."
+Can you suggest any other alternative , besides collecting logs and waiting for another version of Xtrix Workspace? As its the 4th Version i have tried but still getting the same error.
+Lakshmi Ratnam
+------------------------------------------------------------
+From: Mahesh Bhatt <Martin.Bhatt@Xtrix.com>
+Date: Tuesday, November 15, 2022 at 2:12 PM
+To: Lakshmi Ratnam <Lakshmi.Ratnam@lfx.com>
+Cc: technicalsupport@Xtrix.com <technicalsupport@Xtrix.com>
+Subject: Re: Xtrix Case 81427467 - Problem using  Real Timi from XWA Browser [ ref:_00D106M9V._2004z1hrDvu:ref ]
+Hi Lakshmi,
+Thanks for reply, Please check whether you have chance to test the new version or any queries related to it 
+Thank you,
+--Mahesh
+NOTE:  Upcoming out of office Nov 17-27
+Mahesh Bhatt
+Senior Escalation Engineer | Xtrix Workspace App
+Jannifer Technical Support
+T    +1 800-424-6549 ext.70582
+
+------------------------------------------------------------
+From: Lakshmi Ratnam [Lakshmi.Ratnam@lfx.com]
+Sent: 11/15/2022 1:04 PM
+To: Martin.Bhatt@Xtrix.com
+Cc: technicalsupport@Xtrix.com
+Subject: Re: Xtrix Case 81427467 - Problem using freemicrosoft Real Timi from XWA Browser [ ref:_00D106M9V._2004z1hrDvu:ref ]
+Hello!
+I am in office to work on this issue still unable to any update on this, as it is managed by Bauner, I don't have any options to update myself. Admin needs to give an update on this but he is currently out of office. I will send an update back when I have an update, and I am trying to get the error to repeat.
+Thank you!
+Lakshmi Ratnam
+Creation date: 2022-12-01 22:35:04 work_notes: Work notes copied from Parent Incident: Sent logs to Xtrix

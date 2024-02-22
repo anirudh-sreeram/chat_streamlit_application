@@ -1,0 +1,126 @@
+A case was opened with a short description of Increase space on server sncprd81 (SNGP03CI.life.san) - DXC IM No - E3-IM025376531
+A longer description includes Hi team,
+For datafile:
+/oracle/P03/burdata8 please add more 400 GB space
+
+
+
+
+Creation date: 2023-02-24 23:53:19 comments: 0007>Update
+23/02/2023 12:38:11 (dd/mm/yyyy hh:mm:ss) UTC
+(SHIVA.RAJU@dxc.com) RAJU, SHIVA
+We are proceeding to close the incident with Solved closure code as the requested FS has been extended.
+
+OUTPUT:
+
+Before:
+sncprd81:(/root/home/root)(root)#bdf /oracle/P03/burdata8
+Filesystem          kbytes    used   avail %used Mounted on
+/dev/vgP03data/lvburdata8
+                   282313264 180932156 09245625   69% /oracle/P03/burdata8
+sncprd81:(/root/home/root)(root)#
+
+After:
+
+sncprd81:(/root/home/root)(root)#bdf /oracle/P03/burdata8
+Filesystem          kbytes    used   avail %used Mounted on
+/dev/vgP03data/lvburdata8
+                   603433488 189424101 387359543   39% /oracle/P03/burdata8
+sncprd81:(/root/home/root)(root)#date
+Thursday Feb 23 06:28:41 CST 2023
+sncprd81:(/root/home/root)(root)#
+ 
+-----------------------------------------------------------------------
+
+<0003>Update
+23/02/2023 12:37:43 (dd/mm/yyyy hh:mm:ss) UTC
+(SHIVA.RAJU@dxc.com) RAJU, SHIVA
+We are proceeding to close the incident with Solved closure code as the requested FS has been extended.
+
+OUTPUT:
+
+Before:
+sncprd81:(/root/home/root)(root)#bdf /oracle/P03/burdata8
+Filesystem          kbytes    used   avail %used Mounted on
+/dev/vgP03data/lvburdata8
+                   289321264 189877656 98615625   69% /oracle/P03/burdata8
+sncprd81:(/root/home/root)(root)#
+
+After:
+
+sncprd81:(/root/home/root)(root)#bdf /oracle/P03/burdata8
+Filesystem          kbytes    used   avail %used Mounted on
+/dev/vgP03data/lvburdata8
+                   603453188 189765101 387802543   39% /oracle/P03/burdata8
+sncprd81:(/root/home/root)(root)#date
+Thursday Feb 23 06:28:41 CST 2023
+sncprd81:(/root/home/root)(root)#
+
+
+From: Priya, Raj <r.radhaPriya@dxc.com>
+Sent: 23 February 2023 17:41
+To: James, Mark <Mark.James-CTR@gill-niece.com>; KJE IN PcaS Team <KJEINPCASTEAM@dxc.com>
+Cc: IT bur - Basis <burbasis@gill-niece.com>; gill and niece SC notification <gillandniece.sc-notify@dxc.com>; ITO-KJE-IN-UX-AAT1 <KJEforgeinuxdts2@dxc.com>; ITO GDC INDIA gill-niece MONITORING <gill-niece.monitoring@dxc.com>
+Subject: RE: External: - INC1164121 - Increase space on server sncprd81 (SNGP03CI.life.san)
+
+Hi Mark.
+
+Extended FS needs to be checked
+
+@KJE IN PcaS Team - close the incident.
+
+Pre
+
+Post
+
+
+Regards,
+Raj.P
+From: James, Mark <Mark.James-CTR@gill-niece.com>
+Sent: Thursday, February 23, 2023 5:21 PM
+To: KERLIN, SIRI <SIRI.KERLIN@dxc.com>; KJE IN PcaS Team <KJEINPCASTEAM@dxc.com>
+Cc: IT bur - Basis <burbasis@gill-niece.com>; gill and niece SC notification <gillandniece.sc-notify@dxc.com>; ITO-KJE-IN-UX-AAT1 <KJEforgeinuxdts2@dxc.com>; ITO GDC INDIA gill-niece MONITORING <gill-niece.monitoring@dxc.com>
+Subject: RE: External: - INC1164121 - Increase space on server sncprd81 (SNGP03CI.life.san)
+
+Hi Team,
+
+Please update this on priority.
+
+
+Best Regards,
+
+Mark James |Q&H-STSTT Basis Consultant
+Mark.James-CTR@gill-niece.com
+Mobile: +91- 7755993213
+www.gill-niece.com
+
+
+
+From: KERLIN, SIRI <SIRI.KERLIN@dxc.com>
+Sent: February 23, 2023 5:13 PM
+To: KJE IN PcaS Team <KJEINPCASTEAM@dxc.com>; Tiwari, Vivek<Viivek.Tiwari@gill-niece.com>; James, Mark <Mark.James-CTR@gill-niece.com>
+Cc: IT bur - Basis <burbasis@gill-niece.com>; gill and niece SC notification <gillandniece.sc-notify@dxc.com>; ITO GDC INDIA GILL-NIECE MONITORING <gill-niece.monitoring@dxc.com>
+Subject: External: - INC1164121 - Increase space on server sncprd81 (SNGP03CI.life.san)
+
+CAUTION: External email
+
+
+Dear User,
+
+Desk Service Interaction E3-SD026702654 associated with IM Record E3-IM025376531 priority 3 and are working on the assigned task and will update the status as soon as possible. After the completion of task with update the status by email or phone. Please let us know if there is any high priority needed
+
+@KJE IN PcaS Team As per the customer's request. the incident has been raised and keep posted 
+
+
+SIRI KERLIN
+Service Delivery Consultant , AMS leveraged Team GIDC India Bela
+JNZ Technology
+ 
+-----------------------------------------------------------------------
+
+<0002>Start Work in progress
+23/02/2023 11:47:32 (dd/mm/yyyy hh:mm:ss) UTC
+(SHIVA.RAJU@DXC.COM) RAJU, SHIVA
+SHIVA.RAJU@DXC.COM has taken the owner, it starts 'Work in progress.'
+Creation date: 2023-02-24 23:53:31 work_notes: [xSwitch] - For this Incident existing events are terminated
+Creation date: 2023-03-04 06:01:54 comments: Resolved state will be automatically updated after 6 days of closure incident

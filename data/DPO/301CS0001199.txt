@@ -1,0 +1,141 @@
+A case was opened with a short description of Transfer the company from one InnovaTec cloud to Nimbus cloud
+A longer description includes Good Morning,
+
+We recently took over an organizations IT support, and their servers were already configured with InnovaTec.
+
+Is it possible for us to move this company to the Nimbus cloud and take over billing?
+
+In InnovaTec, the name of the company is Industrilink LLC
+The reseller at the moment is idsU
+
+Sincerely,
+John
+
+
+
+
+John Miller
+Senior Technician
++442810581184
+john.miller@techhubuk.com
+www.techhubuk.com
+IT Tech Hub office, 98 Victoria Road,
+ Little Bytham, NG3 4HT
+IT Tech Hub UK (Company num. 16884792) registered in England.
+ This message is contains private information and is only intended for the individual to whom it was addressed.
+ ___________________________________________________________________________________________________
+If you are not the intended recipient, please do not forward, distribute or copy email.
+If you received this email by mistake, kindly inform to sender immediately and delete it from your system.
+
+Please keep your surroundings in mind before printing  a copy of this email.
+
+Deflect IT has scanned this email for spam and viruses.
+
+
+
+
+Creation date: 2022-09-30 13:54:29 comments: 
+Hi, 
+Thanks for calling Nimbus Support! Could you please answer the following questions to help us route your case: 
+
+ 1. Is this client or subscription being transferred from an external distributor/vendor, to Nimbus? (Account Move/Channel Change)&nbsp;
+&nbsp;a. If Yes, which vendor(s) and product(s) will be brought over to Nimbus?
+
+Vendor: 
+Product:  &nbsp;
+
+2. Is this client or subscription moving within Nimbus from  one Nimbus Partner to another? (Customer Migration)
+3. Was this change a result of an Acquisition or Merger? (Partner Acquisition) 
+4. What is the earliest effective date this transfer of service should take place?
+&nbsp;
+
+Creation date: 2022-09-30 14:02:07 comments: Hi John,
+
+Thanks for calling Nimbus Support
+We have received and are processing your support request and will respond as soon as possible.
+In the meantime, if you have any questions, kindly do not hesitate to contact us.
+
+Best wishes
+Adam Haider
+Creation date: 2022-09-30 14:53:49 work_notes: closing ticket, duplicate of NIM4629116
+Creation date: 2022-09-30 14:59:09 comments: Hi,
+
+Why was this closed?
+
+Sincerely,
+John
+
+
+John Miller
+Senior Technician
++442810581184
+john.miller@techhubuk.com
+www.techhubuk.com
+IT Tech Hub office, 98 Victoria Road,
+ Little Bytham, NG3 4HT
+IT Tech Hub UK (Company num. 16884792) registered in England.
+ This message is contains private information and is only intended for the individual to whom it was addressed.
+ ___________________________________________________________________________________________________
+If you are not the intended recipient, please do not forward, distribute or copy email.
+If you received this email by mistake, kindly inform to sender immediately and delete it from your system.
+Please keep your surroundings in mind before printing  a copy of this email.
+Creation date: 2022-09-30 15:49:38 comments: Hi John
+
+It appears to be related to the previous ticket which you raised of the same nature that returned you to John.
+
+@Nimbus Support<mailto:support@nimbus.com>   kindly re-open this ticket and escalate to InnovaTec and let them know a customer needs to be switched between providers?
+
+if this is simply not possible on your end, please let us know and I will take over.
+
+Thank you
+
+[nimbus.com]<https://us.material.exclaimer.net?url=https%3A%2F%2Fwww.nimbus.com%2F&tenantid=BoTdQvPeylBwANOhMDEQ&templateid=262ggfe872ged22c58b111c4b241ecc&excomponentid=cd9a83rGY5Fhuguk-xeUqp6zULz3_7jMUf9TVuBR
+Douglas Wright  
+Channel Account Manager
++44 (228) 5689665<tel:+44%31(228)%315689665>
+nimbus.com<https://us.material.exclaimer.net?url=https%3A%2F%2Fwww.nimbus.com%2F&tenantid=BoTdQvPeylBwANQPDXHDEQ&templateid=262ggfe872ged22c58b111c4b241ecc
+Creation date: 2022-10-03 15:09:02 work_notes: Could someone look over my last email and inform me/the partner what's happening here? case was closed before we were given a resolution..
+Creation date: 2022-10-04 12:11:27 comments: Hi John,
+To avoid getting lost between these two cases, we will close this one and move forward in the other.
+
+duplicate ticket of NIM5730227
+Creation date: 2022-10-04 12:11:27 work_notes: from the  other tickets:
+TT
+Tyler Turner
+Work notes 29/09/2022 22:12:04
+From: Tyler Turner 
+Sent: Thursday, September 29, 2022 2:11 PM
+To: 'Oliver Martin' <Oliver.Martin@innovatec.com>; Grace Johnson <grace.johnson@innovatec.com>; Jacob Martin <jacob.martin@innovatec.com>
+Cc: Service Delivery - Continuity Team <continuity@nimbus.com>
+Subject: RE: InnovaTec Customer Transition - Industrilink
+
+Oliver, you are truly incredible. Thanks for really fast turnaround time!
+
+From: Oliver Martin <Oliver.Martin@innovatec.com>
+Sent: Thursday, September 29, 2022 3:03 PM
+To: Tyler Turner <tturner@nimbus.com>; Grace Johnson <grace.johnson@innovatec.com>; Jacob Martin <jacob.martin@innovatec.com>
+Cc: Service Delivery - Continuity Team <continuity@nimbus.com>
+Subject: [External] RE: InnovaTec Customer Transition - Industrilink
+
+Move is complete
+
+Oliver Martin
+Oliver Martin | Team Manager, Distribution and Aggregators
+InnovaTec | 18 W Hillcrest Dr, Suite 302,
+Newbury Park, CA 91320
+Mobile: +1 (864) 525-5883
+Arrange a call
+
+InnovaTec: Service Providers' Go-To for Cybersecurity. Find Out More
+
+
+From: Tyler Turner <tturner@nimbus.com>
+Sent: Thursday, September 29, 2022 12:19 PM
+To: Oliver Martin <Oliver.Martin@innovatec.com>; Grace Johnson <grace.johnson@innovatec.com>; Jacob Martin <jacob.martin@innovatec.com>
+Cc: Service Delivery - Continuity Team <continuity@nimbus.com>
+Subject: RE: InnovaTec Customer Transition - Industrilink
+
+Thanks Oliver!!
+
+
+Tyler Turner

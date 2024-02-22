@@ -1,0 +1,293 @@
+A case was opened with a short description of RE: AVD Problem [NIM3250955]
+A longer description includes Hello there,
+
+I am reopening this case as the user has recently informed us that the issue persists. Despite being on the latest FSLogix instance, they continue to encounter the pop up. It's worth nothing that while it doesn't occur every time, it is still happening multiple times a day.
+
+Victory Tampo
+
+Deployment Engineer
+[https://www.minocore.com/wp-content/uploads/2021/09/logo-1.png]<https://www.hfadvantageit.com/>
+[https://www.minocore.com/wp-content/uploads/2020/09/phone.png]
+101-609-1227
+
+[https://www.minocore.com/wp-content/uploads/2020/09/mail.png]
+Vtampo@hfadvantageit.com
+[https://www.minocore.com/wp-content/uploads/2020/09/website.png]
+www.hfadvantageit.com
+[https://www.minocore.com/wp-content/uploads/2020/09/address.png]
+40 Nicholson St., Footscray, NY 20449
+
+[https://www.minocore.com/wp-content/uploads/2021/08/friendsy.png]<https://www.friendsy.com/hfadvantageit/>[https://www.minocore.com/wp-content/uploads/2021/08/hive.png]<https://hive.com/hfadvantageit>[https://www.minocore.com/wp-content/uploads/2021/08/jobwise.png]<https://www.jobwise.com/company/hfadvantageit>[https://www.minocore.com/wp-content/uploads/2020/08/googlemap.png]<https://goo.gl/maps/Z2oA3mh8mQp>
+[https://www.minocore.com/wp-content/uploads/2021/08/awards.png]<https://www.hfadvantageit.com/>
+[https://www.minocore.com/wp-content/uploads/2020/08/bottom.png]<https://www.hfadvantageit.com/>
+
+
+
+
+Creation date: 2022-09-21 21:36:53 work_notes: Attached as a child of NIM3250955
+
+Creation date: 2022-09-21 21:36:54 work_notes: Attached as a child of NIM3250955
+
+Creation date: 2022-09-21 22:38:28 comments: Hello Victory, 
+
+Thank you for reaching out to Nimbus Support. I am David Anderson, an engineer on the Nimbus Infrastructure support team. I will be helping you with the slowness issue that is occurring when saving. Could you schedule a time for a screen share to investigate this matter? I am available from 12:00 to 12:30 PM CDT and again from 3:00 to 5:00 PM CDT. On Friday, I am available from 9:30 AM to 11:00 AM CDT. Please let me know if any of these time windows work for you.
+
+Regards,
+David
+
+Creation date: 2022-09-22 17:09:44 comments: Hello there,
+
+Can you provide your availability for Monday? I won't be available today, and I will be out of the office tomorrow. Thank you!
+
+Victory Tampo
+
+Deployment Engineer
+[https://www.minocore.com/wp-content/uploads/2021/09/logo-1.png]<https://www.hfadvantageit.com/>
+[https://www.minocore.com/wp-content/uploads/2020/09/phone.png]
+101-609-1227
+
+[https://www.minocore.com/wp-content/uploads/2020/09/mail.png]
+Vtampo@hfadvantageit.com
+[https://www.minocore.com/wp-content/uploads/2020/09/website.png]
+www.hfadvantageit.com
+[https://www.minocore.com/wp-content/uploads/2020/09/address.png]
+40 Nicholson St., Footscray, NY 20449
+
+[https://www.minocore.com/wp-content/uploads/2021/08/friendsy.png]<https://www.friendsy.com/hfadvantageit/>[https://www.minocore.com/wp-content/uploads/2021/08/hive.png]<https://hive.com/hfadvantageit>[https://www.minocore.com/wp-content/uploads/2021/08/jobwise.png]<https://www.jobwise.com/company/hfadvantageit>[https://www.minocore.com/wp-content/uploads/2020/08/googlemap.png]<https://goo.gl/maps/Z2oA3mh8mQp>
+[https://www.minocore.com/wp-content/uploads/2021/08/awards.png]<https://www.hfadvantageit.com/>
+[https://www.minocore.com/wp-content/uploads/2020/08/bottom.png]<https://www.hfadvantageit.com/>
+Creation date: 2022-09-22 17:20:51 comments: Hello Victory, 
+
+I have availability on Monday and Tuesday from 9:00 AM to 12:00 PM and 4:00 PM CDT. Please inform me if any of these time slots work for you.
+
+Regards,
+David
+
+Creation date: 2022-09-22 18:09:50 comments: Hello there!
+
+Let's schedule it for 3:00 PM CDT. Should I send a team invite, or will you be handling that?
+
+Victory Tampo
+
+Deployment Engineer
+[https://www.minocore.com/wp-content/uploads/2021/09/logo-1.png]<https://www.hfadvantageit.com/>
+[https://www.minocore.com/wp-content/uploads/2020/09/phone.png]
+101-609-1227
+
+[https://www.minocore.com/wp-content/uploads/2020/09/mail.png]
+Vtampo@hfadvantageit.com
+[https://www.minocore.com/wp-content/uploads/2020/09/website.png]
+www.hfadvantageit.com
+[https://www.minocore.com/wp-content/uploads/2020/09/address.png]
+40 Nicholson St., Footscray, NY 20449
+
+[https://www.minocore.com/wp-content/uploads/2021/08/friendsy.png]<https://www.friendsy.com/hfadvantageit/>[https://www.minocore.com/wp-content/uploads/2021/08/hive.png]<https://hive.com/hfadvantageit>[https://www.minocore.com/wp-content/uploads/2021/08/jobwise.png]<https://www.jobwise.com/company/hfadvantageit>[https://www.minocore.com/wp-content/uploads/2020/08/googlemap.png]<https://goo.gl/maps/Z2oA3mh8mQp>
+[https://www.minocore.com/wp-content/uploads/2021/08/awards.png]<https://www.hfadvantageit.com/>
+[https://www.minocore.com/wp-content/uploads/2020/08/bottom.png]<https://www.hfadvantageit.com/>
+Creation date: 2022-09-22 18:32:26 comments: Hello Victory ,
+
+
+I have just dispatched the meeting invitation. I look forward to our discussion on Monday.
+
+Regards,
+David
+
+Creation date: 2022-09-26 21:30:20 comments: Hello Victory, 
+
+Thank you for taking the time to call. After looking at the environment and noting that this is only occurring from this specific pool and the metrics don't obviously state a reason for this we have decided to escalate to Microsoft. This case will be transferred to our Vendor Assistance team. Once a Microsoft Engineer has been assigned to your case, someone from our Vendor Assistance team will contact you to facilitate communications with Microsoft.
+
+Regards,
+David
+
+Creation date: 2022-09-26 21:30:20 work_notes: VA:  MSFT Case created:  1108150030007348 Severity B ESDT.  Email.  The Partner is not included as an additional contact in the MSFT case.  No MSFT Engineer Assigned as of yet
+
+POC: Victory Tampo
+
+Email:  vtampo@minocore.com
+Phone:  101-188-6504
+
+Business Hours Eastern Time
+
+Overview
+Severity B
+Status Open
+Support request ID 1108150030007348 
+Created on Tue, Sep 25, 2022, 3:21:17 PM
+Created by David Anderson
+Contact method Email: danderson@nimbus.com
+Support plan Premier
+Advanced diagnostic info Permission granted
+
+Latency accessing file shares on BNN-AZ-FS02 from BNN-AZ-AVD02
+Creation date: 2022-09-27 16:23:38 work_notes: Engineer assignment is still pending. Contacted to David to inquire about updates and confirm receipt of the e-mail.
+Creation date: 2022-09-28 16:10:15 comments: Hello David!
+
+Do we have any updates on this? Has Microsoft not yet allocated an engineer to our case?
+
+Victory Tampo
+
+Deployment Engineer
+[https://www.minocore.com/wp-content/uploads/2021/09/logo-1.png]<https://www.hfadvantageit.com/>
+[https://www.minocore.com/wp-content/uploads/2020/09/phone.png]
+101-609-1227
+
+[https://www.minocore.com/wp-content/uploads/2020/09/mail.png]
+Vtampo@hfadvantageit.com
+[https://www.minocore.com/wp-content/uploads/2020/09/website.png]
+www.hfadvantageit.com
+[https://www.minocore.com/wp-content/uploads/2020/09/address.png]
+40 Nicholson St., Footscray, NY 20449
+
+[https://www.minocore.com/wp-content/uploads/2021/08/friendsy.png]<https://www.friendsy.com/hfadvantageit/>[https://www.minocore.com/wp-content/uploads/2021/08/hive.png]<https://hive.com/hfadvantageit>[https://www.minocore.com/wp-content/uploads/2021/08/jobwise.png]<https://www.jobwise.com/company/hfadvantageit>[https://www.minocore.com/wp-content/uploads/2020/08/googlemap.png]<https://goo.gl/maps/Z2oA3mh8mQp>
+[https://www.minocore.com/wp-content/uploads/2021/08/awards.png]<https://www.hfadvantageit.com/>
+[https://www.minocore.com/wp-content/uploads/2020/08/bottom.png]<https://www.hfadvantageit.com/>
+Creation date: 2022-09-28 17:00:35 work_notes: Hi Jose,
+
+Thank you for getting in touch. I have included our partner, Victory, In this e-mail thread. Victory, could you please inform us of your availability and provide a direct contact number?
+
+Thanks!
+
+
+From: Jose A <help@mail.support.microsoft.com> 
+Sent: Wednesday, September 26, 2022 10:38 AM
+To: David Anderson <danderson@nimbus.com>; helpmail@microsoft.com
+Cc: Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Paul Willo
+<pwillo@nimbus.com>; Mike Hopkins <mhopkins@nimbus.com>; Jose Atkinson <josea@microsoft.com>
+Subject: RE: [External] RE: Case 1108150030007348 
+  Your... - TrackingID#1108150030007348 
+
+
+Hi Everyone, 
+Thank you for reaching out to Microsoft Support. I am Jose, the UEX engineer designated to help you. Kindly inform me of your availability for a brief team meeting so that I can gather more information.
+ 
+Regards
+ 
+Jose Atkinson
+Microsoft | Support  Analyst
+P: +1 (879) 6650558
+Working hours: Mon-Fri 8:00am-5:00 PM PST
+josea@microsoft.com
+Creation date: 2022-09-28 17:01:16 comments: Hi Victory,
+
+Thank you for getting in touch. Initially, the Microsoft engineer overlooked including me in their initial e-mail. I have sense been added, and I have now included you in that e-mail thread as well.
+
+Thanks!
+Creation date: 2022-10-07 14:38:09 work_notes: Hi Jose,
+
+I trust you are having a wonderful day.
+
+I know that this case requires the Office team to be involved, but this co-op has been opened for a week with no signs of progress.
+
+Microsoft typically closes cases out on us if there is no forward progress within three days. How is it acceptable to deviate from your own policy?
+
+We urgently need to move forward on this case today, please.
+
+Thanks,
+
+From: Victory Tampo
+ <vtampo@hfadvantageit.com> 
+Sent: Wednesday, October 5, 2022 2:35 PM
+To: Jose Atkinson
+(Nilewith Solns) <josea@microsoft.com>; Paul Willo <pwillo@nimbus.com>; Microsoft Support <helpmail@microsoft.com>; David Anderson <danderson@nimbus.com>; Microsoft Support <helpmail@microsoft.com>
+Cc: Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Mike Hopkins<mhopkins@nimbus.com>
+Subject: RE: [External] RE: Case 1108150030007348 
+  Your... - TrackingID#1108150030007348 
+
+
+Any updates on this? Is there a specific reason for the prolonged delay in assigning an engineer?
+
+
+Victory Tampo
+
+Field Engineer
+ 
+   101-609-1227
+
+  vtampo@hfadvantageit.com
+  www.hfadvantageit.com
+
+40 Nicholson St., Footscray, NY 20449
+
+
+    
+
+ 
+ 
+
+
+From: Jose Atkinson (Nileworth Solns) <josea@microsoft.com> 
+Sent: Tuesday, October 4, 2022 12:40 PM
+To: Victory  Tampo <vtampo@hfadvantageit.com>; Paul Willo <pwillo@nimbus.com>; Microsoft Support <helpmail@microsoft.com>; David Anderson <danderson@nimbus.com>; Microsoft Support <helpmail@microsoft.com>
+Cc: Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Mike Hopkins <mhopkins@nimbus.com>
+Subject: RE: [External] RE: Case 1108150030007348 
+  Your... - TrackingID#1108150030007348 
+
+
+Hi Victory,
+ Regrettably, I am still awaiting the assignment of an engineer to the collaboration task I initiated with the Office team.
+I will continue to provide updates.
+We appreciate your patience.
+
+Warm regards,
+
+Jose Atkinson
+Microsoft | Support  Analyst
+P: +1 (879) 6650558
+Working hours: Mon-Fri 8:00am-5:00 PM PST
+josea@microsoft.com
+
+ 
+
+From: Victory Tampo <vtampo@hfadvantageit.com> 
+Sent: Tuesday, October 4, 2022 09:37 AM
+To: Jose Atkinson(Nileworth Solns) <josea@microsoft.com>; Paul Willo
+<pwillo@nimbus.com>; Microsoft Support <helpmail@microsoft.com>; David Anderson <danderson@nimbus.com>; Microsoft Support <helpmail@microsoft.com>
+Cc: Vendor Escalations - internal Technical Support <ve-internal@nimbus.com>; Mike Hopkins <mhopkins@nimbus.com>
+Subject: RE: [External] RE: Case 1108150030007348 
+  Your... - TrackingID#1108150030007348 
+
+
+Hello there!
+
+Do you have any updates on this case?
+
+Victory Tampo
+
+Field Engineer
+ 
+   101-609-1227
+
+  vtampo@hfadvantageit.com
+
+  www.hfadvantageit.com
+
+40 Nicholson St., Footscray, NY 20449
+
+
+    
+
+ From: Jose Atkinson(Nileworth Solns) <josea@microsoft.com> 
+Sent: Sunday, October 2, 2022 5:01 PM
+To: Victory Tampo
+ <vtampo@hfadvantageit.com>; Paul Willo <pwillo@nimbus.com>; Microsoft Support <helpmail@microsoft.com>; David Anderson <danderson@nimbus.com>; Microsoft Support <helpmail@microsoft.com>
+Cc: Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Mike Hopkins <mhopkins@nimbus.com>
+Subject: RE: [External] RE: Case 1108150030007348 
+  Your... - TrackingID#1108150030007348 
+
+
+Hi Victory,
+We appreciate the time you spent today. The discussed issue is unrelated to the FSlogix, as we were able to replicate it with an account not managed by FSlogix.
+The problem specifically occurs when users attempt to save a file in their redirected profile folder.
+It does not manifest when saving files locally.
+
+As the next step, I have submitted a request for an engineer from the Office team. Once the engineer is assigned, we will contact you to proceed with further investigation. 
+
+We appreciate it.
+
+Warm regards,
+
+Jose Atkinson
+Microsoft | Helper Engineer
+P: +1 (879) 6650558
+Working hours: Mon-Fri 8:00am-5:00 PM PST
+josea@microsoft.com

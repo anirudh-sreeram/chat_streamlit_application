@@ -1,0 +1,46 @@
+A case was opened with a short description of Docking station does not work  - Monitors stopped functioning
+A longer description includes Docking station does not work  - Monitors stopped functioning
+
+
+
+
+Creation date: 2023-04-04 16:30:51 work_notes: From: Riley Russo 
+Sent: Monday, March 3, 2022 10:21 AM
+To: Nikolas Ochoa <nikolas.ochoa@mcpower.com>
+Subject: FW: INC0916344 PC68291 - Poor USB C port
+
+
+
+From: PO Box: BLS Refresh Team <BLSPefreshTeam@mcpower.com> 
+Sent: Monday, April 4, 2022 10:26 AM
+To: Riley Russo <RILEY.RUSSO@mcpower.com>
+Subject: RE: INC0916344 PC62391 - Poor USB C port
+
+Hi Riley,
+
+I opened the change ticket-RITM0054067
+
+
+
+Thank you,
+
+Rhys Bishop
+End User Computing-Business Partner Services
+
+ 
+
+From: Riley Russo <RILEY.RUSSO@mcpower.com> 
+Sent: Monday, March 3, 2022 10:22 AM
+To: PO Box: BLS Refresh Team <BLSRefreshTeam@mcpower.com>
+Subject: INC0916344 PC62391 - Poor USB C port
+
+PC62391 is out of warranty and has a poor USB C port that needs to be  constantly pushed upwards    temporarily, we have a pile of sticky notes on the cable to make it function.
+
+Any chance we can get it changed?
+Creation date: 2023-04-04 16:34:54 work_notes: USB C connector is poor.
+RITM0054067 was opened to change the laptop computer.
+Closing the INC per Nikolas's okay.
+
+[12:03 PM] Riley Russo
+Just so you know, because the change ticket is now open, I will close the INC ticket so the ticket would not be counted against my record.  
+ like 1

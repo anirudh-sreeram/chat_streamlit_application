@@ -1,0 +1,221 @@
+A case was opened with a short description of Problem with the phone line in the branch.
+A longer description includes Division 3647 cannot contact Argentina
+
+
+
+
+Creation date: 2022-10-24 20:19:39 work_notes: From: WILLOW BARKER 
+Sent: Sunday, October 23, 2022 3:19 PM
+To: TwoLow <twolow@nicly.net>; Kasey Estes<kestes@nicly.net>; Benedict Bean <Bebean@nicly.net>; Frankie Hahn <fhahn@nicly.net>; Paul Kews <pkews@nicly.net>; Jade Miles <jmiles@nicly.net>
+Cc: Carter Nixon 
+<Carter.Nixon@tlb.com>; Harris Lyons <lyonsha@tlb.com>
+Subject: RE: Score 3647 (530-226-6407 - Main Number) Cannot call to Argentina 
+
+Great afternoon,
+ 
+Kindly initiate a support request for Division 3647 as they are encountering issues dialing Argentina. They are receiving a rapid busy signal when making calls. Below is a call example for reference. I am capable of calling it from my mobile.
+
+
+The call occurred at 2 pm using the number 877-564-5102. The phone provided only emitted a busy signal, with no further response.
+
+
+Appreciate it,
+
+Willow Barker
+Telephony Solutions Engineer Sr
+304 49th Ave N
+North Myrtle Beach, SC, 29582
+  380.639.2917 | willow.barker@tlb.com
+Creation date: 2022-10-24 20:27:02 work_notes: From: Kasey Estes <kestes@nicly.net> 
+Sent: Sunday, October 23, 2022 3:26 PM
+To: TwoLowBudget <twolow@nicly.net>; Benedict Bean <bebean@nicly.net>; Frankie Hahn <fhahn@nicly.net>; Paul Kews <pkews@nicly.net>; Jade Miles <jmiles@nicly.net>; WILLOW BARKER <willow.barker@tlb.com>
+Cc: Carter Nixon 
+<Carter.Nixon@tlb.com>; Harris Lyons <lyonsha@tlb.com>
+Subject: RE: Score 3647 (530-226-6407 - Main Number) Cannot call to Argentina - Ticket 6857376
+
+** EXTERNAL EMAIL - USE CAUTION **
+
+Ticket 6857376 
+ 
+Appreciate it,
+Kasey Estes 
+Enterprise Account Manager
+ 
+Nicly
+142 Biber St. Line 232 Providence, RI 64534
+T 401-322-9096 or 866-562-8222
+E kestes@nicly.net | W nicly.net
+Creation date: 2022-10-25 17:23:18 work_notes: From: WILLOW BARKER 
+Sent: Monday, October 24, 2022 12:21 PM
+To: Kasey Estes<mcoffman@nicly.net>; twolowbudget <twolow@nicly.net>; Kasey Estes <mdesanto@nicly.net>; Frankie Hahn <fhahn@nicly.net>; Paul Kews <pkews@nicly.net>; Jade Miles <jmiles@nicly.net>
+Cc: Carter Nixon 
+<Carter.Nixon@tlb.com>; Harris Lyons <lyonsha@tlb.com>
+Subject: RE: Score 3647 (530-226-6407 - Main Number) Cannot call to Argentina - Ticket 6857376
+
+Great afternoon,
+
+Is there any status update regarding this request? The branch is still incapable of making a call to the number provided below.
+
+Willow Barker
+Telephony Solutions Engineer Sr
+304 49th Ave N
+North Myrtle Beach, SC, 29582
+  380.639.2917 | willow.barker@tlb.com
+Creation date: 2022-10-25 20:35:05 work_notes: From: Paul Kews <pkews@nicly.net>
+Sent: Monday, October 24, 2022 3:02 PM
+To: WILLOW BARKER
+<willow.barker@tlb.com>
+Kasey Estes <kestes@nicly.net>
+TwoLowBudget' <twolow@nicly.net>; Paul Kews <pkews@nicly.net>; Kasey Estes <kestes@nicly.net>; Benedict Bean <Bebean@nicly.net>; brooke.parsons@guhes.com; Elliot Hampton <ehampton@nicly.net>; 
+Jade Miles <jmiles@nicly.net>
+Cc: Carter Nixon 
+<Carter.Nixon@tlb.com>; 
+Harris Lyons <lyonsha@tlb.com>
+Subject: RE: Score 3647 (530-226-6407 - Main Number) Cannot call to Argentina - Ticket 6857376
+
+** EXTERNAL EMAIL - USE CAUTION **
+
+Hello Willow,
+
+I've included the 3 WAV files, in which you can listen to the audio from the carrier being transmitted back to TLB (identical to the audio/IVR when I call from my mobile). In the audio file from TLB to the carrier, the only sound you can hear is the click when the caller disconnects at the end. Please conduct an inquiry. 
+
+Thank you!
+
+Paul Kews
+Manager Voice
+Network Operations Center 
+ 
+Nicly
+142 Biber St. Line 232 Providence, RI 64534
+T 401-322-9096 or 866-562-8222
+E kestes@nicly.net | W nicly.net
+ 
+Liqbo    Scatler    Straterlog    Viewers
+
+From: WILLOW BARKER <willow.barker@tlb.com> 
+Sent: Monday, October 24, 2022 2:42 PM
+To: Paul Kews <pkews@nicly.net>; Kasey Estes<mcoffman@nicly.net>; twolowbudget <twolow@nicly.net>;Benedict Bean <Bebean@nicly.net>; Kasey Estes <kestes@nicly.net>; Frankie Hahn <fhahn@nicly.net>; Jade Miles <jmiles@nicly.net>; Dhruv Patel <dpatel@nicly.net>
+Cc: Carter Nixon 
+<Carter.Nixon@tlb.com>; Harris Lyons <lyonsha@tlb.com>
+Subject: RE: Score 3647 (530-226-6407 - Main Number) Cannot call to Argentina - Ticket 6857376
+
+They recently attempted the phone number (877-564-5102) once more and encountered the same rapid congestion signal.
+
+Willow Barker
+Telephony Solutions Engineer Sr
+304 49th Ave N North Myrtle Beach, SC, 29582
+  380.639.2917 | willow.barker@tlb.com
+ 
+
+ 
+
+From: WILLOW BARKER 
+Sent: Monday, October 24, 2022 2:14 PM
+To: Paul Kews <pkews@nicly.net>; Kasey Estes<mcoffman@nicly.net>; TwoLowBudget <twolow@nicly.net>; Benedict Bean <bebean@nicly.net>; Frankie Hahn <fhahn@nicly.net>; Jade Miles <jmiles@nicly.net>; Dhruv Patel <dpatel@nicly.net>
+Cc: Sandy Morgan <Sandy.Morgan@tlb.com>; Michele Nolan <nolanmi@tlb.com>
+Subject: RE: Score 3647 (530-226-6407 - Main Number) Unable To Dial Argentina - Ticket 6857376
+
+I intend to have them reevaluate.
+
+Willow Barker
+Telephony Solutions Engineer Sr
+304 49th Ave N North Myrtle Beach, SC, 29582
+  380.639.2917 | willow.barker@tlb.com
+ 
+
+ 
+
+From: Paul Kews <pkews@nicly.net> 
+Sent: Monday, October 24, 2022 1:51 PM
+To: WILLOW BARKER <willow.barker@tlb.com>; Kasey Estes<mcoffman@nicly.net>; TwoLowBudget <twolow@nicly.net>; Benedict Bean <bebean@nicly.net>; Frankie Hahn <fhahn@nicly.net>; Jade Miles <jmiles@nicly.net>; Dhruv Patel <dpatel@nicly.net>
+Cc: Sandy Morgan <Sandy.Morgan@tlb.com>; Michele Nolan <nolanmi@tlb.com>
+Subject: RE: Score 3647 (530-226-6407 - Main Number) Unable To Dial Argentina - Ticket 6857376
+
+** EXTERNAL EMAIL - USE CAUTION **
+
+Good Afternoon Willow.
+
+The call instance, enclosed, from the previous day exhibits a standard phone conversation with a 50-second preamble before the BYE/termination. Could you duplicate the problem and furnish particulars? I also activated recording on this connection.
+
+Appreciate!
+
+Paul Kews
+Manager Voice
+Network Operations Center 
+ 
+Nicly
+150 JEFFERSON ST
+PASSAIC NJ 07055
+T (347) 525-8968
+E pkews@nicly.net | W nicly.net
+ 
+Liqbo  Scatler   Straterlog    Viewers
+
+From: WILLOW BARKER <steve.satterfield@tlb.com> 
+Sent: Monday, October 24, 2022 12:21 PM
+To: Kasey Estes<mcoffman@nicly.net>; twolowbudget <twolow@nicly.net>; Benedict Bean <bebean@nicly.net>; Frankie Hahn <fhahn@nicly.net>; Paul Kews <pkews@nicly.net>; Jade Miles <jmiles@nicly.net>
+Cc: Sandy Morgan <Sandy.Morgan@tlb.com>; Michele Nolan <nolanmi@tlb.com>
+Subject: RE: Score 3647 (530-262-4670 - Main Number) Unable To Dial Argentina - Ticket 6857376
+
+Great afternoon,
+
+Is there any status update regarding this request? The branch is still incapable of making a call to the number provided below.
+
+Willow Barker
+Telephony Solutions Engineer Sr
+304 49th Ave N
+North Myrtle Beach, SC, 29582
+  380.639.2917 | willow.barker@tlb.com
+Creation date: 2022-10-26 12:25:26 work_notes: From: WILLOW BARKER 
+Sent: Tuesday, October 25, 2022 7:25 AM
+To: 'Paul Kews' <pkews@nicly.net>; 'TwoLow' <twolow@nicly.net>; 'Kasey Estes' <kestes@nicly.net>; 'Benedict Bean' <Bebean@nicly.net>; 'Brooke Parsons'<brooke.parsons@guhes.com>; Elliot Hampton <ehampton@nicly.net>; 
+'Jade Miles' <jmiles@nicly.net>
+Cc: Carter Nixon 
+<Carter.Nixon@tlb.com>; Harris Lyons <lyonsha@tlb.com>
+Subject: RE: Score 3647 (530-226-6407 - Main Number) Cannot call to Argentina - Ticket 6857376
+
+Here's another call sample from yesterday evening.
+
+Outbound To 877-136-6410 Called at 4:42 PM EST 20/44   Received fast busy
+
+
+Appreciate,
+
+Willow Barker
+Telephony Solutions Engineer Sr
+304 49th Ave N North Myrtle Beach, SC, 29582
+  380.639.2917 | willow.barker@tlb.com
+
+ 
+
+From: WILLOW BARKER 
+Sent: Monday, October 24, 2022 3:31 PM
+To: Paul Kews <pkews@nicly.net>; 
+TwoLow <twolow@nicly.net>;
+Kasey Estes <kestes@nicly.net>; Benedict Bean <Bebean@nicly.net>; brooke.parsons@guhes.com; Elliot Hampton <ehampton@nicly.net>; 
+Jade Miles <jmiles@nicly.net>
+Cc: Carter Nixon 
+<Carter.Nixon@tlb.com>; Harris Lyons <lyonsha@tlb.com>
+Subject: RE: Score 3647 (530-226-6407 - Main Number) Cannot call to Argentina - Ticket 6857376
+
+Brooke, could you please examine these calls to investigate the reason for the failure? The branch reports receiving a fast busy signal when making calls, but I can call from my mobile without any problems.
+
+Willow Barker
+Telephony Solutions Engineer Sr
+304 49th Ave N North Myrtle Beach, SC, 29582
+  380.639.2917 | willow.barker@tlb.com
+Creation date: 2022-10-27 19:31:39 work_notes: From: WILLOW BARKER 
+Sent: Wednesday, October 26, 2022 2:31 PM
+To: 'twolowbudget' <twolow@nicly.net>; Paul Kews <pkews@nicly.net>; Kasey Estes <kestes@nicly.net>; Benedict Bean <Bebean@nicly.net>; brooke.parsons@guhes.com; Elliot Hampton <ehampton@nicly.net>; 
+Jade Miles <jmiles@nicly.net>
+Cc: Carter Nixon 
+<Carter.Nixon@tlb.com>; Harris Lyons <lyonsha@tlb.com>
+Subject: RE: Score 3647 (530-226-6407 - Main Number) Cannot call to Argentina - Ticket 6857376
+
+Any progress on this request?
+
+Willow Barker
+Telephony Solutions Engineer Sr
+304 49th Ave N North Myrtle Beach, SC, 29582
+  380.639.2917 | willow.barker@tlb.com
+Creation date: 2022-11-01 13:47:03 work_notes: I haven't received any fresh call samples. I've contacted the division but haven't received a response. If the branch encounters additional problems, a new support request will be initiated.

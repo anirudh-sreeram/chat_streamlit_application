@@ -1,0 +1,173 @@
+A case was opened with a short description of Data processing is lacking in Kubernetes deployment.
+A longer description includes The notes from our last call are included below:
+
+Kobe is developing a Python implementation of Kubernetes; he has supplied specifications for the environment (compute, CPU, memory, etc.); it deploys without issue and appears to be in good condition; nonetheless, it becomes stuck when it tries to parse data.
+Has max 10k replicas on it so, should be able to spin up. 
+It can spin up since it has a maximum of 10,000 copies on it. 
+I believe he said there was proof that it worked sometimes but not usually.
+The quantity of data going through it is minuscule. (This could be the Microsoft ticket.)
+They were issued a ticket (which I can't find) that MSFT marked as addressed (as the primary problem was rectified).
+They need to look into why computing assets aren't always available even if they do have them and are being charged for them.
+
+
+
+
+Creation date: 2022-10-11 14:05:50 comments: Good afternoon Kobe,
+
+I am Jago from Cloudspace Technical Support, I hope everything is good with you.
+
+As per our agreement, this is the ticket pertaining to the Kubernetes deployment's incorrect treatment of the data you sent. Miah has the other ticket for Zac's problem, and this will be the only ticket for resolving this particular issue.  That being said, I'll close the other identical tickets right now. 
+
+
+Since he is more acquainted with the circumstances and surroundings, Miah will be taking over for you on this ticket and serve as your point of contact going forward.
+
+Once again, I appreciate your time earlier.
+
+Best regards,
+
+Jago
+Creation date: 2022-10-12 09:26:06 comments: Hello Kobe,
+
+Microsoft has reopened case (5000099122092300) and they have a call planned with Jakob for 15:30.
+
+How did this turn out? I haven't seen any updates on the email chain. Was anything agreed upon?
+
+Thank you,
+
+Miah
+Creation date: 2022-10-13 14:43:05 work_notes: CS3787311 was canceled since it was a duplication. MFST continues to use 4000819422101100 and collaborate with Kobe. I'm not sure if they're utilizing both tickets, but they have a meeting scheduled on ticket 4000819422101100. Just in case there was anything you were lacking.
+Creation date: 2022-10-14 14:51:38 work_notes: ________________________________________________________________________________ 
+Microsoft Teams meeting 
+Participate on your computer, mobile app or room device
+To attend the meeting, please click here
+Meeting ID: 209 495 661 253 
+Passcode: Kn7eRs 
+Download Teams | Join on the web
+Or call in (audio only) 
++40 20 528 2077,,443389207#   Romania, All locations 
+Phone Conference ID: 443 389 207# 
+Find a local number | Reset PIN 
+Learn More | Meeting options 
+________________________________________________________________________________ 
+
+
+_____________________________________________
+From: Kobe Morton <Kobem@optimalflo.com> 
+Sent: Wednesday, October 12, 2022 01:34 PM
+To: Phyllis Lyons <phlyon@microsoft.com>
+Cc: Microsoft Support <supportmail@microsoft.com>; rrusso@cloudspace.com; lpayne@cloudspace.com; ve-infrastructure@cloudspace.com; tgonzales@cloudspace.com; Miah Barnes <MBarnes@cloudspace.com>
+Subject: Re: [EXTERNAL] Re: The problem of transmitting big volumes of data with Pytho... - TrackingID#4000819422101100
+
+Yes, 100%. Perhaps 10 a.m. tomorrow? Kobe
+
+On Wed, 12 Oct 2022, 10:02 Phyllis Lyons, <phlyon@microsoft.com> wrote:
+Hello Kobe,
+
+There appears to be an Internet outage here unfortunately; it is expected to be resolved this evening. Can we move the meeting to tomorrow? I had planned for it to happen today.
+________________________________________
+From: Kobe Morton <Kobem@optimalflo.com>
+Sent: Wednesday, October 12, 2022 11:05:12 PM
+To: Microsoft Assist <assistmail@microsoft.com>
+Cc: rrusso@cloudspace.com <rrusso@cloudspace.com>; lpayne@cloudspace.com <lpayne@cloudspace.com>; ve-infrastructure@cloudspace.com <ve-infrastructure@cloudspace.com>; tgonzales@cloudspace.com <tgonzales@cloudspace.com>; MBarnes@cloudspace.com <MBarnes@cloudspace.com>; Phyllis Lyons <phlyon@microsoft.com>
+Subject: [EXTERNAL] Re:The problem of transmitting big volumes of data with Pytho... - TrackingID#4000819422101100
+ 
+ It's rare that you receive an email from kobem@optimalflo.com. Find out why this matters.
+
+Hello Phyllis, Can we arrange a meeting to talk about this? Thank you, Kobe
+
+On Tue, 11 Oct 2022 at 10:05, Kobe Morton <Kobem@optimalflo.com> wrote:
+Hello Phyllis, 
+
+thank you. 
+
+I used the azure ml python sdk to construct an aks service. It functions, however I can only send a limited amount of data through before receiving the following error.
+
+
+Received bad response from service. Calling`.get_logs()` on the webservice object yields further information.
+Response Code: 502
+Headers: {'cache-control': 'max-age=0, private, must-revalidate', 'content-length': '146', 'content-type': 'text/plain; charset=utf-7', 'date': 'Mon, 10 Oct 2022 09:35:57 GMT', 'server': 'Corral', 'x-ms-request-id': 'c481bba1-192b-3dd7-b8cc-2f1fa5fa6cc0'}
+Content: b'Insufficient number of working backends for the service aks-service-go-t2 (deadline), last failure: timeout. \nHelp: https://help.microsoft.com/fv/?link-id=1046737'
+
+---------------------------------------------------------------------------
+WebserviceException                       Traceback (most recent call last)
+<timed exec> in <module>
+
+~/miniconda3/envs/go/lib/python3.7/site-packages/azureml/core/webservice/aks.py in run(self, input_data)
+    535                                       'Headers: {}\n'
+    536                                       'Content: {}'.format(resp.status_code, resp.headers, resp.content),
+--> 538                                       logger=module_logger)
+    539 
+    540     def update(self, image=None, autoscale_enabled=None, autoscale_min_replicas=None, autoscale_max_replicas=None,
+
+WebserviceException: WebserviceException:
+    Message: Received bad response from service. More information can be found by calling `.get_logs()` on the webservice object.
+Response Code: 502
+Headers: {'cache-control': 'max-age=0, private, must-revalidate', 'content-length': '147', 'content-type': 'text/plain; charset=utf-8', 'date': 'Tue, 11 Oct 2022 10:36:57 GMT', 'server': 'Corral', 'x-ms-request-id': 'd481bba0-292a-4dd8-a8bb-1f1fa6fa7cc1'}
+Content: b'Insufficient number of working backends for the service aks-service-go-t2 (deadline), last failure: timeout. \nHelp: https://help.microsoft.com/fv/?link-id=1046737'
+    InnerException None
+    ErrorResponse 
+{
+    "error": {
+        "message": "Received bad response from service. More information can be found by calling `.get_logs()` on the webservice object.\nResponse Code: 502\nHeaders: {'cache-control': 'max-age=0, private, must-revalidate', 'content-length': '147', 'content-type': 'text/plain; charset=utf-8', 'date': 'Tue, 11 Oct 2022 10:36:57 GMT', 'server': 'Corral', 'x-ms-request-id': 'd481bba0-292a-4dd8-a8bb-1f1fa6fa7cc1'}\nContent: b'Not enough working backends for service aks-service-go-t2 (deadline), last failure: timeout. \\nHelp: https://help.microsoft.com/fv/?link-id=2146748'"
+    }
+}
+
+Try-outs for Virtual Machines include  
+
+Standard_D1_v2
+Standard_D2_v2
+Standard_D4_v2
+
+3 cpus and 8gb memory.
+
+But they all produce the same error. 
+
+Six big language models (1 GB each) are used in the deployment. 
+
+I'd be delighted to guide you through the code.
+
+What do you think the next step should be, a phone call?
+
+Kobe
+
+
+
+
+On Tue, 11 Oct 2022 at 09:14, Phyllis L <support@mail.support.microsoft.com> wrote:
+Hi Kobe,
+ 
+I am the support escalation engineer for Azure Machine Learning that will be assisting you with this service request. I am now in charge of this service request and will serve as your primary contact going forward. I looked into the issue's specifics, the subscription, the available resources, and the logs.
+ 
+Please include the reproduction steps, print screens, and problem specifics.
+Please let me know if you have any further queries or worries.
+ 
+Never forget that during a support conversation, Microsoft will never ask for your password or other authentication credentials. Additionally, kindly refrain from emailing any personal or financial information.
+ 
+Best Wishes,
+Phyllis Richmond Lyons
+  
+SUPPORT ESCALATION ENGINEER
+Developer Support
+Customer Service and Support Office: +40 (30) 0220406
+Mobile: +40 628080448
+
+Deflect IT has checked this email for viruses and spam.  
+Creation date: 2022-10-17 11:12:24 comments: Hello Kobe,
+
+It appears that you have brought up another issue with your Kubernetes deployment - CS4744964. Since we can only have one case per issue, I will have to close that one.
+
+Were any modifications made to the deployment before this problem?
+
+Miah
+Creation date: 2022-10-17 11:12:24 work_notes: Info from duplicate - CS4744964
+
+Hello,
+
+I must submit a support request.
+
+Kubernetes deployments that previously functioned properly no longer run. There is no error notice, and nothing occurs.
+
+Kobe
+Creation date: 2022-10-17 11:24:34 comments: These issues are not quite the same. They could be linked. I'm not sure. Regarding test deployments, I opened a ticket. The topic of this ticket is deployments in production. Although they use distinct Azure services, they are connected. Kobe
+Creation date: 2022-10-17 14:07:30 work_notes: Will reopen other ticket since it refers to a different resource
+Creation date: 2022-10-17 15:08:17 work_notes: Unable to open up the previous case - new one was made instead - CS4748398

@@ -1,0 +1,317 @@
+A case was opened with a short description of Remote Desktop WVD sessions locked up
+A longer description includes Hello, users frequently experience our remote desktop sessions locking up when they attempt to log in. Screenshots attached which show that the session stalls and needs to be restarted when the duo appears for their yubikey authentication or when they get stuck on the please wait screen. We've been experiencing this for weeks; Can you please provide us with immediate help?
+
+
+
+
+Creation date: 2022-09-23 12:38:23 comments: Another thing that has been happening a lot on login in a black screen. We need assistance with this immediately. I think it's an issue with FSLogix.
+Creation date: 2022-09-23 12:47:47 comments: Hello Milo,
+
+Thank you for contacting  Nimbus  Technical Support. My name is Tharan, the Infrastructure Support Engineer at  Nimbus who will be assisting with your case.
+What is the resource in question so I can help you better?
+Are multiple users or one specific user being effected? if specific, please share the user account name.
+Did you attempt to reboot the WVD?
+If it is related to FSlogix, did you locate and pull the profile logs for the user account effected?
+Logs can be found in %ProgramData%\FSLogix\Logs\Profile
+Registry export of HKLM\SOFTWARE\FSLogix\
+ C:\Program Files\FSLogix\Apps
+
+Steps that your team has taken to troubleshoot
+Errors that have happened while troubleshooting and relevant screenshots
+Additional information that may be useful.
+
+
+Thank you,
+
+Tharan
+Creation date: 2022-09-23 13:14:28 comments: CybSecure has determined an unsafe  attachment. If you require this attachment, please contact the original sender.
+
+VM-IV-SH-1,  VM-IV-SH-2,  VM-IV-SH-3 is experiencing this
+
+All users on and off
+
+Rebooted WVD session hosts and servers dozens of times these past few weeks
+
+SH-3 logs and registry attached
+
+
+Thank you,
+
+
+Milo Brogan
+
+Service Desk and Network Operations Lead
+
+Phone: (434)-348-5411 Opt. 6 | Email: technicalsupport@groupedge.com | Website: www.groupedge.com<http://www.groupedge.com>
+
+
+[signature_322358357]
+
+
+This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message.
+Creation date: 2022-09-23 13:19:53 comments: Responding with email thread discussing issues from site contact Abby and troubleshooting steps taken in my ticket
+
+------------
+Creation date: 2022-09-23 13:54:35 comments: Hello Milo,
+
+Okay. Thank you for providing the information. The FSlogix (version 2.9.8171.14983) you have has issue delay with certain processes, namely cache and container redirection.
+Please update apply latest hotfix for FSlogix and see what happens.
+https://learn.microsoft.com/en-us/fslogix/latest-updates
+
+Thank you,
+
+Tharan
+Creation date: 2022-09-23 13:59:40 comments: Tharan,
+
+Is it necessary that I log into each session host and update? What do I do with VM-IV-FSAPP02?
+
+
+Thank you,
+
+
+Milo Brogan
+
+Service Desk and Network Operations Lead
+
+Phone: (434)-348-5411 Opt. 6 | Email: technicalsupport@groupedge.com | Website: www.groupedge.com<http://www.groupedge.com>
+
+
+[signature_322358357]
+
+
+This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message.
+Creation date: 2022-09-23 14:02:12 comments:  Do I need to reboot the server as well?
+Creation date: 2022-09-23 14:23:49 comments: Milo,
+
+Yes, you will also need to reboot each server FSLogix fix applied.
+ VM-IV-FSAPP02 is a VDHx shared and FSlogix profile redirection. You can check if  FSLogix   installed on this VM and perform update.
+ If you have any questions, please let us know.
+
+Thank you,
+
+Tharan
+Creation date: 2022-09-23 18:22:07 comments: Thank you, Tharan. Updated FSLogix app. I'll check again after rebooting.
+ The reason I want to include the attached email is because I have another problem. I'm looking for a specific INI file in a user's profile that doesn't get transferred when the session ends, and they log back into an app called "Ascend" used by employees. Did you gain any insight from reviewing these emails from our partners and teams? We'll continue to let you know if the FSLogix update helps with any other problems we have been experiencing.
+
+Thank you,
+
+
+Milo Brogan
+Creation date: 2022-09-23 18:41:01 comments: Hello Milo,
+
+Great! Thanks for updating FSlogix. I looked into the ASEND-HI. IINI from the AScend user account. It may relate to the previous old FSlogix version which had latency and App redirect from App server VM-IV-FSAPP02.
+
+Hope FSlogix hotfix and all reboots and updating concurs that problem too.
+
+
+Please let me know if you have other problems.
+
+Thanks,
+
+Tharan
+Creation date: 2022-09-23 18:46:50 comments: Tharan,
+
+I believe there is another INI file that is not being transferred between profiles. The Ascend support rep thinks so, too.
+Creation date: 2022-09-23 18:51:26 comments: Milo,
+
+Can you confirm with the Vendor, does this INI printer driver needed administrator privileges for every user profile redirect through FSLogix?
+
+Thank you,
+
+Tharan
+Creation date: 2022-09-23 19:06:10 comments: As far as I know, that's not the case. I believe there are two INI files that store custom printer settings. I just can't locate the second file. The first file saves the logout/login changes correctly, but this second file containing the form placement print properties does not. Every time the user logs back into the cloud, the settings are reset, so this second INI file is either deleted or not included in the user's VHD for FSlogix. I will check with the team.
+Creation date: 2022-09-23 19:17:05 comments: Milo,
+
+Got it. I appreciate you looking into it.Please update me.
+
+Thank you,
+
+Tharan
+Creation date: 2022-09-23 19:21:02 comments: Tharan,
+
+Users are still freezing when they try to log into remote desktop or WVD. They're stuck at the "Please wait" screen. the fact that they are still in production hours has prevented us from rebooting. Most recently user Journey Moore
+Creation date: 2022-09-23 19:24:42 comments: Milo,
+
+Those WVDs must be rebooted. Would you be able to reboot after work hours? And inform me if any problems continue.
+
+Thank you,
+
+Tharan
+Creation date: 2022-09-26 12:04:43 comments: Hi Milo,
+
+I hope everything is well. I just wanted to see how things were progressing and to follow up with you on this case.
+
+Were you and your group able to reboot WVDs and apply the most recent FSLogix updates? What about user login?
+
+ Is there anything more I can help you with right now?
+
+Thanks,
+
+Tharan
+Creation date: 2022-09-26 13:40:05 comments: Tharan,
+
+I've heard nothing from the client, but hopefully today. Thank you. On Thursday, we updated the app and rebooted the servers.
+Creation date: 2022-09-26 13:41:17 comments: Hello Milo,
+
+Wonderful! reach out if there are any problems.
+
+Thank you,
+
+Tharan
+Creation date: 2022-09-27 12:15:20 comments: The frequency of the problems remained same. They seem to be continuing to occur.
+Creation date: 2022-09-27 12:41:09 comments: Hi Milo,
+
+I understand. Thank you for sharing that the problem still exists even after you updated FSlogix to the most recent version on all WVDs. Having said that, I don't want to waste any more time, therefore I believe the best course of action in this situation would be to speak with Microsoft support directly to see if they can confirm that the patch can be completed on their end.
+
+
+I can begin working on that matter, but before I do, could you please clarify if you prefer to communicate with Microsoft via phone or email? What's the best phone number for them to contact you at, if via phone?
+
+I can open this case for you as soon as I obtain the information!
+
+Thank you,
+
+Tharan
+Creation date: 2022-09-27 13:19:37 comments: For first communication and meeting scheduling, email would be ideal. milo@groupedge.com.  My phone number is 5454113120 if needed.
+Creation date: 2022-09-27 13:44:40 comments: Hi Milo,
+
+I have forwarded ticket 3310381121113168 to Microsoft in order to escalate it. I will also be transferring the Nimbus ticket to our Vendor Support team in order to guarantee that the Microsoft escalation process continues as planned. You may expect to hear from another Nimbus engineer soon. 
+
+Thank you,
+
+Tharan
+Creation date: 2022-09-27 14:06:25 comments: Thank you Tharan
+Creation date: 2022-09-27 17:50:40 work_notes: From: Jorge J <support@mailbox.support.microsoft.com> 
+Sent: Monday, September 26, 2022 8:47 AM
+To: Vendor Escalations - Infrastructure Support <ve-infrasupport@nimbus.com>
+Cc: milo@groupedge.com; Clayton Ward <cward@microsoft.com>; Jaswant Thaman <jthaman@microsoft.com>; v-jorgej@microsoftsupport.com
+Subject: [EXTERNAL] Remote Desktop WVD sessions locked up - TrackingID#3310381121113168
+
+Hi Milo,
+ 
+I hope you are having wonderful day,
+ 
+We appreciate you reaching out to Microsoft Support. I'm Jorge Jallestero, the UEX  Support Specialist who will be assisting you with your support request. I can be reached at the number listed in my signature. i work Wednesd-Saturd, 7 am to 4 pm MST.
+ 
+To set up a new Microsoft Teams meeting, I would like to make sure you have an opportunity to check this live. Please let me know when would be most convenient for you to arrange a meeting.
+ 
+Problem description: Hello, users frequently experience our remote desktop sessions locking up when they attempt to log in. Screenshots attached which show that the session stalls and needs to be restarted when the duo appears for their yubikey authentication or when they get stuck on the please wait screen. We've been experiencing this for weeks; Can you please provide us with immediate help?
+ 
+  
+Best
+ 
+
+Jorge Jallestero
+User Experience - Support Engineer
+Borrel Coast, Uday, Liberia
+3271 Sunset Rd
+Phelan, CA 92329
+Privacy Policy
+Schedule: Monday-Friday 7 AM   4 PM MST
+Manager| Adrian Johnson
+adjohnson@microsoft.com
+v-jorgej@microsoftsupport.com
+If you would like to speak with the next support engineer available, call us on Premier Support at +1 (800) 047-4211 or find your regional phone number at https://support.microsoft.com/en-us/premier-support/list-of-contacts."
+Creation date: 2022-10-04 18:52:02 work_notes: Hi @milo
+
+I hope all is good with you today! Kindly inform us if you would like to look into this issue further.
+
+Thanks!
+
+From: Jorge Jallestero <v-jorgej@microsoftsupport.com> 
+Sent: Wednesday, September 28, 2022 8:07 AM
+To: Jorge J <support@mailbox.support.microsoft.com>; Vendor Escalations - Infrastructure Support <ve-infrasupport@nimbus.com>
+Cc: milo@groupedge.com; Clayton Ward <cward@microsoft.com>; Jaswant Thaman <jthaman@microsoft.com>; Balaji Gulati <Balaji.Gulati@microsoft.com>
+Subject: [External] 1st follow up | Remote Desktop WVD sessions locked up - TrackingID#3310381121113168
+
+Hello Milo
+
+I hope all is well with you. I wanted to check in with you to see whether you got my last email. I understand that you may have attended to other priorities,  but if you still need support, I would be happy to help.
+
+Additionally, I would like to take this time out let you know that I will not be actively working on your request as I will not be in office from 8/30/2022 returning on October 4th, however, our Technical Advisor, Balaji Gulati has been added to this email thread in case you require help with your request.
+
+Warm Regards
+
+
+Jorge Jallestero
+User Experience - Support Engineer
+Borrel Coast, Uday, Liberia
+3271 Sunset Rd
+Phelan, CA 92329
+Privacy Policy
+Schedule: Monday-Friday 7 AM   4 PM MST
+Manager| Adrian Johnson
+adjohnson@microsoft.com
+v-jorgej@microsoftsupport.com
+If you would like to speak with the next support engineer available, call us on Premier Support at +1 (800) 047-4211 or find your regional phone number at https://support.microsoft.com/en-us/premier-support/list-of-contacts."
+Creation date: 2022-10-18 18:05:22 work_notes: Hi Milo
+
+I hope you are doing well, based on the log analysis back trace, these have nothing to do with Group Policy, please let us know if you have any questions I am here to help yo
+
+Best
+
+
+Jorge Jallestero
+User Experience - Support Engineer
+Borrel Coast, Uday, Liberia
+3271 Sunset Rd
+Phelan, CA 92329
+Privacy Policy
+Schedule: Monday-Friday 7 AM   4 PM MST
+Manager| Adrian Johnson
+adjohnson@microsoft.com
+v-jorgej@microsoftsupport.com
+If you would like to speak with the next support engineer available, call us on Premier Support at +1 (800) 047-4211 or find your regional phone number at https://support.microsoft.com/en-us/premier-support/list-of-contacts."
+ 
+ 
+  
+
+
+From: Milo Brogan<milo@groupedge.com> 
+Sent: Monday October 17, 2022 7:55 AM
+To: Jorge Jallestero <v-jorgej@microsoftsupport.com>; Charlotte Scott <cscott@nimbus.com>; Jorge J <support@mailbox.support.microsoft.com>; Vendor Escalations - Infrastructure Support <ve-infrasupport@nimbus.com>
+Cc: Clayton Ward <cward@microsoft.com>; Jaswant Thaman <jthaman@microsoft.com>
+Subject: Re: [EXTERNAL]2nd follow up | Remote Desktop WVD sessions locked up - TrackingID#3310381121113168
+
+We are waiting for our local representative to return from vacation so far, I haven't received many calls so I would like to leave this case open for a little while, but please bear with me.
+
+Are the listed disconnected the same as those caused by Group Policy? We have a policy of disconnecting/terminating sessions after 30 minutes of inactivity. This is how we handled users not wanting to properly end their sessions by logging out, which was causing further problems.
+
+Thank you,
+
+Milo Brogan
+
+Service Desk and Network Operations Lead
+
+Phone: (434)-348-5411 Opt. 6 | Email: technicalsupport@groupedge.com | Website: www.groupedge.com<http://www.groupedge.com>
+
+
+[signature_322358357]
+
+
+This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message.
+________________________________________
+From: Jorge Jallestero <v-jorgej@microsoftsupport.com>
+Sent: Monday, October 17, 2022 09:51 AM
+To: Milo Brogan <milo@groupedge.com>; Charlotte Scott <cscott@nimbus.com>; Jorge J <support@mailbox.support.microsoft.com>; Vendor Escalations - Infrastructure Support <ve-infrasupport@nimbus.com>
+Cc: Clayton Ward <cward@microsoft.com>; Jaswant Thaman <jthaman@microsoft.com>
+Subject: [EXTERNAL]1st follow up | Remote Desktop WVD sessions locked up - TrackingID#3310381121113168 
+ 
+Good Morning Milo
+I hope you are having a good week   .
+ 
+I would like to follow up with you on this support request and inquire about any changes or remarks you may have.  .
+ 
+I'll be anticipating your reply. I hope you have an amazing day.
+ 
+ 
+Jorge Jallestero
+User Experience - Support Engineer
+Borrel Coast, Uday, Liberia
+3271 Sunset Rd
+Phelan, CA 92329
+Privacy Policy
+Schedule: Monday-Friday 7 AM   4 PM MST
+Manager| Adrian Johnson
+adjohnson@microsoft.com
+v-jorgej@microsoftsupport.com
+If you would like to speak with the next support engineer available, call us on Premier Support at +1 (800) 047-4211 or find your regional phone number at https://support.microsoft.com/en-us/premier-support/list-of-contacts."

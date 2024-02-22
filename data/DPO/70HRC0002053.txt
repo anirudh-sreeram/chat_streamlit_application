@@ -1,0 +1,121 @@
+A case was opened with a short description of FW: Onboarding of New Resource - Asvathama Ponnada
+A longer description includes Here it is, the PO for onboarding Asvathama. I have attached his signed documents as well as the wand for the URL below.
+
+https://urldefense.com/v3/__https://docs.google.com/spreadsheets/d/16O-8vd4ilQ8PMkKELf6hry_0if8JlAAohyO5_24VwJU/edit*gid=FR42WkD9cs__;Iw!!Mt_185415368FR42WkD9csi9Y!dR9JA1cxl66MVSNoPGF5WdrqvLpmNxd5JVUmrB8p4q-fb_K-s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pVoNSwuFIth2p4XD2$ 
+
+Pls examine and confirm if you require anything else from us.
+
+Thanks
+-Jayadev
+
+From: Jayadev Mitali <jayadevm@xmssolutions.com>
+Date: Monday, July 18, 2022 at 19:33
+To: Ashvathama P <ashwathamap@xmssolutions.com>, Jitendra Choudhary <jitendrac@xmssolutions.com>, DM HR US <hr-us@xmssolutions.com>
+Cc: Naveen Tikaram <naveent@xmssolutions.com>
+Subject: FW: Onboarding of New Resource
+Pls fill out the information below as soon as possible. I tried to check if it was necessary, but I didn't receive an update, so I should probably just do it now even if it has already been done.
+
+As soon as it is finished, kindly confirm.
+
+-Jayadev
+
+From: ContingentWorkforce <contingentworkforce@cisco.com>
+Date: Wednesday, July 13, 2022 at 8:54 AM
+To: Subramanyan@cisco.com <Subramanyan@cisco.com>
+Cc: contingentworkforce@cisco.com <contingentworkforce@cisco.com>, Jayadev Mitali <Jayadevm@cisco.com>, Seshan@cisco.com <seshan@cisco.com>
+Subject: Onboarding of New Resource
+
+Hi there!
+
+Thank you for getting in touch! I can assist with contingent worker (CW) onboarding, but we also built this tracker.
+https://urldefense.com/v3/__https://docs.google.com/spreadsheets/d/1ulVBKXalVhMD7hPdQdp2UkEsP2MEMnQp4je_J2mWBKk1ulVBKXalVhMD7/edit*gid=_;Iw!!Mt_FR42WkD9csi9Y!dR9JA1cxl66MVSNoPGF5WdrqvLpmNxd5JVUmrB8p4q-fb_K-Ith2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pRuWtTcA696524876_$ > Progress may be viewed by PANW CW assignment managers.
+
+For onboarding, the following to-do lists must be completed. Please reach out if you have any concerns.
+
+PANW Manager to-do:
+
+
+  1.  Provide Coupa Purchase Order -- No services shall be provided without an approved purchase order, according to procurement regulations. Please supply a copy of the PO or a screenshot from Coupa. Instructions are available here.<https://urldefense.com/v3/__https://docs.google.com/document/d/25ewj475n-oxg2UkPmh1HzBnyZ-2NR6rSHsx4pd8ezpJdI8t-MdITw/edit*bookmark=id.dtc_25ewj47_;Iw!!Mt_FR42WkD9csi9Y!dR9JA1cxl66MVSNoPGF5Wdrq-25ewj475nIth2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pbSk8JhfLpmNxd5JVUmrB8p4q-fb_K$ >
+
+
+Supplier Admin to-do:
+
+  1.  Fill out the Background Check Acknowledgement form.<https://urldefense.com/v3/__https://protect-us.mimecast.com/s/1ulVBKXalVhMD7hPdQdp2UkEsP2MEMnQp4je_J2mWBKk1ulVBKXalVhMD7/edit*gid=_;Iw!!Mt_FR42WkD9csi9Y!dR9JA1cxl66MVSNoPGF5WdrqvLpmNxd5JVUmrB8p4q-fb_K-Ith2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pRuWtTcA696524876_$ >   Before granting PANW access, the supplier admin or their HR team must submit confirmation that the resource(s) have passed a criminal background check.
+  2.  Share onboarding materials with resource(s)- The vendor should send the below link to the resource so that they can sign the necessary PANW onboarding forms (NDA,IPAA, and AUP) using PandaDoc. International<https://urldefense.com/v3/__https://drive.google.com/file/d/8b2rEuOrd2WKI/view?usp=sharing__;!!Mt_FR42WkD9csi9Y!dR9JA1cxl66MVSNoPGF5WdrqvLpmNxd5JVUmrB8p4q-fb_K-Ith2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pXlb96JO1JyLfLQJO776Q6o8fFkG$ >/ US/CAN<https://urldefense.com/v3/__https://powerforms.pandadoc.net/269dcd34-66b4-40ae-8ef4-47b5dd519489?env=na2&acct=9b76eaaa-b72f-4370-b461-81dc6d7181c0&accountId=9b76eaaa-b72f-4370-b461-81dc6d7181c0__;!!Mt_FR42WkD9csi9Y!dR9JA1c5JVUmrB8p4q-fb_K-Ith2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pVoOxl66MVSNoPGF5WdrqvLpmNxd_TSQ$ >
+  3.  Provide agreement & SOW
+
+Based on previous experience, receiving all relevant documents can take up to 72 hours if background checks have been completed. After receiving the documentation, the resource can be onboarded into Modyfi, which will automatically trigger the following:
+
+  *   IT will provide email credentials
+  *   Access will be activated 24 hours before their start date
+  *   The manager in Modyfi will receive a New Resource set up form from Zendesk to request equipment, desk, badge, etc. Please factor in the 10 business days that IT needs to set up laptops when planning your start date. Resources can begin on their personal laptops in the interim if onboarding is necessary immediately and the task does not call for sourcing code.
+
+
+PANW managers are also invited to look over our Contingent Workforce Manager Playbook<https://urldefense.com/v3/__https://docs.google.com/presentation/d/vQaXZoHb38hzwVlCSIKC0YqHns6Q/edit*slide=id.gc53d39c004_0_160__;Iw!!Mt_FR42WkD9csi9Y!dR9JA1cxl66MVSNIth2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQoPGF5WdrqvLpmNxd5JVUmrB8p4q-fb_KUkESQoZWK0pUuALT2b1wZ_JKtCSkfaggrn$ > for best practices!
+
+Ref:MSG18157649
+
+
+
+
+Creation date: 2022-07-19 16:26:03 work_notes: CW Case generated via email:
+
+Received from: jayadevm@xmssolutions.com
+FW: Onboarding of New Resource - Asvathama Ponnada
+
+Here it is, the PO for onboarding Asvathama. I have attached his signed documents as well as the wand for the URL below.
+
+https://urldefense.com/v3/__https://docs.google.com/spreadsheets/d/16O-8vd4ilQ8PMkKELf6hry_0if8JlAAohyO5_24VwJU/edit*gid=FR42WkD9cs__;Iw!!Mt_185415368FR42WkD9csi9Y!dR9JA1cxl66MVSNoPGF5WdrqvLpmNxd5JVUmrB8p4q-fb_K-s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pVoNSwuFIth2p4XD2$ 
+
+Pls examine and confirm if you require anything else from us.
+
+Thanks
+-Jayadev
+
+From: Jayadev Mitali <jayadevm@xmssolutions.com>
+Date: Monday, July 18, 2022 at 19:33
+To: Ashvathama P <ashwathamap@xmssolutions.com>, Jitendra Choudhary <jitendrac@xmssolutions.com>, DM HR US <hr-us@xmssolutions.com>
+Cc: Naveen Tikaram <naveent@xmssolutions.com>
+Subject: FW: Onboarding of New Resource
+Pls fill out the information below as soon as possible. I tried to check if it was necessary, but I didn't receive an update, so I should probably just do it now even if it has already been done.
+
+As soon as it is finished, kindly confirm.
+
+-Jayadev
+
+From: ContingentWorkforce <contingentworkforce@cisco.com>
+Date: Wednesday, July 13, 2022 at 8:54 AM
+To: Subramanyan@cisco.com <Subramanyan@cisco.com>
+Cc: contingentworkforce@cisco.com <contingentworkforce@cisco.com>, Jayadev Mitali <Jayadevm@cisco.com>, Seshan@cisco.com <seshan@cisco.com>
+Subject: Onboarding of New Resource
+
+Hi there!
+
+Thank you for getting in touch! I can assist with contingent worker (CW) onboarding, but we also built this tracker.
+https://urldefense.com/v3/__https://docs.google.com/spreadsheets/d/1ulVBKXalVhMD7hPdQdp2UkEsP2MEMnQp4je_J2mWBKk1ulVBKXalVhMD7/edit*gid=_;Iw!!Mt_FR42WkD9csi9Y!dR9JA1cxl66MVSNoPGF5WdrqvLpmNxd5JVUmrB8p4q-fb_K-Ith2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pRuWtTcA696524876_$ > Progress may be viewed by PANW CW assignment managers.
+
+For onboarding, the following to-do lists must be completed. Please reach out if you have any concerns.
+
+PANW Manager to-do:
+
+
+  1.  Provide Coupa Purchase Order -- No services shall be provided without an approved purchase order, according to procurement regulations. Please supply a copy of the PO or a screenshot from Coupa. Instructions are available here.<https://urldefense.com/v3/__https://docs.google.com/document/d/25ewj475n-oxg2UkPmh1HzBnyZ-2NR6rSHsx4pd8ezpJdI8t-MdITw/edit*bookmark=id.dtc_25ewj47_;Iw!!Mt_FR42WkD9csi9Y!dR9JA1cxl66MVSNoPGF5Wdrq-25ewj475nIth2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pbSk8JhfLpmNxd5JVUmrB8p4q-fb_K$ >
+
+
+Supplier Admin to-do:
+
+  1.  Fill out the Background Check Acknowledgement form.<https://urldefense.com/v3/__https://protect-us.mimecast.com/s/1ulVBKXalVhMD7hPdQdp2UkEsP2MEMnQp4je_J2mWBKk1ulVBKXalVhMD7/edit*gid=_;Iw!!Mt_FR42WkD9csi9Y!dR9JA1cxl66MVSNoPGF5WdrqvLpmNxd5JVUmrB8p4q-fb_K-Ith2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pRuWtTcA696524876_$ >   Before granting PANW access, the supplier admin or their HR team must submit confirmation that the resource(s) have passed a criminal background check.
+  2.  Share onboarding materials with resource(s)- The vendor should send the below link to the resource so that they can sign the necessary PANW onboarding forms (NDA,IPAA, and AUP) using PandaDoc. International<https://urldefense.com/v3/__https://drive.google.com/file/d/8b2rEuOrd2WKI/view?usp=sharing__;!!Mt_FR42WkD9csi9Y!dR9JA1cxl66MVSNoPGF5WdrqvLpmNxd5JVUmrB8p4q-fb_K-Ith2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pXlb96JO1JyLfLQJO776Q6o8fFkG$ >/ US/CAN<https://urldefense.com/v3/__https://powerforms.pandadoc.net/269dcd34-66b4-40ae-8ef4-47b5dd519489?env=na2&acct=9b76eaaa-b72f-4370-b461-81dc6d7181c0&accountId=9b76eaaa-b72f-4370-b461-81dc6d7181c0__;!!Mt_FR42WkD9csi9Y!dR9JA1c5JVUmrB8p4q-fb_K-Ith2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQUkESQoZWK0pVoOxl66MVSNoPGF5WdrqvLpmNxd_TSQ$ >
+  3.  Provide agreement & SOW
+
+Based on previous experience, receiving all relevant documents can take up to 72 hours if background checks have been completed. After receiving the documentation, the resource can be onboarded into Modyfi, which will automatically trigger the following:
+
+  *   IT will provide email credentials
+  *   Access will be activated 24 hours before their start date
+  *   The manager in Modyfi will receive a New Resource set up form from Zendesk to request equipment, desk, badge, etc. Please factor in the 10 business days that IT needs to set up laptops when planning your start date. Resources can begin on their personal laptops in the interim if onboarding is necessary immediately and the task does not call for sourcing code.
+
+
+PANW managers are also invited to look over our Contingent Workforce Manager Playbook<https://urldefense.com/v3/__https://docs.google.com/presentation/d/vQaXZoHb38hzwVlCSIKC0YqHns6Q/edit*slide=id.gc53d39c004_0_160__;Iw!!Mt_FR42WkD9csi9Y!dR9JA1cxl66MVSNIth2p4XD2s3f0gRu005BqtbfkZ9Et4wMgMiuBQoPGF5WdrqvLpmNxd5JVUmrB8p4q-fb_KUkESQoZWK0pUuALT2b1wZ_JKtCSkfaggrn$ > for best practices!
+
+Ref:MSG18157649
+Creation date: 2022-07-19 16:40:32 work_notes: Ashvathama Ponnada

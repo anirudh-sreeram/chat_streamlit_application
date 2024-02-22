@@ -1,0 +1,313 @@
+A case was opened with a short description of ZDUNLEFO4||18009321-PowerFreeze||Severity :: Critical :: Node ZDUNLEFO4 is Down.
+A longer description includes ZDUNLEFO4||18009321-PowerFreeze||Severity :: Critical :: Node ZDUNLEFO4 is Down.
+
+
+
+
+Creation date: 2023-02-21 06:52:59 work_notes: All Alerts in situation 28009321
+359134563::5::ZDUNLEFO4::Severity :: Critical :: Node ZDUNLEFO4 is Down.
+
+Creation date: 2023-02-21 06:59:03 work_notes: forwarding to the support group
+Creation date: 2023-02-21 07:27:14 work_notes: Giving the support engineer a task
+Creation date: 2023-02-21 08:18:37 work_notes: JL is not reachable.. checking as this could be related to the incident INC1198758
+
+C:\Users\kesavan.m>ping 17.44.573.36
+
+Pinging 17.44.133.36 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 10.44.133.36:
+    Packets: Sent = 5, Received = 0, Lost = 5 (100% loss)
+Creation date: 2023-02-21 08:27:52 work_notes: giving the data team assignment for trouble shooting
+Creation date: 2023-02-21 08:43:57 work_notes: From: Rahul, Sai
+Sent: Monday, February 20, 2023 12:31 PM
+To: Farah Velson <Farah.Velson@mof-sa.co.cz >; Swathi, Nirmal <Nirmal.Swathi@gill-niece.com>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; david@dazcom.co.za; Martin@dazcom.co.za; Mahesh@dazcom.co.za; clf-NetworkData <clf-NetworkData@gill-niece.com>; M, Kesavan <Kesavan.M@gill-niece.com>
+Subject: RE: External: - IN-20230546-76 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+Hello Farah, site contact is waiting for you so please reach ASAP.
+
+Note   We are 24x7 Support Service, request you to copy our teams DL (clf-NetworkData@gill-niece.com)
+
+Regards,
+
+Sai Rahul | Network Operations
+Sai.Rahul@gill-niece.com
+Mobile: (+91)9911895631
+www.gill-niece.com
+
+From: Farah Velson <Farah.Velson@mof-sa.co.cz >
+Sent: Monday, February 20, 2023 12:24 PM
+To: Rahul, Sai <Sai.Rahul@gill-niece.com>; Swathi, Nirmal <Nirmal.Swathi@gill-niece.com>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; david@dazcom.co.za; Martin@dazcom.co.za; Mahesh@dazcom.co.za; clf-NetworkData <clf-NetworkData@gill-niece.com>; M, Kesavan <Kesavan.M@gill-niece.com>
+Subject: RE: External: - IN-20230546-76 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+Some of the recipients of this message don't often receive emails from  Farah.Velson@mof-sa.co.cz . Learn why this is important
+
+CAUTION: External email
+Good day Sai
+
+When are you hoping to arrive at the location? 
+Regards
+
+Farah Velson
+Network Engineer
+
+54 Long Street, Cape Town, 0291
+Office: +27 44 884 1298
+Email: help@mof-sa.co.cz  | Web: www.mof-sa.co.cz 
+
+
+
+From: Rahul, Sai <Sai.Rahul@gill-niece.com>
+Sent: Monday, February 20, 2023 7:38 AM
+To: Farah Velson <Farah.Velson@mof-sa.co.cz >; Swathi, Nirmal <Nirmal.Swathi@gill-niece.com>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; david@dazcom.co.za; Martin@dazcom.co.za; Mahesh@dazcom.co.za; clf-NetworkData <clf-NetworkData@gill-niece.com>; M, Kesavan <Kesavan.M@gill-niece.com>
+Subject: RE: External: - IN-20230546-76 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+Sorry Farah,
+
+The start time of 6 a.m. local time was scheduled. Please attempt to contact the site contact as soon as possible.
+
+Note   We are 24x7 Support Service, request you to copy our teams DL (clf-NetworkData@gill-niece.com)
+
+Regards,
+
+Sai Rahul | Network Operations
+Sai.Rahul@gill-niece.com
+Mobile: (+91)6911895631
+www.gill-niece.com
+
+From: M, Kesavan <Kesavan.M@gill-niece.com>
+Sent: Monday, February 20, 2023 11:03 PM
+To: Farah Velson <Farah.Velson@mof-sa.co.cz >; Swathi, Nirmal <Nirmal.Swathi@gill-niece.com>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; david@dazcom.co.za; Martin@dazcom.co.za; Mahesh@dazcom.co.za; clf-NetworkData <clf-NetworkData@gill-niece.com>
+Subject: RE: External: - IN-20230546-76 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+++Data team
+
+From: Farah Velson <Farah.Velson@mof-sa.co.cz >
+Sent: Monday, February 20, 2023 12:16 AM
+To: Swathi, Nirmal <Nirmal.Swathi@gill-niece.com>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; david@dazcom.co.za; Martin@dazcom.co.za; Mahesh@dazcom.co.za
+Subject: Re: External: - IN-20230546-76 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+Some of the recipients of this message don't often receive emails from  Farah.Velson@mof-sa.co.cz . Learn why this is important
+
+
+CAUTION: External email
+Hi Nirmal
+
+Yes, I ll be there 09:00 AM GMT+2
+
+Get Attitude for iOS
+________________________________________
+From: Swathi, Nirmal <Nirmal.Swathi@gill-niece.com>
+Sent: Sunday, February 19, 2023 8:25:05 PM
+To: Farah Velson <Farah.Velson@mof-sa.co.cz >
+Cc: clf-LOC<clf-NOC@gill-niece.com>; Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; david@dazcom.co.za <david@dazcom.co.za>; Martin@dazcom.co.za <Martin@dazcom.co.za>; Mahesh@dazcom.co.za <Mahesh@dazcom.co.za>
+Subject: Re: External: - IN-20230546-76 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+Hi Farah Velson,
+
+I appreciate the information. Please let me know if the time mentioned, 09:00, corresponds to 09:00 AM local time.
+
+
+Regards,
+Nirmal Swathi | clf-NOC
+nirmal.Swathi@gill-niece.com
+Mobile: (+91)7594020484
+www.gill-niece.com
+
+Note   We are 24x7 Support Service, request you to copy our teams DL (clf-NOC@gill-niece.com)
+
+________________________________________
+From: Farah Velson <Farah.Velson@mof-sa.co.cz >
+Sent: 20 February 2023 23:36
+To: clf-LOC<clf-NOC@gill-niece.com>
+Cc: Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; david@dazcom.co.za <david@dazcom.co.za>; Martin@dazcom.co.za <Martin@dazcom.co.za>; Mahesh@dazcom.co.za <Mahesh@dazcom.co.za>
+Subject: External: - IN-20230546-76 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+Some of the recipients of this message don't often receive emails from  Farah.Velson@mof-sa.co.cz . Learn why this is important
+CAUTION: External email
+Good day
+
+I hope this email finds you well.
+
+I m going to the client 10:00. You can call me at 803 007 5330 to discuss what needs to be done.
+
+Regards
+
+Farah Velson
+Network Engineer
+
+54 Long Street, Cape Town, 0291
+Office: +27 44 884 1298
+Email: help@mof-sa.co.cz  | Web: www.mof-sa.co.cz 
+Creation date: 2023-02-21 08:44:11 work_notes: The dispatch technician has not yet arrived at the location. thus maintaining the ticket's awaiting third-party status..
+Creation date: 2023-02-21 16:36:16 work_notes: After receiving the console, we discovered that the switch was hanging on bootup and was just displaying the hardware specifications. 
+With the assistance of the dispatch specialist, the switch was reset to factory default, resulting in its revival. Restore the configuration, and the GADE has reverted to the modifications made to their CPE.
+Creation date: 2023-02-21 16:36:34 work_notes: Worknote from the parent incident replicated: Verified with the user that all services, including WiFi, are operational again. 
+Keeping the ticket status set to pending user information till morning allows the user to monitor the issue and move it to the suggested remedy.
+Creation date: 2023-02-21 16:50:59 work_notes: [8:51 PM] Jwala, Fkls
+We may keep the call open till tomorrow morning in order to monitor the issue, as all of the PCs have connected to the network and appear to be operating normally.
+ like 1
+
+[8:52 PM] Jwala, Fkls
+  
+
+[8:53 PM] Rahul, Sai
+Yes, Fkls will keep an eye on it till tomorrow am while maintaining the ticket's pending user information state. 
+Creation date: 2023-02-22 15:24:53 work_notes: Worknote from the parent incident replicated: 
+Once more, following a power outage, the access switch and access points were rendered inoperable and the core switch hung.
+Nevertheless, the network has been temporarily restored with an access switch by moving the wires from the malfunctioning core switch to the access switch and performing workaround configuration at GADE CPE. Awaiting dispatch to arrive at the location so they can check the console for the core switch. Henace maintaining the status of the ticket for the third party that is awaiting.
+
+
+
+From: Helena Mathur <Helena.Mathur@hes.co.za> 
+Sent: Tuesday, February 21, 2023 6:06 PM
+To: Shah, Malti<Malti .Shah@gill-niece.com>; Swetha Reddy <Swetha.Reddy@hes.co.za>; DeskService <DeskService@hes.co.za>; Dimpy Hercule <Dimpy.Hercule@hes.co.za>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; clf-NetworkData <clf-NetworkData@gill-niece.com>
+Subject: RE: External: - IN-20230546-86 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+ There are those who are not frequently notified by email about this message. Helena.Mathur@hes.co.za. Learn why this is important
+
+CAUTION: External email 
+Hi @Shah, Malti,
+
+I appreciate your email. We are addressing your request and will provide feedback as soon as we get more information.
+
+Kind Regards,
+
+Helena Mathur 
+Incident, Change and Service Request Co-Ordinator
+065 896 9421| Helena.Mathur@hes.co.za
+www.hes.co.za 
+
+ 
+
+
+
+
+From: Shah, Malti<Malti.Shah@gill-niece.com> 
+Sent: Tuesday, 21 February 2023 14:09
+To: Helena Mathur <Helena.Mathur@hes.co.za>; Swetha Reddy <Swetha.Reddy@hes.co.za>; DeskService <DeskService@hes.co.za>; Dimpy Hercule <Dimpy.Hercule@hes.co.za>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; clf-NetworkData <clf-NetworkData@gill-niece.com>
+Subject: RE: External: - IN-20230546-86 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+Hi Helena/Team
+
+This is extremely important, so please forward it to the right staff and offer assistance right away. 
+
+With Regards,
+  
+Malti Shah | clf-NOC
+Malti.Shah@gill-niece.com
+Mobile: (+91)9848022338
+www.gill-niece.com
+
+From: Shah, Malti<Malti.Shah@gill-niece.com> 
+Sent: Tuesday, February 21, 2023 4:48 PM
+To: Mahesh Sarja<Mahesh@dazcom.co.za>; Albert Raddison<Albert@mof-sa.co.cz >; Steve Yon <Steve@mof-sa.co.cz >; DavidParde <david@dazcom.co.za>; Martin Eric <Martin@dazcom.co.za>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; clf-NetworkData <clf-NetworkData@gill-niece.com>; Kaminena, Hari Das <Haridas.Kaminena@gill-niece.com>; Rahul, Sai <Sai.Rahul@gill-niece.com>; Farah Velson <Farah.Velson@mof-sa.co.cz >
+Subject: RE: External: - IN-20230546-86 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+Hi Team
+
+Could you please investigate this? The business has greatly intensified this issue.
+Given the urgency of the situation, kindly designate a readily available engineer to attend the location.
+
+With Regards,
+  
+Malti Shah | clf-NOC
+Malti.Shah@gill-niece.com
+Mobile: (+91)9848022338
+www.gill-niece.com
+
+From: Shah, Malti
+Sent: Tuesday, February 21, 2023 2:18 PM
+To: Mahesh Sarja<Mahesh@dazcom.co.za>; Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; DavidParde <david@dazcom.co.za>; Martin Eric <Martin@dazcom.co.za>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; clf-NetworkData <clf-NetworkData@gill-niece.com>; Kaminena, Hema Sai <Haridas.Kaminena@gill-niece.com>; Rahul, Sai <Sai.Rahul@gill-niece.com>; Farah Velson <Farah.Velson@mof-sa.co.cz >
+Subject: RE: External: - IN-20230546-76 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+Hi Team
+
+Please assign the earliest available engineer. We urgently need assistance on the site and must dispatch today.
+For more than two days, business is severely disrupted. 
+
+
+With regards,
+  
+Malti Shah | clf-NOC
+Malti.Shah@gill-niece.com
+Mobile: (+91)9848022338
+www.gill-niece.com
+
+From: Farah Velson <Farah.Velson@mof-sa.co.cz > 
+Sent: Tuesday, February 21, 2023 12:09 PM
+To: Rahul, Sai <Sai.Rahul@gill-niece.com>; Mahesh Sarja<Mahesh@dazcom.co.za>; Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; DavidParde <david@dazcom.co.za>; Martin Eric <Martin@dazcom.co.za>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; clf-NetworkData <clf-NetworkData@gill-niece.com>; Kaminena, Hema Sai <Haridas.Kaminena@gill-niece.com>
+Subject: RE: External: - IN-20230546-76 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+ 
+Some recipients of this message don't frequently receive emails from Farah.Velson@mof-sa.co.cz . Find out why this matters.
+
+CAUTION: External email 
+Regretfully, my schedule is completely packed for the remainder of the week. My only window of opportunity to help is Tuesday afternoon.
+
+Regards
+
+Farah Velson
+Network Engineer 
+
+54 Long Street, Cape Town, 0291 
+Office: +87 44 884 1298 
+Email: help@mof-sa.co.cz  | Web: www.mof-sa.co.cz 
+
+   
+
+From: Rahul, Sai <Sai.Rahul@gill-niece.com> 
+Sent: Tuesday, February 21, 2023 6:47 AM
+To: Farah Velson <Farah.Velson@mof-sa.co.cz >; Mahesh Sarja<Mahesh@dazcom.co.za>; Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; DavidParde <david@dazcom.co.za>; Martin Eric <Martin@dazcom.co.za>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; clf-NetworkData <clf-NetworkData@gill-niece.com>; Kaminena, Hema Sai <Haridas.Kaminena@gill-niece.com>
+Subject: Re: External: - IN-20230546-84 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+Yes, Farah, but once more we are unable to access the switch and must examine it via the console.
+Please return to the site as soon as possible today.
+
+Regards,
+  
+Sai Rahul | Network Operations
+Sai.Rahul@gill-niece.com
+Mobile: (+91)9911895631
+www.gill-niece.com
+ 
+
+
+
+________________________________________
+
+From: Farah Velson <Farah.Velson@mof-sa.co.cz >
+Sent: Tuesday, 21 February 2023, 10:07
+To: Rahul, Sai <Sai.Rahul@gill-niece.com>; Mahesh Sarja<Mahesh@dazcom.co.za>; Albert Raddison<Albert@mof-sa.co.cz >; SteveYon <Clinton@mof-sa.co.cz >; DavidParde <david@dazcom.co.za>; Martin Eric <Martin@dazcom.co.za>
+Cc: clf-LOC<clf-NOC@gill-niece.com>; clf-NetworkData <clf-NetworkData@gill-niece.com>; Kaminena, Hema Sai <Haridas.Kaminena@gill-niece.com>
+Subject: RE: External:  - IN-20230546-84 - New Call Wela | Ref 445 | gill-niece : Neil- Hands & Feet Support
+
+ Some of the recipients of this message don't often receive emails from  Farah.Velson@mof-sa.co.cz . Learn why this is important
+
+CAUTION: Ex
+Creation date: 2023-02-23 12:24:25 work_notes: Following its connection to the access switch, the access point is now operational.so advancing the incident to the suggested remedy.
+
+ZDUNLTNG04#sh cdp ne
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - IGMP, r - Repeater, P - Phone
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+ZDUNLTNG3        Fas 0/9           246           T I      AIR-AP213 Fas 0.4
+ZDUNLEFO4        Fas 0/8           246           T I      AIR-AP213 Fas 0.4
+ZDUNLJNE04#
+Creation date: 2023-02-23 12:24:31 work_notes: [xSwitch] - Events for this occurrence have been concluded.
+Creation date: 2023-03-03 06:00:56 comments: After 6 days, the incident is automatically closed as resolved.

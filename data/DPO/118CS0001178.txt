@@ -1,0 +1,229 @@
+A case was opened with a short description of The servers on Azure are not responding / remain offline.
+A longer description includes The majority of Azure servers stopped responding briefly but returned online, with the exception of a few servers. 
+Despite attempting several workarounds, the final group of servers are still not coming back online. 
+ - I have tried restarting the Windows instance.
+- Shutting down and relocating the instance. Reboot
+ - Changing the Azure NIC from static DHCP
+ - Changing the Azure NIC static IP to temp and then reverting it back
+ - Redeploying the server to a different backend Azure host
+ - Deleting the NIC and adding a new one
+
+I also consoled into the server to verify the IP address. It's showing up as DHCP and won't accept the static IP address. I attempted to manually assign an address, but it had no effect.
+
+
+
+
+
+
+Creation date: 2022-09-29 22:42:14 comments: Afternoon Leon,
+
+Thank you for reaching out to the support team at Cloudspace. My name is Freda and I will be assisting you with your case today. It seems that you are experiencing problems with the Azure servers and network connections. 
+
+Could you please provide the name of the service as listed in Azure so that we can investigate any potential issues? 
+
+If there is any additional information you can provide regarding the issue, or if the above information is sufficient to help resolve the problem, please let me know. 
+
+Thank you for choosing to work with us and I hope you have a wonderful night!
+
+ 
+
+Freda Tran
+Creation date: 2022-09-30 14:56:52 comments: Hi,
+
+I have noticed that the server has spontaneously come online. I suspect that it may be due to an issue or resolution on Microsoft's backend. If you have access to the tenant, please check if there is any relevant history. However, I don't believe there is much action we can take at this moment.
+
+Server List
+AZR-JDEClnt05
+AZR-JDEClnt06
+AZR-JDEClnt07
+AZR-JDEClnt08
+
+Regards,
+
+Okany Matthews
+(M) 482.371.5324
+[cid:image002.png@01J3D2CO.629870C0]
+okanymatthews@mixo.com<mailto:okanymatthews@mixo.com> | www.mixo.com<http://www.mixo.com/>
+
+This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message.
+Creation date: 2022-09-30 15:29:55 comments: Hi Leon,
+
+Azure has informed us of an unreported outage in the Central US region related to E*_v5 VMs. The issue has been resolved by Microsoft. If you would like a RCA from Microsoft, please let us know and we can escalate the case on your behalf. Otherwise, if you are satisfied and do not mind us proceeding with case archival, please inform us.
+
+Jane
+Creation date: 2022-09-30 15:29:55 work_notes: https://www.reddit.com/r/sysadmin/comments/xr8wdv/azure_central_chicago_networking_problems/
+Creation date: 2022-09-30 15:42:51 comments: I would appreciate it if I could see the RCA from Microsoft to understand the cause of the issue.
+
+Regards,
+
+Okany Matthews
+(M) 482.371.5324
+[cid:image002.png@01J3D2CO.629870C0]
+okanymatthews@mixo.com<mailto:okanymatthews@mixo.com> | www.mixo.com<http://www.mixo.com/>
+
+This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message.
+Creation date: 2022-09-30 15:56:06 comments: Hi Leon,
+
+Could you give the following contact details? 
+
+Best person to contact: 
+Best phone number to contact: 
+Best email address to contact: 
+
+Once we have this details, we can escalate to Microsoft.
+
+Jane 
+Creation date: 2022-09-30 15:59:26 comments: Best Contact Name: Okany Matthews
+Best Contact Number: 482.371.5324
+Best Contact Email: okanymatthews@mixo.com
+
+Thank you,
+
+Okany Matthews
+(M) 482.371.5324
+[cid:image002.png@01J3D2CO.629870C0]
+okanymatthews@mixo.com<mailto:okanymatthews@mixo.com> | www.mixo.com<http://www.mixo.com/>
+
+This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message.
+Creation date: 2022-09-30 16:57:05 comments: Leon, thank you for the information. I will assist in bringing this issue to the attention of Microsoft for you. However, please be aware that Microsoft may not always provide RCA's. Let's see if they can do so in this particular case.
+
+
+
+Margarito
+Creation date: 2022-09-30 17:07:37 comments: mbaxter@cloudspace.com 2022-09-29 9:06:37
+Hi,
+
+I have reported this issue to Microsoft Case ID: 5304300020705689 and a Microsoft Analyst will reach out to you directly once one has been assigned to this case. I will also transfer the case to our Vendor Escalation team to help with communications with Microsoft. Please let us know if you have any questions in the interim.
+
+
+Regards,
+Margarito
+Creation date: 2022-09-30 17:07:37 work_notes: VA: MSFT case created 5304300020705689,  Severity B, email contact, partner listed as an additional contact, NO MSFT analyst assigned yet.
+
+Incident title: Request for RCA to explain reason for many Azure VM's being offline on 09/20/2022.
+Support request number: 5304300020705689
+Severity rating: B
+Contact preference: Email
+Name: Margarito Baxter
+Email address: mbaxter@cloudspace.com
+
+Contact numbers: 7132272856
+
+
+Request for RCA to explain reason for many Azure VM's being offline on 09/20/2022.
+
+###Partner Info: ###
+Okany Matthews
+482.371.5324
+okanymatthews@mixo.com
+Creation date: 2022-09-30 18:46:30 work_notes: No analyst assigned yet.
+Creation date: 2022-10-03 15:12:05 work_notes: Dear Eric,
+
+I appreciate you reaching out. I have included the partner Leon in this email, Leon please look over the information below and share any additional details you may have.
+
+Thanks!
+
+From: Eric M <support@mailbox.support.microsoft.com> 
+Sent: Thursday, September 29, 2022 1:45 PM
+To: Margarito Baxter <mbaxter@cloudspace.com>
+Cc: Shawna Nichol <snichol@cloudspace.com>; Mable Villarreal <mvillarreal@cloudspace.com>; Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@cloudspace.com>; Patrick Robertson <probertson@microsoft.com>; Eric Marc Lee <Eric.Lee@microsoft.com>
+Subject: [External] Request for RCA to explain reason for many Azure VM's being offline on 09/20/2022... - TrackingID#5304300020705689
+
+Hi Margarito,
+Hope you're having a nice day!
+
+I am Eric Marc, a Support Analyst from Azure VM who will be assisting you with this service request. Please don't hesitate to reach out to me, referring to the service request number 5304300020705689.
+
+Based on my understanding, you would like a Root Cause Analysis (RCA) for the VMs that were offline on September 20. To gain a better understanding, please provide us with the following information:
+- Can you please provide a detailed description of the problem?
+- Have any recent changes been made?
+- Do you have any screenshots of the problem?
+- How were the VMs recovered?
+- Could you please provide the name of one of the affected VMs?
+
+It is important to note that conducting the RCA will take at least 7 days for investigation. We will make our best efforts to provide you with the RCA, but we cannot guarantee its availability.
+
+Best,
+
+Eric Marc Lee
+Support Analyst
+Azure IaaS VM POD - Connectivity
+Customer Service and Help Group Office: +526 41131689
+eric.lee@microsoft.com
+Working hours: 8am   5pm MST  
+If you need assistance from a Azure Technical Support Analyst outside of my working hours, please email azure.bizu@microsoft.com with your case number and your availability.
+
+Please don't hesitate to contact my manager if you would like to share your feedback on the level of service you have received, at james.matthews@microsoft.com.
+ 
+Microsoft Azure | Azure Level | Support Programs | Open a Case | Privacy Policies
+The email has undergone scanning for spam and viruses by Accucert Organisation   
+Creation date: 2022-10-12 16:22:08 work_notes: Could you kindly close this case? Thank you!
+
+Thanks,
+
+Okany Matthews
+(M) 482.371.5324
+ 
+okanymatthews@mixo.com | www.mixo.com
+
+This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message.
+
+From: Eric Marc Lee <Eric.Lee@microsoft.com> 
+Sent: Tuesday, October 11, 2022 10:12 AM
+To: Cristina Noble (RCO LTD) <v-ncristina@microsoft.com>; Leon Duke <lduke@mixo.com>; Shawna Nichol <snichol@cloudspace.com>; Microsoft Support <help@microsoft.com>; Margarito Baxter <mbaxter@cloudspace.com>
+Cc: Mable Villarreal <mvillarreal@cloudspace.com>; Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@cloudspace.com>; Patrick Robertson <probertson@microsoft.com>
+Subject: RE: [External] Request for RCA to explain reason for many Azure VM's being offline on 09/20/2022... - TrackingID#5304300020705689
+
+Hi all,
+Hope you're all having a wonderful day!
+I am checking in to see if there is any update regarding this case. Could you please provide an update?
+
+Thanks,
+Eric Marc
+
+From: Cristina Noble (RCO LTD) <v-Cristina@microsoft.com> 
+Sent: Thursday, October 6, 2022 2:59 PM
+To: Eric Marc Lee <Eric.Lee@microsoft.com>; Okany Matthews <okanymatthews@mixo.com>; Shawna Nichol <snichol@cloudspace.com>; Microsoft Support <help@microsoft.com>; Margarito Baxter <mbaxter@cloudspace.com>
+Cc: Mable Villarreal <mvillarreal@cloudspace.com>; Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@cloudspace.com>; Patrick Robertson <probertson@microsoft.com>
+Subject: RE: [External] Request for RCA to explain reason for many Azure VM's being offline on 09/20/2022... - TrackingID#5304300020705689
+
+Hi Leon,
+
+Hope all is well. 
+
+Problem: A random group of virtual machines lost internet connection.(Might be group of Standard_E2_v5 that were affected). 
+
+Analysis after logging in after the event:
+------------------------
+"Impact Summary: We identified you as one of the customers using virtual machines in the Central US region that may have experienced a sudden loss of connection. This issue only affected deployments that used the newer generation of virtual machine hardware.
+
+Preliminary Root Cause: We have determined that a recent deployment had a code regression, which caused the failures.
+
+Mitigation: We have rolled back the recent deployment to a previous version, which resolved the issue and restored normal service performance.
+
+Next step: We will continue investigating to find the complete root cause and take preventative measures to avoid future occurrences. Stay informed about any Azure service issues by subscribing to customer service help alerts: https://akz.ms/csh-videos for video tutorials and https://akz.ms/csh-alerts for how-to documentation.
+
+We are constantly working to improve the platform and are sorry for any inconveniences caused to you.
+Kindly let me know if you have any further questions or need assistance. Have a great day!
+
+
+Thanks, 
+Cristina
+Support Analyst | Azure | Azure Networking Help Group
+Working hours: 8am - 5pm (Mon-Fri) PST| Local Time
+My Manager: Nihanth Gowda / v-nihanthg@microsoft.com
+ 
+If you need assistance from a Azure Technical Support Analyst outside of my working hours, please email azure.bizu@microsoft.com with your case number and your availability.
+Another analyst would be glad to continue working with you to resolve your issue.
+
+View the Service Dashboard | Open a Case | Receive Azure Announcements| Share an idea or suggestion?
+
+Please note that Azure support will never request your account password or full credit card number.
+For your privacy and security, ALWAYS AVOID sending your login credentials or full credit card number via email.
+Creation date: 2022-10-12 16:23:02 comments: Hi,
+
+I appreciate the update. If there is anything else that Cloudspace can help with, please don't hesitate to contact support@cloudspace.com or call us @844.244.7231. I will continue with closing the case.
+
+Thanks,
+Creation date: 2022-10-15 16:30:40 work_notes: Case automatically closed after being in the resolved state for 3 days.
+Creation date: 2022-10-18 08:01:43 work_notes: Customer Satisfaction Survey has been dispatched.  2022-10-17 01:01:00

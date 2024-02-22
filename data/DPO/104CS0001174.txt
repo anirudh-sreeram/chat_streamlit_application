@@ -1,0 +1,213 @@
+A case was opened with a short description of For this plan, Start on Connect stopped functioning.
+A longer description includes On September 19, the customer's AVD's start on connect stopped operating.
+ Reviewed applications followed MS instructions, and restored everything to its original state, including IAM settings.
+The virtual machine, which has been operating smoothly for the last four months, is still not connecting.
+
+
+
+
+Creation date: 2022-09-28 17:03:36 work_notes: Please forward this case to Infra since it relates to Azure
+Creation date: 2022-09-28 17:08:56 comments: Hello Jakob,
+
+Thank you for contacting Cloudspace Technical Support. I work at Cloudspace as a services support engineer, and my name is Cyrus O'Brien. Please confirm the resource in question so that I can help you more effectively. 
+What resource ID does the Azure subscription have? 
+What is the Azure name for the AVD?
+Is the VM status still active on Azure?
+Is a VPN necessary for users to RDP into the AVD?
+A detailed description of the problem
+A thorough explanation of the efforts your team has taken to solve the issue
+Any errors that have happened, along with screenshots of the errors. 
+More context that may be useful. 
+
+
+
+Thank you,
+
+Cyrus
+Creation date: 2022-09-28 17:44:26 comments: Hello Jakob,
+
+Could you perhaps try turning on the AVD's Start on Connect feature once more? 
+https://learn.microsoft.com/en-us/azure/virtual-desktop/start-machine-connect?tabs=azure-portal
+
+Inform me of any problems.
+
+Thank you,
+
+Cyrus
+Creation date: 2022-09-28 17:49:29 comments: I repeated that many times. 
+Though the powershell and portal
+
+[cid:image001.png@02D8D329.21D20CD1]
+Creation date: 2022-09-28 17:53:07 comments: I just tried it again
+Creation date: 2022-09-28 17:53:31 comments: Hello Jakob,
+
+Would you be able to try using the Azure Virtual Desktop's Open Azure Monitor?
+You may access Azure Monitor for Azure Virtual Desktop using one of the options listed below.
+
+Visit aks.microsoft/avdi.
+From the Azure portal, search for and choose Azure Virtual Desktop, then click Insights. From the Azure portal, search for and choose Azure Monitor. Select Insights Hub from the Insights menu, then Azure Virtual Desktop. Once the page is open, enter the subscription, resource group, host pool, and time period of the environment to be monitored.
+
+Please send me the logs and any findings so that I can thoroughly investigate the problem.
+
+Thank you,
+
+Cyrus
+Creation date: 2022-09-28 18:14:58 comments: 9/20/2022, 6:45:04 AM
+   4b690ff6-ed67-31b7-8475-69245c64*
+gaza@techsupreme.com<mailto:gaza@techsupreme.com>
+
+
+
+
+https://portal.azure.com/#blade/AppInsightsExtension/UsageNotebookBlade/ComponentId/Azure_WVD/ConfigurationId/Community-Workbooks%3FWindows%30Virtual%30Desktop%1FWVD%30Insights/Type/wvd-insights/WorkbookTemplateName/Windows30Virtual%30Desktop%30Insights
+Creation date: 2022-09-28 18:18:46 comments: Hello Jakob,
+
+I appreciate the logs. I don't notice anything out of the ordinary with the users that made Start on Connect stop functioning on that AVD.
+I don't want to waste any more time, so I believe the best course of action at this point would be to contact Microsoft's support directly to ask them to check whether the patch is feasible on their end.
+
+
+I need to know if you would prefer to communicate with Microsoft mostly by phone or email before I can begin working on that issue. Which phone number is the most convenient for them to call you at?
+
+I can build this case for you as soon as I obtain the information!
+
+Thank you,
+
+Cyrus
+Creation date: 2022-09-28 18:22:27 comments: Phone is the best option.
+6709009011
+
+Thanks
+Creation date: 2022-09-28 18:33:00 comments: Hello Jakob,
+
+In order to keep the Microsoft escalation proceeding as planned, I will also be assigning the Cloudspace issue to our Vendor Assistance team. We will be in contact with another Cloudspace engineer soon.
+
+Thank you,
+
+Cyrus
+Creation date: 2022-09-28 18:50:40 comments: Thanks
+Creation date: 2022-09-28 22:18:08 work_notes: Hi there, the solutions are provided below.
+
+
+From: Karthikeyan R <support@mail.support.microsoft.com> 
+Sent: September 27, 2022 1:05 PM
+To: Jakob McBride <ve-services@cloudspace.com>
+Cc: Jakob McBride <Jakob@muellercomp.com>; Purushothamam Nadan <pnadan@microsoft.com>; Kishore Kumar <kkumar@microsoft.com>; Karthikeyan Rishab Kumar <karthirk@microsoft.com>
+Subject: Start on connect no longer works. - TrackingID#4000945822092800
+
+Hi Jakob,
+
+Thanks for approaching Microsoft Support. Karthikeyan here from the Customer Experience Escalation team. This email is to inform you that I have assumed responsibility for your support request.
+
+We detected a known issue with start virtual machine on connect. Could you please provide the following information to confirm if you are experiencing this problem? 
+1. Host Pool Name: HQ-QB-RG-2
+US Central
+Subscription ID : b51075f2-ec4c-39bb-b4df-4b3ace06b2e7
+SessionHost affected: HQ-QB-S2-0
+
+1. ollem@hyquality.onmicrosoft.com was one of the super UPNs who attempted to connect to Sessionhost.
+    65d47e3a-6770-3a2f-c2e2-22673b3d8ae2
+
+If you are not experiencing the known issue, I will verify the logs as soon as I have it and we may arrange a call to look into it further.
+ 
+Thanks,
+Karthikeyan R K (Arvind)
+Engineer for Support Escalation : : : Windows
+Office Hours: Mon-Fri 8-5 PST
+Customer Service & Support | Microsoft Corporation
+__________________________________________________________
+You can get in touch with Microsoft Premier Queue while I'm away: 700.935.2100
+ 
+ 
+ 
+ 
+Jakob McBride 
+Senior Help Desk Technician
+
+MAIN 6709009011
+EMAIL help@muellercomp.com
+
+MUELLER COMP
+ 5793 4th Street Yakima, WA 94848
+muellercomp.com 
+
+  
+
+Proud member of
+ 
+Viraguard has scanned this email for malware and spam
+Creation date: 2022-10-07 15:08:47 work_notes: You can, indeed. Once you've made the switch back, be sure to leave the scheduled agent deactivated until the AVD agent version for production is also installed.
+
+Thank you,
+Karthikeyan R K (Arvind)
+Engineer for Support Escalation : : : Windows 
+Office Hours: Mon-Fri 8-5 PST
+Customer Care & Maintenance  | Microsoft Corporation 
+__________________________________________________________
+You can get in touch with Microsoft Premier Queue while I'm away: 700.935.2100
+ 
+
+From: Jakob McBride <Jakob@muellercomp.com> 
+Sent: Tuesday, October 4, 2022 09:51 AM
+To: Karthikeyan Rishab Kumar <karthirk@microsoft.com>; Microsoft Support <help@microsoft.com>; 'Jakob McBride' <ve-services@cloudspace.com>
+Cc: Purushothamam Nadan <pnadan@microsoft.com>; Louie Payne <Louiep@microsoft.com>
+Subject: [EXTERNAL] RE: Start on Connect no longer works. - TrackingID#4000945822092800
+
+Can I relocate it while the VM is still running?
+
+From: Karthikeyan Rishab Kumar <karthirk@microsoft.com> 
+Sent: October 4, 2022 10:49 AM
+To: Jakob McBride <Jakob@muellercomp.com>; Microsoft Support <help@microsoft.com>; 'Jakob McBride' <ve-services@cloudspace.com>
+Cc: Purushothamam Nadan <pnadan@microsoft.com>; Louie Payne <Louiep@microsoft.com>
+Subject: RE: Start on connect no longer works. - TrackingID#4000945822092800
+
+Hello Jakob,
+
+Validation(ring=0) HostPool should only be used for testing; production environments should not utilize it, hence I would advise against it. In order to minimize any damage, new Windows Virtual Desktop capabilities are enabled initially in the validation environment (ring=0), and features are added to the production ring (ring=1) only once a function has been approved for release.
+
+Thank you,
+Karthikeyan R K (Arvind)
+Support Escalation Engineer : : : Windows 
+Office Hours: Mon-Fri 8-5 PST
+Customer Service & Support | Microsoft Corporation 
+__________________________________________________________
+You can get in touch with Microsoft Premier Queue while I'm away: 700.935.2100
+ 
+
+From: Jakob McBride <Jakob@muellercomp.com> 
+Sent: Tuesday, October 4, 2022 6:10 AM
+To: Karthikeyan Rishab Kumar <karthirk@microsoft.com>; Microsoft Support <help@microsoft.com>; 'Jakob McBride' <ve-services@cloudspace.com>
+Cc: Purushothamam Nadan <pnadan@microsoft.com>; Louie Payne <LouieP@microsoft.com>
+Subject: [EXTERNAL] RE: Start on connect no longer functions- TrackingID#4000945822092800
+
+Should I return to the non-validation?
+
+
+From: Karthikeyan Rishab Kumar <karthirk@microsoft.com> 
+Sent: October 3, 2022 10:27 AM
+To: Jakob McBride <Jakob@muellercomp.com>; Microsoft Support <help@microsoft.com>; 'Jakob McBride' <ve-services@cloudspace.com>
+Cc: Purushothamam Nadan <pnadan@microsoft.com>; Louie Payne <LouieP@microsoft.com>
+Subject: RE: Start on Connect no longer works. - TrackingID#4000945822092800
+
+(+) Louie, AVD Subject expert. 
+
+Hi Jakob,
+
+We learned that the issue you are experiencing was recently detected in validation ring 0 and looks to be addressed now after working with some of the internal product specialists. However, based on your current version: 1.0.4444.600 (Installed on 20220805), even though you went to validation ring 1, the agent hasn't been updated on the AVD VM, which might explain why going to validation ring 1 didn't help address the issue.
+
+
+
+Considering the PG team recently solved the issue, could you please put the following modifications into practice and let me know how it turns out? If the problem persists, I'm going to let our PG team look at it.
+
+Procedure: 
+1.  Transfer the Hostpool to validation ring 0.
+2.  Turn off the updating of the scheduling agent.
+3.  Make sure the AVD agent receives the automatic update. 
+4.  Attempt the 'Start VM on connect' option. 
+
+Thank you,
+Karthikeyan R K (Arvind)
+Support Escalation Engineer : : : Windows 
+Office Hours: Mon-Fri 8-5 PST
+Customer Service & Support | Microsoft Corporation 
+__________________________________________________________
+You can get in touch with Microsoft Premier Queue while I'm away: 700.935.2100

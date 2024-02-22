@@ -1,0 +1,335 @@
+A case was opened with a short description of Frozen WVD Server Re: Techhelix Token #372874  - RE: CS2763481
+A longer description includes Even though we can better manage it now, re-opening this issue because it's occurring again. The problem here is that our customer is ready to drop the AVD environment unless we can fix issues like the one presented here. Before I was suggested to open a ticket, here's an email I sent our representative:
+
+Sam, one of our customers primarily works in AVD, and they're seeing a pattern of errors. A user will log out (or try and log back in and they didn't see this problem before) and receive a message once they do that says "Please wait for the Windows Search" on their screen. Once this message appears, their account is locked/frozen, and anyone else who is on that host session that tries to log out will face the same issue. We tried logging them out using Nerdio/Azure, but their accounts are totally stuck and the only way we can get them unstuck is to reboot the virtual machine that the users are using. This means up to 11 users have their accounts locked/frozen from the beginning of the reboot to the end. Nerdio took a horrible 45 to 1 hour to finish, and we've since found that Azure only takes around 10-15 minutes, thank goodness.
+
+The frequency with which this error is happening is making the client think about leaving AVD altogether and move back to their old VPN-based environment, which we don't want. Do you have any thoughts on this? Or could I provide logs to help you learn more? The last time this all occurred was around 9am CST this morning
+
+
+
+
+Creation date: 2022-09-26 18:16:35 work_notes: Attached as a child of CS2763481
+Creation date: 2022-09-26 18:46:40 comments: Hi Aleksander,
+
+Thanks for reaching out to Cloudspace Help.  I'm Larry Flores, an analyst with the Cloudspace Structure help team, and I'll be guiding you with why these servers keep freezing when users log out.  Previously, we already looked into the FSLogix Release and you used the current hotfix. If you do not mind, I would like to put this forward and escalate this issue to Microsoft. Could you export the FSLogix profile logs and the event logs of the VM that was affected? I think there is something wrong on the Microsoft end that is causing this issue, since we've already spoken about this exact same problem at least once. It's also becoming more persistent. Since Azure files are being used for the FSLogix profiles, there could be a problem there too.
+
+Kindly also verify/add to the following so we can escalate.
+POC: Aleksander Guerra 
+Email:  aleksander.guerra@techhelix.com
+Phone:  6177550271
+Business Hours or 24/7
+Preferred Method of Contact:
+Alternative Contacts:
+
+Regards,
+Larry
+Creation date: 2022-09-26 19:55:35 comments: Larry,
+
+Sure, this can be escalated to Microsoft. I remember we worked together before, but I think I had trouble getting the logs for you (or at least getting them in the requested timeframe). Can you share the process for obtaining logs with me again?
+
+For contact info:
+
+POC: Aleksander Guerra 
+Email: aguerra@techhelix.com<mailto:aguerra@techhelix.com>
+Phone: 6177550271
+Business Hours: 7-4pm CST, M-F
+Actual Method of Contact: Email
+Alternative Contacts: Roisin Zuniga, rzuniga@techhelix.com<mailto:rzuniga@techhelix.com>, identical phone number
+Creation date: 2022-09-26 20:03:06 comments: Hi Aleksander,
+
+No problem.  I recall the case.  You can get the FSLogix Profile logs from here:  \\IP or Computer Name\c:\%ProgramData%\FSLogix\Logs from another host or server in the Environment. If you are unable to log into the host. Don't worry about the event logs now. I will keep an eye out for the logs and add them to the Microsoft case.
+
+Regards,
+Larry
+Creation date: 2022-09-26 22:45:03 comments: Larry,
+
+My prior email didn't send because the attachment was rejected. I can share it through OneDrive or Dropbox, who should I send the share link to?
+Creation date: 2022-09-26 22:47:42 comments: Hi Aleksander,
+
+You can add it in this OneDrive folder:  https://cloudspace.sharepoint.com/:f:/p/larry.flores/EiRtLjQTD1lCrN6IKaqw4V8GchZA3zudJ9KERegQbX-fTA?e=aDnLFK
+
+Regards,
+Larry
+Creation date: 2022-09-26 22:50:23 comments: Complete
+Creation date: 2022-09-27 15:22:39 comments: Dear Aleksander,
+
+Thanks for verifying all the info.  This has been escalated to Microsoft and I'm transferring this to our Vendor Assistance team. Someone from our Vendor Assistance team will contact you once a Microsoft Engineer has been assigned to help you in your communications with Microsoft.
+
+Regards,
+Larry
+Creation date: 2022-09-27 15:22:39 work_notes: VA:  MSFT Ticket generated:  2409770510032501 Email Business Hours Central Time.  Partner is not listed on MSFT case as alternative contact.
+
+POC: Aleksander Guerra 
+Email: aguerra@techhelix.com<mailto:aguerra@techhelix.com>
+Phone: 6177550271
+Business Hours: 7-4pm CST, M-F
+Actual Method of Contact: Email
+Alternative Contacts: Roisin Zuniga, rzuniga@techhelix.com<mailto:rzuniga@techhelix.com>, identical phone number
+
+Synopsis
+Severity B
+Status Open
+Support request ID 2409770510032501
+Generated on Mon, Sep 26, 2022, 09:17:28 AM
+Generated by Larry Flores
+Contact methody Email: lflores@cloudspace.com
+Support plan Premier
+Advanced diagnostic data Permission granted
+
+Basics
+Issue type
+Technical
+Subscription
+HOAIC Azure (03d89705-3dc2-420c-9732-2f5578ae3018)
+Service type
+Azure Virtual Desktop
+Resource
+HOAIC Default Pool
+Problem type
+FSLogix
+Problem subtype
+Profile and Office Container Issue
+Summary
+[CS2763481] Host freezing due to unclean FSLogix log offs
+
+Terms and Conditions, Privacy Policies
+By clicking "Create" you assent to the terms and conditions.
+See our privacy policies
+
+
+Details
+Details
+Log off does not finish cleanly when users log off which makes all users signed into the host if they start logging off their VHD locks to the vm and host is frozen by windows search service.
+Are there any error messages displayed?
+No
+What is the exact error you see
+none
+When did the problem begin?
+Wed, Aug 31, 2022, 11:59 AM (UTC-06:00) Central Time (US & Canada)
+Who is impacted by the issue
+Every user
+How often is the problem seen
+Intermittent
+Advanced diagnostic information
+Yes
+
+Support method
+Severity
+B - Moderate
+Support plan
+Premier
+Your availability
+Business Hours
+Support language
+English
+Contact method
+Email
+
+Contact info
+Contact name
+Larry Flores
+Email
+lflores@nimbus.com
+CC emails for notification
+ve-infrastructure@nimbus.com,krubio@cloudspace.com,acameron@nimbus.com
+Phone
+7198223936
+Country/region
+United States
+Creation date: 2022-09-27 16:31:18 comments: Larry,
+
+Thank you for your support
+Creation date: 2022-09-27 22:36:31 work_notes: Dear Ben,
+
+Thank you for contacting us! The partner, Aleksander, has been added to this email thread. Aleksander please look over the information here and add any detail if you can.
+
+Thanks!
+
+From: Ben W <support@supportmail.microsoft.com> 
+Sent: Monday, September 26, 2022 09:13 AM
+To: Larry Flores <lflores@cloudspace.com>
+Cc: Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@cloudspace.com>; Kendra Rubio <krubio @cloudspace.com>; Anaya Cameron  <acameron @cloudspace.com>; Gabriela Little  <glittle @microsoft.com>; Sarah Chaney <schaney@microsoft.com>; Ben Whitaker <v-bwhitaker@microsoft.com>
+Subject: [External] [CS2763481] Host freezing due to u... - TracingID#2409770510032501
+
+Good morning Larry,
+I hope you are doing well, 
+ 
+Thank you for reaching out to Microsoft Support. I am Ben Whitaker, the UEX Support Professional who will be assisting you with your request. You can contact me using the information in my email signature.
+
+Problem info:  
+  Host freezing due to unclean FSLogix log offs
+
+I looked at the details of the case and need your help in understanding the situation better.
+
+Kindly give us the following info: 
+  Which operating system  are you using?
+  Which FSLogix version do you use? Kindly confirm that FSLogix is up to date FSLogix Release Notes | Microsoft Learn
+  Sre you using Antivirus, Firewall or any other? If yes, kindly confirm that you have the FSLogix exclusions: https://learn.microsoft.com/en-us/azure/architecture/sample-circumstances/windows-virtual-computer-fslogix#exclusions-for-antivirus
+  How many customers are affected? Kindly share one who was affected so we can analyze the logs.
+
+Also it would be appreciated if you could collect logs by following these additional steps:
+
+1. Download the support tool:  https://aka.microsoft/fslogix_support
+2. Unzip the tool and verify registry value data: HKLM\SOFTWARE\FSLogix\Logging LoggingEnabled=2
+3. Reproduce the issue by logging in with an affected user
+4. As admin, run the FSLogix Support Tool
+5. Enter the company name
+6. Choose "Gather Rule files", and "Gather Dump Files".
+7. Click on "Gather FSLogix Content" (*** Note: This could take a number of minutes***)
+8. Once complete, locate the zip file that results from C:\ProgramData\FSLogix\Support and upload it to the workspace for this case.
+9. Collect the files listed below from the following path: %SystemRoot%\System32\Winevt\Logs
+                  Microsoft-FSLogix-Apps%4Operational.evtx
+                  Microsoft-FSLogix-CloudCache%4Operational.evtx
+                  Application.evtx
+                  System.evtx
+                  Microsoft-Windows-VHDMP-Operational.evtx
+                  Microsoft-Windows-SmbClient%4Connectivity.evtx
+                  Microsoft-Windows-SMBClient%4Operational.evtx
+                  Microsoft-Windows-SmbClient%4Security.evtx
+Upload all these files to this link: Secure File Exchange (microsoft.com)
+
+
+I will be waiting to examine these info, and from there, I will generate an action plan to handle your issue and hopefully find a solution soon. 
+
+Kindly let me know if you have any queries or doubts about any of the steps given above. 
+ 
+Thank you for your reply in advance and have a great day ahead. 
+ 
+Regards,
+Ben Whitaker
+User Experience - Support Engineer 
+0239 Stafford Way, Columbus, TX 48072 USA
+Confidentiality Statement
+Business Hours: Monday-Friday 7 AM   4 PM MST
+Manager | April Shah
+(t-ashah@microsoft.com)
+t-bwhitaker@microsoft.com
+If you wish to speak with the next available support engineer, please contact Premier Support at +1 (800) 047-2533 for locate your regional phone number at https://support.microsoft.com/en-us/premier-plan-contacts."
+ 
+Deflect IT has scanned this email for spam and viruses
+Creation date: 2022-10-03 14:58:02 work_notes: Hi Ben,
+
+Thanks for contacting us! 
+
+@aguerra@techhelix.com kindly let us know if you would like to continue looking into this case. Microsoft must continually progress on cases, or they will be closed. Please let us know when you are available and if you would still like to look into this case.
+
+Thanks!
+
+From: Ben Whitaker Grimes (Infotank IT Corporation) <v-bwhitaker@microsoft.com> 
+Sent: Sunday, October 2, 2022 7:13 AM
+To: Anaya Cameron  <acameron@cloudspace.com>; aguerra@techhelix.com; Microsoft Help <help@microsoft.com>; Larry Flores <lflores@cloudspace.com>
+Cc: Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@cloudspace.com>; Kendra Rubio <krubio@cloudspace.com>; Gabriela Little <glittle@microsoft.com>; Sarah Chaney <schaney@microsoft.com>
+Subject: [External] SR#:2409770510032501 Microsoft Support   2nd Follow Up Notice - TrackingID#2409770510032501
+
+Good morning,
+I hope you are doing well.
+
+This is the second follow up email about this help request, I would like to know if you have any updates or comments regarding this.
+
+I'll wait for your reply.
+Have an excellent day.
+
+Thanks,
+Ben Whitaker
+User Experience - Support Engineer 
+0239 Stafford Way, Columbus, TX 48072 USA
+Confidentiality Statement
+Business Hours: Monday-Friday 7 AM   4 PM MST
+Manager | April Shah
+(t-ashah@microsoft.com)
+t-bwhitaker@microsoft.com
+If you wish to speak with the next available support engineer, please contact Premier Support at +1 (800) 047-2533 for locate your regional phone number at https://support.microsoft.com/en-us/premier-plan-contacts."
+Creation date: 2022-10-12 17:08:16 work_notes: Hi Aleksander,
+
+I hope you are doing good this day! Have you had the chance to gather those logs?
+
+Regards,
+
+From: Aleksander Guerra <aleksander.guerra@techhelix.com> 
+Sent: Thursday, October 6, 2022 09:07 AM
+To: Ben Whitaker Grimes (Infotank IT Corporation) <v-bwhitaker@microsoft.com>; Anaya Cameron  <acameron@cloudspace.com>; Microsoft Help  <help@microsoft.com>; Larry Flores<lflores@cloudspace.com>
+Cc: Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@cloudspace.com>; Kendra Rubio <krubio @cloudspace.com>; Gabriela Little  <glittle @microsoft.com>; Sarah Chaney <schaney@microsoft.com>
+Subject: [External] 2409770510032501 Microsoft Support   2nd Follow Up Notice - TrackingID#2409770510032501
+
+Thanks,
+
+I'll try and get the logs for you today
+
+From: Ben Whitaker Grimes (Infotank IT Corporation) <v-bwhitaker@microsoft.com>
+Sent: Thursday, October 6, 2022 09:32 AM
+To: Aleksander Guerra <aguerra@techhelix.com>; Anaya Cameron  <acameron@cloudspace.com>; Microsoft Support <help@microsoft.com>; Larry Flores<lflores@cloudspace.com>
+Cc: Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@cloudspace.com>; Kendra Rubio <krubio @cloudspace.com>; Gabriela Little  <glittle @microsoft.com>; Sarah Chaney <schaney@microsoft.com>
+Subject: RE: 2409770510032501 Microsoft Support   2nd Follow Up Notice - TrackingID#2409770510032501
+
+ You frequently don't get email from v-bwhitaker@microsoft.com. Know why this is key
+
+WARNING: This email comes from an external source, so kindly exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+Hi,
+
+Sending a second follow-up email, I wanted to ask if you saw my first email, do you have updates regarding this support request.
+If anything else is needed please don't hesitate to contact for me. I would be pleased to assist you.
+
+Thank you in advance for your reply   .
+
+Thank you,
+Ben Whitaker
+User Experience - Support Engineer 
+0239 Stafford Way, Columbus, TX 48072 USA
+Confidentiality Statement
+Business Hours: Monday-Friday 7 AM   4 PM MST
+Manager | April Shah
+(t-ashah@microsoft.com)
+t-bwhitaker@microsoft.com
+If you wish to speak with the next available support engineer, please contact Premier Support at +1 (800) 047-2533 for locate your regional phone number at https://support.microsoft.com/en-us/premier-plan-contacts."
+   
+
+
+From: Ben Whitaker Grimes (Infotank IT Corporation)
+Sent: Tuesday, October 4, 2022 09:04 AM
+To: 'Aleksander Guerra' <aguerra@techhelix.com>; 'Anaya Cameron ' <acameron @cloudspace.com>; Microsoft Support <help@microsoft.com>; 'Larry Flores' <lflores@cloudspace.com>
+Cc: 'Vendor Escalations - Infrastructure Technical Support  <ve-infrastructure@cloudspace.com>; 'Kendra Rubio' <krubio @cloudspace.com>; Gabriela Little  <glittle @microsoft.com>; Sarah Chaney <schaney@microsoft.com>
+Subject: RE: 2409770510032501 Microsoft Support   2nd Follow Up Notice - TrackingID#2409770510032501
+
+Hi,
+
+This is a follow up email, I wanted to ask if you saw my first email, do you have updates regarding this support request.
+If anything else is needed please don't hesitate to contact for me. I would be pleased to assist you.
+
+Thanks in advance.
+
+Thanks,
+Ben Whitaker
+User Experience - Support Engineer 
+0239 Stafford Way, Columbus, TX 48072 USA
+Confidentiality Statement
+Business Hours: Monday-Friday 7 AM   4 PM MST
+Manager | April Shah
+(t-ashah@microsoft.com)
+t-bwhitaker@microsoft.com
+If you wish to speak with the next available support engineer, please contact Premier Support at +1 (800) 047-2533 for locate your regional phone number at https://support.microsoft.com/en-us/premier-plan-contacts."
+
+From: Ben Whitaker Grimes (Infotank IT Corporation)
+Sent: Tuesday, October 4, 2022 08:39 AM
+To: 'Aleksander Guerra' <aguerra@techhelix.com>; 'Anaya Cameron ' <acameron @cloudspace.com>; Microsoft Support <help@microsoft.com>; 'Larry Flores' <lflores@cloudspace.com>
+Cc: 'Vendor Escalations - Infrastructure Technical Support  <ve-infrastructure@cloudspace.com>; 'Kendra Rubio' <krubio @cloudspace.com>; Gabriela Little  <glittle @microsoft.com>; Sarah Chaney <schaney@microsoft.com>
+Subject: RE: 2409770510032501 Microsoft Support   2nd Follow Up Notice - TrackingID#2409770510032501
+
+Hi all,
+
+I hope you are doing well
+
+Kindly provide us with the data requested, as we need it to learn more about this situation and create an action plan.
+
+Thank you in advance.
+
+Thanks,
+Ben Whitaker
+User Experience - Support Engineer 
+0239 Stafford Way, Columbus, TX 48072 USA
+Confidentiality Statement
+Business Hours: Monday-Friday 7 AM   4 PM MST
+Manager | April Shah
+(t-ashah@microsoft.com)
+t-bwhitaker@microsoft.com
+If you wish to speak with the next available support engineer, please contact Premier Support at +1 (800) 047-2533 for locate your regional phone number at https://support.microsoft.com/en-us/premier-plan-contacts."

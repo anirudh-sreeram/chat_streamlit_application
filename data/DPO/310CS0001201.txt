@@ -1,0 +1,513 @@
+A case was opened with a short description of Forwarded: Azure login details for GitHub
+A longer description includes Hello Help Desk,
+
+We are having issues deploying the main Hopewell Web App from GitHub to Azure. It says the credentials have expired which is why the build is failing.
+
+I used this az cli command to set the secret with Azure credentials per the recommended steps.
+
+az ad sp create-for-rbac --name "HopewellWebApp" --role contributor --scopes
+/subscriptions/c48yfres-byfds-45008-v9u5-6cc63db21d32/resourceGroups/webApp
+--sdk-auth
+
+The json response in the GitHub secret AZURE_CREDENTIALS was cut and pasted.
+
+But still the GitHub action is failing with this error message:
+
+Az CLI Login failed. Kindly review the login details and ensure az is
+installed on the runner. For more details refer
+https://aaka.ms/secrets-creation-GitHub-workflows
+
+Can you help or ask your team to help with this problem?
+
+Thank you
+
+-- 
+Everett Lewis
+Software Engineer
+Hopewell <http://www.hopewell.com/>
+Work. Better.
++547240 335294
+
+Click here to book a call or demo with me
+<https://meetings.agendaboard.com/james833>
+Click here to help and assistance
+<https://www.hopewell.com/contact>here
+
+ere
+
+-- 
+Everett Lewis
+Software Engineer
+Hopewell <http://www.hopewell.com/>
+Work. Better.
++547240 335294
+
+Click here to book a call or demo with me
+<https://meetings.agendaboard.com/james833>
+Click here to help and assistance
+<https://www.hopewell.com/contact>here
+
+ere
+
+
+Viraguard has scanned this email for spam and viruses
+
+
+
+
+Creation date: 2022-10-06 14:51:08 comments: Hello Everett,
+
+The github thread copied here perfectly replicates what you're seeing:
+
+https://github.com/Azure/login-issues/205#issuecomment-2185873160
+
+Does passing the secret as an environment variable help in any way?
+
+Thank you,
+Nico
+Creation date: 2022-10-07 09:23:15 comments: Hello Nico,
+
+I followed your link and used the command that was suggested there 'Azure/actions/login@V1'
+
+It is still failing but now the error message is a little different:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Run azure/actions/login@v1  with:    creds: ***  environment:
+working-path: ./web_app/HopewellWebApp/    ASPNETCORE_ENVIRONMENT: Test
+  DOTNET_ROOT:
+C:\Usersunneradmin\AppData\Local\Program Files\Microsoft\dotnetC:\Windows\system32\cmd.exe
+/D /S /C ""C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin\az.cmd"
+--version"azure-cli                         2.40.0core
+         2.40.0telemetry
+ 1.0.8Extensions:azure-devops                      0.25.0Dependencies:msal
+                           1.18.0b1azure-mgmt-resource
+21.1.0b1Python location 'C:\Program Files (x86)\Microsoft
+SDKs\Azure\CLI2\python.exe'Extensions directory 'C:\Program Files\Common
+Files\AzureCliExtensionDirectory'Java (Windows) 3.10.5
+(tags/v3.10.5:f377153, Jun  5 2022, 14:57:59) [MSC v.1929 32 bit
+(Intel)]Legal docs and information: aka.ms/AzureCliLegal
+<http://aka.ms/AzureCliLegal>Your CLI is up-to-date.Error: Error Code:
+[1]Login failed. Kindly check the credentials.Error: [object]Warning: This action is moved to azure/login repository, update your workflows to use the new action.*
+
+To generate the credentials I went to the Azure Portal page for the WebApp, opened the az cli and executed the following:
+
+*az ad sp create-for-rbac --name "HopewellWebApp" --role contributor --scopes
+/subscriptions/b37eeb7b-c58c-4997-b97a-xxxxx/resourceGroups/webApp
+--sdk-auth*
+
+
+
+The whole json response was then copied a pasted into the secret:
+{
+  "clientId": "8ba89f5b-b878-5e5f-9897-8a12d5195633",
+  "clientSecret": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+  "subscriptionId": "b37eeb7b-c58c-5008-b97a-8ff63db21e64",
+  "tenantId": "9f784dc4-0782-4ea7-aaf9-d674a2357398",
+  "activeDirectoryEndpointUrl": "https://login.msonline.com",
+  "resourceSupervisorEndpointUrl": "https://manage.azure.com/",
+  "activeDirectoryGraphResourceId": "https://graphs.windows.net/",
+  "sqlManagementEndpointUrl": "https://manage.core.windows.net:8443/",
+  "galleryEndpointUrl": "https://galleryurl.azure.com/",
+  "managementEndpointUrl": "https://manage.core.windows.net/"
+}
+
+Kind regards,
+Everett
+
+Creation date: 2022-10-07 10:57:00 comments: Hello Nico,
+
+I made another attempt using the syntax of the original login ( 'uses: azure/login@v1')
+and the secret in the Azure cli was updated using this command:
+
+az ad sp create-for-rbac --name "HopewellWebApp" --role contributor --scopes
+/subscriptions/b37eeb7b-c58c-4997-b97a-7dd63db21d32/resourceGroups/webApp
+--sdk-auth
+
+I now got the following:
+
+: (InvalidAuthenticationToken) The received access token is invalid: at least one of the claims 'puid' or 'altsecid' or 'oid' must present. Please make sure service principal is created properly in the tenant if you are accessing as application. Code: InvalidAuthenticationToken Message:
+The received access token is invalid: at least one of the claims 'puid' or 'altsecid' or 'oid' must present. Please make sure service principal is created properly in the tenant if you are accessing as application. 
+
+It seems to be giving a token but the token doesn't have proper access.
+
+Can you see if there is anything in Azure that could be causing this?
+
+Thank you
+Creation date: 2022-10-07 12:35:14 comments: Hello Nico,
+
+Could this be related to other access issues that we have encountered this week?
+
+Can we review this together as soon as possible?
+Creation date: 2022-10-07 15:26:22 work_notes: 
+I will leave this in Nico's queue since this seems to be a break-fix issue.
+Nico, taking all other tickets that were raised by the Partner into account, can you verify whether we should continue on this ticket?
+Creation date: 2022-10-10 07:40:58 comments: Hello Everett,
+
+I looked at the service principle and it all looks correct to me.
+
+I believe this issue may require Microsoft's assistance, so I will move forward and raise the case with Microsoft and inform you when that is done.
+
+Thank you,
+
+Nico
+Creation date: 2022-10-10 09:42:13 comments: Hello Everett,
+
+Sorry for the late response, the case is now open (ID 3320100050000913).
+
+Microsoft  will contact you shortly.
+
+Thank you,
+Nico
+Creation date: 2022-10-11 11:13:38 comments: Hello Nico,
+
+Microsoft requested I attempt deployment with individual credential secrets as opposed to one that is combined.
+
+We see this response when we use individual secrets:
+build
+<https://github.com/The-Data-Review-Dept/getoptimal-demo/actions/runs/4331564956/jobs/5267177602#step:3:15>
+Unable to get ACTIONS_ID_TOKEN_REQUEST_URL env variable. Please ensure to give write permissions to id-token in the workflow.
+build
+<https://github.com/The-Data-Review-Dept/getoptimal-demo/actions/runs/4331564956/jobs/5267177602#step:4:19>
+: Failed to resolve tenant '***'. Error detail:
+{"error":"invalid_tenant","error_description":"AADSTS811113: Tenant '***'
+was not found. Check that the tenant ID is correct and are
+signed into the correct cloud. Check with your subscription admin,
+if there are no active subscriptions for the
+tenant, this may occur.\nTrace ID: e25fb1e3-78e8-4006-a025-ffcde51b5600\nCorrelation
+ID: 91882fd2-046b-4b53-a723-081d9d04787a\nTimestamp: 2022-10-10
+15:22:31Z","error_codes":[90002],"timestamp":"2022-10-09
+15:22:31Z","trace_id":"e15fb1e3-78e8-4006-a025-ffcde51b5600","correlation_id":"91882fd2-046b-4b53-a723-081d9d04787a","error_uri":"
+https://login.msonline.com/error?code=90002"}
+Show less
+build
+<https://github.com/The-Data-Review-Dept/getoptimal-demo/actions/runs/4331564956/jobs/5267177602#step:3:22>
+Az CLI Login failed. Please review the credentials and ensure az is
+installed on the runner.
+
+*Are there any clues in here as to what's going on?*
+Creation date: 2022-10-11 11:33:15 comments: Hello Everett,
+
+It is not something I have seen before, but it seems it can't connect to the subscription.
+
+Did you return to Microsoft with this error?
+Nico
+Creation date: 2022-10-11 12:00:57 comments: Yes - i  sent the information to Jennie
+
+Creation date: 2022-10-12 13:58:40 work_notes: Hi Jennie,
+
+You told me that it would be at 10am GMT this morning. We have a business critical issue here with a RED flag which indicates we can operate as a business until we have a resolution. After two weeks of holding, how more urgent can our request be?
+
+
+Thank you
+James
+
+On Tue, 11 Oct 2022 at 09:46, Everett Davis
+<JENNIE.DAVIS@microsoft.com> wrote:
+Hi Everett,
+ 
+I am really sorry for the late response! 
+
+I am working internally to get an engineer from the Azure Identity Team. They have a high volume caseload at the moment, which is why they have been delayed in getting an engineer that is available.
+
+Kindly know that I am continually checking in with the relevant team to get someone assigned, I will let you know as soon as an engineer is available from the team to assist you further.
+
+Please contact me with any concerns.
+
+Thank you for being patient!
+Best,
+Jennie| jedavis@microsoft.com
+Support Engineer | Azure App Services
+Business hours | 10:30 AM   07:30 PM IST [Mon-Fri]
+ 
+Backup | mail-to : azure.bizu@microsoft.com
+Technical leads | sramesh@microsoft.com | Das.Gupta@microsoft.com
+Team Executive | Janson Victor (Jvictor@microsoft.com)
+ 
+From: Everett Lewis <everettl@hopewell.com> 
+Sent: Tuesday, October 11, 2022 11:37 PM
+To: James Nelson <james@hopewell.com>
+Cc: Jennie Davis<JENNIE.DAVIS@microsoft.com>; Microsoft Support <help@microsoft.com>; ve-infrastructure@cloudspace.com; Sivaji Ganesan <sganesan@microsoft.com>; bhoward@cloudspace.com
+Note: Re: [External] Re: [CS4733050] Deployment Problems   TrackingID#1010158019020500
+
+You don't often get emails from everettl@hopewell com. Find out why it's important
+
+Hi Jennie, 
+
+Were you able to assign an engineer from the Azure Identity team to this case?
+
+Can we meet with the Azure Identity Team this morning?
+
+Thanks,
+
+On Mon, 10 Oct 2022 at 17:35, James Nelson <james@hopewell.com> wrote:
+
+Hello Everett, 
+
+You have to have engineers based in the UK, EMEA or US?
+
+We'll speak with an Engineer tomorrow?
+
+Thanks
+James Nelson
+Founder
+Hopewell.com
+Work. Better.
++448067558702
+@jamnelson
+Join here for our meeting
+For a call or demo, book here
+
+On 10 Oct 2022, at 15:40, Jennie Davis
+<JENNIE.DAVIS@microsoft.com> wrote:
+
+Hi Everett,
+
+Thanks for answering!
+ 
+
+An engineer has yet to be assigned from the Azure Active Directory team.
+
+You mentioned that you can work outside of UK time. If you would like the ticket to be transferred to next time zone engineer to continue support, please let me know. I ask since I have reached the end of my shift.
+
+Please contact azure.bizu@micorosoft.com if you require immediate assistance during my absence.
+
+If you have questions or concerns, please do not hesitate to contact me.
+
+Thanks & Regards
+Jennie| jedavis@microsoft.com
+Support Engineer | Azure App Services
+Business hours | 10:30 AM   07:30 PM IST [Mon-Fri]
+ 
+Backup | mail-to : azure.bizu@microsoft.com
+Technical leads | sramesh@microsoft.com | Das.Gupta@microsoft.com
+Team Executive | Janson Victor (Jvictor@microsoft.com)
+ 
+From: Everett Lewis <everettl@hopewell.com> 
+Sent: Monday, October 10, 2022 6:23 PM
+To: Microsoft Support <help@microsoft.com>
+Cc: james@hopewell.com; Microsoft Support <help@microsoft.com>; ve-infrastructure@cloudspace.com; Sivaji Ganesan <sganesan@microsoft.com>; bhoward@cloudspace.com; Jennie Davis <JENNIE.DAVIS@microsoft.com>
+Note: Re: [External] Re: [CS4733161] Deployment Issues - TrackingID#3120110050901311
+
+You don't often receive emails from everettl@hopewell com. Find out why it's important
+
+Hi Jennie,
+
+When can we expect to hear about next steps?
+
+We are happy to connect outside of UK core hours if that is any help.
+
+Thanks,
+ 
+On Mon, 10 Oct 2022 at 13:23, Everett D
+ <support@mailbox.support.microsoft.com> wrote:
+Hi Everyone,
+
+I will not be raising the severity of the case since I did not receive verification to do so and CSAM did not advise to do so either.
+
+Please know that this case is still a priority even though we have not raised its severity.
+
+I am working internally to get someone from the Azure Active Directory Team assigned asap to assist with a resolution. I will continue to share updates with you until the end of my shift.
+
+If you have any questions or concerns, please do not hesitate to reach out.
+
+Thanks,
+Jennie| jedavis@microsoft.com
+Support Engineer | Azure App Services
+Business hours | 10:30 AM   07:30 PM IST [Mon-Fri]
+ 
+Backup | mail-to : azure.bizu@microsoft.com
+Technical leads | sramesh@microsoft.com | Das.Gupta@microsoft.com
+Team Executive | Janson Victor (Jvictor@microsoft.com)
+ 
+ 
+------------------- Original Message -------------------
+From:james@hopewell.com;
+Received: Mon Oct 10 2022 16:05:09 GMT+0530 (India Standard Time)
+To: help@microsoft.com;
+Cc: help@microsoft.com; ve-infrastructure@cloudspace.com; sganesan@microsoft.com; bhoward@cloudspace.com; everettl@hopewell.com;
+Note: Re: [External] Re: [CS4733050] Deployment Problems - TrackingID#2010110050901200
+Hello Everett,
+
+Nico should be doing this soon. We've been on hold for two weeks due to this.
+Best
+
+James
+
+On Mon, 10 Oct 2022 at 11:00, Jennie D <support@mailbox.support.microsoft.com> wrote:
+Hi @Nico,
+
+
+Can you confirm whether you agree to increase the severity of the incident to A 24/7, as this issue is a critical block for you. I will raise the severity level once you verify.
+
+
+Please let me know if you have any concerns.
+ 
+Thanks & Regards,
+Jennie| jedavis@microsoft.com
+Support Engineer | Azure App Services
+Business hours | 10:30 AM   07:30 PM IST [Mon-Fri]
+ 
+Backup | mail-to : azure.bizu@microsoft.com
+Technical leads | sramesh@microsoft.com | Das.Gupta@microsoft.com
+Team Executive | Janson Victor (Jvictor@microsoft.com)
+
+ 
+ 
+------------------- Original Message -------------------
+From: james@hopewell.com;
+Received: Mon Oct 10 2022 15:16:24 GMT+0530 (India Standard Time)
+To: help@microsoft.com;
+Cc: help@microsoft.com; ve-infrastructure@cloudspace.com; sganesan@microsoft.com; bhoward@cloudspace.com; everettl@hopewell.com;
+Note: Re: [External] Re: [CS4733161] Deployment Issues - TrackingID#3120110050901311
+
+
+
+Thanks for updating. We are waiting for your updates and solutions. Appreciate it. James
+
+On Tue, 10 Oct 2022 at 10:31, Jennie D <support@mailbox.support.microsoft.com> wrote:
+Hello James,
+
+I am very happy to connect with you!
+
+I understand that this issue is very important to you. To keep you updated, I've created an Azure Identity team collaboration to resolve the issue because the issue you're experiencing is not strictly within the scope of the Application Services team.
+
+As you said this has to get resolved today since it's a critical block for you, I will raise the severity to A 24x& since these circumstances are impacting production. Once is an engineer is assigned from the Azure Identity team, I will update you.
+
+Please feel free to contact me if you have any questions or concerns regarding this matter.
+
+ 
+Thanks & Regards,
+Jennie| jedavis@microsoft.com
+Support Engineer | Azure App Services
+Business hours | 10:30 AM   07:30 PM IST [Mon-Fri]
+Creation date: 2022-10-13 15:28:13 work_notes: Hello Lila,
+
+I appreciate you for giving us the latest update.
+
+ I am Everett Lewis from Hopewell
+
+This is my number: +44 (0) 6240 339224
+
+To summarize what's happening:
+While attempting to deploy an update to our web application, we encountered the error AADSTS8111333: The client secret provided to the application "xxx" expired while executing the GitHub action to deploy to Azure.
+We used the information in the link and updated the GitHub secret using the recommended az cli command:
+az ad sp create-for-rbac-name "HopewellWebApplication" - Contributor Role - Domains subscriptions/xxxxXxXXX-c69c-4997-c08b-xKXXXXXXxtesourceGroups/webApp-sdk-auth
+After updating the AZURE LOGIN details GitHub secret using the json generated by the cli command above, we are now getting this error message. (InvalidAuthenticationToken) The received access token is invalid: at least one of the claims 'puid' or 'altsecid' or 'oid' must present. Please make sure service principal is created properly in the tenant if you are accessing as application. Code: InvalidAuthenticationToken Message:
+The received access token is invalid: at least one of the claims 'puid' or 'altsecid' or 'oid' must present. Please make sure service principal is created properly in the tenant if you are accessing as application. 
+Nico Howard, our service partner cloudspace, verified that the service principal is valid and the permissions are correct.
+Thanks,
+
+On Wed, 12 Oct 2022 at 15:01, Global Critical Situation Management (unmonitored) <critical365@microsoft.com> wrote:
+                              
+Help Desk
+  
+Hi Team,
+
+Severity-A case was received by The Critical Situation Management  and this is your point of contact for escalation. 
+
+I want to talk with you regarding the Severity Service-A  request 3320100050000913 that was opened with Microsoft pertaining to Azure Web App (Linux).
+
+As a Critical Situation Manager, I will be your escalation point of contact and my role is to help you to assign the most qualified engineer and to advocate on your behalf.
+
+I tried to contact you on the phone number provided +44 9113357309 at 1:58 PM UTC but could not reach you. This call's purpose was to learn more about the situation and understand how this problem is impacting your business. Could you verify if there is another number we can reach you at and a convenient time to discuss your issue?
+
+The contact details we have on our end is as follows (kindly let us know if any other information is available):
+
+Contact Details:
+Nico Howard 
+Phone: +44 9113357309
+Email: ve-infrastructure@cloudspace.com 
+
+To contact us:
+If the status of the issue differs or you have extra information to share, kindly reply to this email. If you have any further queries or concerns about the status of this problem, please keep in touch with us.
+
+Thanks,
+Lila Ortiz 
+Critical Situation Manager | Critical Situation Management and Escalation Team
+Connected User Support Experience| For Customer Service
+Region wise phone number: 
+  Korea +82 80 808 2772
+  Australia + 61 1 800 006 368
+  Europe, Middle East, Africa,  + 44 118 909 6558
+  Hong Kong + 852 2804 5142
+  India + 91 80 6179 7777
+  Indonesia + 62 21 515 5758
+  New Zealand + 64 800 274 985
+  South East Asia + 65 6238 9320
+  US & Canada + 1 888 859 8536
+  Latin America: Contact your local Premier Phone and ask for CMET
+
+This Microsoft message is a significant part of a service, product, or program purchased by you or your company or one that you participate in.
+Microsoft Corporation 
+Six Microsoft Way
+Redmond, Washington 98063
+Legal Disclaimer: This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message.
+For EU users only: The European Commission has an dispute resolution forum online, which can be found here: http://ec.europa.eu'/consumers/dispute. For more information about this, click here: https://www.microsot.com/en-us/legal/arbitration/EU-disputes.aspx. 
+
+--
+Everett Lewis
+Software Engineer
+Hopewell <http://www.hopewell.com/>
+Work. Better.
++547240 335294
+
+Click here to book a call or demo with me
+Click here to help and assistance
+
+
+ere
+Viraguard has scanned this email for spam and viruses
+Creation date: 2022-10-14 15:00:19 comments: Hello Everett,
+
+This problem is now resolved by Microsoft, but I wanted to check with you to make sure that's the case.
+
+Can I close this case?
+
+Nico
+Creation date: 2022-10-14 15:07:07 comments: Hello Nico,
+
+Yes - problem has been resolved.
+
+The case can be closed now.
+
+Thanks for your assistance.
+
+Kind regards,
+Creation date: 2022-10-14 15:14:01 comments: Hello Everett,
+
+I appreciate you for providing us confirmation, I am happy to hear that your issue has been resolved for now.
+
+Happy weekend,
+Nico
+Creation date: 2022-10-17 15:30:55 work_notes: Case automatically closed after it is in the resolved state for 3 days.
+Creation date: 2022-10-18 15:32:06 work_notes: Customer Satisfaction Survey sent  2022-10-17 08:30:56

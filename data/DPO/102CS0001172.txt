@@ -1,0 +1,93 @@
+A case was opened with a short description of Viva Trial cannot be canceled and I will be billed tomorrow
+A longer description includes This trial was never active. The max number of users was 25 but I put 50.
+Reported this issue and requested a fix, was never resolved.
+Now i am being informed that i will be billed for these licenses tomorrow but i am unable to cancel the trial. 
+Screenshot for reference.
+Kindly provide guidance on this matter
+
+
+
+
+Creation date: 2022-10-06 12:41:26 comments: Hi,
+
+Could you kindly give the necessary information in the fields below so we can attempt to cancel this trial?
+
+"Effective from (date), I, (first/last name), as an admin of (partner/MSP name), grant Cloudspace permission to (requested action such as ordering, deleting, cancelling, modifying quantity, etc.) subscription of (service/product name) for the (customer name) on my behalf."
+Creation date: 2022-10-06 12:50:21 comments: Thank you,
+
+Updated as seen below.
+
+Anita
+Creation date: 2022-10-06 12:57:48 comments: Hi Anita,
+
+I apologize, but i can't find it in the ticket. mark can you please resend it? 
+
+"Effective from (date), I, (first/last name), as an admin of (partner/MSP name), grant Cloudspace permission to (requested action such as ordering, deleting, cancelling, modifying quantity, etc.) subscription of (service/product name) for the (customer name) on my behalf."
+Creation date: 2022-10-06 13:11:10 work_notes: From duplicate CS4732114
+
+
+Effective immediately, I, Anita Marc, as an admin of Morton Services, grant Cloudspace permission to cancel the trial subscription of Microsoft Viva Goals for the Viraguard on my behalf.
+
+
+Regards Anita
+
+From: Anita Marc
+Sent: 05 October 2022 12:48
+To: 'Cloudspace Support' <support@cloudspace.com>
+Subject: RE: [EXTERNAL] Case updated:  Viva Trial cannot be canceled and I will be billed tomorrow. [CS4730776]
+
+Regards,
+
+Updated as seen below.
+
+Anita
+
+From: Cloudspace Support <support@cloudspace.com<mailto:support@cloudspace.com>>
+Sent: 05 October 2022 12:42
+To: Anita Marc <anitamarc@mortonsrvcs.co.uk<mailto:anitamarc@mortonsrvcs.co.uk>>
+Subject: [EXTERNAL] Case updated: Viva Trial cannot be canceled and I will be billed tomorrow. [CS4730776]
+
+ .##- Please respond to the support message from Cloudspace above this line.e -##
+[cid:image002.png@01D8D98A.462B0B90]
+
+Support
+
+
+Your case has been updated with new information.
+
+________________________________
+2022-10-05 05:41:26 MDT - Shawna Nichols Extra comments
+Hi,
+
+Could you kindly provide the necessary information in the following fields so that we can attempt to terminate the trial?
+
+"Effective immediately, I, Anita Marc, as an admin of Morton Services, grant Cloudspace permission to cancel the trial subscription of Microsoft Viva Goals for the Viraguard on my behalf.
+________________________________
+Creation date: 2022-10-06 14:18:30 comments: Hi Anita,
+
+You should now have the ability to cancel it on your own as we made some modifications to the system.
+Creation date: 2022-10-07 13:29:51 comments: Hi Anita,
+
+Were you able to cancel it or do you require any help with this?
+Creation date: 2022-10-07 14:11:03 comments: The NCE subscription has extended for a year, and I am unable to cancel it before October 6, 2023.
+
+Please ensure that it is cancelled according to the date I initiated the cancellation request to prevent any issues!
+
+Regards
+
+Anita
+Creation date: 2022-10-07 14:27:22 comments: Hi Anita,
+
+The subscription is not present in Microsoft's partner center, but we will address this issue promptly in our hub. Rest assured, you will not be billed for it, and if you receive an invoice mistakenly, we will promptly issue a refund. We will investigate and update you on the status by Sunday.
+
+I will inform you once the problem has been resolved.
+Creation date: 2022-10-11 11:49:26 comments: Hi,
+
+If there are no issues with the invoice, please inform me; otherwise, everything seems to be resolved and we can close the ticket.
+Creation date: 2022-10-12 11:14:10 comments: Thank you all for your assistance. 
+
+You may proceed to close the ticket.
+
+Anita
+Creation date: 2022-10-15 11:30:27 work_notes: Automatically closed after remaining in the resolved state for three days.
+Creation date: 2022-10-18 08:01:46 work_notes: Customer Satisfaction Survey has been sent  2022-10-17 01:01:00

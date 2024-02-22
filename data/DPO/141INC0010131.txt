@@ -1,0 +1,55 @@
+A case was opened with a short description of Utilizing Ultra Mobiles, the version number was sent to caller
+A longer description includes Issue Description: Utilizing Ultra Mobiles, the version number was sent to caller
+Ultra Mobiles requested an account number from caller
+Best Phone Number:  2313298891
+Best way to Contact (phone, teams, email):  phone
+Best Time to Contact: any
+caller's AM Computer Tag (verified):
+caller's Closest Location:
+Any Related Tickets:
+
+
+
+
+Creation date: 2023-04-07 17:25:01 work_notes: On Violet O Luna's behalf, this incident was brought up by CALL0888673
+Creation date: 2023-04-07 17:28:51 work_notes: According to caller, Ultra's Mobiles requests an account number and pin in order to send a number to a personal phone
+2313298891 needs transferring to a personal Ultra's Mobiles account from AM
+Creation date: 2023-04-07 18:07:59 work_notes: Month-to-Month Contract for Galaxy S21
+Creation date: 2023-04-07 18:30:33 work_notes: From: Connie Stark <Connie.Stark@ameren.com> 
+Sent: Friday, April 7, 2021 3:09 PM
+To: Olivia Hanna<Olivia.Hanna@ameren.com>
+Subject: RE: INC0987999 - Phone transfer request - Violet O Luna
+
+Approved by Pamela Faulkner
+
+From: Olivia Hanna<Olivia.Hanna@ameren.com> 
+Sent: Friday, April 7, 2021 4:06 PM
+To: Connie Stark <Connie.STARK@ameren.com>
+Subject: INC0987999 - Phone transfer request - Violet O Luna
+
+I've received a request from this user to transfer his line to a personal account. Confirm to continue?
+
+Thanks you.
+
+Lila Hanna
+PG&E
+PG&E HQ
+Oakland, CA  94299
+517-799-2413
+Creation date: 2023-04-07 20:03:16 comments: On your line, I had Vodafone activate the rapid port feature. This will enable you to transfer it to Ultra Mobiles.
+
+The account number will be your 10-digit phone number - 231329991
+The pin will be the last 4 digits of your phone number   9691
+
+Once you have relocated your line, kindly let me know so I can finish the procedure to change the inventory on our end.
+
+Thanks you.
+Creation date: 2023-04-07 20:03:54 work_notes: Informed the requester that the ticket is still open and needs their response.
+______
+
+Notification: I contacted Violet Luna directly in chat
+Action: I requested a response on this ticket from the requester.
+Recipient: Violet Luna
+via: Flexport [s4]
+Creation date: 2023-04-10 12:55:08 work_notes: Phone has been transferred to the personal account.
+Creation date: 2023-04-10 12:55:08 comments: Ticket RITM0504883 has been created for your number to be removed from Users inventory.  In shortly you will be receiving information about where and how to return your phone.  Thanks.

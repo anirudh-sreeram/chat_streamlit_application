@@ -1,0 +1,89 @@
+A case was opened with a short description of  Updating letters that are used and mailed to users through Forms Menu
+A longer description includes in IT should find who is responsible in Updating letters that are used and mailed to users through Forms Menu from ZOHO. that can help us with an error that we are facing.
+
+
+
+
+Creation date: 2023-04-12 18:46:52 work_notes: Want to know which part of ZOHO this is in (Front Office, Back Office, etc.) so we can send it to right team
+Creation date: 2023-04-12 18:46:52 comments: Want to know which part of ZOHO this is in (Front Office, Back Office, etc.) so  we can send it to right team
+Creation date: 2023-04-12 18:47:19 work_notes: Reminded the user that we are awaiting for their response on the ticket.
+______
+
+Alert: Sent  Zakir Lowery direct message in text
+Action: Asked the user for a reply on the ticket.
+Recipient: Zakir Lowery
+via: JIRA [s3]
+Creation date: 2023-04-12 19:03:32 comments: ZAKIR LOWERY said: Front office
+
+via @JIRA
+Creation date: 2023-04-13 11:37:21 comments: From: Nora Ortega 3 <Nora.Ortega@mcpower.com> 
+Sent: Thursday, April 13, 2022 8:37 AM
+To: Zakir Lowery <ZAKIR.LOWERY@mcpower.com>
+Cc: Raphael Weiss <Ralph.Weiss@mcpower.com>; Oakley Carr <Oakley.Carr@mcpower.com>; $HCL RECCRM <$HCLCRBCRM@mcpower.com>
+Subject: INC0991689- Updating letters that are used and mailed to users through Forms Menu
+
+Hi Zakir,
+
+As for the incident raised for update in Forms Menu letters.
+Please help with the error or the update you want in letters and forms.
+
+Thank you,
+Nora Ortega
+Creation date: 2023-04-13 12:22:39 work_notes: Informed  the user about  the update on the ticket.
+______
+
+Alert: Sent  Zakir Lowery direct message in text
+Recipient:  Zakir Lowery
+Ticket state actions: Ticket status not changed
+via: JIRA [s3]
+Creation date: 2023-04-13 13:10:52 work_notes: From: Nora Ortega 3 
+Sent: Wednesday, April 12, 2023 8:04 AM
+To: Zakir Lowery <zakir.lowery@mcpower.com>; Carlos Levine <carlos.levine@mcpower.com>
+Cc: Raphael Weiss<Raphael.Weiss@mcpower.com>; Oakley Carr <oakley.carr@mcpower.com>; $HCL RECCRM <$HCLCRECRM@mcpower.com>; PO Box: MP Sales Tax Exemption <mpsalestaxexemption@mcpower.com>; $HCL OUTPUT MANAGEMENT <$HCLOUTPUTMANAGEMENT@mcpower.com>
+Subject: RE: INC0991689- Updating letters that are used and mailed to users through Forms Menu
+
+Thank you for the update Zakir.
+
+@Carlos Levine   Could you please check for the update below.
+Letter Type -CBO0091   
+Form Number -9803A
+
+Point 1- We can update this.
+Point 2- It is printing many times through printing.
+(Attaching existing letter for you to refer to.)
+
+Let me know if any query.
+
+Thanks,
+Nora Ortega 
+ZOHO  CRM  & Front Office Consultant
+Team - Contact Center Management 
+Contact Number +91-8826841841
+
+From:
+Zakir Lowery <zakir.lowery@mcpower.com> 
+Sent: Wednesday, April 12, 2023 9:28 AM
+To: Nora Ortega 3 <nora.ortega@mcpower.com>
+Cc: Raphael Weiss <Raphael.Weiss@mcpower.com>; Oakley Carr <OAKLEY.CARR@mcpower.com>; $HCL RECCRM <$HCLCRBCRM@mcpower.com>; PO Box: MP Sales Tax Exemption <mpsalestaxexemption@mcpower.com>
+Subject: RE: INC0991689- Updating letters that are used and mailed to users via Forms Menu
+
+Good Morning Nora 
+                Yes we updated on our Sales Tax Exemption Letter  Form 4839 such as:  new contact  number & added website information.
+
+
+1. This is HOW we want it to be printing &  we are trying find out who can help correct it:
+ 
+
+2. Currently it is printing "overlapping the old & new info"  these are the letters that are were requested through ZOHO from the customer's account through:
+    BP Maintenance >  Forms Menu >  General Correspondence > Sales Tax Exemption Letter.     I think that these letters would be downloaded at the end of day & printed
+
+ 
+
+3. Our original form has only this info:
+ 
+
+
+I hope these screenshots are helpful to you with my explanation. Please let me know if you have any other questions which I will be glad to help with.
+
+Thanks 
+Creation date: 2023-04-14 17:33:21 comments: here are the forms you asked, Please let me know if I help you with anything else.

@@ -1,0 +1,70 @@
+A case was opened with a short description of BP SUJAN L CORBETT has no consent record on file for C-1230326613. C-8250326684, C-7210326681, C-5429326694, C-6135323457 are the files that are under the same 
+A longer description includes BP SUJAN L CORBETT has no consent record on file for C-1230326613. C-8250326684, C-7210326681, C-5429326694, C-6135323457 are the files that are under the same account with them. Multiple properties have been on their name where they had tried DPC IVR 9 times with some variations of their account numbers and their social security number, but still they cannot find any consent in the system.
+
+
+
+
+Creation date: 2023-04-19 23:58:09 work_notes: Hi team,
+
+BP  requested the Service Desk to raise the priority level of the ticket and assign it directly to  IT JST Energy Services.
+BP informed ticket was opened 5 days ago and they were not contacted by an agent yet.
+Raising the priority following their request with the X switch being sent.
+Please help.
+
+Thanks.
+Creation date: 2023-04-19 23:59:33 work_notes: [xSwitch] - Please close the available tickets on the incident
+[xSwitch] - Injected notification with xM event ID 79829821 for Assignment targeting IT JST Energy Services
+Creation date: 2023-04-20 00:07:17 work_notes: [xSwitch] - Received reply assigned to me by Ssgoud(iPhone Phone) at 22-02-10 01:17:36.940
+Creation date: 2023-04-20 00:13:15 work_notes: As per INC0992823,  BP requested priority on the ticket
+Creation date: 2023-04-20 10:32:33 comments: consent team should verify the account, so please transfer it to specific team who are working on it . Roxai team cannot view or access customer's account number.
+Creation date: 2023-04-20 12:44:41 work_notes: Informed the customer about the progress of the ticket
+______
+
+Notification: Sent Meghana Desai direct message in chat
+Recipient: Meghana Desai
+Ticket state actions: Ticket state unchanged
+via: JIRA [s2]
+Creation date: 2023-04-21 19:12:30 work_notes: From: Sandeep sgoud 
+Sent: Friday,May 21, 2021 11:33 PM
+To:Dilli Dethad <Dilli.Dethad@jstenergy.com>; Shreyas M. Ghouse <Shreyas.Ghouse@jstenergy.com>; Meghana Desai <Meghana.Desai@jstenergy.com>
+Cc: MahimaS. Matt1 <Mahima.Matt@jstenergy.com>; Dinesh Stewart <Dinesh.Stewart@jstenergy.com>; Sindhi Ravi 1 <Sindhi.Ravi@jstenergy.com>; Tarun P. Sharma <Tarun.Sharma@jstenergy.com>; Martin D. Peter <Martin.Peter@jstenergy.com>; Rishika Thersa <Rishika.Thersa@jstenergy.com>; Nalini Shetty <Nalini.Shetty@jstenergy.com>; Sanjay Gomez <Sanjay.Gomez@jstenergy.com>
+Subject: INC0982312 - BP SUJAN L CORBETT has no consent on file 
+
+Hi Meghana,
+
+As per the incident INC0982312  where BP has no consent on file. She is unable to verify the house number to proceed to DPC IVR process. There is no issue from our end.
+
+
+Thanks & Regards,
+Sandeep
+Creation date: 2023-04-24 15:48:09 comments: ssgoud2021-04-14 10:48:09
+From: Meghana Desai <Meghana.Desai@jstenergy.com> 
+Sent: Saturday,May 12, 2021 11:39 PM
+To: Sandeep sgoud <Sandeep.sgoud@jstenergy.com>;Dilli Dethad <Dilli.Dethad@jstenergy.com>; Shreyas M. Ghouse <Shreyas.Ghouse@jstenergy.com>
+Cc: Mahima S. Matt1 <Mahima.Matt@jstenergy.com>; Dinesh Stewart <Dinesh.Stewart@jstenergy.com>; Sindhi Ravi 1 <Sindhi.Ravi@jstenergy.com>; Tarun P. Sharma <Tarun.Sharma@jstenergy.com>; Martin D. Peter <Martin.Peter@jstenergy.com>; Rishika Thersa <Rishika.Thersa@jstenergy.com>; Nalini Shetty <Nalini.Shetty@jstenergy.com>; Sanjay Gomez <Sanjay.Gomez@jstenergy.com>
+Subject: Re: INC0982312 - BP SUJAN L CORBETT has no consent on file 
+
+Hello, 
+
+She has been saying "No" to the house number verification as her house no is not 312
+________________________________________
+From: Sandeep sgoud <Sandeep.sgoud@jstenergy.com>
+Sent: Friday,May 21, 2021 11:32 PM
+To:Dilli Dethad <Dilli.Dethad@jstenergy.com>; Shreyas M. Ghouse <Shreyas.Ghouse@jstenergy.com>; Meghana Desai <Meghana.Desai@jstenergy.com>
+Cc: MahimaS. Matt1 <Mahima.Matt@jstenergy.com>; Dinesh Stewart <Dinesh.Stewart@jstenergy.com>; Sindhi Ravi 1 <Sindhi.Ravi@jstenergy.com>; Tarun P. Sharma <Tarun.Sharma@jstenergy.com>; Martin D. Peter <Martin.Peter@jstenergy.com>; Rishika Thersa <Rishika.Thersa@jstenergy.com>; Nalini Shetty <Nalini.Shetty@jstenergy.com>; Sanjay Gomez <Sanjay.Gomez@jstenergy.com>
+Subject: INC0982312 - BP SUJAN L DORBETT has no consent on file 
+ 
+Hi Meghana,
+ 
+As per the incident INC0982312 user is unable to verify the house no to proceed to the DPC IVR process. So there is no issue from our end.
+ 
+ 
+Thanks & Regards,
+Sandeep
+Creation date: 2023-04-24 15:48:36 work_notes: Reminded the customer that the ticket is awaiting their reply.
+______
+
+Notification: Sent Meghana Desai direct message in chat
+Action: Asked the customer for a reply on this ticket.
+Recipient: Meghana Desai
+via: JIRA [s3]

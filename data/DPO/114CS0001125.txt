@@ -1,0 +1,160 @@
+A case was opened with a short description of FW: Validating Delinquent Cancellations
+A longer description includes PRIVATE
+
+Kindly look below response for processing.
+
+From: White, Chloe <cwhite@dreamkeys.com>
+Sent: Friday, October 14, 2022 10:11 AM
+To: Wright, Theo (Shield - Contractor) <theo.wright@shield.com>; Chan, Chloe (Shield) <chloe.chan@shield.com>; Shield Loan Hub <loanhub@shield.com>
+Subject: RE: Validating Delinquent Cancellations
+
+
+WARNING: This is an email originating from outside the organization. Be careful with links and attachments.
+
+Morning,
+The loan affiliated with the certificate number below was paid in full on 10/11/2022. Kindly revoke the certificate.
+
+With regards, 
+
+
+
+[https://lenders.hfs.com/pictures/dreamkeys_icon_divisiontagline_2016.png]
+Chloe White 
+Escrow Engineer
+Central: 856.329.2442
+cwhite@@dreamkeys.com<mailto:cwhite@@dreamkeys.com>
+www.dreamkeys.com<http://www.dreamkeys.com/>
+From: Wright, Theo (Shield - Contractor) <theo.wright@shield.com<mailto:theo.wright@shield.com>>
+Sent: Thursday, October 13, 2022 4:28 PM
+To: White, Chloe <cwhite@dreamkeys.com<mailto:cwhite@dreamkeys.com>>; Chan, Chloe (Shield) <chloe.chan@shield.com<mailto:chloe.chan@shield.com>>; Shield Loan Hub <loanhub@shield.com<mailto:loanhub@shield.com>>
+Cc: Wright, Theo (Shield - Contractor) <theo.wright@shield.com<mailto:theo.wright@shield.com>>
+Subject: Validating Delinquent Cancellations
+Importance: High Priority
+
+
+PRIVATE
+
+
+
+Hi,
+
+
+
+The below loans have come up for cancellation but the cancellation has been put on hold as they are showing as delinquent in our system. Can you verify if they really need to be cancelled so they can be processed today or confirm if a claim is going to be filed?
+
+
+CERTIFICATE_NUMBER
+NAME_OF_TASK
+age_of_task
+TASK_INFORMATION
+sent_date
+USER_NUMBER
+SOURCE_TYPE
+SERVICING_COMPANY_NUMBER
+SERVICING_COMPANY_NAME
+CANCELLATION_REASON
+CANCELLATION_DETAILS
+9604611450
+DELINQUENCY
+1
+["DELQ CAT 31"]
+10/12/2022
+
+Electronic Data Interchange 
+B221214M43
+DREAMKEYS, A DEPT OF NEW JERSEY HOUSI
+B - Lender Request
+1 - Fully Paid
+
+
+
+Theo Wright
+Loan Hub Team
+756 Jarrell Drives, 
+Jarodfort, VT 34208
+Phone:  607-401-6727
+loanhub@shield.com<mailto:loanhub@shield.com>
+
+
+
+
+Creation date: 2022-10-17 15:58:39 comments: visitor 10/16/2022 10:57:39
+Sent from: theo.wright@shield.com
+
+PRIVATE
+
+Kindly look below response for processing.
+
+From: White, Chloe <cwhite@dreamkeys.com>
+Sent: Friday, October 14, 2022 10:11 AM
+To: Wright, Theo (Shield - Contractor) <theo.wright@shield.com>; Chan, Chloe (Shield) <chloe.chan@shield.com>; Shield Loan Hub <loanhub@shield.com>
+Subject: RE: Validating Delinquent Cancellations
+
+
+WARNING: This is an email originating from outside the organization. Be careful with links and attachments.
+
+Morning,
+The loan affiliated with the certificate number below was paid in full on 10/11/2022. Kindly revoke the certificate.
+
+With regards, 
+
+
+
+[https://lenders.hfs.com/pictures/dreamkeys_icon_divisiontagline_2016.png]
+Chloe White 
+Escrow Engineer
+Central: 856.329.2442
+cwhite@@dreamkeys.com<mailto:cwhite@@dreamkeys.com>
+www.dreamkeys.com<http://www.dreamkeys.com/>
+From: Wright, Theo (Shield - Contractor) <theo.wright@shield.com<mailto:theo.wright@shield.com>>
+Sent: Thursday, October 13, 2022 4:28 PM
+To: White, Chloe <cwhite@dreamkeys.com<mailto:cwhite@dreamkeys.com>>; Chan, Chloe (Shield) <chloe.chan@shield.com<mailto:chloe.chan@shield.com>>; Shield Loan Hub <loanhub@shield.com<mailto:loanhub@shield.com>>
+Cc: Wright, Theo (Shield - Contractor) <theo.wright@shield.com<mailto:theo.wright@shield.com>>
+Subject: Validating Delinquent Cancellations
+Importance: High Priority
+
+
+PRIVATE
+
+
+
+Hi,
+
+
+
+The below loans have come up for cancellation but the cancellation has been put on hold as they are showing as delinquent in our system. Can you verify if they really need to be cancelled so they can be processed today or confirm if a claim is going to be filed?
+
+
+CERTIFICATE_NUMBER
+NAME_OF_TASK
+age_of_task
+TASK_INFORMATION
+sent_date
+USER_NUMBER
+SOURCE_TYPE
+SERVICING_COMPANY_NUMBER
+SERVICING_COMPANY_NAME
+CANCELLATION_REASON
+CANCELLATION_DETAILS
+9604611450
+DELINQUENCY
+1
+["DELQ CAT 31"]
+10/12/2022
+
+Electronic Data Interchange 
+B221214M43
+DREAMKEYS, A DEPT OF NEW JERSEY HOUSI
+B - Lender Request
+1 - Fully Paid
+
+
+
+Theo Wright
+Loan Hub Team
+756 Jarrell Drives, 
+Jarodfort, VT 34208
+Phone:  607-401-6727
+loanhub@shield.com<mailto:loanhub@shield.com>
+Creation date: 2022-10-17 21:54:30 work_notes: visitor 10/16/2022 16:53:30
+Case updated through an email response once case status  = resolved.

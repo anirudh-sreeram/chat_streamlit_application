@@ -1,0 +1,1 @@
+[{"role": "user", "content": "Hi"}, {"role": "robot", "chosen": "Hi there! How can I help you today?", "rejected": "Hello! How can I help you?", "model": "NOW_LLM_llama13b_112923"}]

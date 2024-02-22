@@ -1,0 +1,159 @@
+A case was opened with a short description of Slater, Shane: Incorrect GL Accounts: unable to transfer shifts
+A longer description includes Hello,
+ View the email below, please. I'm attempting to transfer a worker's time, but I receive an error. Please provide advice.
+
+Thanks.
+Shane Slater
+Fleet Maintenance Supervisor
+
+2685 California Street, Mountain View CA 94040
+E  SSlater@Wasteconnections.com
+<mailto:SSlater@Wasteconnections.com
+>
+O  (345)-878-1923
+C  (422)-800-2896
+W  Wasteconnections<http://Wasteconnections/>
+
+[MK_EMAIL_SIGNATURE_LOCKUP_9]
+
+
+
+From: Slater, Shane
+Sent: Friday, September 10, 2022 5:35 AM
+To: OracleProduction@wasteconnections.oracle.net
+Cc: Murray,Meghan<MMurray@rWasteconnections>
+Subject: Slater, Shane: Incorrect GL Accounts: unable to transfer shifts
+
+Hello,
+I've been attempting to shift this worker's time to our container shop. Although he works as a welder in the maintenance department, his official title is maintenance mechanic. He has been fixing boxes for the container department to assist them. When I attempt to transfer his time, I receive the following problem message. Would you kindly inform me if there is another option to transfer his time?
+
+
+
+ Shane Slater
+Fleet Maintenance Supervisor
+
+2685 California Street, Mountain View CA 94040
+SSlater@Wasteconnections.com<mailto:SSlater@Wasteconnections.com>
+O  (345)-878-1923
+C  (422)-800-2896
+W  Wasteconnections<http://Wasteconnections/>
+
+[MK_EMAIL_SIGNATURE_LOCKUP_9]
+
+
+
+
+
+From: no_reply@Wasteconnections.com<mailto:no_reply@Wasteconnections.com> <no_reply@Wasteconnections.com<mailto:no_reply@Wasteconnections.com>>
+Sent: Friday, September 10, 2022 5:20 AM
+To:SSlater@Wasteconnections.com
+
+Slater, Shane: Incorrect GL Accounts: unable to transfer shifts
+
+At least one day this week, a worker at your site will be transferred in Oracle, which will cause an error to be posted to the general ledger. The improper transfer(s) are noted below. 'Please update the Oracle record to a legitimate one.
+WQRnhyBNMKFasdfgBannerStarT
+This message comes from a third-party sender. 
+The source of this mail is not one of your organizations.
+
+WQRnhyBNMKFasdfBannerEnd
+
+At least twice this week, a worker at your site has a transfer in Oracle that will cause an error to be posted to the general Ledger.
+
+
+ The improper transfer(s) are noted below. Please update the Oracle record with a valid transfer combination before Monday at 9:00 AM Arizona time.
+
+
+
+
+Employee | Personnum | Transfer Shift | Invalid GL Acct
+
+ Cisneros,Bridie | 952089642 | Sep  8 2022 12:02AM | 6088+0000-521+DMPT
+
+
+
+Please be aware that while our validation procedure runs every day, emails will be issued every day the transfer is within acceptable combinations until the paycheck is processed.
+
+
+
+
+Creation date: 2022-09-14 11:25:03 work_notes: HR Case created by email:
+
+Received from: SSlater@Wasteconnections.com
+
+Slater, Shane: Incorrect GL Accounts: unable to transfer shifts
+ 
+
+ Hello,
+ View the email below, please. I'm attempting to transfer a worker's time, but I receive an error. Please provide advice.
+
+Thanks.
+Shane Slater
+Fleet Maintenance Supervisor
+
+2685 California Street, Mountain View CA 94040
+E  SSlater@Wasteconnections.com
+<mailto:SSlater@Wasteconnections.com
+>
+O  (345)-878-1923
+C  (422)-800-2896
+W  Wasteconnections<http://Wasteconnections/>
+
+[MK_EMAIL_SIGNATURE_LOCKUP_9]
+
+
+
+From: Slater, Shane
+Sent: Friday, September 10, 2022 5:35 AM
+To: OracleProduction@wasteconnections.oracle.net
+Cc: Murray,Meghan<MMurray@rWasteconnections>
+Subject: Slater, Shane: Incorrect GL Accounts: unable to transfer shifts
+
+Hello,
+I've been attempting to shift this worker's time to our container shop. Although he works as a welder in the maintenance department, his official title is maintenance mechanic. He has been fixing boxes for the container department to assist them. When I attempt to transfer his time, I receive the following problem message. Would you kindly inform me if there is another option to transfer his time?
+
+
+
+ Shane Slater
+Fleet Maintenance Supervisor
+
+2685 California Street, Mountain View CA 94040
+SSlater@Wasteconnections.com<mailto:SSlater@Wasteconnections.com>
+O  (345)-878-1923
+C  (422)-800-2896
+W  Wasteconnections<http://Wasteconnections/>
+
+[MK_EMAIL_SIGNATURE_LOCKUP_9]
+
+
+
+
+
+From: no_reply@Wasteconnections.com<mailto:no_reply@Wasteconnections.com> <no_reply@Wasteconnections.com<mailto:no_reply@Wasteconnections.com>>
+Sent: Friday, September 10, 2022 5:20 AM
+To:SSlater@Wasteconnections.com
+
+Slater, Shane: Incorrect GL Accounts: unable to transfer shifts
+
+At least one day this week, a worker at your site will be transferred in Oracle, which will cause an error to be posted to the general ledger. The improper transfer(s) are noted below. 'Please update the Oracle record to a legitimate one.
+WQRnhyBNMKFasdfgBannerStarT
+This message comes from a third-party sender. 
+The source of this mail is not one of your organizations.
+
+WQRnhyBNMKFasdfBannerEnd
+
+At least twice this week, a worker at your site has a transfer in Oracle that will cause an error to be posted to the general Ledger.
+
+
+ The improper transfer(s) are noted below. Please update the Oracle record with a valid transfer combination before Monday at 9:00 AM Arizona time.
+
+
+
+
+Employee | Personnum | Transfer Shift | Invalid GL Acct
+
+ Cisneros,Bridie | 952089642 | Sep  8 2022 12:02AM | 6088+0000-521+DMPT
+
+
+
+Please be aware that while our validation procedure runs every day, emails will be issued every day the transfer is within acceptable combinations until the paycheck is processed.
+Creation date: 2022-09-20 17:47:55 comments: Hi, we have set up the system to work on this configuration in the future, so this transfer should now be legitimate. ThanksRoseanna Yates, time and attendance analyst, 

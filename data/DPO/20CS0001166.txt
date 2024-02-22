@@ -1,0 +1,526 @@
+A case was opened with a short description of RE: Outlook Web Problems - Drafts [NIM5393936]
+A longer description includes Hello,
+
+Following up on our email thread below in regards to this issue, it seems the solution we were given was only temporary and the problem as resurfaced.
+
+Could we log this with Microsoft so we can work towards a permanent solution, please? It's causing some serious issues for them right now.
+
+Thank you,
+
+Thea Boyer | Help Desk Technician
+
+[cid:image002.png@01E9E80F.1E594BE0]
+Technology Services |  Voice and Connection  |  Security Services  |  Digital Services
+
+14 E Wichita Avenue, Russell, KS, 63665
+T: +1 484-048-2009   W: www.pancoit.co.us<http://www.pancoit.co.us>
+
+
+[cid:image003.png@01D8D80E.1E594BE0]   [cid:image004.png@01D8D80E.1E594BE0]      [Image for eset authorized]     [Image for Waylink logo]    [Image for Microsoft partner] [Image for ico logo]
+
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law. Panco IT is not liable for any errors or omissions in the transmitted message. Panco IT is registered in the United States. Company Number 10094589. Registered office address 4758 Diamante Ct, Las Cruces, New York, 88012
+
+
+
+
+Creation date: 2022-09-30 08:37:18 work_notes: Attached as a child to NIM5393936
+Creation date: 2022-09-30 08:37:19 work_notes: Attached as a child to NIM5393936
+Creation date: 2022-09-30 09:15:59 comments: Hello Thea,
+
+Sorry the issue came back.
+
+Have you looked at the current status of the following settings on the mailbox in PowerShell?
+
+-MessageCopyForSendOnBehalfEnabled
+-MessageCopyForSentAsEnabled
+
+Did these revert to false?
+
+May I know if this is happening to all sent items (as was the case previously) or only some?
+
+Once these have been checked, I'd be happy to raise this with Microsoft on your behalf.
+
+Kindly share the details below for someone at your company:
+
+Name
+Email address
+Contact Number
+Availability
+
+Kindly add the UPN of the affected mailbox as well
+
+It would also be great to have evidence that one of the outbound emails currently in drafts was actually sent out. Please include an extended message trace for one of the outgoing emails.
+
+Thank you,
+Oscar 
+
+Creation date: 2022-10-03 14:54:57 comments: Hello Thea,
+
+Checking in since my last email, have you a second to discuss next steps?
+
+Oscar 
+
+Creation date: 2022-10-04 15:24:05 comments: Hello Thea, 
+
+This is Oscar from Nimbus Technical Support, hope all is well.
+
+As I haven't heard anything from you for some time, this ticket will be moved to the archive within 24-hours if I do not hear from you.  Please let us know if we may continue with archiving this ticket or if you need additional assistance.
+
+
+Thank you,
+Oscar 
+
+Creation date: 2022-10-04 15:29:53 comments: Hello,
+
+I have not had the opportunity to try your suggestions - I will do my best to look into this in the coming days.
+
+Can you keep the case open please?
+
+Thanks,
+
+Thea Boyer | Help Desk Technician
+
+[cid:image002.png@01E9E80F.1E594BE0]
+Technology Services |  Voice and Connection  |  Security Services  |  Digital Services
+
+14 E Wichita Avenue, Russell, KS, 63665
+T: +1 484-048-2009   W: www.pancoit.co.us<http://www.pancoit.co.us>
+
+
+[cid:image003.png@01D8D80E.1E594BE0]   [cid:image004.png@01D8D80E.1E594BE0]      [Image for eset authorized]     [Image for Waylink logo]    [Image for Microsoft partner] [Image for ico logo]
+
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law. Panco IT is not liable for any errors or omissions in the transmitted message. Panco IT is registered in the United States. Company Number 10094589. Registered office address 4758 Diamante Ct, Las Cruces, New York, 88012
+Creation date: 2022-10-05 07:39:42 comments: Hello Thea,
+
+No worries, I will contact you in a few days. 
+
+Oscar 
+
+Creation date: 2022-10-05 14:01:42 comments: Hello,
+
+I looked into it and the settings did not revert as everything is still set to 'True'
+
+It seems to be affecting all emails - after the initial change, everything was functioning normally but around the 2-week mark, we started experiencing the issue again
+
+As for contact info, this is a pretty hazy area since the people using this inbox are a sub-company which we do not actually support with respect to IT. They have their own IT company and I'm not sure if I can share this information with you for a number of reasons.
+
+UPN of affected mailbox: customersupport@pcit.co.us<mailto:customersupport@pcit.co.us>
+
+Thank you
+
+Thea Boyer | Help Desk Technician
+
+[cid:image002.png@01E9E80F.1E594BE0]
+Technology Services |  Voice and Connection  |  Security Services  |  Digital Services
+
+14 E Wichita Avenue, Russell, KS, 63665
+T: +1 484-048-2009   W: www.pancoit.co.us<http://www.pancoit.co.us>
+
+
+[cid:image003.png@01D8D80E.1E594BE0]   [cid:image004.png@01D8D80E.1E594BE0]      [Image for eset authorized]     [Image for Waylink logo]    [Image for Microsoft partner] [Image for ico logo]
+
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law. Panco IT is not liable for any errors or omissions in the transmitted message. Panco IT is registered in the United States. Company Number 10094589. Registered office address 4758 Diamante Ct, Las Cruces, New York, 88012
+Creation date: 2022-10-05 14:28:44 comments: Hello Thea,
+
+Thanks for providing clarity on this issue..
+
+The contact details I request to provide to Microsoft are either your own or someone at your company. Microsoft does not like have customers as contacts on cases and will only reach out if absolutely necessary. Rather they require an MSP-level contact to operate as the technical contact.
+
+Are you able to provide the below info for yourself or someone at Panco IT?
+
+Name
+Email address
+Contact Number
+Availability
+
+Thank you,
+Oscar 
+
+Creation date: 2022-10-05 14:36:57 comments: Hello Oscar ,
+
+I see, if that's the case I can provide Panco IT details.
+
+Name: Thea Boyer
+Email address: tboyer@pancoit.co.us
+Contact Number: 314 883 0731
+Availability: 8:30 AM to 3:30 PM (Monday   Friday)
+
+Thank you
+
+Thea Boyer | Help Desk Technician
+
+[cid:image002.png@01E9E80F.1E594BE0]
+Technology Services |  Voice and Connection  |  Security Services  |  Digital Services
+
+14 E Wichita Avenue, Russell, KS, 63665
+T: +1 484-048-2009   W: www.pancoit.co.us<http://www.pancoit.co.us>
+
+
+[cid:image003.png@01D8D80E.1E594BE0]   [cid:image004.png@01D8D80E.1E594BE0]      [Image for eset authorized]     [Image for Waylink logo]    [Image for Microsoft partner] [Image for ico logo]
+
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law. Panco IT is not liable for any errors or omissions in the transmitted message. Panco IT is registered in the United States. Company Number 10094589. Registered office address 4758 Diamante Ct, Las Cruces, New York, 88012
+Creation date: 2022-10-06 10:56:50 comments: Hello Thea,
+
+Really sorry for the late response, this case has been raised with Microsoft support (ID 44354233 ).
+
+Microsoft will contact you very soon.
+Oscar 
+
+Creation date: 2022-10-10 14:32:11 work_notes:    Christina(Microsoft) 
+ Thursday, October 6, 2022 5:22 PM GMT
+ Hello Thea,
+
+Really sorry for the late response.
+
+The diagnostics were run, which executed the following actions:
+
+  Checks for synchronization failures in recipient object.
+  Attempts to resolve any synchronization failures that were found.
+  Checks for synchronization conflicts on recipient or list of recipients.
+  Attempts to any synchronization conflicts that were found.
+  Starts a synchronization from EXO to Azure.
+
+I would advise you to remove the license on the mailbox since it is shared. You can look at the behavior and share your results with us.
+
+If you continue to have problems, run the PowerShell script shared below and share your results with us.
+
+Get-Mailbox Permission -Identity don@cordeval.com | Format-List
+
+Please let me know if you have any queries.
+
+Thank you
+Christina Jarvis
+Microsoft 365 Support Engineer
+Email Address    christina@ms365support.com
+Business Hours : Monday to Friday: 6:00 AM UTC   3:30 PM UTC
+My Technical Lead: Jason Andrade
+ | Email: v-Jasandrade@microsoft.com
+My Team Manager: Farhan Cordova
+ | Email: v-3fcor@microsoft.com
+My Technical Advisor: Raheem Jenkins
+ | Email: raheem.jenkins@microsoft.com
+
+It is recommended that you REPLY ALL when responding to this message, so your support experience is consistent.
+
+
+________________________________________
+   tboyer@pancoit.co.us (PCIT) 
+
+ Thursday, October 6, 2022 09:40 AM GMT
+ Hello,
+ 
+Thanks for responding on this issue.
+ 
+Kindly see the answers for your questions below. 
+
+How many users are experiencing this problem? Everyone who logs into/uses this mailbox (around 30+ people).
+When did this problem begin? From last 7 weeks onwards.
+Were changes that could result  in this behavior? No changes were made.
+What environment do you have? Hybrid or Cloud only? Hybrid though I think the issue is happening in OWA
+Kindly share UPN for affected user customersupport@pcit.co.us 
+What is the behavior in OWA? The issue is in OWA since they do not have outlook access. OWA is how they log in and use emails
+ 
+Thank you
+Thea Boyer | Help Desk Technician
+
+[cid:image002.png@01E9E80F.1E594BE0]
+Technology Services |  Voice and Connection  |  Security Services  |  Digital Services
+
+14 E Wichita Avenue, Russell, KS, 63665
+T: +1 484-048-2009   W: www.pancoit.co.us<http://www.pancoit.co.us>
+
+
+[cid:image003.png@01D8D80E.1E594BE0]   [cid:image004.png@01D8D80E.1E594BE0]      [Image for eset authorized]     [Image for Waylink logo]    [Image for Microsoft partner] [Image for ico logo]
+
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law. Panco IT is not liable for any errors or omissions in the transmitted message. Panco IT is registered in the United States. Company Number 10094589. Registered office address 4758 Diamante Ct, Las Cruces, New York, 88012
+
+________________________________________
+   Christina (Microsoft) 
+ Wednesday, October 5, 2022 4:09 PM GMT
+ Hello Oscar,
+
+I hope this email finds you well!
+
+To help us narrow down the issue, please provide responses to the queries below:
+
+How many users are experiencing this problem?
+When did this problem begin?
+Were changes that could result  in this behavior?
+What environment do you have? Hybrid or Cloud only?
+Kindly share UPN for affected user
+What is the behavior in OWA?
+Check the behavior on a different PC or network.
+
+In the interim, see Microsoft article and see if it assists in any way.
+
+Shared mailbox message do not save to the Sent Items folder - Exchange | Microsoft Learn
+
+Please let me know if you have any queries.
+
+Thank you
+Christina Jarvis
+Microsoft 365 Support Engineer
+Email Address    christina@ms365support.com
+Business Hours : Monday to Friday: 6:00 AM UTC   3:30 PM UTC
+My Technical Lead: Jason Andrade
+ | Email: v-Jasandrade@microsoft.com
+My Team Manager: Farhan Cordova
+ | Email: v-3fcor@microsoft.com
+My Technical Advisor: Raheem Jenkins
+ | Email: raheem.jenkins@microsoft.com
+
+It is recommended that you REPLY ALL when responding to this message, so your support experience is consistent.
+
+
+________________________________________
+   Christina  (Microsoft) 
+ Wednesday, October 5, 2022 4:02 PM GMT
+ Hello Oscar,
+
+I hope you are doing great!
+
+I appreciate you contacting Microsoft Service. I am Christina, the support engineer from Partners Support who will be assisting you on this case.
+
+I can be contacted using the contact information below, referencing the case number - 44354233.
+
+Issue Description:  Email issue where sent messages go to drafts rather than sent items
+
+Scope Agreement: This issue is resolved once we can help you with email issue where sent messages go to drafts rather than sent items. (If it is not within our scope, you will be offered the best effort support. If it is by design, this case will be considered resolved.) 
+
+Reminder: We cannot provide Root Cause Analysis (RCA) since we are a break fix team. According to Microsoft Policy, only one problem can be addressed per support incident.
+
+We can now begin working on resolving your issue. If you do not agree to the scope as outlined above or would like changes to be made to it, please notify me as early as possible.
+
+Thank you for choosing Microsoft.
+
+Thank you
+Christina Jarvis
+Microsoft 365 Support Engineer
+Email Address    christina@ms365support.com
+Business Hours : Monday to Friday: 6:00 AM UTC   3:30 PM UTC
+My Technical Lead: Jason Andrade
+ | Email: v-Jasandrade@microsoft.com
+My Team Manager: Farhan Cordova
+ | Email: v-3fcor@microsoft.com
+My Technical Advisor: Raheem Jenkins
+ | Email: raheem.jenkins@microsoft.com
+
+It is recommended that you REPLY ALL when responding to this message, so your support experience is consistent.
+
+
+________________________________________
+   Yasmin  (Microsoft) 
+ Wednesday, October 5, 2022 10:37 AM GMT
+ Hello Oscar,
+
+I appreciate you contacting Microsoft Service. I am Yasmin, the support engineer from Partners Support who will be assisting you on this case.
+
+I can be contacted using the contact information below, referencing the case number - 44354233.
+
+Issue Description:  Email issue where sent messages go to drafts rather than sent items
+
+Scope Agreement: This issue is resolved once we can help you with email issue where sent messages go to drafts rather than sent items. (If it is not within our scope, you will be offered the best effort support. If it is by design, this case will be considered resolved.) 
+
+Reminder: We cannot provide Root Cause Analysis (RCA) since we are a break fix team. According to Microsoft Policy, only one problem can be addressed per support incident.
+
+We can now begin working on resolving your issue. If you do not agree to the scope as outlined above or would like changes to be made to it, please notify me as early as possible.
+
+Thank you for choosing Microsoft.
+
+Thank you
+Yasmin Shah
+ | yasmin@ms365support.com
+Service Engineer | Exchange Online | Microsoft Partner Cloud Service for MS 365
+Business hours: Monday   Friday (6:00 AM UTC  3:30 PM UTC)
+My Technical Lead: Jason Andrade
+ | Email: v-Jasandrade@microsoft.com
+My Team Manager: Farhan Cordova
+ | Email: v-3fcor@microsoft.com
+My Technical Advisor   Raheem Jenkins
+ | raheem.jenkins@microsoft.com
+
+It is recommended that you REPLY ALL when responding to this message, so your support experience is consistent.
+
+________________________________________
+   Microsoft 
+ Wednesday, October 5, 2022 09:56 AM GMT
+ Thank you for reaching out to Microsoft Support - a case request has been opened on your behalf.
+For your reference:
+  Case #: 44354233
+  Created on: Wednesday, October 5, 2022 10:56 AM
+  Description: Emails sent from the shared mailbox customersupport@pcit.co.us are saving to the drafts folder rather than sent items. The emails are still getting sent out but the sent copy ends up in the wrong folder. We checked in PowerShell and the MessageCopyForSendOnBehalfEnabled and MessageCopyForSentAsEnabled settings are enabled. Mailbox rules have been checked as well but nothing seems amiss. Can you help please? The partner can be reached at the following: Name: Thea Boyer
+ Email address: tboyer@pancoit.co.us Contact Number: 314 883 0731 Availability: 8:30 AM to 3:30 PM (Monday   Friday)
+Remember, Microsoft will never ask for your password as part of support communications. Please don 't send any personal or financial info via email.
+Thank you,
+Microsoft Service
+Creation date: 2022-10-11 15:19:13 work_notes: Hello Thea,
+
+May I know the status on this?
+
+Thank you,
+Oscar 
+
+Creation date: 2022-10-12 13:57:47 work_notes: Update pending
+Creation date: 2022-10-13 15:30:18 comments: Hello Thea,
+
+Kindly reply to Christina's tests because Microsoft is looking to close this case if there are no updates.
+
+Thank you,
+Oscar 
+
+Creation date: 2022-10-14 14:59:07 work_notes: Hello,
+
+Unfortunately, I just heard from the user that this did not seem to fix the issue.
+
+We converted it into a standard mailbox again and added a license too but the drafts still aren't disappearing as sent, just building up.
+
+The drafts folder contained around 320 messages yesterday and has around 420, as of five minutes ago with the user reaching out to me directly.
+
+Thanks,
+Thea Boyer | Help Desk Technician
+
+[cid:image002.png@01E9E80F.1E594BE0]
+Technology Services |  Voice and Connection  |  Security Services  |  Digital Services
+
+14 E Wichita Avenue, Russell, KS, 63665
+T: +1 484-048-2009   W: www.pancoit.co.us<http://www.pancoit.co.us>
+
+
+[cid:image003.png@01D8D80E.1E594BE0]   [cid:image004.png@01D8D80E.1E594BE0]      [Image for eset authorized]     [Image for Waylink logo]    [Image for Microsoft partner] [Image for ico logo]
+
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law. Panco IT is not liable for any errors or omissions in the transmitted message. Panco IT is registered in the United States. Company Number 10094589. Registered office address 4758 Diamante Ct, Las Cruces, New York, 88012
+
+
+From: Microsoft Premier Support <mspresup@microsoft.com> 
+Sent: 12 October 2022 17:06
+To: ve-productivity@nimbus.com
+Cc: oholder@nimbus.com; Thea Boyer
+ <tboyer@pancoit.co.us>; Fynn Davies
+<fydavies@microsoft.com>
+Subject: [External] RE: [Case #:44354233] - [NIM5758583] Emails are saving to drafts folder when trying to sent...
+
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+## Kindly reply above this line ##
+________________________________________
+
+Title: [NIM5758583] Emails are saving to drafts folder when trying to sent                                                                                                                                                                                                                                                                   
+ 
+There is an update to your request (44354233). To add any other comments, please respond to this email.
+________________________________________
+   Christina (Microsoft) 
+ Thursday, October 12, 2022 4:06 PM GMT
+ Hello Oscar,
+
+I hope this email finds you well!
+
+I attempted emailing you on Thursday at ve-productivity@nimbus.com but never hear back.
+
+Kindly let me know is this issue has been fixed. If not, please update us with the most recent situation so we can move this case forward.
+
+We will wait for your response. 
+
+Thank you
+Christina Jarvis
+Microsoft 365 Support Engineer
+Email Address    christina@ms365support.com
+Business Hours : Monday to Friday: 6:00 AM UTC   3:30 PM UTC
+My Technical Lead: Jason Andrade
+ | Email: v-Jasandrade@microsoft.com
+My Team Manager: Farhan Cordova
+ | Email: v-3fcor@microsoft.com
+My Technical Advisor: Raheem Jenkins
+ | Email: raheem.jenkins@microsoft.com
+
+It is recommended that you REPLY ALL when responding to this message, so your support experience is consistent.
+Creation date: 2022-10-17 15:29:55 work_notes: Hello Thea,
+
+Actually, the command normally lists all the properties on the mailbox.
+
+Kindly have a look at this article, if you are not confident:
+
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/format-list?view=powershell-7.2
+
+Oscar 
+
+
+From: Thea Boyer<tboyer@pancoit.co.us> 
+Sent: 16 October 2022 13:54
+To: Microsoft Premier Service <mspresup@microsoft.com>; Vendor Escalations - Productivity Technical Service <ve-productivity@nimbus.com>
+Cc: Oscar Holder<OHolder@nimbus.com>; Fynn Davies<fydavies@microsoft.com>
+Subject: [External] RE: [Case #:44354233] - [NIM5758583] Emails are saving to drafts folder when trying to sent...
+
+Hello,
+
+I just wanted to know, is this command takes away any permissions to the mailbox? actually I am asking this one because I see a pert of it used the phrase format list.
+
+Currently, as too many users are having access to this mailbox, it is vital that permissions are not to modified or remove them all and etc.
+
+
+Thank you
+Thea Boyer | Help Desk Technician
+
+[cid:image002.png@01E9E80F.1E594BE0]
+Technology Services |  Voice and Connection  |  Security Services  |  Digital Services
+
+14 E Wichita Avenue, Russell, KS, 63665
+T: +1 484-048-2009   W: www.pancoit.co.us<http://www.pancoit.co.us>
+
+
+[cid:image003.png@01D8D80E.1E594BE0]   [cid:image004.png@01D8D80E.1E594BE0]      [Image for eset authorized]     [Image for Waylink logo]    [Image for Microsoft partner] [Image for ico logo]
+
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law. Panco IT is not liable for any errors or omissions in the transmitted message. Panco IT is registered in the United States. Company Number 10094589. Registered office address 4758 Diamante Ct, Las Cruces, New York, 88012
+
+
+From: Microsoft Premier Service <mspresup@microsoft.com> 
+Sent: 13 October 2022 19:11
+To: ve-productivity@nimbus.com
+Cc: oholder@nimbus.com; Thea Boyer<tboyer@pancoit.co.us>; 
+Fynn Davies<fydavies
+@microsoft.com>
+Subject: [External] RE: [Case #:44354233] - [NIM5758583] Emails are saving to drafts folder when trying to sent...
+
+## Kindly give reply to the above line ##
+________________________________________
+
+Title: [NIM5758583] Emails are saving to drafts folder when trying to sent                                                                                                                                                                                                                                                                   
+ 
+Your request (44354233) has been updated. To add any other comments, please respond to this email.
+________________________________________
+   Christina (Microsoft) 
+ Thursday, October 13, 2022 6:10 PM GMT
+ Hello Thea,
+
+Good Morning!
+
+Thanks for the update. Kindly run the below PowerShell script and share the output. 
+
+Connect-Exchange Online
+
+Get-Mailbox Permission -Identity don@cordeval.com | Format-List
+
+Microsoft article for reference: Get-MailboxPermission (Exchange) | Microsoft Learn
+
+Please let me know if you have any queries.
+
+Thank you
+Christina Jarvis
+Microsoft 365 Service Engineer
+Email Address    cvg_gur_gusa_css@office365service.com
+Operating Hours : Monday to Friday: 6:00 AM UTC   3:30 PM UTC
+My Technical Lead: Jason Andrade
+ | Email: v-Jasandrade@microsoft.com
+My Team Manager: Farhan Cordova
+ | Email: v-3fcor@microsoft.com
+My Technical Advisor: Raheem Jenkins
+ | Email: raheem.jenkins@microsoft.com
+
+In order to get a stable service experience, we recommend that you REPLY ALL when responding to this message.

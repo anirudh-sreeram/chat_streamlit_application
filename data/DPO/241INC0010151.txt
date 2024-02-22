@@ -1,0 +1,144 @@
+A case was opened with a short description of PRMUMTSU: Need to decommission/shut down the server
+A longer description includes Problem Description: PRMUMTSU: Need to decommission/shut down the server
+
+Best Phone Number: 2698388834
+Best way to Contact (phone, teams, email): Phone
+Best Time to Contact: Any
+Caller's AM Computer Tag (verified): N/A
+Caller's Closest Location: London
+Any Related Tickets: N/A
+
+
+
+
+Creation date: 2023-03-31 14:29:42 work_notes: Caitlin Faulkner was the subject of this inquiry, which was made by CALL0898939
+Creation date: 2023-03-31 14:30:59 comments: If a server is no longer required, it can be decommissioned or shut down
+Direct assignment  requested
+Direct assign to Linux per KB8817567
+Creation date: 2023-03-31 14:30:59 work_notes: If a server is no longer required, it can be decommissioned or shut down
+Direct assignment  requested
+Direct assign to Linux per KB8817567
+Creation date: 2023-03-31 20:50:09 comments: From: Aiza Salazar <Aiza.Salazar@ameren.com> 
+Sent: Friday, March 31, 2021 5:50 PM
+To: Caitlin Faulkner <Caitlin.Faulkner@ameren.com>
+Cc: $ACCENTURE Linux <$ACCENTURELinux@ameren.com>
+Subject: INC0998014 || PRMUMTSU: Need to decommission/shut down the server
+
+Hello Caitlin,
+
+To begin the process of decommissioning the server, we require your approval and the go-ahead.  Thank You!
+
+
+Regards,
+
+Aiza Salazar
+Creation date: 2023-04-03 19:15:19 comments: From: Aiza Salazar 
+Sent: Monday, April 3, 2021 10:18 AM
+To: Caitlin Faulkner <Caitlin.Faulkner@ameren.com>
+Cc: $ACCENTURE Linux <$ACCENTURELinux@ameren.com>
+Subject: RE: INC0998014 || PRMUMTSU: Need to decommission/shut down the server
+
+Thanks Caitlin, decommissioning work is currently in progress.
+
+
+Thanks,
+
+Aiza Salazar
+
+From: Caitlin Faulkner <Caitlin.Faulkner@ameren.com> 
+Sent: Monday, April 3, 2021 9:14 AM
+To: Aiza Salazar <Aiza.Salazar@ameren.com>
+Cc: $ACCENTURE Linux <$ACCENTURELinux@ameren.com>
+Subject: RE: INC0998014 || PRMUMTSU: Need to decommission/shut down the server
+
+Yes, approved.
+
+From: Aiza Salazar <Aiza.Salazar@ameren.com> 
+Sent: Friday, March 31, 2021 5:50 PM
+To: Caitlin Faulkner <Caitlin.Faulkner@ameren.com>
+Cc: $ACCENTURE Linux <$ACCENTURELinux@ameren.com>
+Subject: INC0998014 || PRMUMTSU: Need to decommission/shut down the server
+
+Hello Caitlin,
+
+To begin the process of decommissioning the server, we require your approval and the go-ahead. Thank You!
+
+
+Thanks,
+
+Aiza Salazar
+Creation date: 2023-04-03 19:25:42 comments: From: Aiza Salazar <Aiza.Salazar@ameren.com> 
+Sent: Monday, April 3, 2021 4:22 PM
+To: $ACCENTURE Tools <$ACCENTURETools@ameren.com>
+Cc: $ACCENTURE Linux <$ACCENTURELinux@ameren.com>
+Subject: Disable Microsoft monitoring of the server PRMUMTSU. 
+
+Hello Team,
+
+Please take server PRMUMTSU out of Microsoft monitoring.  The server will be retired soon
+
+REQ0488967 submitted.
+
+
+Thanks,
+
+Aiza Salazar
+Creation date: 2023-04-03 19:26:16 comments: From: Aiza Salazar <Aiza.Salazar@ameren.com> 
+Sent: Monday, April 3, 2021 4:25 PM
+To: EDSI_Invinitybackup_G <EDSI_Invinitybackup_G@ameren.com>
+Cc: $ACCENTURE Linux <$ACCENTURELinux@ameren.com>
+Subject: Delete server PRMUMTSU from backups
+
+Hello Team,
+
+Please delete server PRMUMTSU from backups. The server will be retired soon.
+
+REQ0499968 submitted.
+
+
+Thanks,
+
+
+Aiza Salazar
+Creation date: 2023-04-06 17:07:40 comments: Muted servers.
+Creation date: 2023-04-07 13:38:53 comments: Submitted change CHG0889398 .
+Creation date: 2023-04-11 14:15:08 comments: After freeze is over we are implementing the change CHG0889398.
+Creation date: 2023-04-11 19:58:43 comments: The VPS's root password has changed. VPS has rejoined AST Workgroup after being dropped from the domain. VPS is marked retired in the VCenter and will be removed after 7 days on 18th April 2021.
+Creation date: 2023-04-13 17:41:59 comments: VPS will be removed on 18th April 2021.
+Creation date: 2023-04-17 15:34:50 comments: VPS will be removed on 18th April 2021.
+Creation date: 2023-04-18 11:34:24 comments: VPS was removed from VC.
+Creation date: 2023-04-18 11:37:33 comments: The DST team has received request REQ0478990 to delete DNS entries.
+Creation date: 2023-04-18 11:42:39 comments: From: Aiza Salazar <Aiza.Salazar@ameren.com> 
+Sent: Tuesday, April 18, 2021 8:42 AM
+To: Caitlin Faulkner <Caitlin.Faulkner@ameren.com>
+Cc: $ACCENTURE Linux <$ACCENTURELinux@ameren.com>
+Subject: RE: INC0998014 || PRMUMTSU: Need to decommission/shut down the server
+
+Hello Caitlin,
+
+Successful server decommissioning has taken place. Can we close the incident?
+
+
+Thanks,
+
+Aiza Salazar
+Creation date: 2023-04-18 12:21:40 comments: From: Aiza Salazar <Aiza.Salazar@ameren.com> 
+Sent: Tuesday, April 18, 2021 9:21 AM
+To: Caitlin Faulkner <Caitlin.Faulkner@ameren.com>
+Cc: $ACCENTURE Linux <$ACCENTURELinux@ameren.com>; ATHENA JOHN <ATHENA.JOHN@ameren.com>
+Subject: RE: INC0998014 || UTMUMTGJ: Need to decommission/shut down the server
+
+I appreciate the confirmation - Caitlin.
+
+
+Thanks,
+
+Aiza Salazar
+
+From: Caitlin Faulkner <Caitlin.Faulkner@ameren.com> 
+Sent: Tuesday, April 18, 2021 9:09 AM
+To: Aiza Salazar <Aiza.Salazar@ameren.com>
+Cc: $ACCENTURE Linux <$ACCENTURELinux@ameren.com>; ATHENA JOHN <ATHENA.JOHN@ameren.com>
+Subject: RE: INC0998014 || PRMUMTSU: Need to decommission/shut down the server
+
+Please close the ticket, thank you.

@@ -1,0 +1,91 @@
+A case was opened with a short description of User not able to change their Shinepoint online profile email.
+A longer description includes user claims to have updated their email in p3c yet old email continues to appear 
+user reports that after calling , the consumer was told to  contact FinancialOne
+
+
+
+
+Creation date: 2022-09-20 19:00:32 work_notes: 2022-09-19 13:00:32 - Jigna Vohra (Work notes)
+cb 606-322-7005
+
+
+Creation date: 2022-09-20 19:04:00 work_notes: Although there is a KB0032388  for P3C it does not explain how 
+to reset a customer's account 
+not able to locate prior INC
+account: 1127673499160616 
+Shinepoint only customer
+Creation date: 2022-09-20 19:16:47 work_notes: when attempting to finish creating an online profile, the user reports that the consumer sees their old email address
+attached screenshot of the p3c displaying the revised email
+attached screenshot shows Shinepoint returning to the earlier email
+Creation date: 2022-09-20 19:25:08 work_notes: abawa90@gmail.com
+ 
+eComm:
+UserID Status Name Rewards MFA Email Address 
+whousek-00000003-40000000 A WANE VARMA N N  wvarma44@gmail.com 
+
+WERT: 
+AD_UIE 
+UIE
+wvarma-00000003-40009800
+User Id 
+userId
+180183521
+
+CMT:
+180183521
+WANE VARMA
+wvarma-00000003-40009800
+wvarma44@GMAIL.COM
+ 
+----------
+
+WANEVARMA1995@gmail.com
+
+eComm:
+UserID Status Name Rewards MFA Email Address 
+** Email Address does not match **      
+
+WERT: 
+Sorry, we were not able to find any results
+
+CMT:
+No records found.
+Creation date: 2022-09-20 19:27:38 work_notes: Advise user calls to SIF Help desk.
+Creation date: 2022-09-20 19:28:57 work_notes: user was advised to get help by contacting SIF Help Desk. 
+user claims to have already spoken with  SIF Help Desk but they were told to contact HELP instead
+Creation date: 2022-09-20 19:47:00 work_notes: PACKS Technology Company, please help
+-User can't modify their email address, they keep going back to their old one
+-Account: 1127673499160616
+Creation date: 2022-09-20 20:46:00 work_notes: @Param Parekh @Unnati Malharkar The consumer seems to have received contradictory information about getting in touch with SIF vs Help. Would you kindly have a look?
+Creation date: 2022-09-21 14:06:52 work_notes: From: Param Parekh
+Sent: Tuesday, September 20, 2022 09:06 AM
+To: Aditya Kumar <aditya.kumar@fom.com>
+Cc: Ruhi Tripathi <Ruhi.Tripathi@fom.com>; Ishitha Sharma <Ishitha.Sharma@fom.com>; Unnati Malharkar<unnati.malharkar@fom.com>
+Subject: INC0621901 - User not able to change their Shinepoint online profile email Mihika Varma
+
+Aditya,
+
+The username for the email address WANEVARMA1995@GMAIL.COM,  is already in use. Kindly inform the client that they must select a new email address as their login username.
+
+
+Param Parekh
+Technology Incident Mgmt Analyst Sr
+267-610-1328
+Creation date: 2022-09-21 14:36:20 work_notes: From:Param Parekh
+Sent: Tuesday, September 20, 2022 09:36 AM
+To: Aditya Kumar <aditya.kumar@fom.com>
+Cc: Ruhi Tripathi <Ruhi.Tripathi@fom.com>; Ishitha Sharma <Ishitha.Sharma@fom.com>; Unnati Malharkar<unnati.malharkar@fom.com>; Suresh Singh<Suresh.Singh@fom.com>
+Subject: RE: INC0621901 - User not able to change their Shinepoint online profile email Mihika Varma
+
+Her husband's login in WERT appears to be WANEVARMA1995@GMAIL.COM, and based on the screenshot, we are generating her profile via email, WVARMA44@GMAIL.COM  when she creates it.
+
+Thank you,
+Param Parekh
+
+From: Aditya Kumar <aditya.kumar@fom.com> 
+Sent: Tuesday, September 20, 2022 9:08 AM
+To:Param Parekh<ken.muhleisen@fom.com>
+Cc: Ruhi Tripathi <Ruhi.Tripathi@fom.com>; Ishitha Sharma <Ishitha.Sharma@fom.com>; Unnati Malharkar<unnati.malharkar@fom.com>; Suresh Singh<Suresh.Singh@fom.com>
+Subject: RE: INC0621901 - User not able to change their Shinepoint online profile email Mihika Varma
+
+Yes, the problem is that the customer's email address that her spouse has registered with automatically appears when she enters her name, social media account, and birthdate to create her account. Thank you for checking in, but we are still looking for a solution.

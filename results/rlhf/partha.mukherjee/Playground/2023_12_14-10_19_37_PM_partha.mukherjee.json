@@ -1,0 +1,1 @@
+[{"role": "context", "content": "This is context"}, {"role": "user", "content": "Hi"}, {"role": "robot", "chosen": "Hello! How can I help you today?", "rejected": "Hello! How can I help you today?", "model": "Mistral_mixtral_7Bx8_instruction"}]

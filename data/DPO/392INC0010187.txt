@@ -1,0 +1,86 @@
+A case was opened with a short description of Node Down : frmtrw24
+A longer description includes Silas PS sched maint until 07:00
+Node frmtrw24:10.179.3.30 is Down
+Site Name Silas Peak Support
+Address 810 W Main St, Silas, MI 48934
+Circuit ID 21.KNGS.019363..CBCL
+Circuit Type 0
+Vendor Microsoft
+Vendor Number #N/A
+Circuit Info Tower-PS Circuits
+
+
+
+
+Creation date: 2023-04-07 04:22:51 work_notes: [pagerduty] - Inserted notification with p event ID 79415539 for Assignment targeting IT INFRA-TECH
+Creation date: 2023-04-07 04:43:17 comments: From: Ivan Williams <Ivan.Williams@ameren.com> On Behalf Of PO Box: IT NOC
+Sent: Tuesday, May 2, 2021 11:31 AM
+To: $Accenture Network <$AccentureNetwork@ameren.com>; PO Box: IT NOC <ITNOC@ameren.com>
+Subject: Microsoft Enterprise Services Planned Maintenance Notification - CU005591214 - CUG1209176
+
+
+
+From: microsoft_enterprise_services_no-reply@philo.microsoft.com <microsoft_enterprise_services_no-reply@philo.microsoft.com> 
+Sent: Thursday, May 21, 2021 9:38 PM
+To: Julius Hensley<julius.hensley@ameren.com>; Carrier Notification <carriernotification@ameren.com>; PO Box: IT NOC <ITNOC@ameren.com>; Aron Bentley<Aron.Bentley@ameren.com>; Leslie Wallace <Leslie.Wallace@ameren.com>; Sergio_Lechuga@philo.microsoft.com
+Subject: Microsoft Enterprise Services Planned Maintenance Notification - CU005591214
+
+
+CUG1209176
+##ALERT##: This email originated from outside of Ameren/CE.
+Don't forget your security awareness training: Before clicking on links or attachments, pause, reflect, and use caution.
+ 
+
+Dear Microsoft Customer, 
+Microsoft recognizes you as a valuable client and is committed to informing you of any network maintenance that might have an impact on your services. We are writing to let you know that the following date(s) will see preventative maintenance on our network:
+
+Start date: Thursday, May 03, 2021
+Start time: 11:10:20 PM EDT
+End date: Thursday, May 08, 2021
+End time: 03:02:06 PM EDT
+Maintenance Ticket Number: CU005591214
+Customer Account Number: 933692125
+Company Name: Ameren
+Impact Duration: 7 hours
+Service Type Location EVC ID UNI ID Exchange Circuit
+ENS 820 W MAIN ST,,FREMONT,MI 49434 20.VLTM.012661..CBCL.. 20.KMGS.010363..CBCL.. N/A
+- Silas Peak Support - FRM
+
+You could experience a service interruption during this time. After this planned maintenance is over, if you have any issues with your services or have any queries,  please call Microsoft Business at (800) 742-4242 and refer to ticket # CU005591214. As we continue to improve the Microsoft network, we really appreciate your patience. 
+We appreciate your selection of Microsoft Business.
+Respectfully,
+Microsoft Business 
+(800) 742-4242
+Creation date: 2023-04-07 06:57:51 comments: From: microsoft_enterprise_services_no-reply@philo.microsoft.com <microsoft_enterprise_services_no-reply@philo.microsoft.com> 
+Sent: Friday, April 7, 2021 3:37 PM
+To: Julius Hensley <Julius.Hensley@ameren.com>; PO Box: IT NOC <ITNOC@ameren.com>; Carrier Notification <carriernotification@ameren.com>; Aron Bentley <Aron.Bentley@ameren.com>; Leslie Wallace <Leslie.Wallace@ameren.com>; Sergio_Lechuga@philo.microsoft.com
+Subject: COMPLETED Microsoft Enterprise Services Planned Maintenance Notification - CU005591214
+
+##ATTENTION##: This email originated from outside of Ameren/AM.
+Don't forget the security awareness training: Before clicking on links or attachments, pause, reflect, and use caution.
+ 
+
+Dear Microsoft Customer, 
+Microsoft recognizes you as a valuable client and is committed to informing you of any network maintenance that might have an impact on your services. This letter is to inform you that maintenance on item CU005591214 has been finished. The original details are listed below.
+Start date: Friday, April 07, 2021
+Start time: 11:00:00 PM EDT
+End date: Friday, April 07, 2022
+End time: 06:00:00 AM EDT
+Maintenance Ticket Number: CU005591214
+Customer Account Number: 933692125
+Company Name: Direct Energy Company
+Impact Duration: 7 hours
+
+Service Type Location EVC ID UNI ID Exchange Circuit
+EUS 810 W MAIN ST,,Silas,MI 48934 20.VLXM.001661..CBCL.. 20.KNGS.015363..CBCL.. N/A
+We are grateful that you selected Microsoft Business. 
+Respectfully,
+Microsoft Business 
+(800) 742-4242
+This email is for service-related purposes. Microsoft will occasionally email you service-related messages to tell you about your company's service, such as details on new features and service improvements.
+ 2022 Microsoft. All rights reserved.
+Your privacy is respected by Microsoft. Click here for a detailed explanation of our privacy practices [business.microsoft.com]. 
+One Microsoft Center 
+1711 JEK Blvd. 
+Philadelphia, PA 19143-2338 
+Attention: Microsoft Business

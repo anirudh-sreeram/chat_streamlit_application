@@ -1,0 +1,253 @@
+A case was opened with a short description of Weboost Corps: IronVault Standard Migrate, Provision Task : 1035486
+A longer description includes Type of Provision Task: Provision, Name of Partner: Lingo Co IT, Name of Company: Weboost Corps, Vendor: IronVault, Product: IronVault Standard Migrate, Quantity: 1.0000
+
+
+
+
+Creation date: 2022-09-29 20:17:53 comments: This order is dated for the future and will be ready on: 2022-09-29 01:01:00
+Creation date: 2022-09-30 10:00:07 comments: Opened case via scheduled job u_setProvisioning tickets will open on effective date
+Creation date: 2022-09-30 16:34:51 work_notes: Sent: Thursday, September 29, 2022 09:34 AM
+To: Henry Pruitt 
+Cc: Nimbus Provision Team <provisioning@nimbus.com>; Service Delivery Continuity Team <continuity@nimbus.com>
+Subject: IronVault Migration Order - Lingo Co IT
+
+ 
+Hi Hen,
+
+Attached you will find the partner specific data for IronVault Migration. Kindly let our team know if you have any queries.
+
+Thank you,
+Nimbus Service Delivery
+
+Nimbus, Inc. | www.nimbus.com | 1-800-804-NIMB
+Creation date: 2022-09-30 16:37:26 work_notes: From: Leena Melendez 
+Sent: Thursday, September 29, 2022 09:36 AM
+To: 'helpdesk@lingocoit.com' <helpdesk@lingocoit.com>; 'amosley@lingocoit.com' <amosley@lingocoit.com>
+Cc: Nimbus Provision Team <provisioning@nimbus.com>
+Subject: Get Started with IronVault Accessibility - Weboost Corps
+
+ 
+Hello Antony,
+
+Thank you for ordering IronVault Migration Premier. Below are the methods to install the Takedown Agent, enable your unique Takedown authorize key(s), open the Metered Usage Configurator, and register for Help Hub.
+
+Begin with
+1. Install Takedown Agent & Metered Usage Configurator (2 installs)
+o Please select any one Windows or Linux 
+  Download on each resource and target environment for Accessibility and Go
+o For your usage configurator, kindly install any one Windows or Linux
+  Download on all target environments using IronVault Accessibility
+2. Activate IronVault Accessibility License Key(s) 
+o Find the Takedown Console from the Start Option 
+o Open and finish the wizard
+o Enter authorize key(s): LicenseKey(s)
+3. Open the Metered Usage Configurator
+o Find the Takedown Metered Usage Configurator from your Start option
+o Open the configurator and enter the following details:
+  Nimbus account #: 525199 
+  GUID-ClientName
+  Choose the product you ordered
+4. Register for Help Hub
+o Access IronVault Help 
+o Select "Sign Up" 
+5. Click here to sign in to access the IronVault training manual
+If you need any further help kindly open a ticket.
+
+Thank you,
+Nimbus Provision Team
+
+www.nimbus.com | 1-800-804-NIMB
+Creation date: 2022-09-30 18:51:24 work_notes: From: Leena Melendez 
+Sent: Thursday, September 29, 2022 11:50 PM
+To:Henry Pruitt 
+Cc: Nimbus Provision Team <provisioning@nimbus.com>; Service Delivery Continuity Team <continuity@nimbus.com>; Abubakar Holman <abubakarh@layaway.com>
+Subject: RE: IronVault Migration Order - Lingo Co IT
+
+Hey Hen, 
+
+Thanks for the heads up. I ll get in touch with the partner and to see if there is another email that they can give. 
+
+Thanks for  your support.
+
+Best regards.
+
+From: Henry Pruitt 
+Sent: Thursday, September 29, 2022 10:24 AM
+To: Leena Melendez <lmelendez@nimbus.com>
+Cc: Nimbus Provision Team <provisioning@nimbus.com>; Service Delivery Continuity Team <continuity@nimbus.com>; Abubakar Holman 
+Subject: [External] RE: IronVault Migration Order - Lingo Co IT
+
+Hello Leena,
+
+We ll need another contact as Anjali (amosley@lingocoIT.com) can t be the contact person for every Order across various end-user accounts. It'll break the background licensing software. If anjali needs to be the authorized contact, the only option is for Lingo Co IT to be the end user, and to change the PO.
+
+Can we kindly get a new end user contact/email? 
+
+Thank you,
+Hen
+Creation date: 2022-09-30 18:54:17 comments: Hi ANtony and Lingo Co IT,
+
+I hope you are having a nice week.
+
+We ran into a small problem while processing your invoice. IronVault says there will be issues with the backend licensing tool if we use the email address "mosley@lingcoIT.com" for various end-user accounts. Can we get another email address to use? Please let me know.
+
+Thanks! Have a good day!
+Creation date: 2022-10-05 16:50:40 comments: Hi ANtony and Lingo Co IT,
+
+I hope you are having a nice week.
+
+We ran into a small problem while processing your invoice. IronVault says there will be issues with the backend licensing tool if we use the email address "mosley@lingcoIT.com" for various end-user accounts. Can we get another email address to use? Please let me know.
+
+Thanks! Have a good day!
+Creation date: 2022-10-12 22:27:42 work_notes: Timbertech Carpentry 
+NIM5728181 Order 9066375 
+NIM5612768  Order 6833111 
+
+ASD Law and Bookkeeping
+NIM8541236  -Order 1770196
+
+Weboost
+NIM8635436   Order 7845584
+Creation date: 2022-10-12 22:34:43 comments: Antony@lingocoit.com
+
+
+
+[https://lingocoit.com/wp-subject/uploads/2021/06/LCIT-esig-logo.png]<https://lingocoit.com>
+Antony Holden                             President
+
+
+Lingo Co IT                             24/7 Help | 1 Hour Reply Time
+
+
+O: 115-355-3995                 |               C: 909-795-4214
+
+
+E: antony@lingocoit.com            |               W: lingocoit.com<http://lingocoit.com>
+
+
+
+[https://lingocoit.com/wp-subject/uploads/2020/05/jobwise.png]<https://www.jobwise.com/company/lingocoit>             [https://lingocoit.com/wp-subject/uploads/2020/05/friendsy.png] <https://www.friendsy.com/pages/category/Desktop-Company/Lingo-Co-it-5903175779291993/>
+Creation date: 2022-10-12 22:50:18 work_notes: From: Leena Melendez 
+Sent: Tuesday, October 11, 2022 3:47 PM
+To: Henry Pruitt
+Cc: Nimbus Provision Team <provisioning@nimbus.com>; Service Delivery Continuity Team <continuity@nimbus.com>; Abubakar Holman
+Subject: RE: IronVault Migration Order - Lingo Co IT/Weboost Corps
+
+Hi Hen,
+
+The partner replied with another email address Antony@lingocoit.com. Please let me know if this one is good to use. If not, I can make contact again. I have also amended the PO in case that is also required.
+
+Kindly let me know if you require anything.
+
+
+Thanks.
+Creation date: 2022-10-12 22:52:10 comments: Hello Antony,
+
+I have forwarded the updated email to IronVault/Layaway. I will let you know once I receive verification that it is complete.
+
+Thanks for being patient. Have a nice day.
+Creation date: 2022-10-13 13:19:25 comments: Everyone,
+I just signed into ironvault with Antony@lingocoit.com<mailto:Antony@lingocoit.com> and there are no active licenses. Is there an ETA on when this will be done? Or maybe I'm not in the right section?
+
+Thank you,
+ April Shah
+
+
+[https://lingocoit.com/wp-subject/uploads/2021/06/LCIT-esig-logo.png]<https://lingocoit.com>
+April Shah                               IT Consultant
+
+
+Lingo Co IT                             24/7 Help | 1 Hour Reply Time
+
+
+O: 315-365-3797                 |               C: 209-620-0897
+
+
+E: ashah@lingocoit.com          |               W: lingocoit.com<http://lingocoit.com>
+
+
+
+[https://lingocoit.com/wp-subject/uploads/2021/06/jobwise.png]<https://www.jobwise.com/company/lingocoit>             [https://lingocoit.com/wp-subject/uploads/2021/06/friendsy.png] <https://www.friendsy.com/pages/category/Desktop-Company/Lingo-Co-it-5903175779291993/>
+Creation date: 2022-10-13 16:03:37 comments: Hi April,
+
+I hope you are having a nice day. 
+
+After receiving the email address update yesterday, I forwarded  it to IronVault(Layaway). I was told the changes would take place asap. When IronVault(Layaway) finish these changes, I will let you know.
+
+Thanks for your patience. Have a nice day!
+Creation date: 2022-10-13 16:16:19 comments: I appreciate it, Leena. Thanks for your support.
+
+
+
+[https://lingocoit.com/wp-subject/uploads/2020/05/LCIT-esig-logo.png]<https://lingocoit.com>
+April Shah                               IT consultant
+
+
+Lingo Co IT                             24/7 Help | 1 Hour Reply Time
+
+
+O: 315-365-3797                 |               C: 209-620-0897
+
+
+E: ashah@lingocoit.com          |               W: lingocoit.com<http://lingocoit.com>
+
+
+
+[https://lingocoit.com/wp-subject/uploads/2021/06/jobwise.png]<https://www.jobwise.com/company/lingocoit>             [https://lingocoit.com/wp-subject/uploads/2021/06/friendsy.png] <https://www.friendsy.com/pages/category/Desktop-Company/Lingo-Co-it-5903175779291993/>
+Creation date: 2022-10-13 18:41:27 comments: I'm operating under the assumption this mailbox should be licensed. Or is it only the address that is being used to sign into the portal?
+
+
+
+[https://lingocoit.com/wp-subject/uploads/2020/05/LCIT-esig-logo.png]<https://lingocoit.com>
+April Shah                               IT consultant
+
+
+Lingo Co IT                             24/7 Help | 1 Hour Reply Time
+
+
+O: 315-365-3797                 |               C: 209-620-0897
+
+
+E: ashah@lingocoit.com          |               W: lingocoit.com<http://lingocoit.com>
+
+
+
+[https://lingocoit.com/wp-subject/uploads/2020/05/jobwise.png]<https://www.jobwise.com/company/lingocoit>             [https://lingocoit.com/wp-subject/uploads/2020/05/friendsy.png] <https://www.friendsy.com/pages/category/Desktop-Company/Lingo-Co-it-5903175779291993/>
+Creation date: 2022-10-13 21:57:05 comments: Hi April, 
+
+The email is used for sign-in and license retrieval. Hope that's helpful to you.
+
+Thank you. Have a nice day!
+Creation date: 2022-10-13 22:24:10 comments: Leena,
+Thanks. The account I created is unlicensed. Can the license toantony@timbertech.com<mailto:jim@timbertech.com> be added?
+
+Thank you,
+April Shah
+
+
+
+[https://lingocoit.com/wp-subject/uploads/2020/05/LCIT-esig-logo.png]<https://lingocoit.com>
+April Shah                               IT consultant
+
+
+Lingo Co IT                             24/7 Help | 1 Hour Reply Time
+
+
+O: 315-365-3797                 |               C: 209-620-0897
+
+
+E: ashah@lingocoit.com          |               W: lingocoit.com<http://lingocoit.com>
+
+
+
+[https://lingocoit.com/wp-subject/uploads/2020/06/jobwise.png]<https://www.jobwise.com/company/lingocoit>             [https://lingocoit.com/wp-subject/uploads/2020/05/friendsy.png] <https://www.friendsy.com/pages/category/Desktop-Company/Lingo-Co-it-5903175779291993/>
+Creation date: 2022-10-15 00:16:31 comments: Hi April,
+
+I have forwarded the new email antony@timbertech.com to IronVault(Layaway). In case you need, I'm providing  you with a temporary key.
+
+7-day Migrate evaluation key.:
+0rcu-5r43-h1zj-qevd-r3xy-zhtk
+  Documentation library: (https://download.takedown.com/_download/Documentation/Content/Library.htm)
+  The actual software has been uploaded to our secure fileshare (you can select Migrate or Availability on install) (https://playgrounds.filesharer.com/playground/TJgU2lojtD)
+
+Happy weekend!

@@ -1,0 +1,87 @@
+A case was opened with a short description of Changing company's phone number to personal account
+A longer description includes Caller wants to switch his company owned cell phone number to a personal phone because they are retiring. Their last date is April 29 
+Device and contact#: 231 888 0691
+Cellular carrier: Airalo
+
+
+
+
+Creation date: 2023-04-06 14:13:41 work_notes: Linda Boyer's request for information and assistance came fromCALL0877525
+Creation date: 2023-04-06 14:15:08 work_notes: Escalating to IT INFR-REQUEST FULFILLMENT per KB0018869
+Creation date: 2023-04-06 15:29:27 comments: Hi Adrian,
+
+Linda has asked me to change his business cell phone number, 231 888 0691, to their personal account. 
+ 
+We need supervisor approval to transfer the number since some phone numbers are more closely associated with a position than the person.
+ 
+Do a "Reply All" with "I Approve" if it's okay to transfer the number
+Creation date: 2023-04-06 15:29:53 work_notes: Informed the requester that the ticket is awaiting a response.
+______
+
+Notification: Direct messaged Linda Boyer through chat
+Action: I requested a response on this ticket from the requester.
+Recipient: Linda Boyer
+via: Flexport [s4]
+Creation date: 2023-04-06 21:52:26 work_notes: From: LINDA BOYER <LINDA.BOYER@ameren.com> 
+Sent: Thursday, April 6, 2021 01:53 PM
+To: Huw Sandoval <Huw.Sandoval@ameren.com>; ADRIAN SCHULTZ <ADRIAN.SCHULTZ@ameren.com>
+Subject: Re: INC0989907 - Approval Require
+
+Airalo 
+
+Get Outlook for Windows
+________________________________________
+From: Huw Sandoval <Huw.Sandoval@ameren.com>
+Sent: Thursday, April 6, 2021 12:32:56 AM
+To: ADRIAN SCHULTZ <ADRIAN.SCHULTZ@ameren.com>; LINDA BOYER <LINDA.BOYER@ameren.com>
+Subject: RE: INC0989907 - Approval Require 
+ 
+Thank you Adrian for responding so quickly.
+ 
+@LINDA BOYER :  Please let us know which carrier you want to move to?
+ 
+ 
+ 
+Stay well and safe!
+ 
+Thanks,
+Huw Sandoval
+PG&E
+IT Request Fulfillment 
+ 
+ 
+ 
+From: ADRIAN SCHULTZ <ADRIAN.SCHULTZ@ameren.com> 
+Sent: Thursday, April 6, 2021 12:31 AM
+To: Huw Sandoval <Huw.Sandoval@ameren.com>
+Cc: LINDA BOYER <LINDA.BOYER@ameren.com>
+Subject: Re: INC0989907 - Approval Require
+ 
+I approve!
+ 
+Get Outlook for Windows
+Creation date: 2023-04-06 22:00:05 work_notes: Attention Cisco,
+
+Our user (Linda Boyer) wishes to transfer their phone number 231 888 0691 to their personal account with Airalo.
+Please let the feature  Quick Port  enabled on their phone to proceed further.   Thank you
+Creation date: 2023-04-10 16:07:31 comments: Hi Linda, 
+ 
+"Quick Port" feature has been enabled on the your phone line.!
+ 
+The account number for the line will then be the 10-digit phone number 231 888 0691, and the PIN will be the final 4 digits of the phone number.  For the port off of our Cisco account to be completed, you must give the information to the new carrier (Airalo).  If you have any questions, don't hesitate to ask.  Thanks you!
+Creation date: 2023-04-10 16:07:56 work_notes: informed the requester on the status of this ticket.
+______
+
+Notification: Direct messaged Linda Boyer through chat
+Recipient: Linda Boyer
+Ticket state actions: the same ticket state
+via: Flexport [s4]
+Creation date: 2023-04-17 19:55:15 comments: Please confirm if there has been a transfer
+Creation date: 2023-04-17 19:55:41 work_notes: Informed the requester on the status of this ticket.
+______
+
+Notification: Direct messaged Linda Boyer through chat
+Recipient: Linda Boyer
+Ticket state actions: the same ticket state
+via: Flexport [s4]
+Creation date: 2023-04-17 19:59:24 comments: RITM0588178

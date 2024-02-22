@@ -1,0 +1,84 @@
+A case was opened with a short description of Monitor is not working 
+A longer description includes Issue  Description: One of the Monitor is not working
+Convenient Phone Number:5153139223
+Convenient way to Contact (phone, teams, email): 
+Convenient Time to Contact:
+BP's DE Computer Tag (checked):PC71726(primary)
+BP's Nearest Location: London
+Any other Related Tickets:
+
+
+
+
+Creation date: 2023-04-10 13:04:03 work_notes: This Incident was raised for CIARA REYNOLDS from CALL0849011
+Creation date: 2023-04-10 14:33:37 work_notes: Hello Team
+RCWP:-PC71726
+callback number:-5154039223
+nearest ce:-London
+One of the Monitor is not working
+Make and model of dock:-D3100
+PC make and model:- Lenovo Legion S7
+
+gpupdate /force
+sfc /scannow
+Updated dock driver
+updated graphics driver
+
+Monitor is not detecting it is turning on
+There is no other input on the monitor
+
+When connected the monitor directly to the system  instead of going through the dock 
+It is not working 
+
+Asked BP to change the cable
+Asked BP to connect to a different connector on the dock
+ It did not work
+
+Please help BP
+Creation date: 2023-04-10 14:58:01 work_notes: Looks like a bad cable or monitor.  Also, if BP is using a D3100 for a Lenovo Legion S7 he should be using a WD18.  There is a power fluctuation  so that could be a problem as well.
+Creation date: 2023-04-10 16:21:22 work_notes: Emailed the BP
+
+
+
+From: DONALD FLETCHER
+Sent: Wednesday, March 09, 2022 12:31 PM
+To: CIARA REYNOLDS <CIARA.REYNOLDS@dteenergy.com>
+Subject: FW: P3: incident INC0900406 has been assigned to you
+Importance: High
+
+Ciara,
+
+I got assigned to this ticket to resolve the problem you are facing  with a monitor and possible office dock, and I understand that the nearest office location is the London UK. I will be in the London UK office tomorrow after 9:00AM and can meet you then if that's okay for you. If not tomorrow I will be back on Monday 3/14. Please let me know which date works for you and will need you to bring in the monitor and office dock and I will replace them.
+
+
+Thank you
+
+
+Donald Fletcher
+IT  BP Services   North
+Desktop Help Engineer
+London UK
+DTE Energy Company
+(989) 416-4820
+
+ 
+
+
+
+From: DTE Energy Company Zendesk<dteenergy@zendesk.com> 
+Sent: Wednesday, March 09, 2022 10:56 AM
+To: DONALD FLETCHER<DONALD.FLETCHER@dteenergy.com>
+Subject: P3:You have been assigned incident INC0900406
+
+Date: 2022-03-09 10:56:04 EDT
+Number: INC0900406
+Short Description: Monitor not working 
+ 
+You have been assigned to this incident. Please take the required steps to solve the incident at the earliest.
+ 
+Please connect with the Help Desk if you need more  information or believe this incident has been assigned incorrectly.
+ 
+ 
+Ref:MSG27050512
+Creation date: 2023-04-11 14:55:14 work_notes: BP is visiting the office on Monday 3/14/22
+Creation date: 2023-04-17 17:00:19 work_notes: BP brought the monitor and old dock, which were the problem. Proceeding to solve the ticket.

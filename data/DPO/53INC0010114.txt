@@ -1,0 +1,141 @@
+A case was opened with a short description of [AD] - [Including in groups - uyhju account]
+A longer description includes 1. Application Name: AD
+2. Did the user previously have access to this? [Y]
+3. A thorough explanation of the request: To carry out daily tasks
+
+for the following groups, kindly give access
+
+SA account : uyhju_30797783
+
+GIS_AD_ManageGroups
+GIS_Directoryadmins
+IT_Security
+OAG-Workstationadmins
+Role-SNI-GIS Users
+
+
+I apologize for the error; in the earlier ticket INC1188460, I neglected to include the SA account
+ Hence the groups were added to my personal account. Could kindly use an SA account to replace my personal one : uyhju_30797783
+
+
+
+
+Creation date: 2023-02-21 12:15:01 work_notes: Knowledge article KB0039889:
+Average Time to Fix3-5 minSymptomsCI: Active Directory
+Service Desk agent wants to learn how user can be added to specific groups in Active DirectoryWhat to do nextIf user wants to be included in any additional AD group, kindly collect all necessary information's and details and forward ticket to&nbsp;ONH-IAM.
+
+
+NOTE: User has to provide the group's name specifically, all additional signs/spaces will result in an error. 
+&nbsp;
+
+How to add user to Active Directory group (click)
+
+
+&nbsp; &nbsp; &nbsp; &nbsp; Find the user in Active Directory 
+&nbsp;
+
+Go to the "Member Of" tab and click "add..."
+
+
+
+Type in the necessary group's name and press on "Check Names". If the result is underlined as below, the group has been located by the system - click OK to proceed.
+&nbsp; &nbsp; NOTE: Copy the name of the group correctly, all additional signs/spaces will result in an error. 
+
+
+
+
+The new group will be added to the list. Click Apply to save the changes and close the window
+
+
+&nbsp;
+The user has now been added to a group in Active Directory.
+&nbsp;
+
+&nbsp;
+Creation date: 2023-02-21 12:15:56 work_notes: L2 Forwarding - ONH - IAM ||
+
+Hello Team,
+Could you help me with this?
+These troubleshooting actions were carried out:
+- [Since the user's normal account was added in the previous ticket instead, kindly modify and add his ujhju account to those groups - INC1188460]
+
+Thanks in advance.
+Creation date: 2023-02-21 16:46:38 work_notes: From: ONH-IAM 
+Sent: Monday, February 20, 2023 9:13 PM
+To: Haroon, Castro <Castro.Haroon @thomas-son.com>; Rueben, Reyes <Reyes.Rueben @thomas-son.com>; Abdulrahman, Simpson <Simpson.Abdulrahman@thomas-son.com>
+Cc: Kyan, Maldonado <Maldonado.Kyan @thomas-son.com>; ONH-IAM <ONH-IAM@thomas-son.com>
+Subject: INC8894371 - [Approval] [AD] - [Including in groups - uyhju
+account]
+
+Hi Castro/Reyes/Simpson,
+
+An request has been made for Maldonado Kyan [uyhju_30797783] to be added to the below Groups.  Would you kindly give authorization to go ahead with this request.
+
+Groups Owner Details
+GIS_AD_ManageGroups Castro.Haroon  & Reyes Rueben
+GIS_Directoryadmins Castro Haroon  & Simpson Abdulrahman
+
+Regards,
+Declan Haines
+
+ 
+Identity and Access Management Team
+onh-IAM@thomas-son.com
+Creation date: 2023-02-22 10:10:27 work_notes: From: ONH-IAM 
+Sent: Tuesday, February 21, 2023 2:40 PM
+To: Haroon, Castro <Castro.Haroon @thomas-son.com>; Rueben, Reyes <Reyes.Rueben @thomas-son.com>; Abdulrahman, Simpson <Simpson.Abdulrahman@thomas-son.com>
+Cc: Kyan, Maldonado <Maldonado.Kyan @thomas-son.com>; ONH-IAM <ONH-IAM@thomas-son.com>
+Subject: RE: INC8894371 - [Approval] [AD] - [Including in groups - uyhju account]
+
+Hi Castro/Reyes/Simpson,
+
+An request has been made for Maldonado Kyan [uyhju_30797783] to be added to the below Groups.  Would you kindly give authorization to go ahead with this request.
+
+Groups Owner Details
+GIS_AD_ManageGroups Castro.Haroon  & Reyes Rueben
+GIS_Directoryadmins Castro Haroon  & Simpson Abdulrahman
+
+Regards,
+Declan Haines
+
+ 
+Identity and Access Management Team
+onh-IAM@thomas-son.com
+Creation date: 2023-02-23 10:03:39 work_notes: From: Haroon, Castro <Castro.Haroon @thomas-son.com> 
+Sent: Wednesday, February 22, 2023 1:47 PM
+To: ONH-IAM <ONH-IAM@thomas-son.com>
+Cc: Kyan, Maldonado <Maldonado.Kyan @thomas-son.com>; Rueben, Reyes <Reyes.Rueben @thomas-son.com>; Abdulrahman, Simpson <Simpson.Abdulrahman@thomas-son.com>
+Subject: RE: INC8894345 - [Approval] [AD] - [Including in groups - uyhju account]
+
+Approved.
+
+ 
+Castro.Haroon  | Senior Service Delivery Manager, Access Management & Identity 
+Global Information Security
+castro.haroon @thomas-son.com                      
+Mobile: +48 539 997 247
+www.thomas-son.com
+
+From: ONH-IAM <ONH-IAM@thomas-son.com> 
+Sent: Tuesday, 21 February 2023 10:10 AM
+To: Haroon, Castro <Castro.Haroon @thomas-son.com>; Rueben, Reyes <Reyes.Rueben @thomas-son.com>; Abdulrahman, Simpson <Simpson.Abdulrahman@thomas-son.com>
+Cc: Kyan, Maldonado <Maldonado.Kyan @thomas-son.com>; ONH-IAM <ONH-IAM@thomas-son.com>
+Subject: RE: INC8894371 - [Approval] [AD] - [Including in groups - uyhju
+account]
+
+Hello Castro/Reyes/Simpson,
+
+An request has been made for Maldonado Kyan [uyhju_30797783] to be added  to the below Groups. Would you kindly give authorization to go ahead with this request.
+
+Groups Owner Details
+GIS_AD_ManageGroups Castro Haroon  & Reyes Rueben
+GIS_Directoryadmins Castro Haroon  & Simpson Abdulrahman
+
+Regards,
+Declan Haines
+
+ 
+Identity and Access Management Team
+onh-IAM@thomas-son.com
+Creation date: 2023-02-23 14:17:44 comments: User is added to the AD Group per request.
+Creation date: 2023-03-03 06:01:03 comments: After 6 days in resolved state, the incident is automatically closed.

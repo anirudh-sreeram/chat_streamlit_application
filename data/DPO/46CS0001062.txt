@@ -1,0 +1,192 @@
+A case was opened with a short description of RE: Authorization to Check Settlement
+
+
+
+
+
+Creation date: 2022-11-28 15:32:06 work_notes: Email Received From: hilde.wolf@digitale.com
+
+Content of Original Email:
+Hi Mark,
+
+Is it a US or CAD partner? Also, I need an explanation of the United statement for withdrawing of funds to a Digitale preferred bank account   how is it to be processed? Apart from pushing funds to us, the partners are not allowed to perform any activity on a Digitale account.
+
+With regards.
+_____
+
+Hilde Wolf
+Executive, EV Settlement
+
+o: 602.734.7841
+e: hilde.wolf@digitale.com<mailto:hilde.wolf@digitale.com>
+
+Digitale
+Remote-Albuquerque
+
+Digitale.com<http://www.Digitale.com/>
+
+This data is private and belongs to Digitale.
+
+From: Settlements <settlements@digitale.com>
+Sent: Thursday November 24, 2022 11:48 PM
+To: Mark Herrmann <mark.herrmann@digitale.com>; Settlement Operations <settlement.operations@digitale.com>
+Cc: Hilde Wolf <hilde.wolf@digitale.com>; Grete Vogel <grete.vogel@digitale.com>; Selma Richter <selma.richter@digitale.com>; Simon Welf <simon.welf@digitale.com>
+Subject: RE: Authorization to Check Settlement
+
+Hello Mark,
+
+RFTO will process any transaction coming in to it   the banking part is done outside of RFTO. We do not have this information. Please work with the EV team (Settlement Operations) to supply this information.
+
+@Settlement Operations<mailto:settlement.operations@digitale.com>
+Kindly give Alberta the information below:
+
+We need the details for Digitale's preferred business bank account:
+
+Bank Details:
+
+  1.  Account Holder Name:
+  2.  Account Holder Address:
+  3.  Account Number:
+  4.  Routing Number:
+  5.  Name of the Bank:
+  6.  Address of the Bank:
+
+
+
+_____
+
+Jonosch Huber
+Settlements Manager
+settlements@digitale.com<mailto:settlements@digitale.com>
+
+Digitale
+Albuquerque, NM 85420
+
+Digitale.com<http://obn15.sacurelinks.protection.mailmate.com/?url=http%3A%2F%2Fwww.Digitale.com%2F&data=05%7C01%7CHilde.Wolf%40digitale.com%7C3e1e82ac625d458844fa08dacf1e0fe0%7C09f55992c50c45628657b1bd6acc36c5%7C0%7C0%7C638050025268514300%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=8iKP3MiEJ5RevnSRIKtTj5Ha%2BLlc1cewLi6RwFkelLQ%3D&reserved=0>
+
+This data is private and belongs to Digitale.
+
+From: Mark Herrmann <:mark.herrmann@digitale.com<mailto:mark.herrmann@digitale.com>>
+Sent: Monday, November 21, 2022 2:42 PM
+To: Settlements <settlements@digitale.com<mailto:settlements@digitale.com>>
+Cc: Hilde Wolf <hilde.wolf@digitale.com<mailto:hilde.wolf@digitale.com>>; Grete Vogel <grete.vogel@digitale.com<mailto:grete.vogel@digitale.com>>; Selma Richter <selma.richter@digitale.com<mailto:selma.richter@digitale.com>>; Simon Welf <simon.welf@digitale.com<mailto:simon.welf@digitale.com>>
+Subject: FW: Authorization to Check Settlement
+
+Kindly suggest what actions are needed to assist with the following task.
+
+United wants to test its is settlement procedure with Digitale before going live. We request your permission to perform this test. As part of the test, United will deposit funds into Digitale's United account, and withdraw the funds to the Digitale's preferred merchant bank account. We will ask Digitale to confirm the settlement amounts and the timing of their settlement.  United will not ask for this fund back after the test is over.
+
+We need the details for Digitale's preferred business bank account:
+
+Banking Information:
+
+  1.  Account Holder Name:
+  2.  Account Holder Address:
+  3.  Account Number:
+  4.  Routing Number:
+  5.  Name of the Bank:
+  6.  Address of the Bank:
+
+Let me know if you have any questions or if it's okay to perform the test. When we know the exact date and time of the test, I will let you know.
+
+
+
+Thanks,
+
+Mark Herrmann
+Finance Manager II
+P: 745.214.5316
+e:mark.herrmann@digitale.com<mailto:mark.herrmann@digitale.com>
+
+Digitale
+Digitale.com<http://obn15.sacurelinks.protection.mailmate.com/?url=http%3A%2F%2Fwww.Digitale.com%2F&data=05%7C01%7CHilde.Wolf%40digitale.com%7C3e1e82ac625d458844fa08dacf1e0fe0%7C09f55992c50c45628657b1bd6acc36c5%7C0%7C0%7C638050025268514300%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=8iKP3MiEJ5RevnSRIKtTj5Ha%2BLlc1cewLi6RwFkelLQ%3D&reserved=0>
+
+
+Upcoming Out of Office
+Digitale OFFICE CLOSED   Nov 23   24, 2022
+Digitale OFFICE CLOSED   DEC 25   26, 2022
+Digitale OFFICE CLOSED   DEC 27-29, 2022
+
+ Our aim to give the best customer experience in every communication. 
+
+This data is private and belongs to Digitale.
+
+If you have an URGENT request, please reach out to us;
+*Card questions: Digitale Client Services at 877-246-6266
+*Risk Management/Loss Prevention: 855-268-2592   Option 1: Fraud/Block & Devalue/Thresholds
+*System Issues: Digitale Operations Control Center (OCC) at 844-541-0868
+
+From: Mark Herrmann
+Sent: Wednesday, November 21, 2022 2:12 PM
+To: Fabian Otto <fabian.otto@digitale.com<mailto:fabian.otto@digitale.com>>
+Cc: Amalie Dietrich <amalie.dietrich@united.me<mailto:amalie.dietrich@united.me>>; Simon Welf <simon.welf@digitale.com<mailto:simon.welf@digitale.com>>; Elias Voigt <elias.voigt@united.me<mailto:elias.voigt@united.me>>
+Subject: RE: Authorization to Check Settlement
+
+@Fabian Otto<mailto:fabian.otto@digitale.com>   Your thoughts?
+
+
+Respectfully,
+
+Mark Herrmann
+Finance Manager II
+P: 775.224.5317
+e:mark.herrmann@digitale.com<mailto:mark.herrmann@digitale.com>
+
+Digitale
+Digitale.com<http://obn15.sacurelinks.protection.mailmate.com/?url=http%3A%2F%2Fwww.Digitale.com%2F&data=05%7C01%7CHilde.Wolf%40digitale.com%7C3e1e82ac625d458844fa08dacf1e0fe0%7C09f55992c50c45628657b1bd6acc36c5%7C0%7C0%7C638050025268514300%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=8iKP3MiEJ5RevnSRIKtTj5Ha%2BLlc1cewLi6RwFkelLQ%3D&reserved=0>
+
+
+Upcoming Out of Office
+Digitale OFFICE CLOSED   Nov 23   24, 2022
+Digitale OFFICE CLOSED   DEC 25   26, 2022
+Digitale OFFICE CLOSED   DEC 27-29, 2022
+
+ Our aim to give the best customer experience in every communication. 
+
+This data is private and belongs to Digitale.
+
+If you have an URGENT request, please reach out to us;
+*Card questions: Digitale Client Services at 877-246-6266
+*Risk Management/Loss Prevention: 855-268-2592   Option 1: Fraud/Block & Devalue/Thresholds
+*System Issues: Digitale Operations Control Center (OCC) at 844-541-0868
+
+From: Elias Voigt <elias.voigt@united.me<mailto:elias.voigt@united.me>>
+Sent: Monday, November 21, 2022 12:48 PM
+To: Simon Welf <simon.welf@digitale.com<mailto:simon.welf@digitale.com>>; Fabian Otto <fabian.otto@digitale.com<mailto:fabian.otto@digitale.com>>; Mark Herrmann <mark.herrmann@digitale.com<mailto:mark.herrmann@digitale.com>>
+Cc: Amalie Dietrich <amalie.dietrich@united.me<mailto:amalie.dietrich@united.me>>
+Subject: Authorization to Check Settlement
+
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+Hello Valeria, Fabian, Mark,
+
+United wants to test its is settlement procedure with Digitale before going live. We request your permission to perform this test. As part of the test, United will deposit funds into Digitale's United account, and withdraw the funds to the Digitale's preferred merchant bank account. We will ask Digitale to confirm the settlement amounts and the timing of their settlement.  United will not ask for this fund back after the test is over.
+
+We need the details for Digitale's preferred business bank account:
+
+Banking Information:
+
+  1.  Account Holder Name:
+  2.  Account Holder Address:
+  3.  Account Number:
+  4.  Routing Number:
+  5.  Name of the Bank:
+  6.  Address of the Bank:
+
+Let me know if you have any questions or if it's okay to perform the test. When we know the exact date and time of the test, I will let you know.
+
+
+
+Thanks,
+
+With regards.
+Elias
+-------
+Elias Voigt
+Commerce Executive Partnerships, United
+Creation date: 2022-11-28 15:32:06 work_notes: Email Sent From: hilde.wolf@digitale.com
+
+Subject of Original Email:
+RE: Authorization to Check Settlement
+
+

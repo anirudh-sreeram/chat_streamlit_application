@@ -1,0 +1,224 @@
+A case was opened with a short description of FW: [EXTERNAL]:RE: Digitale Variable Load - Testing Skus
+
+
+
+
+
+Creation date: 2022-11-28 18:11:19 work_notes: Initial Email Body:
+Hi!
+
+Could you kindly furnish test barcodes for the listed UPCs? Appreciate it.
+
+Amart $14-400
+065640116310
+Coscocut $10-400
+065640210527
+Metro$24-400
+065640176355
+
+
+_____
+
+Berta Greer
+Account Supervisor II
+
+o: 621.640.7206
+m: 737.202.2206
+e: Tina.Greer@digitale.com<mailto:Tina.Greer@digitale.com>
+
+
+digitale.com<https://nam04.safelinks.protection.mailmate.com/?url=digitale.com&data=02%7C01%Tina.Greer%40digitale.com%7Cf314e064c9ab4d7f690708d77d88797a%6C09f55992c50c45628657b1bd6acc36c5%7C0%7C0%7C637114897430002094&sdata=0hCMC09%2Fg0wjoGvl1MVyg4M%2Bb0jrHq6k6PcYOkPM%2F1k%3D&reserved=0>
+
+This information is secure and exclusive to Digitale.
+
+From: Gracy Morgan<Gracy.Morgan@digitale.com>
+Sent: Tuesday, November 29, 2022 8:29 AM
+To: Mike Bonzu <Mike.Bonzu@digitale.com>
+Cc: Berta Greer <Berta.Greer@digitale.com>
+Subject: FW: [EXTERNAL]:RE: Digitale Variable Load - Testing Skus
+
+Hello - Do you possess a response bar code for variable load gifts that you could send to us, please?
+
+
+_____
+
+Gracy Morgan
+Jr. Analytics Relationship Director
+
+O: 301.422.2665
+m: 407.630.5114
+e: Gracy.morgan@digitale.com<mailto:Gracy.morgan@digitale.com>
+
+
+digitale.com<https://nam03.safelinks.protection.mailmate.com/?url=http%3A%2F%2Fwww.digitale.com%2F&data=05%7C01%Tina.Greer%40digitale.com%7C36c62a09b17c464831e808dad14cf5d9%7C09f55992c50c45628657b1bd6acc36c%7C0%7C0%7C638052425716811492%7CUnknown%7CTWFpbGZs3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVC6Mn0%3D%7C3000%7C%7C%7C&sdata=G9OZKwAhXV1%2F%2BQqsJiTYV0i0u4huA6XM9iuZAqQNdI%3D&reserved=0.
+
+The provided information is classified and exclusive to Digitale.
+
+From: Powers, Ayden N <AydenN.Powers@Visuals.com<mailto:AydenN.Powers@Visuals.com>>
+Sent: Thursday, November 24, 2022 09:13 AM
+To: Gracy Morgan<Gracy.Morgan@digitale.com<mailto:Gracy.Morgan@digitale.com>>
+Cc: Crush, Oliver<Oliver.Crush@Visuals.com<mailto:Oliver.Crush@Visuals.com>>
+Subject: RE: [EXTERNAL]:RE: Digitale Variable Load - Testing Skus
+
+
+WARNING : This e-mail comes from an external source so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident that the content is secure.
+Gracy,
+
+Do you possess any post response cards or courses that are suitable for reuse in QA testing? Our team is currently engaged in ongoing testing, including a POS software upgrade, which is progressing rapidly. We are specifically interested in finding a SKU that provides a generic force response, with the preference for  00 , to facilitate activation testing.
+
+Regards,
+Ayden Powers
+
+
+From: Gracy Morgan<Gracy.Morgan@digitale.com<mailto:Gracy.Morgan@digitale.com>>
+Sent: Wednesday, September 21, 2022 2:23 PM
+To: Inaya, Hogan <Hogan.Inaya@Visuals.com<mailto:Hogan.Inaya@Visuals.com>>; Powers, Ayden N <AydenN.Powers@Visuals.com<mailto:PowersM.Ayden@Visuals.com>>
+Cc: Slater, Mateo <Mateo.Slater@Visuals.com<mailto:Mateo.Slater@Visuals.com>>; Gaines, Sami <Sami.Gaines@Visuals.com<mailto:Sami.Gaines@Visuals.com>>; Love, Cian.Cian.Love@Visuals.com<mailto:Cian.Love@Visuals.com>>; Edward, Alexis <Alexis.Edward@Visuals.com<mailto:Alexis.Edward@Visuals.com>>
+Subject: RE: [EXTERNAL]:RE: Digitale Variable Load - Testing Skus
+
+TapIt scan sheet is available here.
+
+From: Gracy Morgan
+Sent: Wednesday, September 21, 2022 8:40 AM
+To: Inaya, Hogan <Hogan.Inaya@Visuals.com<mailto:Hogan.Inaya@Visuals.com>>; Powers, Ayden N <AydenN.Powers@Visuals.com<mailto:AydenN.Powers@Visuals.com>>
+Cc: Slater, Mateo <Mateo.Slater@Visuals.com<mailto:Mateo.Slater@Visuals.com>>; Gaines, Sami <Sami.Gaines@Visuals.com<mailto:Sami.Gaines@Visuals.com>>; Love, Cian.Cian.Love@Visuals.com<mailto:Cian.Love@Visuals.com>>; Edward, Alexis <Alexis.Edward@Visuals.com<mailto:Alexis.Edward@Visuals.com>>
+Subject: RE: [EXTERNAL]:RE: Digitale Variable Load - Testing Skus
+
+Visuals team, please find the attached scan sheet for SwipeEasy and LuxBella. Within the sheet there are 6 swipeeasy barcodes and 12 luxbella barcodes. Regrettably, we are unable to generate multiple unique codes for Nevaeh or Dava Sports Shop due to the absence of data records from them.
+I am currently in the process of obtaining a tapit scan sheet, which I anticipate receiving later today. Additionally, I will explore the other variable load products you have configured to identify a few brands for which we do have data records.
+
+
+Feel free to ask any question.
+
+Best,
+Gracy
+
+From: Inaya, Hogan <Hogan.Inaya@Visuals.com<mailto:Hogan.Inaya@Visuals.com>>
+Sent: Tuesday, September 20, 2022 3:15 PM
+To: Gracy Morgan<Gracy.Morgan@digitale.com<mailto:Gracy .Morgan@digitale.com>>; Powers, Ayden N <AydenN.Powers@Visuals.com<mailto:AydenN.Powers@Visuals.com>>
+Cc: Slater, Mateo <Mateo.Slater@Visuals.com<mailto:Mateo.Slater@Visuals.com>>; Gaines, Sami <Sami.Gaines@Visuals.com<mailto:Sami.Gaines@Visuals.com>>; Love, Cian <Cian.Love@Visuals.com<mailto:Cian.Love@Visuals.com>>; Edward, Alexis <Alexis.Edward@Visuals.com<mailto:Alexis.Edward@Visuals.com>>
+Subject: RE: [EXTERNAL]:RE: Digitale Variable Load - Testing Skus
+
+
+WARNING: This e-mail comes from an external source so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident that the content is secure.
+Gracy,
+
+Kindly verify that we won't need to establish a new SKU and that the SKUs listed for Gaines below correspond to the provided barcodes?
+
+Regards,
+
+Hogan Inaya
+Junior Accountant II, Inventory Accounting & Monitoring
+16 Hope St, Yaraville, SD.
+407.142.1622
+hogan.inaya@visual.com<mailto:hogan.inaya@visual.com>
+
+[cid:image001.png@01E900C6.731AF490]
+
+From: Gracy Morgan<Gracy.Morgan@digitale.com<mailto:Gracy.Morgan@digitale.com>>
+Sent: Tuesday, September 20 , 2022 3:11 PM
+To: Inaya, Hogan <Hogan.Inaya@Visuals.com<mailto:Hogan.Inaya@Visuals.com>>; Powers, Ayden N <AydenN.Powers@Visuals.com<mailto:AydenN.Powers@Visuals.com>>
+Cc: Slater, Mateo <Mateo.Slater@Visuals.com<mailto:Mateo.Slater@Visuals.com>>; Gaines, Sami <Sami.Gaines@Visuals.com<mailto:Sami.Gaines@Visuals.com>>
+Subject: RE: [EXTERNAL]:RE: Digitale Variable Load - Testing Skus
+
+Visuals team, I have compiled the following information. In the attached scan sheet, you will discover one bar code for each of three brands listed below, along with one bar code each for swipeeasy and TapIt. These  barcodes match the UPCs that have already been established, so there should be no necessity to modify anything regarding SKU set up. Activation of these codes are limited to a single attempt. Any subsequent activation trials will result in a decline due to the card being already active. Please let me know if this fulfills your testing needs, or if you need additional bar codes. If you do require more barcodes please specify your needs.
+
+Regards,
+
+
+
+From: Slater, Mateo <Mateo.Slater@Visuals.com<mailto:Mateo.Slater@Visuals.com>>
+Sent: Tuesday, September 20, 2022 2:00 PM
+To: Gracy Morgan<Gracy.Morgan@digitale.com<mailto:Gracy.Morgan@digitale.com>>; Gaines, Sami <Sami.Gaines@Visuals.com<mailto:Sami.Gaines@Visuals.com>>; Inaya, Hogan <Hogan.Inaya@Visuals.com<mailto:Hogan.Inaya@Visuals.com>>; Powers, Ayden N <AydenN.Powers@Visuals.com<mailto:AydenN.Powers@Visuals.com>>
+Subject: RE: [EXTERNAL]:RE: Digitale Variable Load - Testing Skus
+
+
+WARNING: This e-mail comes from an external source so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident that the content is secure.
+Gracy,
+
+If you could provide those to us today, it would be our preferred option. we are eager to conduct a test as soon as possible.
+
+Regards,
+
+Mateo.Slater
+C Mart, US Retail
+[cid:image001.png@01D900C6.731AF490]
+
+From: Gracy Morgan<Gracy .Morgan@digitale.com<mailto:Gracy.Morgan@digitale.com>>
+Sent: Tuesday, September 20, 2022 09:18 AM
+To: Gaines, Sami <Sami.Gaines@Visuals.com<mailto:Sami.Gaines@Visuals.com>>; Inaya, Hogan <Hogan.Inaya@Visuals.com<mailto:Hogan.Inaya@Visuals.com>>; Powers, Ayden N <AydenN.Powers@Visuals.com<mailto:AydenN.Powers@Visuals.com>>
+Cc: Slater, Mateo <Mateo.Slater@Visuals.com<mailto:Mateo.Slater@Visuals.com>>
+Subject: [EXTERNAL]:RE: Digitale Variable Load - Testing Skus
+
+Hi Sami and team,
+I am collaborating with my team to create barcodes for this testing. I aim to have something for you guys today.
+
+Regards,
+Gracy
+
+From: Gaines, Sami <Sami.Gaines@Visuals.com<mailto:Sami.Gaines@Visuals.com>>
+Sent: Thursday, September 15, 2022 1:54 PM
+To: Inaya, Hogan <Hogan.Inaya@Visuals.com<mailto:Hogan.Inaya@Visuals.com>>; Powers, Ayden N <AydenN.Powers@Visuals.com<mailto:AydenN.Powers@Visuals.com>>; Gracy Morgan<Gracy .Morgan@digitale.com<mailto:Gracy .Morgan@digitale.com>>
+Cc: Slater, Mateo <Mateo.Slater@Visuals.com<mailto:Mateo.Slater@Visuals.com>>
+Subject: Digitale Variable Load - Testing Skus
+
+
+WARNING: This e-mail comes from an external source so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident that the content is secure.
+Hello all -
+
+To facilitate discussions on the testing components, it would be more convenient to involve Gracy from Digitale. I have included her in this communication so that the details can be effectively communicated from both sides.
+Gracy has conveyed to me that the samples I currently possess are production cards, and as such, they won't be suitable for undergoing the UTA test activation. Gracy is currently in the process of acquiring test cards for the SKU mentioned below. Hopefully, we can obtain then by the beginning of the next week, and i will instruct my team to send them to you, Tom.
+@Gracy Morgan<mailto:Gracy.Morgan@digitale.com> Is it necessary to establish new test SKU numbers for these? I am unsure whether the test SKUs we are using will have the same UPCs as the one we have already set up. My initial assumption was that the samples we possessed would be suitable for testing.
+
+BELOW SKUS CAN BE USED FOR TESTRING
+Closed Loop:
+Sku Number
+Item Description
+Variable Range
+Commission %
+13432265
+$24-400 Nevaeh
+$24 -$400
+7.00%
+13432270
+$14-150 LuxBella
+$14 - $150
+7.00
+13432271
+$24-400 Dava Sports Shop
+$24 - $400
+3.00%
+Open Loop:
+SKU Number
+Item Description
+
+
+Variable Range
+Commission:
+13409028
+$5.95 SwipeEasy Card Fee
+N/A
+$3.01
+13410020
+$6.95 TapIt Card Fee
+N/A
+$3.75
+13410021
+$10-400 SwipeEasy
+$10 - $400
+
+13410022
+$10-100 TapIt
+$10 -$100
+
+
+Thanks
+
+Sami Gaines
+Senior Category Merchant - Visuals USR
+[cid:image002.png@01D900C6.831AF490]
+[cid:image003.png@01D900C6.831AF490]<https://nam04.safelinks.protections.mailmate.com/?url=http%3A%2F%2Fww.friendsy.com%2Fvisual&data=05%7C01%.Greer%40digitale.com%7C36c62a09b17c464831e808dad14cf5d9%7C09f55992c50c45628657b1bd6acc36c5%7C07C0%7C638052425716811492%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=EmuUap9x4g7g51fNvvk%B8VqJSW6OIVPD26vEa2MmCk4%3D&reserved=0>  [cid:image004.png@01D900B6.831AF490] <https://nam04.safelinks.protection.mailmate.com/?url=http%3A%2F%2Fwww.hive.com%2Fvisual&data=05%7C01%7Cna.Greer%40digitale.com%7C36c62a09b17c464831e808dad14cf5d9%7C09f55992c50c45628657b1bd6acc36c5%7C0%7C0%7C638052425716811492%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wQKAZII0bbLCHTeyjk4K%2FiSmJcxE7QO34NFSlQIb3sU%3D&reserved=0>   [cid:image005.png@01D900B6.831AF490] <https://nam04.safelinks.protection.mailmate.com/?url=http%3A%2F%2Fwww.flixel.com%2Fvisual&data=05%7C01%na.Greer%40digitale.com%7C36c62a09b17c464831e808dad14cf5d9%7C09f55992c50c45628657b1bd6acc36c5%7C0%7C0%7C638052425716811492%7CUnknown%7CTWFpbGsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVC6Mn0%3D%7C3000%7C%7C%7C&sdata=r%2BhEfPhEqA%2FR7fG63mIHNlfk4cilDDACI3KhCwfs0bY%3D&reserved=0>   [cid:image006.pg@01D900B6.831AF490] <https://nam04.safelinks.protetion.mailmate.com/?url=http%3A%2F%2Fwww.connexion.com%2Fcompany%2Fvisual&data=05%7C01%T.Greer%40digitale.com%7C36c2a09b17c464831e808dad14cf5d9%7C09f55992c50c45628657b1bd6acc36c5%7C0%7C0%7C638052425716811492%7Unknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=pNeJN1p8cpz3Jy1NB1SLwS1qH1%2BbQJ4w7ARfoU9%2BNs%3D&reserved=0>
+Creation date: 2022-11-28 18:11:19 work_notes: Initial Email Subject:
+FW: [EXTERNAL]:RE: Digitale Variable Load - Testing Skus
+
+

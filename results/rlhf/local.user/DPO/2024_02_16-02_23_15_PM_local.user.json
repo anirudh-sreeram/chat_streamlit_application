@@ -1,0 +1,1 @@
+{"conversation": [{"role": "user", "content": "ji"}, {"role": "robot", "chosen": "Hello, how can I help you?", "rejected": "Hi, I'm Now Assistant. How can I help you today?", "model": "NOW_LLM_llama13b_v0_4_091223_targetonly_loss"}], "metadata": {"metatags": {}}}

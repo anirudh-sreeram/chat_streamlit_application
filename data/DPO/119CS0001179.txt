@@ -1,0 +1,231 @@
+A case was opened with a short description of cannot install
+A longer description includes Partner contacted to inquire about a possible provisioning problem with this order. After speaking with TS at first, they were forwarded to the vendor, who informed them that the sub showed as cancelled on their end. 
+I need an update as soon as possible because the partner and their customer are scheduled to install a device tomorrow. 
+CB # 313-367-0105
+
+
+
+
+Creation date: 2022-10-10 20:17:26 work_notes: got in touch with provisioning to ask if there was anything we needed to do. partner was informed that I will provide an ETA or update soon.
+Creation date: 2022-10-10 20:26:48 comments: I appreciate you helping me. For this, Shieldtick started a ticket, and I've included their remarks below in case they come in handy or you need to get in touch with a Shieldtick rep. 
+
+Juan Reid-Gibbs
+312-366-0104 mobile
+
+
+Shieldtick ticket reply:
+Hi Juan Reid-Gibbs,
+
+Case # 01776005 "Error with Activation" has an update from your support rep.
+
+Latest case commentary:
+
+Hi Juan,
+
+
+
+I'm Madeline Tyler, and I am responsible for handling your case. My working hours are Wednesday through Saturday from 7AM - 4PM. (PT). Please call if you need assistance outside of my working hours at +1(876) 231-3430 (in the US or Canada) or +1(205) 612-0455 (international) to speak with the next Customer Support Rep.
+
+
+
+I appreciate your call today, and for discussing the device serial number C0150FF2B-7C66.
+
+
+
+ We have verified that the device is sourced from your distributor and is being billed through CLOUDSPACE on a monthly basis rather than as an MSSP device. After investigating, it appears that the device is appearing as inactive. I apologize for misspeaking, but it's conceivable that the contract isn't set up to activate even though it hasn't been terminated.
+
+
+As a result, you will need to reach out to CLOUDSPACE regarding the device, and you are not going to be able to activate it under your Lightarc (ACC-1447534) account for your client. They may also request the purchase order number or invoice and will help you prepare the license for activation. If you have any concerns, please reach out.
+
+
+
+
+We appreciate you contacting Shieldtick Customer Service.
+
+
+
+Madeline Tyler | Customer Service
+
+Shieldtick LLC |
+www.shieldtick.com<http://www.shieldtick.com>
+
+Working Hours: 7AM   3PM (PT), Wednesday - Saturday
+
+Contact: https://www.shieldtick.com/shtk-support/phone-support-all
+
+Tech Search: https://techsearch.shieldtick.com/
+
+Suggestion: https://www.shieldtick.com/shtk-support/feedback
+Creation date: 2022-10-10 20:42:33 work_notes: Email confirmation of sub status has been sent to the vendor, and provisioning has begun -- order is successfully provisioned and active on our end.
+Creation date: 2022-10-10 20:42:33 comments: Hello Juan,
+
+I wanted to provide a brief update to let you know that our provisioning team has verified everything is fine on our end and has initiated contact with Shieldtick to determine the source of the disconnection. We are seeing the order was successful and the active status of the subscription.
+
+Best,
+-Julia
+Creation date: 2022-10-11 12:17:35 comments: Hello Juan,
+
+Hope all is fine with you! I didn't want to call just now because it's still early, but Shieldtick informed us that the problem stems from the device not being activated yet. I thought that was what you were attempting to do.  Could you please elaborate on the specific difficulty you are seeing while attempting to activate the device? This will allow us to make sure you are receiving assistance from the appropriate sources for your setup today.
+
+
+Best,
+-Jula
+Creation date: 2022-10-11 12:17:35 work_notes: According to provisioning, ST is saying that the problem stems from the device not being active -- checking in with the partner because, as per our conversation, they were having trouble activating the device 
+Creation date: 2022-10-11 16:48:32 comments: This is the device that I'm attempting to activate. This was the first thing we got in the mail about a week ago. The serial number I'm attempting to get working is:
+  C0150FF2B-7C66
+[cid:image001.png@01C8DD55.4AD42CE1]
+
+I'm utilizing my partner's account: ladmg to log into www.shieldtick.com<http://www.shieldtick.com> 
+I next visit the Help Center   My Shieldtick   Activate Products
+
+After inputting the new Shieldtick device's serial number, click Proceed.
+[cid:image006.png@01D8DD66.265F0099]
+
+This error message was received:
+[cid:image007.png@01D8DD66.265F0099]
+Creation date: 2022-10-11 17:12:17 comments: Hello Juan,
+
+We appreciate you sending us those screenshots, and we have informed Shieldtick of the problem; they are trying to find a solution. The most recent information that Shieldtick sent our support staff is shown below.
+Quick update: In our system, the identical serial number is in fact linked to a cancelled or suspended subscription. 
+   Thus, the group is investigating a solution. Devices under subscription are not returnable. When new information becomes available, I'll give it.
+
+Best,
+-Julia
+Creation date: 2022-10-11 17:12:17 work_notes: Continuous email exchange with the vendor...
+From: Juan Baldwin <Juan.Baldwin@shieldtick.com> 
+Sent: Monday, October 10, 2022 09:37 AM
+To: Julius McConnell <jmcconnell@cloudspace.com>
+Cc: McKenzie Lin Ray <mlinray@cloudspace.com>
+Subject: [External] Re: Order Acceptance - Shieldtick Waveguard S60 - Research Core Light 
+
+A brief update: In our system, the identical serial number is connected with a previously cancelled/suspended subscription. 
+  As a result, the team is investigating possible solutions. That's a first, because subscription devices cannot be reused.
+Will offer another update as soon as it is ready.
+
+-juan
+
+From: Juan Baldwin <Juan.Baldwin@shieldtick.com>
+Date: Monday, October 10, 2022 at 7:58 AM
+To: Julius McConnell <jmcconnell@cloudspace.com>
+Cc: McKenzie Lin Ray <mlinray@cloudspace.com>
+Subject: Re: Order Acceptance-Shieldtick Waveguard S60 - Research Core Light  
+Juan actually contacted us directly and opened a support case...
+ 
+Additionally, I'm receiving the following problem notice when I attempt to activate his serial number:
+ 
+ 
+From: Juan Baldwin <Juan.Baldwin@shieldtick.com>
+Date: Monday, October 10, 2022 at 7:53 AM
+To: Julius McConnell <jmcconnell@cloudspace.com>
+Cc: McKenzie Lin Ray <mlinray@cloudspace.com>
+Subject: Re: Order Acceptance - Whieldtick Waveguard S60 - Research Core Light
+Hello Julius,
+ 
+
+Given that Juan successfully signed in yesterday, according to the activity records, he already has a portal account. Perhaps all he needs to do is change his password?
+Email: dmg@lightarcs.com
+Username: ladmg
+ 
+Thank you,
+ 
+-juan
+ 
+From: Julius McConnell <jmcconnell@cloudspace.com>
+Date: Monday, October 10, 2022 at 5:16 AM
+To: Juan Baldwin <juan.baldwin@shieldtick.com>, Cloudspace Orders (DL) <CloudspaceOrders@Shieldtick.com>
+Cc: McKenzie Lin Ray<mlinray@cloudspace.com>
+Subject: RE: Order Acceptance-Shieldtick Waveguard S60 - Research Core Light   
+EXTERNAL: 
+Thank you Juan; there are problems with the partner's activation. Could you please email the Welcome to Shieldtick link again?
+
+ Admin Partner - dmg@lightarcs.com
+ 
+ 
+
+ Julius McConnell
+
+
+Provisioning Expert L3
+
+(877) 883 7297
+
+
+cloudspace.com
+
+
+
+
+From: Juan Baldwin <Juan.Baldwin@shieldtick.com> 
+Sent: Sunday, October 09, 2022 2:03 PM
+To: Julius McConnell <jMcConnell@cloudspace.com>; Cloudspace Orders (DL) <CloudspaceOrders@Shieldtick.com>
+Cc: McKenzie Lin Ray<mlinray@Cloudspace.com>
+Subject: [External] Re:  Order Acceptance-Shieldtick Waveguard S60 - Research Core Light  
+ 
+Hello Julius,
+ 
+We received the subscription contact for this device on September 12.
+On September 15th, it was given to the partner. 
+https://www.fastlink.com/fastlinktrack/?trknbr=207780567888&trkqual=3700024598~077805678882~FX
+ 
+However, it appears that the partner has not yet activated the device.
+Serial #:C0150FF2B-7C66
+ 
+Thank you,
+ 
+-Juan
+ 
+From: Julius McConnell <jMcConnell@Cloudspace.com>
+Date: Friday, October 7, 2022 at 12:31 PM
+To: Cloudspace Orders <CloudspaceOrders@Shieldtick.com>
+Cc: McKenzie Lin Ray<mlinray@cloudspace.com>
+Subject: Order Acceptance - Shieldtick Waveguard S60 - Research Core Light  
+EXTERNAL: 
+Hi Shieldtick, 
+ 
+Can you confirm active service for Light Arcs, company Research Core Light with Shieldtick Waveguard S60? 
+ 
+Partner: Light Arcs
+Company: Research Core Light
+shieldtickSubscriptionContractId: SB000002047
+shieldtickPurchaseOrderNumber: 6bf74a41db0f1335
+ResellerId ACC-1447534
+serviceSku  STT10937
+Shieldtick Waveguard S60 with 1-month Safety Suite subscription
+
+Thank you,
+ 
+
+ Julius McConnell
+
+
+Provisioning Expert L3
+
+(877) 883 7297
+
+
+cloudspace.com
+Creation date: 2022-10-11 19:47:42 comments: Hello Juan,
+
+I wanted to inform you that shieldtick has informed us that the problem has been fixed and that you should now be able to activate the device. Please let me know if the setup presents any problems for you.
+
+Best,
+-Julia
+Creation date: 2022-10-11 20:08:30 work_notes: contacted to let partner know the most recent update was received connected, and Juan promised to attempt activating the device right away.
+I believe he ended the call, but we were disconnected at the last second.
+Creation date: 2022-10-12 00:34:09 comments: I appreciate how quickly you followed up and responded on this matter. I managed to turn on the new device, and you've rescued today for tomorrow.
+
+Juan
+Creation date: 2022-10-12 12:16:54 comments: Hello Juan,
+
+Hearing that this was handled makes me very happy! Would you let me know if there is anything else my team can do to help you, or is it okay to move forward with closing this ticket?
+
+Best,
+-Julia
+Creation date: 2022-10-17 20:46:27 comments: Hello Juan,
+
+We will be closing cases that we perceive to be resolved in an effort to return to reasonable caseloads and provide timely help. We have witnessed record case numbers over the previous weeks. If you have any more questions or concerns about the inquiry in this case, please reply to this mail and we would be pleased to help. I appreciate your understanding. Enjoy your day!
+
+Best,
+-Julia
+Creation date: 2022-10-20 21:30:29 work_notes: Closed automatically after three days in the resolved status.
+Creation date: 2022-10-24 08:01:43 work_notes: Customer Satisfaction Survey has been delivered   2022-10-23 00:00:00

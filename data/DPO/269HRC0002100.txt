@@ -1,0 +1,80 @@
+A case was opened with a short description of Darcey Scott Wage deduction for union dues
+A longer description includes Please arrange for wage deduction of union dues.
+Thank you!
+
+From: Robbie Sanders <Robbie.Sanders@Grainger.com>
+Sent: Thursday, March 17, 2022 1:29 PM
+To: Leena Levine <Leena.Levine@Grainger.com>
+Subject: Re: Darcey Scott
+
+
+
+Robbie Sanders
+Receiving Manager
+Grainger Enterprises Inc.4647 Southwestern Blvd #APT 350
+Hamburg, New York(NY), 14075
+T: (516) 296-9947
+E: robbie.sanders@grainger.com<mailto:robbie.sander@grainger.com>
+________________________________
+From: Leena Levine <Leena.Levine@Grainger.com<mailto:Leena.Levine@Grainger.com>>
+Sent: Friday, March 18, 2022 10:33 AM
+To: Robbie Sanders <Robbie.Sanders@Grainger.com<mailto:Robbie.Sanders@Grainger.com>>
+Subject: Darcey Scott
+
+
+Hi Robbie,
+
+
+
+Please ask him to sign the documents and return them to me. He will start working for the union on 03/01/22
+
+
+
+Thanks!
+
+
+
+
+Creation date: 2022-03-18 18:00:32 work_notes: HR Case created by email forwarded by: Leena.Levine@Grainger.com
+
+FW: Darcey Scott
+
+Please arrange for payroll deduction of union dues.
+Thank you!
+
+From: Robbie Sanders <Robbie.Sanders@Grainger.com>
+Sent: Thursday, March 17, 2022 1:29 PM
+To: Leena Levine <Leena.Levine@Grainger.com>
+Subject: Re: Darcey Scott
+
+
+
+Robbie Sanders
+Receiving Manager
+Grainger Enterprises Inc.4647 Southwestern Blvd #APT 350
+Hamburg, New York(NY), 14075
+T: (516) 296-9947
+E: robbie.sanders@grainger.com<mailto:robbie.sander@grainger.com>
+________________________________
+From: Leena Levine <Leena.Levine@Grainger.com<mailto:Leena.Levine@Grainger.com>>
+Sent: Friday, March 18, 2022 10:33 AM
+To: Robbie Sanders <Robbie.Sanders@Grainger.com<mailto:Robbie.Sanders@Grainger.com>>
+Subject: Darcey Scott
+
+
+Hi Robbie,
+
+
+
+Please ask him to sign the documents and return them to me. He will start working for the union on 03/01/22
+
+
+
+Thanks!
+Creation date: 2022-03-21 11:55:46 comments: Case has been transferred:
+
+ Old case type: Broad Query
+New case type: Wage Deduction
+Creation date: 2022-03-22 14:12:56 comments: Case status has been changed from "Open" to "Work in Progress"
+Creation date: 2022-03-23 21:43:38 comments: Case status has been changed from "Work in Progress" to "Closed"
+Creation date: 2022-03-23 21:43:38 work_notes: Closing statement has been updated. Changed from Null to 'Configure a deduction in SAP'.

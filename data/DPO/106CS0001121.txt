@@ -1,0 +1,188 @@
+A case was opened with a short description of RE: Bank of Bowen - Cert 3472989103
+A longer description includes CONFIDENTIAL
+
+Lender Services,
+
+Bank of Bowen received a validation notification from their MILAR file, which indicated that Cert 3472989103 is showing as a canceled certificate in our system. In response, they clarified that the certificate should actually be active since it had been approved for reinstatement (see below).
+
+Kindly guide Shawna Nichol (cc'd) and let them know if any further action is required or if this is simply a matter of timing.
+
+Thank you!
+
+Patrick Robertson
+Servicer Consulting Analyst
+919-856-4122 office
+
+
+From: Nichol, Shawna <Shawna.Nichol@bankofbowen.com>
+Sent: Wednesday, November 16, 2022 10:23 AM
+To: ZIPHER (Assure Now) Servicing Consult <ServicingConsult@assurance.com>
+Subject: RE: Bank of Bowen - 11-2022 - Exceptions to MILAR Reporting
+
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+Greetings,
+
+
+  1.   Nate Ryan was reinstated according to email
+
+[cid:image001.png@01D8FA7D.0931BC42]
+
+
+
+
+
+I couldn't find any information on the other listed tabs. If there is anything else, please inform me.
+
+
+
+Regards,
+
+Shawna
+
+
+
+
+
+[cid:image002.jpg@01D8FA7D.0931BC42]
+
+Shawna Nichol 
+Loan Operations Manager
+4652 Kertzmann Coves | Hubertshire | MT 92370
+Direct: (608) 467-1668
+
+From: ZIPHER (Assure Now) Servicing Consult <ServicingConsult@assurance.com><ServicingConsult@assurance.com <mailto:ServicingConsult@assurance.com>>
+Sent: Wednesday, November 16, 2022 6:46 AM
+To: Nichol, Shawna    
+<Shawna.Nichol@bankofbowen.com<mailto:Shawna.Nichol@bankofbowen.com>>
+ubject: RE: Bank of Bowen - 10-2022 - Exceptions to MILAR Reporting
+
+CONFIDENTIAL
+
+
+
+Hi,
+
+Please review the attached exceptions generated using the 10 2022 MILAR Report you sent. Please note that there are three tabs that need to be reviewed. If a tab is blank, it means that, for that month, there are no loans for that specific exception/validation.
+
+-1st tab: Inactive - This specific tab shows loans that our system identifies as inactive, but the removal code does not indicate that these loans will be removed from the report. According to our system, the date when the certificate became inactive is more than 4 months ago. We kindly request that you remove the Assure code from your system so that these loans will be removed from the report. ****If you have any inquiries regarding the loan on the tab, please contact our Lenders Service Department. ZIPH.MortgageLenderServices@assurance.com<mailto:ZIPH.MortgageLenderServices@assurance.com> or 800-400-6647 to confirm the correct status of this loan.****
+
+-2nd tab: No Match - The loans listed in this tab do not have any active certificate numbers associated with them, as identified by our system. Please provide the loans included in the list so that we may check if there is an active certificate number for them. If an active certificate number cannot be found, please remove these loans from your MILAR file. ****It is important to note that if there are loans on this report that were included in your original submission and the numbers match, it is likely due to inconsistent formatting of the certificate number. All certificate and loan numbers must be formatted consistently either as all text or all numeric.****
+
+-3rd tab: MILAR Validation - This tab contains a list of loans that exhibit inconsistencies between the report data and our system. A detailed description of the error can be found within this sheet.
+
+You do not need to resubmit your file; however, we kindly request that you review the MILAR validation report and provide an explanation for the discrepancies. We would appreciate it if you could mark the differences directly on the spreadsheet or provide a written explanation. Alternatively, we are also available to schedule a call at your convenience if you prefer. Please let us know your preference, and we will be glad to arrange it.
+
+Please inform us if there is an additional contact person who should receive this report or if you have any further questions. 
+
+Wishing you a wonderful day!
+
+Servicer Consult
+Assurance
+2340 Urban Gardens Road
+New Kendrick, FL 08754
+(800)203-6666
+ServiceReport@assurance.com<mailto:ServiceReport@assurance.com>
+
+NOTICE:  This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message. Thank you.
+
+
+
+
+
+Creation date: 2022-11-17 17:09:17 comments: 501300062 11/16/2022 11:08:17
+received from: ServicingConsult@assurance.com
+
+CONFIDENTIAL
+
+Lender Services,
+
+Bank of Bowen received a validation notification from their MILAR file, which indicated that Cert 3472989103 is showing as a canceled certificate in our system. In response, they clarified that the certificate should actually be active since it had been approved for reinstatement (see below).
+
+Kindly guide Shawna Nichol (cc'd) and let them know if any further action is required or if this is simply a matter of timing.
+
+Thank you!
+
+Patrick Robertson
+Servicer Consulting Analyst
+919-856-4122 office
+
+
+From: Nichol, Shawna <Shawna.Nichol@bankofbowen.com>
+Sent: Wednesday, November 16, 2022 10:23 AM
+To: ZIPHER (Assure Now) Servicing Consult <ServicingConsult@assurance.com>
+Subject: RE: Bank of Bowen - 11-2022 - Exceptions to MILAR Reporting
+
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+Greetings,
+
+
+  1.   Nate Ryan was reinstated according to email
+
+[cid:image001.png@01D8FA7D.0931BC42]
+
+
+
+
+
+I couldn't find any information on the other listed tabs. If there is anything else, please inform me.
+
+
+
+Regards,
+
+Shawna
+
+
+
+
+
+[cid:image002.jpg@01D8FA7D.0931BC42]
+
+Shawna Nichol 
+Loan Operations Manager
+4652 Kertzmann Coves | Hubertshire | MT 92370
+Direct: (608) 467-1668
+
+From: ZIPHER (Assure Now) Servicing Consult <ServicingConsult@assurance.com><ServicingConsult@assurance.com <mailto:ServicingConsult@assurance.com>>
+Sent: Wednesday, November 16, 2022 6:46 AM
+To: Nichol, Shawna    
+<Shawna.Nichol@bankofbowen.com<mailto:Shawna.Nichol@bankofbowen.com>>
+ubject: RE: Bank of Bowen - 10-2022 - Exceptions to MILAR Reporting
+
+CONFIDENTIAL
+
+
+
+Hi,
+
+Please review the attached exceptions generated using the 10 2022 MILAR Report you sent. Please note that there are three tabs that need to be reviewed. If a tab is blank, it means that, for that month, there are no loans for that specific exception/validation.
+
+-1st tab: Inactive - This specific tab shows loans that our system identifies as inactive, but the removal code does not indicate that these loans will be removed from the report. According to our system, the date when the certificate became inactive is more than 4 months ago. We kindly request that you remove the Assure code from your system so that these loans will be removed from the report. ****If you have any inquiries regarding the loan on the tab, please contact our Lenders Service Department. ZIPH.MortgageLenderServices@assurance.com<mailto:ZIPH.MortgageLenderServices@assurance.com> or 800-400-6647 to confirm the correct status of this loan.****
+
+-2nd tab: No Match - The loans listed in this tab do not have any active certificate numbers associated with them, as identified by our system. Please provide the loans included in the list so that we may check if there is an active certificate number for them. If an active certificate number cannot be found, please remove these loans from your MILAR file. ****It is important to note that if there are loans on this report that were included in your original submission and the numbers match, it is likely due to inconsistent formatting of the certificate number. All certificate and loan numbers must be formatted consistently either as all text or all numeric.****
+
+-3rd tab: MILAR Validation - This tab contains a list of loans that exhibit inconsistencies between the report data and our system. A detailed description of the error can be found within this sheet.
+
+You do not need to resubmit your file; however, we kindly request that you review the MILAR validation report and provide an explanation for the discrepancies. We would appreciate it if you could mark the differences directly on the spreadsheet or provide a written explanation. Alternatively, we are also available to schedule a call at your convenience if you prefer. Please let us know your preference, and we will be glad to arrange it.
+
+Please inform us if there is an additional contact person who should receive this report or if you have any further questions. 
+
+Wishing you a wonderful day!
+
+Servicer Consult
+Assurance
+2340 Urban Gardens Road
+New Kendrick, FL 08754
+(800)203-6666
+ServiceReport@assurance.com<mailto:ServiceReport@assurance.com>
+
+NOTICE:  This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message. Thank you.
+
+Creation date: 2022-11-17 18:53:31 work_notes: 502007366 11/16/2022 12:53:31
+code]RAMBO Document.pdf attached from Email Client
+Creation date: 2022-11-17 18:53:31 work_notes: 502007366 11/16/2022 12:53:31
+Pasted photo.pdf attached from Email Client

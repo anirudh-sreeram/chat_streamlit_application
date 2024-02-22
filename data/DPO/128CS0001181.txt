@@ -1,0 +1,374 @@
+A case was opened with a short description of Problems with WVD / AVD through Nerdio
+A longer description includes Working with Nerdio to resolve this issue with a build out of a windows virtual desktop deployment. Session host / host pool runs for a bit and then crashes and needs to be re-imaged.
+
+I've started from scratch with a new desktop image and a new host pool and session post but problems continue anyway.
+
+Nerdio is telling me to talk to Azure Support and Azure Support told me Nimbus is where I should start with the troubleshooting.
+
+Not sure where the breakdown is happening in the pipeline but I can replicate the problem for troubleshooting.
+
+
+
+
+Creation date: 2022-09-27 13:29:18 comments: Hi,
+
+Thank you for contacting Nimbus Tech Help.  I'm Jemima Gates, one of the Infrastructure Engineers working at Nimbus. I'll be assisting you with your request today. Can you first confirm the following for me so I can provide you with the best assistance? What is your ID number for Nerdio and which version of Nerdio are you using?
+
+Thank you
+Jemima
+Creation date: 2022-09-27 13:32:41 comments: Hello there thank you for replying to me so fast.
+
+ We are using Nerdio 3.6.0 my ID is
+
+Install ID: 1704430dte714c2dre593557byc2b8d2
+
+Subscription id: 5e353041-2d46-45ec-73a6-351f4da31028
+
+[image]
+Oskar Pacheco
+President, Byetek IT
+P: 708-458-8013
+W: https://www.byetekit.com<https://www.byetekit.com/>
+| Submit a Support Request: help@ByetekIT.com<mailto:help@ByetekIT.com>
+
+[cid:image001.png@02D8D453.W6CA1460]<http://www.friendsy.com/byetek/>
+[cid:image002.png@02D8D453.W6CA1460]<http://www.connexion.com/in/oskar-pacheco-a68ra751>
+Creation date: 2022-09-27 13:38:45 comments: Hi Oskar,
+
+Is this environment one that is newly deployed? If no when did this issue begin happening and how many effected users are there many users and also affecting the production environment? There also do not appear to be any health issues in Azure, when you say it crashes what do you mean?
+
+
+Jemima
+Creation date: 2022-09-27 13:47:49 comments: Hello it s  a little difficult to explain as we don't know what the problem is but I ll give as many details as possible.
+
+This environment is brand new, all users are being affected and the environment was meant to go into production yesterday.
+
+A cloud hosted file server / domain controller ad is synced with Azure AD. There are no issues with AD Sync on both the cloud and on the azure ad connect service on the server.
+
+A desktop image was built and it was applied to a host pool with no autoscaling enabled at the moment. The image is all up to date, has no errors and does not exhibit any of the issues that occur when its applied to a session host.
+
+Once the imaged and session host is live, users can connect to it without issue but they then become unable to connect if a credential is changed. It seems there's something wrong with directory permissions / credential but I checked that credential write back and hash synchronization are all functioning without issue. There are some accounts that just won't connect period credential reset or no.
+
+There's another problem in that if the session host is powered down automatically or manually via Azure, the vm itself or nerdio, the session host vm reports that the Microsoft Windows virtual agent isn't available when we attempt to turn it back on. The only way to fix this is to reimage the host pool.
+
+I think there's an issue with Azure AD and the directory syncing but that could be way off.
+
+When it does work, it's perfect, until it stops working and when that happens, no warnings are given in advance.
+
+[image]
+Oskar Pacheco
+President, Byetek IT
+P: 708-458-8013
+W: https://www.byetekit.com<https://www.byetekit.com/>
+| Submit a Support Request: help@ByetekIT.com<mailto:help@ByetekIT.com>
+
+[cid:image001.png@02D8D453.W6CA1460]<http://www.friendsy.com/byetek/>
+[cid:image002.png@02D8D453.W6CA1460]<http://www.connexion.com/in/oskar-pacheco-a68ra751>
+Creation date: 2022-09-27 13:53:05 work_notes: Obtain Event Viewer logs might help with that AVD
+Creation date: 2022-09-27 13:58:22 comments: Oskar,
+
+Helps to have all that info thank you. I don't see any errors with Ad sync. Kindly request that you provide the Event viewer logs. Might show an error that can assist us with shedding light on the AVD.
+
+
+Jemima
+Creation date: 2022-09-27 14:05:12 comments: Hi Jemima, I did pull a log package since the session host was re-imaged not long ago and online.
+
+My test account,
+oskar.pacheco@ARTfit.com<mailto:oskar.pacheco@ARTfit.com> won't let me connect to the session host anymore which hasn't happened before. Any logs regarding why we cant connect would be fantastic.
+
+Whats the best way I can get the logs to you? I can attach it here if that's ok with you
+
+[image]
+Oskar Pacheco
+President, Byetek IT
+P: 708-458-8013
+W: https://www.byetekit.com<https://www.byetekit.com/>
+| Submit a Support Request: help@ByetekIT.com<mailto:help@ByetekIT.com>
+
+[cid:image001.png@02D8D453.W6CA1460]<http://www.friendsy.com/byetek/>
+[cid:image002.png@02D8D453.W6CA1460]<http://www.connexion.com/in/oskar-pacheco-a68ra751>
+Creation date: 2022-09-27 14:09:23 comments: Oskar,
+
+You can attach here using a zip file. If I don't receive it, I can send you a OneDrive link where you can upload it . Where and how are you modifying user credentials? I can see Self-Service crashes (OnPremisesPolicyViolation).
+
+
+
+Jemima
+Creation date: 2022-09-27 14:09:23 work_notes: Would you kindly verify/add the following to escalate to Microsoft:
+Point Of Contact: 
+Email:
+Phone: 
+Working Hours or 24/7
+Preferred Contact Method: Email
+Alternative Contacts:
+
+Thanks
+Jemima
+Creation date: 2022-09-27 14:14:51 comments: Credentials resets were being done through https://resetcredentials.microsoftonline.com/resetcredential#!/ since I was following one of the recommended reset options that support credential writeback.
+
+The doc was attached on the last email but if you didn't receive it go ahead and send me a onedrive link.
+
+Is there a bulletproof way to quick reset a credential to an azure ad joined windows virtual desktop environment that is synced to an onprem / cloudhosted server/
+
+MOREOVER, Nerdio told us that we have to do hybrid AD in order to properly support traditional file sharing.
+
+[image]
+Oskar Pacheco
+President, Byetek IT
+P: 708-458-8013
+W: https://www.byetekit.com<https://www.byetekit.com/>
+| Submit a Support Request: help@ByetekIT.com<mailto:help@ByetekIT.com>
+
+[cid:image001.png@02D8D453.W6CA1460]<http://www.friendsy.com/byetek/>
+[cid:image002.png@02D8D453.W6CA1460]<http://www.connexion.com/in/oskar-pacheco-a68ra751>
+Creation date: 2022-09-27 14:14:52 comments: Oskar,
+
+Can you also forward me the FSLogix logs. You can locate them in %ProgramData%\FSLogix\Logs\Profile.
+
+Jemima
+Creation date: 2022-09-27 14:26:29 comments: Oskar,
+
+I noticed the FSLogix profiles are in containers blob storage and not AzureFiles. It is not recommended you do this. Can you share the document you used to set this up?
+
+OneDrive Link is here.
+
+https://nimbus-my.sharepoint.com/:f:/p/jgates/Tnvw2rRgdEdTmlNB2TdTzIFBllSHUyqqtpgwvo-4XfPWCw?q=YRgkW2
+
+Also we typically flag production environment down as critical cases, so since this is a new one I am going to reduce the case to "High".
+
+Jemima
+Creation date: 2022-09-27 14:27:27 comments: There you go, its only 1 since it was reimaged not too long ago.
+
+The machine is currently online but its not letting me sign in, possibly due to somethign with the credential resets but the website I email you was working fine for me and the users yesterday before the server crashed.
+
+[image]
+Oskar Pacheco
+President, Byetek IT
+P: 708-458-8013
+W: https://www.byetekit.com<https://www.byetekit.com/>
+| Submit a Support Request: help@ByetekIT.com<mailto:help@ByetekIT.com>
+
+[cid:image001.png@02D8D453.W6CA1460]<http://www.friendsy.com/byetek/>
+[cid:image002.png@02D8D453.W6CA1460]<http://www.connexion.com/in/oskar-pacheco-a68ra751>
+Creation date: 2022-09-27 14:33:16 comments: I do agree with you, but the users were supposed to start working in a new production environment yesterday. So I would still mark this as critical since they were supposed to be working in on it during our go live yesterday. I know there's a procedure you're meant to follow ive just been getting the short end of the stick with Nerdio wanting nothing to do with it, telling us to talk to azure support and now i'm back with nimbus its been tiring. 
+
+Man, life in IT.
+
+As for fslogix being in blob storage, Nerdio told us to do that per the following:
+
+https://help.nerdio.net/hd/ea-us/articles/7062365286265-Blob-Storage-FSLogix-Profiles
+
+Thanks for the onedrive link sent those logs over.
+
+I can also replicate the session host vm "crash" but after it fails, I cant access the vm at all or pull any logs from it but you can still see it in azure
+
+
+[image]
+Oskar Pacheco
+President, Byetek IT
+P: 708-458-8013
+W: https://www.byetekit.com<https://www.byetekit.com/>
+| Submit a Support Request: help@ByetekIT.com<mailto:help@ByetekIT.com>
+
+[cid:image001.png@02D8D453.W6CA1460]<http://www.friendsy.com/byetek/>
+[cid:image002.png@02D8D453.W6CA1460]<http://www.connexion.com/in/oskar-pacheco-a68ra751>
+Creation date: 2022-09-27 14:39:25 comments: Oskar,
+
+I get it 100%. Let's do this, lets escalate to MSFT support as there is a lot of things happening that could be causing problems. 
+
+Would you kindly verify/add the following to escalate to Microsoft:
+Point Of Contact: 
+Email:
+Phone: 
+Working Hours or 24/7
+Preferred Contact Method: Email
+Alternative Contacts:
+
+Regards
+Jemima
+Creation date: 2022-09-27 14:45:34 comments: Point Of Contact: Oskar Pacheco
+Email : oskar@byetekit.com.com
+Phone: 708-672-1278
+Working Hours or 24/7 24/7
+Preferred Contact Method: Email
+Alternative Contacts: sandra@byetekit.com<mailto:sandra@byetekit.com> aden@byetekit.com<mailto:aden@byetekit.com>
+
+[image]
+Oskar Pacheco
+President, Byetek IT
+P: 708-458-8013
+W: https://www.byetekit.com<https://www.byetekit.com/>
+| Submit a Support Request: help@ByetekIT.com<mailto:help@ByetekIT.com>
+
+[cid:image001.png@02D8D453.W6CA1460]<http://www.friendsy.com/byetek/>
+[cid:image002.png@02D8D453.W6CA1460]<http://www.connexion.com/in/oskar-pacheco-a68ra751>
+Creation date: 2022-09-27 15:07:38 comments: Oskar,
+
+This case has been escalated to Microsoft. Case ID: 4206277018006441. Once a Microsoft Engineer has been assigned, they'll reach out to you. I'm transferring this case to our Vendor Escalation Team to assist with communications with Microsoft. Please reach out if you have questions in the interim.
+
+Regards
+Jemima
+Creation date: 2022-09-27 15:07:38 work_notes: VA: MSFT case generated 4206277018006441,  Severity B, email preferred, partner listed as alternative contact, NO MSFT engineer assigned currently
+
+
+Incident title: AVD crashes and not able to sign in.
+Help request number: 4206277018006441
+Severity: B
+Preferred contact: Email
+Name: Jemima Gates
+Email address: jgates@nimbus.com
+
+Contact numbers: 9198622824
+
+
+
+Once imaged and session host is live, users can connect to it unless a credential is changed then users are unable to connect.
+
+
+###Partner details: ###
+Oskar Pacheco
+oskar@byetekit.com
+808-672-1278
+Working Hours or 24/7 24/7
+Preferred Contact Method: Email
+Alternative Contacts: sandra@byetekit.com,aden@byetekit.com
+Creation date: 2022-09-27 15:58:41 comments: What is the usual turn around time for call / activity when something is escalated to Microsoft?
+
+Unfortunately more or less dead in the water here
+
+[image]
+Oskar Pacheco
+President, Byetek IT
+P: 708-458-8013
+W: https://www.byetekit.com<https://www.byetekit.com/>
+| Submit a Support Request: help@ByetekIT.com<mailto:help@ByetekIT.com>
+
+[cid:image001.png@02D8D453.W6CA1460]<http://www.friendsy.com/byetek/>
+[cid:image002.png@02D8D453.W6CA1460]<http://www.connexion.com/in/oskar-pacheco-a68ra751>
+Creation date: 2022-09-27 19:43:07 work_notes: Dear Leena ,
+
+Thank you for contacting us! I have added the partner, Oskar, to this e-message thread. @oskar@byetek.com please look at the email below and provide any details that you may have!
+
+Thanks,
+
+From: Leena  M <help@mail.help.microsoft.com> 
+Sent: Monday, September 26, 2022 09:43 AM
+To: Jemima Gates <jgates@nimbus.com>
+Cc: Henry Pruitt <hpruitt@nimbus.com>; Owen Cardenas<ocardenas@nimbus.com>; Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Robert Powers <rpowers@microsoft.com>; Clyde Whitney <cwhitney@microsoft.com>; Leena Melendez <lmelendez@microsoft.com>
+Subject: [External] AVD crashes and not able to sign in. - TrackingID#4206277018006441
+
+Dear Jemima,
+ 
+Thank you for reaching out to Microsoft, I hope you are all well.
+ 
+I am Leena, a Support Professional who will be assisting you with your request. You can contact me using the information in my email signature.
+
+I looked over your issue and I have some questions and would like to have a detailed discussion with you. This will help me figure out the appropriate steps for resolving this issue and help estimate a timeline for resolution.
+
+Kindly answer the following questions so I can better understand the situation.
+  Is the problem you are facing occurring only in the hostpool AllAdaptHostPool?
+  Where is the Domain Controller? In Azure or On-Premise?
+  Were any changes made on the user environment?
+  How are users synchronized? Do you have Ad Connect?
+  After credentials are changed, can users log in after a time? Or are they unable to sign in at all?
+  Kindly give the UPN of affected user?
+  Kindly attach the error message (screencast).
+  Does the problem occur with RD Client, RD Web or RDP?
+If you want to discuss your issue over the phone at any point or would like to schedule a meeting, let me know when I can call.
+
+Warm Regards,
+Leena Melendez, 
+Support Engineer
+Windows User Experience
+
+Manager| Abel Holden
+(ab.holden@microsoft.com)              
+     lmelendez@microsoft.com
+  Mon-Fri: 6:00am-3:00pm (MST)
+Puerto Rico Torre Universal
+   
+
+
+    
+Accucert Corps has scanned this email for spam and viruses
+Creation date: 2022-09-28 17:36:00 work_notes: Clyde:
+From yesterday, this case is pending the end consumer reply. 4206277018006441 which has asked for 24x7 services...is that still right? If 24x7 is required we may need customer availability so it can be Handed over to the next time zone ..Kindly verify.
+Creation date: 2022-10-07 14:49:58 work_notes: Dear Leena ,
+
+Thanks for contacting us!
+
+@oskar@byetek.com we have attempted to contact you multiple times. Please be aware that this case is being archived by Microsoft at the end of the day today if there is no response. Please reach out if you would like to continue working on this case.
+
+Thanks!
+
+From: Leena Melendez <lmelendez@microsoft.com> 
+Sent: Wednesday, October 5, 2022 12:01 PM
+To: Henry Pruitt <hpruitt@nimbus.com>; oskar@byetek.com; Microsoft Help <helpmail@microsoft.com>; Jemima Gates <jgates@nimbus.com>
+Cc: Owen Cardenas<ocardenas@nimbus.com>; Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Robert Powers <rpowers@microsoft.com>; Clyde Whitney <cwhitney@microsoft.com>
+Subject: RE: [External] AVD fails and cannot sign in. - TrackingID#4206277018006441
+
+Dear Henry and Oskar,
+
+Hope you both are doing well!
+
+Just a friendly follow up, I have not heard back yet regarding my questions and wanted to ask if you are still having these issues.
+
+Kindly answer the following questions so I can better understand the situation.
+  Is the problem you are facing occurring only in the hostpool AllAdaptHostPool?
+  Where is the Domain Controller? In Azure or On-Premise?
+  Were any changes made on the user environment?
+  How are users synchronized? Do you have Ad Connect?
+  After credentials are changed, can users log in after a time? Or are they unable to sign in at all?
+  Kindly give the UPN of affected user?
+  Kindly attach the error message (screencast).
+  Does the problem occur with RD Client, RD Web or RDP?
+If you want to discuss your issue over the phone at any point or would like to schedule a meeting, let me know when I can call.
+
+Warm Regards,
+Leena Melendez, 
+Support Engineer
+Windows User Experience
+
+Manager| Abel Holden
+(ab.holden@microsoft.com)              
+     lmelendez@microsoft.com
+  Mon-Fri: 6:00am-3:00pm (MST)
+Puerto Rico Torre Universal
+
+
+    
+
+
+From: Leena Melendez 
+Sent: Thursday, September 29, 2022 6:37 AM
+To: Henry Pruitt <hpruitt@nimbus.com>; oskar@byetek.com; Microsoft Help <helpmail@microsoft.com>; Jemima Gates <jgates@nimbus.com>
+Cc: Owen Cardenas<ocardenas@nimbus.com>; Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Robert Powers<rpowers@microsoft.com>; Clyde Whitney <cwhitney@microsoft.com>
+Subject: RE: [External] AVD crashes and not able to sign in. - TrackingID#4206277018006441
+
+Dear Henry and Oskar,
+
+Hope all is well!
+
+I looked over your issue and I have some questions and would like to have a detailed discussion with you. This will help me figure out the appropriate steps for resolving this issue and help estimate a timeline for resolution.
+
+Kindly answer the following questions so I can better understand the situation.
+  Is the problem you are facing occurring only in the hostpool AllAdaptHostPool?
+  Where is the Domain Controller? In Azure or On-Premise?
+  Were any changes made on the user environment?
+  How are users synchronized? Do you have Ad Connect?
+  After credentials are changed, can users log in after a time? Or are they unable to sign in at all?
+  Kindly give the UPN of affected user?
+  Kindly attach the error message (screencast).
+  Does the problem occur with RD Client, RD Web or RDP?
+If you want to discuss your issue over the phone at any point or would like to schedule a meeting, let me know when I can call.
+
+Warm Regards,
+Leena Melendez, 
+Support Engineer
+Windows User Experience
+
+Manager| Abel Holden
+(ab.holden@microsoft.com)              
+     lmelendez@microsoft.com
+  Mon-Fri: 6:00am-3:00pm (MST)
+Puerto Rico Torre Universal

@@ -1,0 +1,199 @@
+A case was opened with a short description of FW: Delinquent Revocation Confirmations
+A longer description includes PRIVATE
+
+Kindly see below reply for proceeding.
+
+From: Axel Whitaker <awhitaker@msgru.org>
+Sent: Wednesday, November 28, 2022 11:36 PM
+To: Gabriela, Little (consentact MI - Constructor) <Little.Gabriela@consentactmi.com>
+Cc: April Shah <ashah@msgru.org>
+Content: RE: Delinquent Revocation Confirmations
+
+
+AWARENESS: This is an outcome email. Utilize awareness with links and attachments.
+
+Hi Little!
+
+The loan in query was paid on 11/24/2022.
+
+Regards!
+
+
+Axel
+
+From: April Shah <ashah@msgru.org<mailto:ashah@msgru.org>>
+Sent: Wednesday, November 28, 2022 10:51 AM
+To: Axel Whitaker <awhitaker@msgru.org<mailto:awhitaker@msgru.org>>
+Content: FW: Delinquent Revocation Confirmations
+Key: Priority
+
+
+
+April Shah
+Sourcing Manager
+Texas Schools and Government Credit Union
+3655 New Henrytown
+Vergiechester, TX 78088
+sourcing@msgru.org<mailto:sourcing@msgru.org>
+P: (686) 363-5806, ext. 207
+F: (586) 363-6117
+[cid:image002.png@02D943ER.3E59FT70]
+
+From: Gabriela, Little (Consentact MI - Constructor) <Little.Gabriela@consentactmi.com<mailto:Little.Gabriela@consentactmi.com>>
+Sent: Wednesday, November 28, 2022 10:45 AM
+To: April Shah <ashah@msgru.org<mailto:ashah@msgru.org>>; pcany3@msgru.org<mailto:pcany3@msgru.org>; Zuniga, Roisin(Consentact MI) <Roisin.Zuniga@consentactmi.com<mailto:Roisin.Zuniga@consentactmi.com>>; Consentact MI Lender Source <LenderServices@Consentact MI.com<mailto:LenderServices@Consentactmi.com>>
+Cc: Gabriela, Little (Consentact MI- Constructor) <Little.Gabriela@consentactmi.com<mailto:Little.Gabriela@consentactmi.com>>
+Content: Delinquent Revocation Confirmations
+Key: Priority
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+PRIVATE
+
+
+
+Hi,
+
+
+
+The mortgage below came in for revocation but are showing as delinquent in our system therefore the revocation was placed on hold. Can you kindly confirm that they truly need to be revoked so we can proceed them today or confirm if a claim will be documented?
+
+
+DOC_NUMBER
+Loan Number
+INSTANCE_NAME
+instance_age
+INSTANCE_INFO
+received_date
+CLIENT_ID
+SOURCE_TYPE
+SERVICING_ORG_ID
+SERVICING_ORG_NAME
+CANCELLATION_REASON
+CANCELLATION_DETAILS
+4807354450
+9063808451
+DELINQUENCY
+2
+["Delq CAT 10"]
+11/27/2022
+
+DOCLINK
+G222429EFS
+TEXAS SCHOOLS AND GOVERNMENT CREDIT UNION
+C - Lender Request
+2 - Paid completely
+
+
+
+Best wishes,
+
+Little.Gabriela
+Lender Services Team
+3655 New Henrytown
+Vergiechester, TX 78088
+Phone:  800-400-6747
+lenderservices@ConsentactMI.com<mailto:lenderservices@ConsentactMI.com>
+
+
+
+
+Creation date: 2022-11-29 20:32:55 comments: visitor 11/28/2022 14:31:55
+received from: little.gabriela@consentactmi.com
+
+PRIVATE
+
+Kindly see below reply for proceeding.
+
+From: Axel Whitaker <awhitaker@msgru.org>
+Sent: Wednesday, November 28, 2022 11:36 PM
+To: Gabriela, Little (Consentact MI - Constructor) <Little.Gabriela@consentactmi.com>
+Cc: April Shah <ashah@msgru.org>
+Content: RE: Delinquent Cancellation Confirmations
+
+
+AWARENESS: This is an outcome email. Utilize awareness with links and attachments.
+
+Hello Little!
+
+The loan in query was paid on 11/24/2022.
+
+Regards!
+
+
+Axel
+
+From: April Shah <ashah@msgru.org<mailto:ashah@msgru.org>>
+Sent: Wednesday, November 28, 2022 10:51 AM
+To: Axel Whitaker <awhitaker@msgru.org<mailto:awhitaker@msgru.org>>
+Content: FW: Delinquent Revocation Confirmations
+Key: Priority
+
+
+
+April Shah
+Sourcing Manager
+Texas Schools and Government Credit Union
+3655 New Henrytown
+Vergiechester, TX 78088
+sourcing@msgru.org<mailto:sourcing@msgru.org>
+P: (586) 263-8800, ext. 307
+F: (586) 263-5167
+[cid:image001.png@01D903EF.3E79FF70]
+
+From: Gabriela, Little (Consentact MI - Constructor) <Little.Gabriela@consentactmi.com<mailto:Little.Gabriela@consentactmi.com>>
+Sent: Wednesday, November 28, 2022 10:45 AM
+To: April Shah <ashah@msgru.org<mailto:ashah@msgru.org>>; pcany3@msgru.org<mailto:pcany3@msgru.org>; Zuniga, Roisin(Consentact MI) <Roisin.Zuniga@consentactmi.com<mailto:Roisin.Zuniga@consentactmi.com>>; Consentact MI Lender Services <LenderServices@ConsentactMI.com<mailto:LenderServices@ConsentactMI.com>>
+Cc: Gabriela, Little (Consentact MI- Constructor) <Little.Gabriela@consentactmi.com<mailto:Little.Gabriela@consentactmi.com>>
+Content: Delinquent Revocation Confirmations
+Key: Priority
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+PRIVATE
+
+
+
+Hi,
+
+
+
+The mortgage below came in for revocation but are showing as delinquent in our system therefore the revocation was placed on hold. Can you kindly confirm that they truly need to be revoked so we can proceed them today or confirm if a claim will be documented?
+
+
+DOC_NUMBER
+Loan Number
+INSTANCE_NAME
+instance_age
+INSTANCE_INFO
+received_date
+CLIENT_ID
+SOURCE_TYPE
+SERVICING_ORG_ID
+SERVICING_ORG_NAME
+CANCELLATION_REASON
+CANCELLATION_DETAILS
+4807354450
+9063808451
+DELINQUENCY
+2
+["Delq CAT 10"]
+11/27/2022
+
+
+G222429EFS
+TEXAS SCHOOLS AND GOVERNMENT CREDIT UNION
+C - Lender Request
+2 - Paid completely
+
+
+Best wishes,
+
+Little Gabriela
+Lender Services Team
+3324 Koch Mills
+Langoshton, NJ 37655
+Phone:  800-400-6747
+lenderservices@ConsentactMI.com<mailto:lenderservices@ConsentactMI.com>
+Creation date: 2022-11-30 16:27:19 work_notes: visitor 11/29/2022 10:26:19
+Instance altered through email response when instance  state = solved.

@@ -1,0 +1,380 @@
+A case was opened with a short description of Database transmission errors 
+A longer description includes observed transmission error in Apache Kafka application logs at 1:14 AM EST. Since 03:18 AM EST we have been seeing the database errors.
+
+Machine details:
+DBMWNT1064, DBMWNT1162   Apache Kafka application servers.
+DBMWNT1301 - Primary Database server
+
+
+
+
+
+Creation date: 2023-04-05 02:07:02 work_notes: Jesse,
+
+The DBAs or OS team can't help with the error you are facing. Apache has to look into application logs or traces and provide a resolution. Live Migration took place at 1:14am and until after 2am there was no issue detected which shows that it is not a live migration issue. 
+
+Regards,
+Sallie
+________________________________________
+From: Jesse Bates <Jesse. Bates@ameren.com>
+Sent: Tuesday, April 4, 2022 6:09:00 AM
+To: Derek Molina <Derek. Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>;  Libby Adkins<Libby.Adkins@ameren.com>; Sallie Bolton <Sallie.Bolton@ameren.com>
+Cc: $Capgemini Apache Kafka<$Capgemini Apache Kafka@ameren.com>
+Subject: RE: DB connection issue 
+ 
+Thanks Derek. 
+ 
+From the mentioned details, Live Migration occurred on one of the application servers on 4/4/2022 @ 1:14 AM EST.
+ 
+Can you give me more information on how the  Live Migration activity happened and how we can avoid it in the future.
+ 
+@Derek Molina: Could you please help?
+ 
+ 
+Regards,
+Jesse
+Common Services Apache Kafka Consultant- Application Support
+Capgemini Technologies | Maharashtra, India
+ 
+From: Derek Molina <Derek.Molina@ameren.com> 
+Sent: Tuesday, April 4, 2022 5:53 AM
+To: Jesse Bates <Jesse.Bates@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>; Libby Adkins <Libby. Adkins@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Derek Molina<Derek.Molina@ameren.com>
+Subject: RE: DB connection issue
+ 
+Hello,
+ 
+Both servers are working perfectly  and please see below for Live Migration history .
+ 
+ 
+DBMWNT1064 : Live Migration happened on 04/03/2022, 10:11:49 PM
+DBMWNT1162 : Live Migration on 04/04/2022, 1:14:31 AM
+ 
+ 
+ 
+ 
+ 
+Regards,
+ 
+Derek
+ 
+ 
+From: Jesse Bates <Jesse.Bates@ameren.com> 
+Sent: Tuesday, April 4, 2022 5:30 AM
+To: Derek Molina <Derek.Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>; Libby Adkins <Libby Adkins@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiBiztalk@ameren.com>; Sallie.Bolton<Sallie.Bolton@ameren.com>
+Subject: RE: DB connection issue
+ 
+Thank you Derek!
+ 
+Can you check for Live Migration or similar activity on Application servers?
+ 
+DBMWNT1064, DBMWNT1162.
+ 
+Thank you,
+Jesse
+ 
+From: Derek Molina <Derek.Molina@ameren.com> 
+Sent: Tuesday, April 4, 2022 5:27 AM
+To: Jesse Bates <Jesse.Bates@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiBiztalk@ameren.com>;Sallie Bolton<Sallie. Bolton@ameren.com>
+Subject: RE: DB connection issue
+ 
+Hi Jesse,
+ 
+Server is good  from OS perspective and last Live Migration was on 03/14/2022, 2:41:36 AM.
+ 
+ 
+ 
+ 
+ 
+Regards,
+ 
+Derek
+From: Jesse Bates <Jesse.Bates@ameren.com> 
+Sent: Tuesday, April 4, 2022 5:13 AM
+To: Cleo Aguilar<Cleo.Aguilar@ameren.com>; Derek Molina <derek.molina@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Sallie Bolton <Sallie.Bolton@ameren.com>
+Subject: RE: DB connection issue
+Importance: High
+ 
+Hi Linux Team,
+ 
+Can you please look into the issue at the earliest?
+ 
+This is delaying the file processing in Apache Kafka as host instances remain in stale state.
+ 
+ 
+Regards,
+Jesse
+Common Services Apache Kafka Consultant- Application Support
+Capgemini Technologies | Maharashtra, India
+ 
+ 
+ 
+From: Jesse Bates <Jesse.Bates@ameren.com> 
+Sent: Tuesday, April 4, 2022 4:44 AM
+To: Cleo Aguilar<Cleo.Aguilar@ameren.com>; Derek Molina <Derek.Molina@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>;Sallie Bolton<Sallie. Bolton@ameren.com>
+Subject: RE: DB connection issue
+ 
+Thank you Cleo.
+ 
+ For further investigation, Can you assign this to Linux team.
+ 
+Thank you,
+Jesse
+ 
+From: Cleo Aguilar<Cleo.Aguilar@ameren.com> 
+Sent: Monday, April 3, 2023 4:31 AM
+To: Jesse Bates <Jesse.Bates@ameren.com>; Derek Molina <Derek.Molina@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>;Sallie Bolton <Sallie Bolton@ameren.com>
+Subject: RE: DB connection error
+ 
+Corrected the name of the server.
+ 
+From: Cleo Aguilar<Cleo.Aguilar@ameren.com> 
+Sent: Tuesday, April 4, 2022 5:29 AM
+To: Jesse Bates <jesse.bates@ameren.com>; Derek Molina <derek.molina@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>;Sallie Bolton <Sallie.Bolton@ameren.com>
+Subject: RE: DB connection issue
+ 
+dbmwnt1301 (primary) DB server looks fine. I patched the dbmwnt1303 secondary server today. The DBA did not take any action.
+
+ 
+ 
+ 
+Thank you & Regards,
+Cleo Aguilar
+ 
+ 
+ 
+ 
+From: Jesse Bates <Jesse.Bates@ameren.com> 
+Sent: Monday, April 4, 2023 4:11 AM
+To: Derek Molina <Derek.Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>; Sallie Bolton<Sallie.Bolton@ameren.com>
+Subject: RE: DB connection issue
+ 
+I raised Incident INC0987622 and assigned it to Database team.
+ 
+Thank you,
+Jesse
+ 
+From: Jesse Bates <Jesse.Bates@ameren.com> 
+Sent: Monday, April 4, 2023 3:48 AM
+To: Derek Molina <Derek.Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>; Sallie.Bolton<Sallie.Bolton@ameren.com>
+Subject: RE: DB connection issue
+ 
+Hello Database/ Linux Teams,
+ 
+ At 1:14 AM EST, we noticed transmission error occur again in Apache Kafka application logs . Also, we continue to see the database errors since 03:18 AM EST.
+Could you please check whether you had any planned activity performed at this time? 
+ 
+@$Capgemini Linux : Could you please check for any Live Migration or similar activity.
+ 
+ 
+DBMWNT1064, DBMWNT1162    Apache Kafka application servers.
+dbmwnt1301  - Primary Database server
+ 
+ 
+ 
+ 
+ 
+ 
+Regards,
+Jesse 
+Common Services Apache Kafka Consultant- Application Support
+Capgemini Technologies | Maharashtra, India
+ 
+ 
+ 
+From: Jesse Bates <Jesse.Bates@ameren.com> 
+Sent: Sunday, April 2, 2023 6:31 AM
+To: Derek Molina<Sallie.Bolton@ameren.com>; Derek Molina <Derek.Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>
+Subject: RE: DB connection issue
+ 
+Hey Sallie,
+ 
+Thank you, I will connect with Sriram/Sreekanth.
+ 
+For now, we found one host instance which is out of date but there could be more. 
+We encountered  few cases for file transfer errors (one of it being P2). On verifying,  found one of the host instance is out of date.
+ 
+Case INC0985752 can be required to P3, if necessary.
+ 
+ 
+Regards,
+Jesse 
+Common Services Apache Kafka Consultant- Application Support
+Capgemini Technologies | Maharashtra, India
+ 
+From: Sallie.Bolton<Sallie.Bolton@ameren.com> 
+Sent: Sunday, April 2, 2023 6:20 AM
+To: Jesse Bates <Jesse.Bates@ameren.com>; Derek Molina <Derek.Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$Capgemini Apache Kafka@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>
+Subject: Re: DB connection error
+ 
+Jesse,
+Apache provided a tool for capturing logs when this issue happens. Please talk to Sriram or Srikanth about it so we can find the root cause on why host instances are out of date. Live Migration activity can always be caught later, but please follow traces and restart host instances to get the services restored first. Also, if there is only one instance in out of date state and no business impact, is it eligible to be a P2?
+ 
+Warm Regards,
+Sallie
+________________________________________
+From: Jesse Bates <Jesse.Bates@ameren.com>
+Sent: Sunday, April 2, 2023 6:16 AM
+To: Sallie Bolton <Sallie.Bolton@ameren.com>; Derek Molina <Derek.Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApache Kafka@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>
+Subject: RE: DB connection issue
+ 
+Hello Sallie,
+ 
+Host instances have not been restarted. Only one of it is out of date.
+ 
+I will restart them when we have details and confirmation on Live Migration activity.
+ 
+Thank you,
+Jesse
+ 
+From: Sallie Bolton<Sallie.Bolton@ameren.com> 
+Sent: Sunday, April 2, 2023 6:08 AM
+To: Jesse Bates <Jesse.Bates@ameren.com>; Derek Molina <Derek.Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>
+Subject: Re: DB connection issue
+ 
+@Jesse Bates, did you find traces required by Apache before restarting host instances?
+ 
+@$Capgemini Linux, please check Live Migration history of DBMWNT1301, DBMWNT1064 and DBMWNT1162. Thank you.
+  Regards,
+Sallie
+________________________________________
+From: Jesse Bates <Jesse.Bates@ameren.com>
+Sent: Monday, April 2, 2023 5:37:10 AM
+To: Derek Molina <Derek.Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Sallie.Bolton<Sallie.Bolton@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>
+Subject: RE: DB connection issue 
+ 
+P2 case has been raised and assigned to linux team - INC0985752.
+ 
+ 
+Best Regards,
+Jesse
+Common Services Apache Kafka Consultant- Application Support
+Capgemini Technologies | Maharashtra, India
+ 
+From: Jesse Bates <Jesse.Bates@ameren.com> 
+Sent: Monday, April 3, 2022 5:20 AM
+To: Derek Molina <Derek.Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; Sallie.Bolton<SalIie.Bolton@ameren.com>; Ann Lucas 3 <Ann.Lucas@ameren.com>
+Subject: RE: DB connection issue
+Importance: High
+ 
+Hi Team,
+ 
+We are seeing Database connection issues again since 5 AM EST. Please, can you checking ASAP?
+I need a case number in the meantime.
+ 
+ 
+ 
+ 
+Regards,
+Jesse
+Common Services Apache KafkaConsultant- Application Support
+Capgemini Technologies | Maharashtra, India
+ 
+ 
+ 
+From: Jesse Bates <Jesse.Bates@ameren.com> 
+Sent: Monday, April 3, 2022 5:40 AM
+To: Derek Molina <Derek.Molina@ameren.com>; Cleo Aguilar<Cleo.Aguilar@ameren.com>; Carmen Schultz <Carmen.schultz3@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Subject: RE: DB connection issue
+ 
+Hello Derek/Cleo,
+ 
+We noticed database transmission/network errors in Apache Kafka logs at 1:03 AM EST.
+Could you please verify if you experienced any connection errors persists with InputBoxDb or you had seen any activity that occurred during the time period?
+ 
+ \
+ 
+ 
+ 
+ 
+Regards,
+Jesse
+Common Services Apache Kafka Consultant- Application Support
+Capgemini Technologies | Maharashtra, India
+ 
+ 
+ 
+From: Derek Molina <derek.molina@ameren.com> 
+Sent: Monday, April 3, 2023 5:00 AM
+To: Cleo Aguilar<Cleo.Aguilar@ameren.com>; Carmen Schultz <Carmen.Schultz3@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiBiztalk@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Subject: RE: DB connection error
+ 
+Hi,
+ 
+Server is healthy from OS perspective.
+ 
+ 
+ 
+ 
+Regards,
+ 
+Derek
+From: Cleo Aguilar<Cleo.Aguilar@ameren.com> 
+Sent: Monday, April 3, 2023 4:40 AM
+To: Carmen Schultz <Carmen.Schultz3@ameren.com>; $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiBiztalk@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Subject: RE: DB connection error
+ 
+Hi Carmen,
+ 
+There is no error on the database side. DBMWNT1301 is the primary server and it looks good.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Thanks & Regards,
+Cleo Trivedi
+ 
+ 
+ 
+ 
+From: Carmen Schultz <Carmen.Schultz3@ameren.com> 
+Sent: Monday, April 3, 2022 3:24 AM
+To: $Capgemini MongoDB DBA <CapgeminiMongoDBDBA@ameren.com>
+Cc: $Capgemini Apache Kafka<$CapgeminiApacheKafka@ameren.com>; $Capgemini Linux <$CapgeminiLinux@ameren.com>
+Subject: DB connection issue
+Importance: High
+ 
+ 
+Hi Team,
+ 
+Apache Kafka logs showed database connection error  around 02:04 AM EST. Could you please check if there was any issue with the DB/ any activity performed during this timeframe ? 
+ 
+MongoDB instance: ABIZP303
+DB server: DBMWNT1301
+ 
+The Messaging Engine failed to retrieve the configuration from the database. Details:"Transmission link failure".
+ 
+The following stored procedure call failed: " { call admsvr_ReceiveLocation_GetAllInApp( ?)}". MongoDB Server returned error string: "Transmission link failure;TCP Provider: An existing connection was forcibly closed by the remote host.
+ 
+We are not able to communicate with Apache Kafka InputBoxDb on MongoDB Instance ABIZP002. Error Code: 0x80008485. Possible reasons would be: 
+ 1) The InputBox is not available.
+2) The network link from this machine to the InputBox is not working .
+3) The DTC Configuration on either this local machine or the machine hosting this InputBox is not correct
+ 
+Kind Regards,
+Carmen Schultz 
+CapgeminiTech
+Maharashtra, India
+Creation date: 2023-04-05 02:12:36 work_notes: [Jira] - Closed existing events for this Incident
+[Jira] - Injected notification with xM event ID 79400667 for Assignment targeting IT APPS-NETW-KAFKA-MSP
+Creation date: 2023-04-05 02:13:38 work_notes: [Jira] - Receiving Reply Allocated to me by YLANMIAB(Mobile Phone) at 22-04-05 01:13:38.318

@@ -1,0 +1,1 @@
+[{"role": "user", "content": "Hi How are you doing"}, {"role": "robot", "chosen": "I am well, thank you for asking. How can I help you today?", "rejected": "I am well, thank you for asking. How can I help you today?", "model": "NOW_LLM_llama13b_v0_4_091223_targetonly_loss"}]

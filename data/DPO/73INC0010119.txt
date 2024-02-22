@@ -1,0 +1,176 @@
+A case was opened with a short description of Cognizant is unable to convert to a work order since it is spinning
+A longer description includes Problem Description: Cognizant is unable to convert to a work order since it is spinning
+
+Best Phone Number: 352-288-3688 Office number - prompt 5, then 1 - Ask for supervisor if If Caller is not present, request a supervisor. On the night shift, he works.
+Best way to Contact (phone, teams, email): Phone
+Best Time to Contact: Any
+Caller's Baidu Computer Tag (verified): 4th party Hire Well
+Caller's Closest Location: 4th party Hire Well
+Any Related Tickets:
+
+
+
+
+Creation date: 2023-04-06 10:22:08 work_notes: On behalf of Kamil Newton, this incident was brought up by CALL0849499
+Creation date: 2023-04-06 10:27:25 work_notes: Problem: Cognizant's work orders 
+This problem is intermittently affecting many agents. - This happened during the evening shift to all 7 agents.
+ - Right after midnight, the first report was made.
+
+P2 since every user on this website is experiencing this
+
+Sending to IT APPS-SP-Cognizant per KB0039950
+Contact Caller and/or Supervisor on duty as this user is working on the night shift @ 352-288-3688 Office number - prompt 5, then 3 - If Caller is not present, ask for the supervisor. They work night shift
+Creation date: 2023-04-06 10:27:32 work_notes: [xPagerduty] - Terminated ongoing activities for this Incident
+[xPagerduty] - Injected notification with xP event ID 79408827 for Assignment targeting IT APPS-SP-Cognizant
+Creation date: 2023-04-06 10:40:37 comments: Please give the case number where the problem is occurring.
+Creation date: 2023-04-06 10:52:58 work_notes: From: Justin Mcintyre 
+Sent: Thursday, April 5, 2021 1:50 AM
+To: Kamil Newton <Kamil.Newton@ameren.com>
+Cc: Faizan Cochran 1 <faizan.cochran@ameren.com>; Andy Dorsey 1 <Andy.Dorsey@ameren.com>; Chaim Callahan<Chaim.Callahan@ameren.com>; Carla Cross <Carla.Cross@ameren.com>; Aran Washington<Aran.Washington@ameren.com>
+Subject: P2 INC0988880 : When attempting to convert to a work order, Cognizant is spinning
+
+
+Hello Kamil,
+
+Please give the case numbers in which the problem is occurring.
+
+Respectfully yours,
+Justin
+Creation date: 2023-04-06 11:16:06 work_notes: From: Justin Mcintyre 
+Sent: Thursday, April 5, 2021 8:13 AM
+To: Kamil Newton <Kamil.Newton@ameren.com>
+Cc: Faizan Cochran 1 <faizan.cochran@ameren.com>; Andy Dorsey 1 <Andy.Dorsey@ameren.com>; Chaim Callahan<Chaim.Callahan@ameren.com>; Carla Cross <Carla.Cross@ameren.com>; Aran Washington<Aran.Washington@ameren.com>; Polly Berg <Polly.Berg@ameren.com>; Farhan Montoya<farhan.montoya@ameren.com>; Lorenzo Farley <LORENZO.FARLEY@ameren.com>; Keenan Roman
+<Keenan.Roman
+@ameren.com>
+Subject: RE: P2 INC0988880 : When attempting to convert to a work order, Cognizant is spinning
+
+Hello Kamil, 
+
+Please give screenshots and offer information such as case numbers where you are experiencing the problem.
+
+Respectfully yours,
+Justin
+Creation date: 2023-04-06 12:00:14 work_notes: updated the requester on the status of this ticket.
+______
+
+Notification: I messaged Kamil Newton directly on chat
+Recipient: Kamil Newton
+Ticket state actions: Ticket state actions: the same ticket state
+via: Flexport  [s3]
+Creation date: 2023-04-06 14:21:33 comments: Problem Fixed
+As per Patrick: Updated security role in PROD due to security role issue from yesterday's release.
+Creation date: 2023-04-06 14:21:51 work_notes: updated the requester on the status of this ticket.
+______
+
+Notification: I messaged Kamil Newton directly on chat
+Recipient: Kamil Newton
+Ticket state actions: the same ticket state
+via: Flexport [s3]
+Creation date: 2023-04-06 14:53:55 work_notes: -----Original Message-----
+From: Carla Cross 
+Sent: Thursday, April 5, 2021 11:51 AM
+To: tsanchez@hirewell.com; Kamil Newton <Kamil.Newton@ameren.com>
+Cc: Andy Dorsey 1 <Andy.Dorsey@ameren.com>; Faizan Cochran 1 <faizan.cochran@ameren.com>; Lorenzo Farley <LORENZO.FARLEY@ameren.com>; Polly Berg <Polly.Berg@ameren.com>; Justin Mcintyre <Justin.Mcintyre@ameren.com>
+Subject: RE: P2: INC0988880 - When attempting to convert to a work order, Cognizant is spinning
+
+Hi Tegan/Kamil, 
+
+Problem is now resolved. Please see if you can make a work order from a case by utilizing the "Convert to Work Order" button, and let us know if we can close this issue.
+
+Thank you,
+Carla Cross
+
+-----Original Message-----
+From: Justin Mcintyre <Justin.Mcintyre@ameren.com> 
+Sent: Thursday, April 5, 2021 11:43 AM
+To: tsanchez@hirewell.com; Andy Dorsey 1 <Andy.Dorsey@ameren.com>; Faizan Cochran 1 <Faizan.Cochran@ameren.com>; Lorenzo Farley <LORENZO.FARLEY@ameren.com>; Polly Berg <Polly.Berg@ameren.com>; Carla Cross <Carla.Cross@ameren.com>
+Subject: RE: P2: INC0988880 - When attempting to convert to a work order, Cognizant is spinning
+
+
+++ Carla
+
+-----Original Message-----
+From: Justin Mcintyre 
+Sent: Thursday, April 5, 2021 9:25 AM
+To: tsanchez@hirewell.com; Andy Dorsey 1 <Andy.Dorsey@ameren.com>; Faizan Cochran 1 <faizan.cochran@ameren.com>; Lorenzo Farley <LORENZO.FARLEY@ameren.com>; Polly Berg <Polly.Berg@ameren.com>
+Subject: P2: INC0988880 - When attempting to convert to a work order, Cognizant is spinning
+
+++ Ameren Team
+
+-----Original Message-----
+From: Sanchez, Tegan <TSanchez@hirewell.com> 
+Sent: Thursday, April 5, 2021 8:58 AM
+To: Justin Mcintyre <Justin.Mcintyre@ameren.com>
+Subject: Fw: Ameren System problems
+
+##CAUTION##: This email was sent from a location outside of Ameren.
+Remember the lessons you learned about security awareness: Before clicking on any links or attachments, pause, consider your options, and proceed with caution. 
+
+Tegan Sanchez  |  Team Lead, 997
+_________________________________________________
+Hirewell  |  3344 Northwest 34th Avenue, Suite 234 |  Miami, FL  35574
+p: 352.888.3677 ext. 40222
+https://urldefense.com/v3/__http://www.hirewell.com__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBnG35MME$ [hirewell[.]com] <https://urldefense.com/v3/__http://www.hirewell.com/__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDBJUYTlpgrzsA35JrBuDHA41W$ [hirewell[.]com]>[https://urldefense.com/v3/__http://www.hirewell.com/__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKnmJNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrOpBHU41W$ [hirewell[.]com]]<https://urldefense.com/v3/__http://www.hirewell.com/__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBuDHA41W$ [hirewell[.]com]> We're Committed to What Matters as a Team
+____________________________
+From: Newton, Kamil
+Sent: Thursday, April 5, 2021 8:39 AM
+To: Yash.Butler@ameren.com; Elliot.Andrews@ameren.com; Faizan.Cochran@ameren.com; Leroy.Tran1@ameren.com; AmerenOPS; Gideon.ball@ameren.com
+Subject: Ameren System problems
+
+
+
+1       Date:   04/06/21
+2       Time:   11:30am-05:30 AM+
+3       Call Center Location:   Hirewell Ocala
+4       What application do they have a problem accessing? What application do they have a problem  accessing?   Cognizant is intermittently showing errors in converting job orders 
+5      Brief description of the reported problem. The case will not be converted to a work order when they try to do so
+6       Is this a problem that has already been reported and resolved?      Uncertain
+7      How many agents are experiencing the problem?     The problem has come up at least once for each agent working overnight (6), and it persists when agents log in
+8      Have these agents had access to the applications in the past? Or Are they newly starting agents?    They have previously been able to finish the affected task
+9      Does the agent's unavailability affect the customer's overall wait time before connecting with the agent?       After a certain amount of time, we follow the MABI Robotic procedures for urgent orders and create cases for those that can't be completed. This affects how much time we handle while waiting for a conversation to work on an order
+10      The problem may it be seen in both places, or is it location-specific?     Since the error, Finja has not logged in
+11      When did the problem start        11:30:00 AM
+12     If a particular agent is experiencing the problem, ask them to restart the system, log in, and try again.     It has persisted through restart and is not specific to any one agent
+13      Check the workstation's speed using a speed test to see if the agent is receiving a good download speed (Above 55 MBPS).  Please collaborate with the Hire Well IT team to diagnose the network if it is low.       Up speed 13.86
+Down speed 22.82
+14      Coordinate between OAK and OCA to call Ameren Support Desk to open 1 incident (they will want to know % of agents impacted in both sites
+
+15      Incident Ticket number: INC0988880
+
+
+
+Sincerely,
+
+Kamil Newton |Sr. Team Leader
+Hirewell  |  2344 SW 34th Ave Suite 234|  Miami FL. 76545
+phone: 352.888.3677<https://urldefense.com/v3/__https://www.bang.com/ck/a?!&&p=d81f2367b4cf7e56JmltdHM9MTY2MzI4NjQwMCZpZ3VpZD0wNmFiYzk0OC1kZGFkLTY4YzktMzQ3OC1kYjY5ZGNhYTY5NzcmaW5zaWQ9NTU3Mg&ptn=3&hsh=3&fclid=06abc948-ddad-68c9-3478-db69dcaa6977&u=a1dGVsOjM1MjI4MjM2Nzc&ntb=1__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBmiwAJw6$ [bang[.]com]> ext. 40287|  email:KNewton@hirewell.com<mailto:KNewton@hirewell.com>
+https://urldefense.com/v3/__http://www.hirewell.com__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBnG35MME$ [hirewell[.]com] <https://urldefense.com/v3/__http://www.hirewell.com/__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBuDHA89W$ [hirewell[.]com]>[https://urldefense.com/v3/__http://www.hirewell.com/__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBuDHA41W$ [hirewell[.]com]]<https://urldefense.com/v3/__http://www.hirewell.com/__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651S%hmj4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBuDHA41W$ [hirewell[.]com]> We're Committed to What Matters as a Team 
+Follow us: [https://urldefense.com/v3/__http://www.snapchat.com/hirewell__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBrX0_x6O$ [snapchat[.]com]] <https://urldefense.com/v3/__http://www.snapchat.com/hirewell__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1MKIByJMQlpgrzsA35JrBrX0_x6O$ [snapchat[.]com]>  [https://urldefense.com/v3/__http://www.linkedin.com/company/hirewell-marketing__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBgxu1N4N$ [linkedin[.]com]] <https://urldefense.com/v3/__http://www.linkedin.com/company/hirewell-marketing__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBgxu1N4N$ [linkedin[.]com]>  [https://urldefense.com/v3/__http://www.pinterest.com/hirewell__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBi_YMhAn$ [pinterest[.]com]] <https://urldefense.com/v3/__http://www.pinterest.com/hirewell__;!!OiWemrRCwA!zqBVLDyGK94hHw3kLmU651Sw5H4PzwjY_QYkPKoXoNmINxFhePLYDLjsrciSE1PDByJMQlpgrzsA35JrBi_YMhAn$ [pinterest[.]com]>
+
+#####################################################################################
+Note:
+Only the named recipient may use this message. It might include private, proprietary, or legally protected information. Any incorrect sending does not constitute a waiver or loss of confidentiality or privilege. If you accidentally received this mail, please tell the sender right away, delete it and all copies of it from your computer, and destroy any hard copies. If you are not the intended receiver, you may not, directly or indirectly, use, disclose, distribute, print, or copy any portion of this message.
+#####################################################################################
+Creation date: 2023-04-06 15:47:29 work_notes: -----Original Message-----
+From: Sanchez, Tegan <TSanchez@hirewell.com> 
+Sent: Thursday, April 5, 2021 12:40 AM
+To: Carla Cross <Carla.Cross@ameren.com>; Kamil Newton <Kamil.Newton@ameren.com>
+Cc: Andy Dorsey 1 <Andy.Dorsey@ameren.com>; Faizan Cochran 1 <Faizan.Cochran@ameren.com>; Lorenzo Farley <LORENZO.FARLEY@ameren.com>; Polly Berg <Polly.Berg@ameren.com>; Justin Mcintyre <Justin.Mcintyre@ameren.com>
+Subject: Re: P2: INC0988880 - When attempting to convert to a work order, Cognizant is spinning
+
+##CAUTION##: This email was sent from a location outside of Ameren.
+Remember the lessons you learned about security awareness: Before clicking on any links or attachments, pause, consider your options, and proceed with caution. 
+
+Hi,
+
+Since receiving this email, all agents have had success creating work orders in Cognizant. It seems like the problem has been solved. 
+
+Thanks,
+
+Tegan Sanchez  |  Team Lead, 524
+_________________________________________________
+Hirewell  |  6344 Northwest 34th Avenue, Suite 234 |  Miami, FL  65574
+p: 352.888.3677 ext. 40222
+https://urlsecurity.com/v3/__http://www.hirewell.com__;!!OiWemrRCwA!zxqmsKPrbcVFJ7ZndCJZ6cQIPRyHM8NHUNyW5eCATJBCS8yDBQAgFrgGXP07xHJNT1t4R7A3UIPywKj4JxlSpYM$ [hirewell[.]com]
+
+We're Committed to What Matters as a Team

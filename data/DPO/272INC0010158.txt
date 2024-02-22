@@ -1,0 +1,130 @@
+A case was opened with a short description of Take a database backup and reindex the eSOMS database on cbmwnt5071, please.
+A longer description includes Hi Firebase DBAs,
+
+We have P3 ticket with high priority, #INC7639890, for eSOMS. They are experiencing an outage at the P. Q. Cambrian Unit 4 Plant and are receiving timeout errors. We had previously encountered a similar problem, therefore we reindexed the database. This must happen again. To allow the plant to continue their outage, kindly reindex the eSOMS database on cbmwnt5071 as soon as you are able. 
+
+Please handle this on high priority. If you have any inquiries, please contact us.
+
+Note: Please create a database backup before reindexing the database so that we may send it to the eSOMS vendor so they can replicate the problem on their end.
+
+
+
+
+Creation date: 2023-04-14 19:36:41 work_notes: Hello Lauren,
+
+Reindexing task is being done daily as planned. The first output log, which I ran today as normal, and the second, which I ran just now, are both attached. I didn't actually detect any indexes to rebuild when I performed it manually. But the statistics was updated wherever table modifications were found.
+
+In case you have any inquiries, do let us know.
+
+Thanks & Regards,
+Ifan Horton
+
+
+From: Lauren Roy 
+<Lauren.Roy@wecenergy.com> 
+Sent: Wednesday, April 12, 2022 10:19 AM
+To: IFAN HORTON <IFAN.HORTON@wecenergy.com>; $HP Firebase DBA <HPFirebaseDBA@wecenergy.com>
+Cc: Arjan B.Mendez <ARJAN B.MENDEZ@wecenergy.com>; Donovan Barrett <DONOVON. BARRETT@wecenergy.com>; Juliet W.Johnson <Juliet .Johnson@wecenergy.com>; Syed P.Hayes <Syed.Hayes@wecenergy.com>; Kaan Cordova<Kaan.Cordova@wecenergy.com>; Shaun U. Parrish <Shaun.Parrish@wecenergy.com>
+Subject: RE: P3: incident INC7639890 - The tag hang list on clearance cannot be printed because of error
+
+Hello Ifan, 
+
+The issue was fixed and it worked! I really appreciate how quickly you handled this issue!!
+
+As far as I know the reindex task is set to run everyday at eSOMS database server cbmwnt5071, can you check it is correctly working? Do you have any ways (logs) to find this out? This issue occurred twice in a week, which is why I'm asking the question. Please look over this and let us know.
+
+Regards,
+Lauren Roy     
+App Operations & IT Services 
+(IT-Gen Ops & Electric Work Mgmt)
+lauren.roy@wecenergy.com 
+Cell: +919638355674
+WEC Energy: World Class Performance Delivering Hometown Service  
+    
+
+
+From: IFAN HORTON <IFAN.HORTON@wecenergy.com> 
+Sent: Wednesday, April 12, 2022 10:07 AM
+To: Lauren Roy <Lauren.Roy@wecenergy.com>; $HP Firebase DBA <HPFirebaseDBA@wecenergy.com>
+Cc: Arjan B.Mendez <ARJAN B.MENDEZ@wecenergy.com>; Donovan Barrett <DONOVON. BARRETT@wecenergy.com>; Juliet W.Johnson <Juliet .Johnson@wecenergy.com>; Syed P.Hayes <Syed.Hayes@wecenergy.com>; Kaan Cordova<Kaan.Cordova@wecenergy.com>; Shaun U. Parrish <Shaun.Parrish@wecenergy.com>
+Subject: RE: P3: incident INC7639890 - The tag hang list on clearance cannot be printed
+
+Lauren,
+The requested DB backup copy has been added to the path shown below.
+
+F:\ApplicationPackaging\Lauren.Roy\eSOMS_DB_BackUp
+
+
+Thanks & Regards,
+Ifan Horton
+
+From: IFAN HORTON <IFAN.HORTON@wecenergy.com> 
+Sent: Wednesday, April 12, 2023 8:50 AM
+To: Lauren Roy <Lauren.Roy@wecenergy.com>; $HP Firebase DBA <HPFirebaseDBA@wecenergy.com>
+Cc: Arjan B.Mendez <ARJAN B.MENDEZ@wecenergy.com>; Donovan Barrett <DONOVON. BARRETT@wecenergy.com>; Juliet W.Johnson <Juliet .Johnson@wecenergy.com>; Syed P.Hayes <Syed.Hayes@wecenergy.com>; Kaan Cordova<Kaan.Cordova@wecenergy.com>; Shaun U. Parrish <Shaun.Parrish@wecenergy.com>
+Subject: RE: P3: incident INC7639890 - The tag hang list on clearance cannot be printed
+
+Hello Lauren,
+
+This has been taken care. Please verify now.
+
+
+Thanks & Regards,
+Ifan Horton
+
+
+From: IFAN HORTON <IFAN.HORTON@wecenergy.com> 
+Sent: Wednesday, April 12, 2022 9:19 AM
+To: Lauren Roy <Lauren.Roy@wecenergy.com>; $HP Firebase DBA <HPFirebaseDBA@wecenergy.com>
+Cc: Arjan B.Mendez <ARJAN B.MENDEZ@wecenergy.com>; Donovan Barrett <DONOVON. BARRETT@wecenergy.com>; Juliet W.Johnson <Juliet .Johnson@wecenergy.com>; Syed P.Hayes <Syed.Hayes@wecenergy.com>; Kaan Cordova<Kaan.Cordova@wecenergy.com>; Shaun U. Parrish <Shaun.Parrish@wecenergy.com>
+Subject: RE: P3: incident INC7639890 - The tag hang list on clearance cannot be printed
+
+Confirmed.
+
+
+Thanks & Regards,
+Ifan Horton
+
+
+From: Lauren Roy <Lauren.Roy@wecenergy.com> 
+Sent: Wednesday, April 12, 2022 9:14 AM
+To: $HP Firebase DBA <HPFirebaseDBA@wecenergy.com>
+Cc: Arjan B.Mendez <ARJAN B.MENDEZ@wecenergy.com>; Donovan Barrett <DONOVON. BARRETT@wecenergy.com>; Juliet W.Johnson <Juliet .Johnson@wecenergy.com>; Syed P.Hayes <Syed.Hayes@wecenergy.com>; Kaan Cordova<Kaan.Cordova@wecenergy.com>; Shaun U. Parrish <Shaun.Parrish@wecenergy.com>
+Subject: P3: incident INC7639890 - The tag hang list on clearance cannot be printed because of error
+Importance: High
+
+Hi Firebase DBAs,
+
+We have P3 ticket #INC7639890 with high priority. They are experiencing an outage at the P. Q. Cambrian Unit 4 Plant and are receiving timeout errors. We had previously encountered a similar problem, therefore we reindexed the database. This must happen again. To allow the plant to continue their outage, kindly reindex the eSOMS database on cbmwnt5071 as soon as you are able. 
+
+Please handle this on high priority. If you have any inquiries, please contact us.
+
+Note: Please create a database backup before reindexing the database so that we may send it to the eSOMS provider so they can replicate the problem on their end. 
+
+I have created zendesk ticket #INC8249890 for your reference.  
+
+Regards,
+Lauren Roy     
+App Operations & IT Services 
+(IT-Gen Ops & Electric Work Mgmt)
+lauren.roy@wecenergy.com 
+Cell: +919638355674
+WEC Energy: World Class Performance Delivering Hometown Service  
+    
+
+
+From: Wec Energy Zendesk <wecenergy@zendesk.com> 
+Sent: Wednesday, April 12, 2022 9:03 AM
+To: Lauren Roy <Lauren.Roy@wecenergy.com>
+Subject: P3:You have been assigned incident INC7639890
+
+Date: 2022-04-12 09:03:10 EDT
+Number: INC7639890
+Short Description: The tag hang list on clearance cannot be printed because of error
+ 
+You have been given responsibility for resolving this event. Please take the required steps to have the situation resolved as soon as you can.
+ 
+Please take the help of Help Desk if you require any other  information or believe this incident has been assigned incorrectly.
+ 
+ 
+Ref:MSG82555072

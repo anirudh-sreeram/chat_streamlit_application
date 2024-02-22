@@ -1,0 +1,203 @@
+A case was opened with a short description of Project
+A longer description includes Project Plan 4 [New Business Experience] bought yesterday. Not able to install.
+
+
+
+
+Creation date: 2022-10-07 15:36:15 work_notes: Sub downloader direct link.
+
+Robert - 208.570.6160.
+Creation date: 2022-10-07 15:39:59 work_notes: Case needs to be escalated to MSFT as download button is broken.
+Creation date: 2022-10-07 17:00:25 work_notes: Escalation accepted pending screengrabs and confirmation of access to Project Web Server. Should also remove/reapply license for reprovisioning.
+Creation date: 2022-10-07 17:02:53 comments: Good day Robert , 
+
+We should probably escalate this to Microsoft I will require some info to continue.
+Could you kindly share a screengrab of the error message? 
+Could you also kindly verify if you can access to Project Web Server?
+
+Thank you,
+Creation date: 2022-10-07 17:28:27 comments: There is no error. It just won't work.  Yes the online version of project works.
+
+Robert Powers
+NE: 508.871.1534
+CO: 503.211.9194
+E: Robert@quick.fix
+Creation date: 2022-10-07 17:53:56 work_notes: Client page in Partner Portal > Support Requests > Open a Request > Office 365 and Enterprise Mobility Suite > Open ticket
+Make sure to upload any screengrabs and provide as much info as possible regarding troubleshooting steps.
+-----------------------------------------------------------------------------------------------
+Ticket details
+-----------------------------------------------------------------------------------------------
+Title: (NIMBUS) NIM3748273 Project licensing
+
+Description: Project Plan 4 [New Business Experience] bought yesterday. Not able to install.
+
+Product: Project Online/Planner
+
+Severity: B (If escalating to Severity A, tech keep ticket)
+
+Verify your number: 9198122828
+
+Verify email addresses of authorized contacts: ve-productivity@nimbus.com;cwhitney@nimbus.com;opacheco@nimbus.com
+
+Preferred method of contact: Phone| Email
+-----------------------------------------------------------------------------------------------
+Partner Data
+-----------------------------------------------------------------------------------------------
+Partner Phone: 503.211.9194
+Partner Email:Robert@quick.fix
+Partner's Accessibility- Timezone:
+Partner Portal URL:
+Creation date: 2022-10-07 17:53:56 comments: Hi Robert ,
+
+Nimbus will be escalating your case to Microsoft.
+Our vendor escalations team can facilitate communication with Microsoft and will continue to monitor as your case progresses.
+Please know that you are expected to actively work with the Microsoft engineer to troubleshoot your issue since the primary objective of the Vendor Assistance team is to maintain active communication.
+Please reach out if you have any concerns or if anything new arises!
+
+Thanks and hope you have a wonderful rest of your day!
+Creation date: 2022-10-07 18:07:17 work_notes: Hi Everyone, 
+
+I have included @robert@quick.fix.com for visibility and to respond to any questions that you have.
+
+
+Hope all is well,
+
+
+From: Microsoft Premier Support <msprmsup@microsoft.com> 
+Sent: Thursday, October 6, 2022 10:53 AM
+To:Vendor Escalations - Productivity Technical Support <ve-productivity@nimbus.com>
+Cc: Clyde Whitney <cwhitney@nimbus.com>; Oskar Pacheco <opacheco@nimbus.com>
+Content: [External] Microsoft Support [Case #:13221878] - Project Plan 4 
+
+## Kindly type your response above this line ##
+________________________________________
+
+Title: Project Plan 4                                                                                                                                                                                                                                                                        
+ 
+Thank you so much for reaching out to Microsoft Support - we have opened a case for you.
+For your notes:
+  Case #: 13221878
+  Generated on: Thursday, October 6, 2022 12:52 PM
+  Description: Project Plan 4 [New Business Experience] bought yesterday. Not able to install. 
+Reminder: Microsoft will never ask for your credentials while resolving a support request. Kindly do not send any financial or personal details via email.
+Thank you,
+Microsoft Support
+Tracking ID: r7b71542-34b2-5647-8t35-r7dq6214588y
+CybSecure has scanned this email for spam and viruses
+Creation date: 2022-10-07 18:37:48 work_notes: Thank you for updating.
+I can see the following UPN has the PROJECTPROFESSIONAL license. Can you share the screengrab of the application section when user signin to https://gateway.office.com/account
+ 
+Thank you,
+Abel Holden
+
+From: Robert Powers <Robert@quick.fix> 
+Sent: Thursday, October 6, 2022 10:51 PM
+To:Microsoft Premier Support <msprmsup@microsoft.com> ; ve-productivity@nimbus.com
+Cc: cwhitney@nimbus.com; opacheco@nimbus.com; Abubakar Holman <aholman@microsoft.com>; Abel Holden <abel.holden@microsoft.com>
+Content: [EXTERNAL] Re: [Case #:13221878] - Project Plan 4
+
+ Some people who received this email don't usually receive emails from robert@quick.fix. Know why this is key
+
+Neil@primesolb.com  
+
+Robert Powers 
+NE: 508.871.1534
+CO: 503.211.9194
+E: Robert@quick.fix 
+________________________________________
+From: Microsoft Premier Support <msprmsup@microsoft.com> 
+Sent: Thursday, October 6, 2022 12:19:16 PM
+To: ve-productivity@nimbus.com <ve-productivity@nimbus.com>; Robert Powers <Robert@quick.fix>
+Cc: cwhitney@nimbus.com <cwhitney@nimbus.com>; opacheco@nimbus.com <opacheco@nimbus.com>; Abubakar Holman <aholman@microsoft.com>; Abel Holden <abel.holden@microsoft.com>
+Subject: [Case #:13221878] - Project Plan 4 
+ 
+## Kindly type your response above this line ##
+________________________________________
+
+Title: Project Plan 4                                                                                                                                                                                                                                                                       
+ 
+There is an update to your request (13221878). Kindly respond to this email to add more comments.
+________________________________________
+   Abel (Microsoft) 
+ Thursday, October 6, 2022 5:19 PM GMT
+ Thank you Oskar,
+
+What is the the upn\Email of the user who is attempting to download and install project  ? I can confirm the license on my end before getting on the call .
+
+Kindly let me know if you have any queries.
+
+Thank you
+Abel Holden
+Escalation Engineer
+Escalation Support
+Client Services and Help Office: US:  +1(800)7251103  X 80564 
+abel.holden@microsoft.com
+Business hours: 7:00 AM-4:00 PM EST Mon-Fri
+Creation date: 2022-10-07 18:44:53 work_notes: MSFT called to troubleshoot with the partner who was available
+Creation date: 2022-10-10 22:10:08 work_notes: Hi Robert ,
+
+Thank you for updating. Good to know that you could the steps and get project installed.
+
+I will continue to close the case on our end.
+
+If you have question, feel free to email me.
+
+Thank you,
+Abel Holden
+
+From: Robert Powers <Robert@quick.fix> 
+Sent: Sunday, October 09, 2022 6:02 PM
+To: Abel Holden <abel.holden@microsoft.com>; Microsoft Premier Support <msprmsup@microsoft.com>; ve-productivity@nimbus.com
+Cc: cwhitney@nimbus.com; opacheco@nimbus.com; Abubakar Holman <aholman@microsoft.com>
+Content: [EXTERNAL] Re: [Case #:13221878] - Project Plan 4
+
+Hello Abel - yes this worked! Sorry for the delay in my response
+
+Robert Powers 
+NE: 508.871.1534
+CO: 503.211.9194
+E: Robert@quick.fix 
+________________________________________
+From: Abel Holden <abel.holden@microsoft.com>
+Sent: Sunday, October 09, 2022 6:08:36 AM
+To: Robert Powers <Robert@quick.fix>;Microsoft Premier Support <msprmsup@microsoft.com>; ve-productivity@nimbus.com <ve-productivity@nimbus.com>
+Cc: cwhitney@nimbus.com <cwhitney@nimbus.com>; opacheco@nimbus.com <opacheco@nimbus.com>; Abubakar Holman <aholman@microsoft.com>
+Subject: RE: [Case #:13221878] - Project Plan 4 
+ 
+Hi Robert ,
+ 
+I hope you are good.
+ 
+Could you kindly let me know if you were  able to follow the given steps?
+ 
+If not I can arrange for the office deployment team to assist you with installation.
+ 
+Thank you once again.
+ 
+Thank you,
+Abel Holden
+ 
+From: Abel Holden 
+Sent: Friday, October 7, 2022 11:25 AM
+To: Robert Powers <Robert@quick.fix>; Microsoft Premier Support <msprmsup@microsoft.com> ; ve-productivity@nimbus.com
+Cc: cwhitney@nimbus.com; opacheco@nimbus.com; Abubakar Holman <aholman@microsoft.com>
+Subject: RE: [Case #:13221878] - Project Plan 4
+ 
+Hi Robert ,
+ 
+Grateful for your time on the call.
+ 
+As mentioned , please see below for the steps to install project via the office deployment tool.
+ 
+Synopsis of the Office Deployment Tool - Deploy | Microsoft Learn
+ 
+For Project you will be using the ID  ProjectProfessionalRetail  in XML file as given in the article below.
+ 
+Product IDs supported by the Office Deployment Tool for Click-to-Run - Office 365 | Microsoft Learn
+ 
+If you aren't able to install project using the steps outlined above, kindly let me know and I can engage an engineer from Office deployment team.
+ 
+Thank you,
+Abel Holden
+Creation date: 2022-10-13 22:30:28 work_notes: Automatically closed after case is in the resolved state for 3 days.
+Creation date: 2022-10-17 08:01:35 work_notes: Customer Satisfaction Survey sent  2022-10-16 01:00:00

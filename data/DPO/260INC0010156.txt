@@ -1,0 +1,51 @@
+A case was opened with a short description of tto-fra-paris-02-n-02||17236821-PolarAirs||Priority:: High :: Node TTN-FRA-PARIS-02-N-02 is Down.
+A longer description includes tto-fra-paris-02-n-02||17236821-PolarAirs||Priority:: High :: Node TTN-FRA-PARIS-02-N-02 is Down.
+
+
+
+
+Creation date: 2023-02-23 02:47:51 work_notes: Every Alert under situation 28040984
+259338818::6::ttn-fra-paris-02-r-02::Priority:: High:: Node TTN-FRA-PARIS-02-R-02 is Down.
+
+Creation date: 2023-02-23 07:00:43 work_notes: It appears the devices are now operational and accessible. Based on the logs, there appears to be a power issue; however, we are awaiting confirmation from OSS. Thus state changed to Awaiting user info ..
+
+From: S, Jose
+Sent: Wednesday, February 22, 2023 09:57 AM
+To: Soto, Ella <Ella.Soto@doug-son.com>; Carson, Gregory <Gregory.Carson@doug-son.com>
+Cc: TTL-NOC <TTL-NOC@doug-son.com>; TTL-NetworkData <TTL-NetworkData@doug-son.com>
+Subject: RE: INC2195569 - Devices at the site are down- Sydney, Australia
+
+Hello Team,
+
+The devices appear to be operational again. Nevertheless, based on the logs, we are keeping an eye out for stability and believe there may be power issue, kindly verify.
+
+
+Thanks and Regards,
+
+Jose S| Network Operations
+Jose.S@doug-son.com
+Mobile: (+91)8871681918
+www.doug-son.com
+
+From: S, Jose
+Sent: Wednesday, February 22, 2023 08:24 AM
+To: Soto, Ella <Ella.Soto@doug-son.com>; Carson, Gregory <Gregory.Carson@doug-son.com>
+Cc: TTL-NOC <TTL-NOC@doug-son.com>; TTL-NetworkData <TTL-NetworkData@doug-son.com>
+Subject: RE: INC2195569 - Devices at the site are down- Sydney, Australia
+
+
+Hi Ella/Gregory,
+
+The devices at the location in Paris, France, appear to be down at the moment. Would you kindly see whether there is a power outage or activity at the location and let us know.
+
+
+
+Thanks and Regards,
+
+Jose S| Network Operations
+Jose.S@doug-son.com
+Mobile: (+91)8870681236
+www.doug-son.com
+Creation date: 2023-02-23 07:55:18 work_notes: ATATT # CSP2023022395247 .Could observe that the device is operational.. Hence fixing...
+Creation date: 2023-02-23 07:57:59 work_notes: [opService] - Ended ongoing events for this Incident
+Creation date: 2023-03-02 06:02:56 comments: After 6 days as resolved, the incident will be automatically closed.

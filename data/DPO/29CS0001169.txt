@@ -1,0 +1,321 @@
+A case was opened with a short description of Endpoint Manager Not Functioning As It Should
+A longer description includes I am having issues with Endpoint Manager. I am trying to manage Android/iOS. I made a test account (intunetest@wachow.com) with a test Android phone. I am trying to use compliancy policy to mandate that the device has a PIN number.
+
+My test phone does not have a PIN, and I cannot log in (Azure Logs were checked), but the device is coming up as Compliant according to Endpoint Manager. A photo of Endpoint Manager is attached which shows the phone is compliant.
+
+
+
+
+
+Creation date: 2022-09-27 19:36:00 work_notes: intunetest_WorkAndroid_8/31/2022_7:53PM
+Creation date: 2022-09-27 20:31:42 work_notes: https://learn.microsoft.com/en-us/mem/intune/configure/create-device-profile
+Creation date: 2022-09-27 20:31:42 comments: Hi,
+
+Thank you for contacting Nimbus Tech Support. My name is Hayden Reed, and I'm an infrastructure Engineer at Nimbus who will be assisting with this issue today. After reviewing your policies, I discovered that the Android device is NOT compliant. While the device is complaint with the built in policies it does not have your custom complaint policy. In addition, there are no configuration files. Please look over this document linked from Microsoft.
+
+https://learn.microsoft.com/en-us/mem/intune/configure/create-device-profile
+
+
+Thank you
+Hayden
+Creation date: 2022-09-27 21:11:40 comments: Thank you, Hayden! And thank you for your guidance. I am aware of the error you mentioned. I should have told you that, but how is it possible that this isn't assigned to the device? I'm confused about it. The Compliance Policy, "Android - PIN Required" is assigned to the group, "Testing - Android & iOS Mobile Devices". The Android phone I am using is a member of that group (intunetest_WorkAndroid*). I attempted to add my test user account even.
+Creation date: 2022-09-27 21:49:34 work_notes: sent email
+Creation date: 2022-09-27 21:54:54 comments: Why is that compliance policy being looked at? Did you see my assignments?
+
+[cid:image002.jpg@12E9E302.BG2C5451]
+
+Carlos Davis
+Linkeone Ltd
+https://www.linkeone.com
+Office (262) 301-4221
+Direct (262) 177-0954
+Mobile (414) 349-8389
+Creation date: 2022-09-27 21:55:41 comments: I'm not certain why I can't see the latest messages in this thread. It was implied I didn't read the documentation, but the person who responded mentioned an entirely different policy than the one I referred to. My implementation is clearly a bit off, this is why I'm requesting support from you.
+Creation date: 2022-09-27 21:58:05 comments: After rereading the message, I (believe I) understand the person is saying I also need to setup a configuration profile, alongside the compliance policy. I believe my tone was respectful but the response I received was not.
+Creation date: 2022-09-27 22:08:35 comments: Hello Carlos,
+
+I think there may be some misunderstanding. I'm sorry I'm not sure which response was disrespectful. And nothing was being implied. I have to know which document you are using so in case you are following the incorrect steps, I can better assist you. This is why I requested that you share which document you are following. Yes a configuration policy is needed as well.
+
+Let's meet for a  40 minute screenshare tomorrow, and we can investigate further. I can meet 11:00pmCDT or 2:00pm CDT tomorrow
+
+
+Thank you
+Hayden
+Creation date: 2022-09-28 14:06:13 comments: I'm sorry, I reacted because I read the message too fast. I had looked over the documentation, but I must have missed the part about needing a configuration profile in order for a compliance policy to be active.
+
+I should not reacted so negatively to your message, but you can probably see how I interpreted "read the documentation" as a blanket statement.
+
+I will go ahead and assign the configuration profile then, and run some tests on my side. Let's close this ticket for now, and I will reach out again if my issue persists.
+
+Thank for your help,
+
+Carlos Davis
+Linkeone Ltd
+https://www.linkeone.com
+Office (262) 301-4221
+Direct (262) 177-0954
+Mobile (414) 349-8389
+Creation date: 2022-09-28 14:28:47 comments: Hello Carlos,
+
+No worries. This is all text so I understand how miscommunication can happen. Yes look into setting up the Configuration profile. I will proceed to close the case, the ticket can be reopened if you update it within 72 hours. If this ticket needs to be reopened in the future, simply reply to this message and a referring ticket will automatically be opened for this problem. If you would like to speak to a support representative, please call 855-955 NIMB. Additionally, you can manage and respond to all tickets within the app, app.nimbus.com.
+ 
+Thank you!
+Hayden
+Creation date: 2022-09-29 19:34:17 comments: Hello, I reviewed everything again today, and set up the configuration profile, but it isn't appearing as assigned. To avoid any confusion, I typed up a summary of my steps. I would be happy to discuss all this over the phone to keep us on the same page. This portal is frustrating to use, since I can't format my summary, or attach screenshots. I copied the content here.
+
+ Objective: Assign the compliancy policy to the device intunetest_WorkAndroid_8/31/2022_7:53 PM.
+Device: Personal Android device, intunetest_WorkAndroid_8/31/2022_7:53 PM. This device name was verified in the Company Portal app on the device itself. It's the only Android device in the environment.
+There is not Configuration Profile listed yet for this device, and the Built-In Device Compliance Policy isn't working, since nothing is assigned. It seems I do have compliance/configuration policies assigned though.
+
+Group: I made a group,  Testing - Android & iOS Mobile Devices  and checked to make sure my device is a member.
+ 
+
+Compliance Policy: I made a policy,  Android   PIN Required , which is an  Android device administrator  policy.  The way I understand it is the alternative policy,   Android (AOSP) Compliance  is for automated devices owned by corporate.
+I confirmed this policy is assigned to the,  Testing - Android & iOS Mobile Devices  group.  There is only 1 device listed in group members.
+ Configuration Policy: I made an Android Configuration Profile. "Android - Device Restrictions" of the type "Device Restrictions". The configuration profile doesn't enforce anything, since I'm just trying to check that the compliance policy is effective. I confirmed that the,  Testing - Android & iOS Mobile Devices  is assigned to this policy.
+
+Creation date: 2022-09-29 20:36:36 comments: Carlos,
+
+Speaking on behalf of Hayden here since he's working on critical case right now. I noticed the phone you have for testing is a Personal rather than Corporate. Did you intend to bring it in as a BYOD?
+
+As for why the configuration profile and policy aren't being assigned to the device - did you try pushing this to all users to check whether the policy applies to the device that way instead of the single group you made? Since there's only one device in the Endpoint Manager this can be tested without effecting anything else.
+Creation date: 2022-09-30 17:26:39 comments: Hi,
+ 
+I just wanted to talk to you about this case and see how things are. It's been some time since I heard from you  and I just wanted to see if you still need help?
+
+ 
+Thank you!
+Hayden
+Creation date: 2022-09-30 17:31:36 comments: Hello Hayden,
+
+Thank you for following. I read the reply yesterday but I'm not 100% convinced this is the way forward. I only have one Android device, so the proposed test could work, but couldn't there be something else that I'm missing? I totally understand if I didn't provide sufficient context, but I think quite a bit of information was given.
+
+Carlos Davis
+Linkeone Ltd
+https://www.linkeone.com
+Office (262) 301-4221
+Direct (262) 177-0954
+Mobile (414) 349-8389
+Creation date: 2022-09-30 17:45:40 comments: Carlos,
+
+Your endpoint manager configuration is fine. The only thing I'm hesitant about is if you intentionally brought the Androind device in as  Personal rather than Corporate device. This might be the underlining problem. When you manage personal devices via intune, it tries to manage the managed apps but it will not manage the whole device. As a result, the device configurations to push to device could be failing as a result of this.
+
+The only reason I asked if you could test this with all users is to confirm that it isn't some strange back end issue that's causing an issue with the group.
+
+--Thank you
+Creation date: 2022-10-03 14:57:38 comments: Hi,
+ 
+I just wanted to talk to you about this case and see how things are. It's been some time since I heard from you  and I just wanted to see if you still need help?
+ 
+Thank you!
+Hayden
+Creation date: 2022-10-03 18:16:53 comments: Hi Hayden,
+
+Thank you for following up. I saw Steve's comments, and I have to ask, why is he suggesting that an Android device shouldn't be managed as personal? This might clarify things for me, because it seems backwards in my opinion. Most employee's probably own their own phones and so to maintain privacy, they would want to enroll as personal. Thanks!
+Creation date: 2022-10-03 20:11:42 comments: Hello Carlos,
+
+Some employers do provide corporate phones. With that said, what you are trying to do will not work as a device enrolled personally. You can manage apps pushed but will not be able to access everything. We can escalate this case to Microsoft to see if there is something wrong with the policies.
+
+Please confirm/fill out the following for the escalation:
+Contact: 
+Email: 
+Phone: 
+Working Hours or 24/7
+Preferred Contact Method: Email
+Additional Contacts: 
+
+Thank you
+Hayden
+Creation date: 2022-10-04 14:03:00 comments: Hi Hayden,
+
+Thanks for escalating. I understand if there isn't a functionality to check personal Android devices are compliant. If so, I assume the most reasonable next step is to assign the PIN to the Apps? I don't think we are able to enroll personally owned devices as corporate right now.
+
+I enclosed a Word document that explains what I'm trying to do and the steps I've already taken. Hopefully this will help. If you could forward this to Microsoft, that would be great.
+
+Carlos Davis
+Linkeone Ltd
+https://www.linkeone.com
+Office (262) 301-4221
+Direct (262) 177-0954
+Mobile (414) 349-8389
+Creation date: 2022-10-04 14:10:51 work_notes: kick
+Creation date: 2022-10-04 21:58:50 comments: Hi,
+
+This case has been escalated to Microsoft. Case ID: 3321151121114303. A Microsoft engineer will contact you once they have been assigned. This case will also be transferred to our Vendor Escalation team to help facilitate communication with Microsoft. Please reach out if we can help in the meantime.
+
+
+
+Thank you
+Hayden
+Creation date: 2022-10-04 21:58:50 work_notes: VA: MSFT created case 3321151121114303,  Severity B, email contact, additional contact includes partner, MSFT engineer NOT YET assigned.
+
+Under Devices -> Android, test Android phone is shown to be compliant. When we browse Device Compliance however, it only displays the Built-In Device Compliance policy. I would expect the policy I assigned to also show up. (Android - PIN Required)
+
+
+ ###Partner Info: ###
+Carlos Davis
+davisc@linkeone.com
+(262) 177-0954
+
+Incident title: [44323801] Android phone showing compliance, but only Built-In Device Compliance policy is showing.
+Support request number : 3321151121114303
+Severity rating: C
+Response expected within: 5
+Contact preference: Email
+Name: Hayden Reed
+Email address: hreed@nimbus.com
+
+Contact numbers: +1-78209333936
+Creation date: 2022-10-04 22:12:15 work_notes: Awaiting assignment of MFST agent
+Creation date: 2022-10-05 19:45:45 work_notes: Hi Jack,
+
+Thank you for the call today! All relevant parties have been added to the email thread so please "reply all" going forward.
+
+ Carlos is the partner having issues. Carlos please see the information below and provide details wherever possible!
+
+Thanks,
+From: Hayden Reed <hreed@nimbus.com> 
+Sent: Tuesday, October 4, 2022 12:42 PM
+To: Ashton Garcia <agarcia@nimbus.com>
+Subject: FW: [Case #:44323801] - Android phone showing compliance, but only Built-In Device...
+
+
+
+ 
+ Hayden Reed
+
+
+Technical Support Engineer II
+
+(855) 995 8309
+
+
+nimbus.com
+
+
+
+
+From: Microsoft Premier Support <mspremsup@microsoft.com> 
+Sent: Monday, October 3, 2022 4:27 PM
+To: Hayden Reed<hreed@nimbus.com>
+Cc: Ujwal Mani  <umani@microsoft.com>
+Subject: [External] [Case #:44323801] - Android phone showing compliance, but only Built-In Device...
+
+
+## Please reply above this line ##
+________________________________________
+
+Title: Android phone showing compliance, but only Built-In Device Compliance policy is showing.
+
+An update has been made to your request (44323801). Please respond to this email to add additional comments.
+________________________________________
+   Jack (Microsoft) 
+ Monday, October 3, 2022 09:27 PM GMT
+ Hi Hayden,
+
+Good day!
+
+Thank you for reaching out to Microsoft Intune support. Hello, I am Jack, the Support Engineer who will be working with you on service request 44323801.
+
+Please share some details so we can isolate the problem.:
+1) Affected UPN:
+2) Affected Device Serial Number:
+3) Platform of devices:
+4) Relevant Screenshots of the issue:
+5) Method of enrollment if any:
+6) Your End Objective:
+
+I can be reached via the information below, referencing service request number 44323801.
+
+So we are on the same page, here is some additional info. We are a Break-Fix team so we do not provide RCAs on any ticket.
+* Our policy is one device/user/issue per ticket, if assistance is needed on more than one device or issue, a separate ticket will be requested.
+*For devices exceeding the 150+ capacity we ask a support ticket be raised with our fast track team link below
+https://www.microsoft.com/en-us/fasttrackteam
+
+Do not hesitate to contact me with any questions or concerns.
+
+Have a niceday!
+
+Microsoft FastTrack, confident steps towards the cloud
+FastTrack provides the best tools, resources, practices, and experts to enhance your experience with Microsoft Cloud
+
+Best,
+Jack Kunda
+Microsoft 365 Support Engineer 
+Email: v-jackkunda@microsoft.com
+Shift: Mon - Fri | 09:00 AM   06:30 PM  PST
+My Tech Lead:  Abbas Sagar  |v-abbsag@microsoft.com
+My Manager: Krishna Sethi | Email: v-krishnasethi@microsoft.com
+My Tech Advisor: Faraz Sabharwal| Email: Fsabharwal@microsoft.com
+
+For a consistent support experience, we advise using REPLY ALL during all communications.
+You can also send an email to IntuneGEProfessionalSupport@microsoft.com which is our alias for callback requests, monitored 24/7
+Creation date: 2022-10-07 12:40:29 work_notes: Good Morning All,
+
+Just checking in to see if we can arrange some time to talk.
+
+Carlos Davis
+Linkeone Ltd
+-------------------
+
+
+Hi All,
+
+I apologize for missing the call today. I'm with a client. Can we discuss tomorrow?
+
+Carlos Davis
+Linkeone Ltd
+
+
+-----------------------
+Hi Jack,
+
+Thank you for the call today! All relevant parties have been added to the email thread so please "reply all" going forward.
+
+ Carlos is the partner having issues. Carlos please see the information below and provide details wherever possible!
+
+Thanks,
+ 
+
+ Hayden Reed
+
+
+Technical Support Engineer II
+
+(855) 995 8309
+
+
+nimbus.com
+Creation date: 2022-10-10 15:05:24 work_notes: Hi Jack,
+
+Hope everything is going well. Whent are you available to speak with Carlos?
+Creation date: 2022-10-11 17:07:54 work_notes: MSFT made a call. Partner did not pick up.
+Creation date: 2022-10-12 16:36:20 work_notes: Hi Carlos,
+
+Hope everything is going well. MSFT attempted to contact you yesterday. When is the best time for them to contact you?
+
+Creation date: 2022-10-12 19:16:19 work_notes: Hello James,
+
+Apologies for confusing you. I told Microsoft yesterday that I can verify our changes on Wednesday (tomorrow).
+
+Carlos Davis
+Linkeone Ltd
+Creation date: 2022-10-13 17:30:18 work_notes: partner update is pending
+Creation date: 2022-10-14 16:26:57 work_notes: follow up Sunday
+Creation date: 2022-10-17 17:08:25 comments: Hi Carlos,
+
+It seems you are still working with Microsoft. If Nimbus can be of any assistance please reach out.
+Creation date: 2022-10-18 18:25:34 comments: Hi Carlos,
+
+I wanted to check in with you to see if you have any updates regarding your case. Please reach out if there is anything we can do to help with your case or if your issue has been resolved.
+Creation date: 2022-10-18 18:57:47 comments: Apologies for the slow response. I told Microsoft it was resolved last week and should have been aware that you would need a follow up too.
+
+Carlos Davis
+Linkeone Ltd
+https://www.linkeone.com
+Office (262) 301-4221
+Direct (262) 177-0954
+Mobile (414) 349-8389
+Creation date: 2022-10-18 19:15:39 comments: I am glad to hear the problem has been resolved, thanks for the update, Carlos! Have a nice day!
+Creation date: 2022-10-21 23:32:25 work_notes: Case automatically closed after spending 3 days in the resolved state.
+Creation date: 2022-10-25 08:05:57 work_notes: Customer Satisfaction Survey sent  2022-10-24 00:01:00

@@ -1,0 +1,1 @@
+[{"role": "context", "content": "Please answer with \"yes\" or \"no\" in conversational way"}, {"role": "user", "content": "Please answer with \"yes\" or \"no\" the question whether Kilimanjaro is in Asia."}, {"role": "robot", "chosen": "no", "rejected": "no", "model": "NOW_LLM_llama13b_111523", "snapchosen": "no"}]

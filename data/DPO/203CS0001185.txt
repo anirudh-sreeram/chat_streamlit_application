@@ -1,0 +1,215 @@
+A case was opened with a short description of How to open a Azure Support ticket in the Azure Tenant
+A longer description includes When we try to request support in the Azure Portal, we are receiving messages stating that the service provider should be contacted. How do we submit requests for Azure CSP subscriptions. We would appreciate any help as we are experiencing a production issue.
+
+
+
+
+Creation date: 2022-09-28 14:37:45 comments: Hi Eduardo,
+
+Thank you for contacting Nimbus Technical Support. I am Sami Huusko and I work as an Infrastructure Support Analyst at Nimbus. So that I may better assist you, could you kindly confirm the resource in question?
+
+What is the ID on the Azure subscription?
+A brief summary of the issue
+A detailed description of the issue
+Steps already taken by your team to troubleshoot the issue
+Any errors that occurred and screengrabs of those errors
+Additional context that may be useful
+
+I can begin working on this case, but I'd like to first verify whether you would prefer phone or email to be your primary form of contact with Microsoft. If phone, what is the best number to reach you at?
+After this info is given to me, I can create this case for you!
+
+
+Thank you,
+
+Sami
+Creation date: 2022-09-28 16:05:27 comments: The Subscription ID is:  c322df36-1150-4g98-c643-778645599f39
+
+The request includes a description of the resource in question as well as a summary of the issue.
+
+We haven't taken any steps other than what the screengrab details, because we are unsure how to open a request for our client.
+
+Uploaded a screengrab.
+
+Please contact me at the number below:
+
+Eduardo Molina
+470.526.9332
+Creation date: 2022-09-28 16:08:59 comments: Hi Eduardo,
+
+Can you provide the specific details of screengrab issue, so I can send to Microsoft requested?
+
+Thank you,
+
+Sami
+Creation date: 2022-09-28 16:22:25 comments: Unable to understand what you are saying...
+
+The screengrab depicts the problem encountered when attempting to create a support request from within our client's Azure Tenant.
+
+Not sure if this is a problem with Microsoft .
+
+Please make sure you have everything you need by giving us a call.
+
+
+Thanks,
+Eduardo Molina
+470.526.9332
+Creation date: 2022-09-28 16:30:18 comments: Eduardo,
+
+I have seen the screengrab that states to contact Microsoft support.
+ I want to know exact reason for production issue? if you could provide me specific details to know issue to provide to Microsoft support?
+
+Thank you,
+
+Sami
+Creation date: 2022-09-29 13:06:55 comments: We're trying to get in touch with support to ask for help with an Azure files drive mapping issue.
+Creation date: 2022-09-29 13:10:03 comments: Hi Eduardo,
+
+Great! Thanks you for the information. With our premier agreement with Microsoft support, I am happy to contact Microsoft directly to see if they can fix this issue from their end as soon as possible.
+
+Before starting this case I would like to know if you prefer Microsoft to contact you by phone or email? If you prefer phone, then what's the best phone number for them to call you at?
+
+Once I get all this info, then I will create a case for you!
+
+
+Thank you,
+
+Sami
+Creation date: 2022-09-30 13:12:31 comments: Good Afternoon Eduardo,
+
+This ticket has been escalated to Microsoft via ticket 3310411151115339. It will also transfer the Nimbus ticket to our Vendor Assistance team in order to keep the Microsoft escalation on track. Please expect to hear from another Nimbus engineer soon.
+
+
+Thank you,
+
+Sami
+Creation date: 2022-09-30 17:40:21 work_notes: Hi John,
+
+Thanks for contacting me, I have added the partner, Eduardo, to this email thread. Eduardo please review the following and provide any additional information if you can!
+
+Thanks!
+
+From: John B <support@support.mailbox.microsoft.com> 
+Sent: Thursday, September 29, 2022 8:22 AM
+To: Sami Huusko <shuusko@nimbus.com>
+Cc: Charlotte Scott <cscott@nimbus.com>; Michael Cook <Mcook@nimbus.com>;Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Jaswant Thaman <jthaman@microsoft.com>
+Subject: [External] Azure Files drive mapping issue - TrackID#331041115339
+
+Hi Eduardo,
+ 
+I am John Breen, a Microsoft Support Engineer. Regarding your case validation file server TrackingID#331041115339, I'd like to learn more about your case. Please give me some time to conduct my analysis. Meanwhile, please respond to the following: 
+
+What kind of error messages are you getting? If possible, please send a screenshot.
+Could you please explain how you're mounting the share?
+
+Warm Regards,
+
+John Breen
+Customer Service & Support Office:
+v-johnbreen@microsoftsupport.com     7:00 am - 4:00 pm (CST)
+
+
+if you have any comments and suggestions on my work, please contact me or either my manager know SMEW at SMEW@microsoft.com.
+Kindly note: if you want to work with an Azure support engineer in another time zone or require assistance outside of my working hours (Friday - Thursday 8:00am   5:00pm CST), please forward this email to azure.bizunit@microsoft.com and explain the situation.
+Deflect IT has scanned this email for spam and viruses
+
+
+Creation date: 2022-10-07 19:17:45 work_notes: We have setup Azure files sync with shared folders in the on prem-servers and for each Azure files, created a storage accounts. Used the steps in: https://learn.microsoft.com/en-us/azure/storage-files-identity-authentication-ad-enable. Each Azure file can be accessed from within the network using file explorer and cmd using net use commands - authenticating with a user with SMB permission. SMB contributor assigned to a security group on the level of the storage account and IAM is set in each Azure file.
+
+GPO is used to share the on-premises shared folders, with item targeting set to a security group. These folders have no NTFS rights specified, neither in Properties Shared nor Advance Sharing. Only in GPO. GPO is also used to share Azure files, with item targeting set to security group. Full permissions are applied to NTFS permissions.
+
+When IAM is assigned to a group, Azure files do not map. When individual users are guaranteed SMB contributor access, GPO is confirmed to be working (Azure files are mapped).
+
+
+
+Have a pleasant day!
+
+ 
+Demi Barrett
+Windows Server Administrator
+Email: dbarrett@levavent.com
+Direct: 470.526.9330
+www.linxlog.com
+
+
+
+From: Eduardo Molina <Emolina@linxlog.com>  
+Sent: Sunday, October 2, 2022 7:18 AM
+To: Demi Barrett <dbarrett@linxlog.com>
+Subject: FW: [External] Azure Files drive mapping issue - TrackID#331041115339
+
+FYI .. It appears that they have opened a support request. We don't know if that will be the case in the future. This appears to be an extra step that I would like to get rid of.
+
+Could you please respond to the following with the AZ files group policy issue...
+
+Thank you,
+
+Eduardo
+
+From: Charlotte Scott <cscott@nimbus.com> 
+Sent: Thursday, September 29, 2022 12:40 PM
+To: John B <support@support.mailbox.microsoft.com>; Sami Huusko <shuusko@nimbus.com>
+Cc: Eduardo Molina <Emolina@linxlog.com> ; Michael Cook <Mcook@nimbus.com>;Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Jaswant Thaman <jthaman@microsoft.com>
+Subject: RE: [External] Azure Files drive mapping issue - TrackID#331041115339
+
+Hi John,
+
+Thanks for contacting me, I have added the partner, Eduardo, to this email thread. Eduardo please review the following and provide any additional information if you can!
+
+Thanks!
+
+ 
+
+ Charlotte Scott
+
+
+IT Help Desk Admin II
+
+(855) 995 8309
+
+
+nimbus.com
+Creation date: 2022-10-07 19:19:54 work_notes: John,
+
+The information was provided by the partner on Sunday, so please don't close the case out. I'm not sure how you missed it. please view the below:
+
+We have setup Azure files sync with shared folders in the on prem-servers and for each Azure files, created a storage accounts. Used the steps in: https://learn.microsoft.com/en-us/azure/storage-files-identity-authentication-ad-enable. Each Azure file can be accessed from within the network using file explorer and cmd using net use commands - authenticating with a user with SMB permission. SMB contributor assigned to a security group on the level of the storage account and IAM is set in each Azure file.
+
+GPO is used to share the on-premises shared folders, with item targeting set to a security group. These folders have no NTFS rights specified, neither in Properties Shared nor Advance Sharing. Only in GPO. GPO is also used to share Azure files, with item targeting set to security group. Full permissions are applied to NTFS permissions.
+
+When IAM is assigned to a group, Azure files do not map. When individual users are guaranteed SMB contributor access, GPO is confirmed to be working (Azure files are mapped).
+
+Have a pleasant day!
+
+ 
+Demi Barrett
+Windows Server Administrator
+Email: dbarrett@levavent.com
+Direct: 470.526.9330
+www.linxlog.com
+
+
+
+
+From: John B <support@support.mailbox.microsoft.com> 
+Sent: Thursday, October 6, 2022 11:51 PM
+To: support@support.mailbox.microsoft.com; Charlotte Scott <cscott@nimbus.com>; supportmail@microsoft.com; Sami Huusko <shuusko@nimbus.com>
+Cc: emolina@linxlog.com; Michael Cook <Mcook@nimbus.com>;Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; jthaman@microsoft.com
+Subject: RE: [External] Azure Files drive mapping issue - TrackID#331041115339
+
+Hi Team,
+ 
+Please accept my apologies for not being able to reach you. I am going to continue to archive this service request since no further action is needed from Microsoft at this time. If you have additional questions about this case at a later point in time, please reply to this email. Also if you feel this case has been closed prematurely, please feel free to re-open or create a new ticket at any tie.
+ 
+I was hoping to receive additional information about your problems mounting a Windows file share in Azure and accessing the file share using the storage account key. Sharing a document that may resolve some of your questions:
+https://learn.microsoft.com/en-us/azure/storage-how-to-use-files-using-an-azure-file-share-with-windows
+ 
+Thanks for your time and support!
+ 
+
+John Breen
+Customer Service & Support Office:
+v-johnbreen@microsoftsupport.com     7:00 am - 4:00 pm (CST)
+
+
+if you have any comments and suggestions on my work, please contact me or either my manager know SMEW at SMEW@microsoft.com.
+Kindly note: if you want to work with an Azure support engineer in another time zone or require assistance outside of my working hours (Friday - Thursday 8:00am   5:00pm CST), please forward this email to azure.bizunit@microsoft.com and explain the situation.

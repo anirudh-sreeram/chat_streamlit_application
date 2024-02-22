@@ -1,0 +1,13 @@
+[   {
+    "chat_label" : "None", 
+        "chat_transcript" : "Nothing is selected"
+    },
+    {
+        "chat_label" : "two turn greeting example 1", 
+        "chat_transcript" : "Agent: Hi! How can I help you?\nCustomer: password reset"
+    },
+    {
+        "chat_label" : "two turn greeting example 2", 
+        "chat_transcript" : 
+    }
+]

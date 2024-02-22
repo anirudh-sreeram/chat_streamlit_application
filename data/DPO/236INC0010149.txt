@@ -1,0 +1,79 @@
+A case was opened with a short description of INNDC 32-0303centralas03||18095431-CoolBreezer ||Severity :: Critical :: Node INNDC 32-0303centralas03 is Low.
+A longer description includes INNDC 32-0303centralas03||18095431-CoolBreezer ||Severity :: Critical :: Node INNDC 32-0303centralas03 is Low.
+
+
+
+
+Creation date: 2023-02-27 03:26:43 work_notes: All Alerts in situation 18095431
+159844321::5::inndc32-0303centralas03::Severity :: Critical :: Node INNDC 32-0303centralas03 is Low.
+
+Creation date: 2023-02-27 05:05:13 work_notes: Email sent to OSS and awaiting for the reply ...KROOD  # INC1196543 ..
+
+From: M, Madhavan <Madhavan.M@gill-niece.com> 
+Sent: Sunday, February 26, 2023 09:03 AM
+To: Eric, Rosy <Rosy.Eric@gill-niece.com>
+Cc: CLH-NOC <CLH-NOC@gill-niece.com>; CLH-NetworkData <CLH-NetworkData@gill-niece.com>
+Subject: INC1195413 - Devices are Low at the site INNDC 03 - India New Delhi City MFG
+
+
+Hi Rosy,
+
+We can see that every network device at the site are not working now. Can you kindly verify and inform us if there is an power issue or activity being performed at the site.
+
+
+
+Thanks and Regards,
+  
+Madhavan M| Network Operations
+Madhavan.M@gill-niece.com
+Mobile: (+91)9848022338
+www.gill-niece.com
+Creation date: 2023-02-27 12:02:52 work_notes: Since every device is working and accessible, resolving.. nevertheless email sent to OSS to understand the cause for the same...
+
+From: M, Madhavan
+Sent: Sunday, February 26, 2023 2:36 PM
+To: Eric, Rosy <Rosy.Eric@gill-niece.com>
+Cc: CLH-NOC <CLH-NOC@gill-niece.com>; CLH-NetworkData <CLH-NetworkData@gill-niece.com>
+Subject: RE: INC1195413 -Devices at the site are not working
+INNDC03 - US New Delhi City MFG
+
+Hi Rosy,
+
+Incident INC1193244 has been placed in your queue. Please update the status.
+
+
+Thanks,
+
+Madhavan M| Network Operations
+Madhavan.M@gill-niece.com
+Mobile: (+91)9848022338
+www.gill-niece.com
+
+
+
+From: M, Madhavan <Madhavan.M@gill-niece.com>
+Sent: Sunday, February 26, 2023 2:14 PM
+To: Eric, Rosy <Rosy.Eric@gill-niece.com>
+Cc: CLH-NOC <CLH-NOC@gill-niece.com>; CLH-NetworkData <CLH-NetworkData@gill-niece.com>
+Subject: RE: INC1195413 - Device count on site is minimal. INNDC03 - India New Delhi City MFG
+
+
+Hi Rosy,
+
+We have observed that the devices are working and accessible except for the the interfaces listed below, which are still not working. In order to continue, could you kindly check and update the physical interfaces?
+
+Interface Malfunctioning Alerts - on GigabitEthernet2/0/47 - Gi2/0/47 - on INNDC32-0101NorthAS01
+Interface Malfunctioning Alerts - on GigabitEthernet1/0/27 - Gi1/0/27 - on INNDC32-0303centralas03
+Interface Malfunctioning Alerts - on tvi-0/555.0 - on SSN-IND-NEW-DELHI-CITY-01-R-01
+
+
+Additionally, kindly verify if there was power outage at the site.
+
+Thanks and Regards,
+
+Madhavan M| Network Operations
+Madhavan.M@gill-niece.com
+Mobile: (+91)9848022338
+www.gill-niece.com
+Creation date: 2023-02-27 12:04:00 work_notes: [xSwitch] - Existing events for this Incident terminated
+Creation date: 2023-03-04 06:03:34 comments: After 7 days in the Resolved state, incident automatically closed.

@@ -1,0 +1,87 @@
+A case was opened with a short description of Not able to establish TR in Leroy
+A longer description includes I can access POG, but there isn't a way for me to make any changes on my Leroy page. Please make sure Give permission
+
+
+
+
+Creation date: 2023-02-21 18:00:56 comments: Hi everyone,
+Kindly verify the access
+Creation date: 2023-02-21 18:34:00 comments: Su53 email delivered to User; awaiting response 
+Creation date: 2023-02-22 18:33:48 comments: awaiting Raees or Herman response to the email 
+Creation date: 2023-02-23 10:57:19 work_notes: From:  Shaw, Norman <nshaw@elhcl-iamist.com> 
+Sent: Wednesday, February 22, 2023 12:43 PM
+To:  Newton,Lowri <nlowri@elhcl-iamist.com>;  Lam,Jaydon <jlam@@elhcl-iamist.com>
+Cc: IT GANG RUN - Validation <it-gang-run-kbauer@elhcl-iamist.com>; Bauer, Katherine <kbauer@elhcl-iamist.com>
+Subject: You have been given INC4489256 as the incident.
+
+Accepted
+
+
+
+
+
+Thank you
+
+ 
+Lowri Newton |GANG Safety Department | Finley, WA
+Mobile: +1 438 689 296
+Elhcl-iamist Sp. z o.o.
+3442  Nevada Road,  Lakes  46935
+80-987 Finley, WA
+www.Elhcl-iamist.com
+Next OOO: 
+
+From:  Shaw, Norman <nshaw@elhcl-iamist.com> 
+Sent: Tuesday, February 21, 2023 6:34 PM
+To:  Newton,Lowri <nlowri@elhcl-iamist.com>;  Lam,Jaydon <jlam@@elhcl-iamist.com>
+Cc: IT GANG RUN - Authorizations <it-gang-run-auth@elhcl-iamist.com>; Bauer, Katherine r<kbauer@elhcl-iamist.com>
+Subject: You have been given INC4489256 as the incident.
+
+Hi Raees/Herman,
+
+ Katherine Bauer(opj_Bauer) is having problems with the POG/105 system.
+Katherine the following user as a reference: Priority: JHG_GETHA
+According to reference user Katherine, the following jobs in PFS systems are absent.
+KTX:TN_NSMH_DEVELOPER
+KTX:TN_NSMH_TESTER
+KTX:ITCALENDER_DIS
+KTX:TN_RTQ_UIU_FRAMEWORK
+KTX:TN_RTQ_UIU_SOLMANPRO_CHARM
+KTX:TN_MKJH_DIS
+KTX:TN_VB_DIS
+KTX:TN_HG_DISPLAY
+KTX:FWQL_ADMIN
+KTX:FWQL_DEVELOPER
+KTX:FWQL_REQUESTER
+KTX:FWQL_REQUESTER_ADDON
+KTX:FWQL_TESTER
+KTX:TN_FIORI_LP_EMBEDDED
+
+If we may assign the aforementioned responsibilities to the user, kindly grant me permission.
+
+Regards & gratitude, 
+ 
+Norman Shaw | E&M GANG Safety Department | Elhcl-iamist  |
+nshaw@elhcl-iamist.com
+Phone: +91952534598
+Creation date: 2023-02-23 10:57:40 comments: From:  Keith, Antony
+Sent: Wednesday, February 22, 2023 3:27 PM
+To: Bauer, Katherine r<kbauer@elhcl-iamist.com>
+Cc:<-GANG> - Validation <-gang-auth@elhcl-iamist>; Shaw, Norman <nshaw@elhcl-iamist.com>
+Subject: You have been given INC4489256 as the incident.
+
+Hey,  Katherine 
+This relates to INC4489256
+
+You now have access to POG/105 using the same reference user: OPJ_GETHA
+
+Kindly check your access and let us know if any issues.
+
+Regards & gratitude, 
+ 
+Antony Keith | E&M GANG Garner support| Elhcl-iamist|
+akeith@elhcl-iamist.com|
+Phone: +91773023917
+Creation date: 2023-02-24 02:15:23 comments: The user received a polite reminder-03 asking for approval to end this.
+Creation date: 2023-02-27 11:33:35 comments: The user received a polite reminder-04 asking for approval to end this
+Creation date: 2023-03-07 12:59:53 comments: When 6 days have passed, the incident is automatically closed as resolved.

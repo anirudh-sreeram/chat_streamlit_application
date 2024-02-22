@@ -1,0 +1,89 @@
+A case was opened with a short description of  When laptop is connected to home docking station it is unable to be charged 
+A longer description includes Problem Description:  When laptop is connected to home docking station it is unable to be charged 
+
+Phone Number: 517-490-8523
+Contact via (phone, teams, email):
+Email Time to Contact: Any
+CP's AM Computer Tag (verified): PC73821
+CP's nearest Location: Clinton SC
+Any linked Tickets: RITM0454730- New Dock delivered 3/14/2021
+INC0860023 - Same issue 5/2021 INC0856064
+INC0856064 - Power issues - 5/17/21 -Removing/replacing battery is resolved - Home docking station have connectivity issues whereas at the office does not have this issue. 
+
+
+
+
+Creation date: 2023-04-10 18:25:51 work_notes: This Incident was raised on behalf of Javier O Willer from CALL0831848
+Creation date: 2023-04-10 18:57:12 work_notes: BP has been experiencing this issue with the docking station since June 2021 when he received it. It was checked three times in August 2021, but the issue was not fixed. The workaround was suggested that the battery in the docking station should be removed and replaced whenever the issue came up.
+*******************************
+INC0856064
+Closing notes:
+FV
+CHARLIN W MATT 
+Additional comments 2021-05-19 15:20:06
+
+Thunderbolt controller driver and Lenovo Dock Firmware package were installed
+I attached one odd error in Schannel event logs
+Power adapter error was observed in his next startup.
+Requested the user to verify the power adapter
+Shared a pic of the dock and power adapter for reference
+He clarified they are the same.
+Closing the ticket as this issue doesn't come up regularly.
+Informed the user to reach out if he has any other issues
+**********************************************
+
+CP says that they have been removing and replacing the battery themselves whenever this happens. 
+Power cord wattage: 110w
+Docking station Model: WD27DC - Cord fixed to connect to PC
+SVBM w/p to PC73821
+ -  CP shared a pic of power error message from phone to their email ** See attachment **
+
+Unable to resolve the issue in May of 2021 - only a temporary fix - but the temporary fix was very inconvenient - to remove the battery and replace it every time CP came back home to dock. 
+Issue NEVER occurs at other docking station in the Clinton SC office. 
+
+Sending to BPS Deskside to assess. 
+Contact BP via email
+Creation date: 2023-04-10 19:21:33 work_notes: Email to the BP
+
+
+
+From: CARTON L. ORNALD 
+Sent: Monday, April 10, 2021 4:14 PM
+To: Javier O. Willer <Javier.Willer@ameren.com>
+Subject: FW: P4:You have been allocated incident INC0988633
+Importance: high
+
+Javier,
+
+I have been notified that you have raised a ticket for the docking station. I can help you in the Clinton SC tomorrow after 9:35AM if possible and can check it if you bring it to me. If tomorrow does not work for you, I will be back on Friday 4/13 and can check it for you then.
+
+Thank you
+
+
+CARTON ORNALD
+IT TS&M-Business Partner Services   West
+Desktop Support Engineer
+Alley & Clinton
+Ameren
+(989) 466-9441
+
+ 
+
+
+
+From: JST Engine Zendesk <ameren@zendesk.com> 
+Sent: Tuesday, June 10, 2021 3:04 PM
+To: CARTON L. ORNALD <CARTON.ORNALD@ameren.com>
+Subject: P4:You have been allocated incident INC0988633
+
+Date: 2021-04-10 15:03:25 EDT
+Number: INC0988633
+Short Description: When laptop is connected to home docking station it is unable to be charged 
+ 
+Please check and update this incident asap for  resolution. Please take actions as needed to solve the incident ASAP.
+ 
+Please contact the Desk Service for further information or if you think the incident assignment is incorrect.
+ 
+Ref:MSG27011421
+Creation date: 2023-04-11 14:31:59 work_notes:  CP was asked to test the office docks after switching it out
+Creation date: 2023-04-13 12:25:17 work_notes:  Resolve the ticket, as the new office dock solved the issue per CP

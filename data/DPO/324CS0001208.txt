@@ -1,0 +1,169 @@
+A case was opened with a short description of Executing Azure sync did not eliminate old Guardwall aliases, nor did it incorporate spelling changes
+A longer description includes Executing Azure sync did not eliminate old Guardwall aliases, nor did it incorporate spelling changes
+
+
+
+
+Creation date: 2022-09-30 21:59:45 comments: Hello Bob,
+Thank you for getting in touch with Nimbus support. I am Joseph, and I will be handling your Guardwall queries. I will need to consult with my senior engineers, but I will keep you posted on any updates to this ticket as soon as I'm ready to share information.
+Thanks,
+Joseph
+Creation date: 2022-09-30 21:59:45 work_notes: Analyzing
+Creation date: 2022-10-03 15:42:18 work_notes: Analyzing
+Creation date: 2022-10-03 21:13:03 comments: Hello Bob,
+I had a discussion with one of our senior engineers today, and he explained that concerning Azure sync, Guardwall only implements the changes reported by azure sync. There might be an issue with your sync configuration on the Office 365 side, causing it not to report spelling changes or alias deletion to Guardwall.
+If you need assistance in troubleshooting this matter, I can help from the Guardwall side. Please inform me if you would like further assistance.
+Thanks,
+Joseph
+Creation date: 2022-10-03 21:13:03 work_notes: Providing updates to partner
+Creation date: 2022-10-04 14:37:31 work_notes: First request for closure
+Creation date: 2022-10-04 14:37:31 comments: Hello Bob,
+I wanted to check in this morning to see if there is anything else you need from Nimbus at the moment. If not, I am ready to archive this ticket for you.
+Thanks,
+Joseph
+Creation date: 2022-10-05 14:11:11 comments: Hello Bob,
+Checking back to see if there is anything else you need from Nimbus at the moment. If not, I am ready to archive this ticket for you.
+Thanks,
+Joseph
+Creation date: 2022-10-05 14:11:11 work_notes: Second request for closure
+Creation date: 2022-10-05 14:31:18 work_notes: duplicate ticket NIM3607324:
+
+Joseph,
+
+We have observed that two distribution groups are not visible in the Guardwall portal, and messages sent to them are not bouncing.
+
+Does the synchronization process include updating distribution groups?
+
+
+Frank
+[SW Logo-115x51]
+Frank Cuevas
+frank@bluetag.com<mailto:frank@bluetag.com>
+http://www.bluetag.com<https://urldefense.guardwall.com/v2/url?u=https-3A__nam12.safelinks.protection.mailmate.com_-3Furl-3Dhttp-253A-252F-252Fwww.bluetag.com-252F-26data-3D04-257C01-257CRubyG-250synex.com-257C1561b4440e7d4eeeef7f08d9ca1779f7-257C972a0e27c354fd792259266c8f332ac-257C0-257C0-257C63776302453130484-257CUnknown-257CTWFpbGZs3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0-23D-257C0-26sdata-3DjlTczyGPsdu2as4VruLkErMdPAuoHG1drqmrHK9Jp8-253D-26reserved-3D0&d=DwMGa&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiM&r=BY4ipaEFxZvBHVfXxtCjDkwz4QghDeeX77uSrlh6S9o&m=r2BEVpBqSzR6_3jTvOmeFkZgL5BCa9m_6cstnmSvGk&s=0fKPQorN32dFoHG2tG9AV5cffbMggHvwMVPQBHaxl8&e=>
+Phone (567) 137-3937
+Fax (567) 690-8476
+Cell (567) 662-7317
+
+
+
+From: Bob McLion<bobm@bluetag.com>
+Sent: Tuesday, October 4, 2022 09:22 AM
+To: Frank Cuevas <Frank@bluetag.com>
+Subject: Fw: Executing Azure sync did not eliminate all aliases on the Guardwall side, nor did it update spelling changes. [NIM3548952]
+
+
+________________________________
+From: Nimbus Support <support@nimbus.com<mailto:support@nimbus.com>>
+Sent: Tuesday, October 4, 2022 09:10 AM
+To: Bob McLion<bobm@bluetag.com<mailto:bobm@bluetag.com>>
+Subject: Case updated: Executing Azure sync did not eliminate all aliases on the Guardwall side, nor did it update spelling changes. [NIM3548952]
+
+ .##- Reply to Nimbus Support above this line -##
+[cid:Nimbus-Padded-WHT.pngx@SmC.e50eca66161d9ce7]
+
+Support
+
+
+
+Your case has been updated.
+
+________________________________
+2022-10-04 07:10:11 MDT - Joseph Willoburg  Additional comments
+Hello Bob,
+Checking  back again to see if there is anything else you need from Nimbus at the moment. If not, I am ready to archive this ticket for you.
+Thanks,
+Joseph
+Creation date: 2022-10-05 14:32:51 work_notes: Analyzing
+Creation date: 2022-10-05 18:34:41 work_notes: recommended partner run a sync manually
+Creation date: 2022-10-05 18:34:42 comments: Hello Bob,
+I have been informed of a current bug in Guardwall where the scheduled sync is not initiating as per the specified frequency setting. I noticed that the last Azure sync ran yesterday at 9:10 PM. 
+The Guardwall development team is actively addressing this issue and working on releasing a fix, although there is no specific release data available yet. Regarding your inquiry, I suggest attempting a manual sync to check if those distribution groups are transferred.
+Thanks,
+Joseph
+Creation date: 2022-10-05 20:24:48 comments: These distribution groups have been present in our system for some time, but they did not transfer during a manual sync.
+
+Frank
+
+[SW Logo-215x51]
+Frank Cuevas
+frank@bluetag.com<mailto:frank@bluetag.com>
+http://www.bluetag.com<https://urldefense.guardwall.com/v2/url?u=https-3A__nam12.safelinks.protection.mailmate.com_-3Furl-3Dhttp-253A-252F-252Fwww.bluetag.com-252F-2data-3D04-257C01-257CRubyG-2540synnex.com-257C1561b4440e7d4eeeef7f08d9ca1779f7-257C972a0e27c3554fd79225966c8f332ac-257C0-257C0-257C637763024453130484-25CUnknown-257CTWFpbGZsb3d8eyJWIjoiC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0-253D-257C0-26data-3DjlTczyGPsdu24as4VruLkErMPAuoHG1drqmrHK9Jp8-253D-26reserved-3D0&d=DwMGaQ&c=euGZstcaDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=BY4ipaExZvBHVfXxtCjDkwz4QghDeeX77uSrlh6S9o&m=r2BEVpBqSzR6_3ZjTvOmeFkZgL5BCa9m_6cstnmSvGk&s=0fKPQorN32dFoHG2tG9AV5cffbMggHvywMVPQBHaxl8&e=>
+Phone (567) 137-3937
+Fax (567) 690-8476
+Cell (567) 662-7317
+Creation date: 2022-10-05 21:05:14 comments: Hello Frank,
+If you provide me with the distribution lists name, and e-mail addresses, along with a screenshot displaying the account details from the exchange admin, I can escalate the issue to Guardwall for further investigation. Alternatively, you also have the option to manually add the distribution list.
+Thanks,
+Joseph
+Creation date: 2022-10-05 21:05:14 work_notes: requesting info
+Creation date: 2022-10-06 14:33:36 work_notes: Awaiting data from partner
+Creation date: 2022-10-07 14:14:42 work_notes: Awaiting data
+Creation date: 2022-10-07 14:14:42 comments: Hello Frank,
+If you want me to escalate the issue to Guardwall directly for further investigation, provide me with the distribution lists name and  e-mail addresses which are not working, along with a screenshot displaying the account details from the exchange admin. Alternatively, you also have the option to manually add the distribution list.
+Thanks,
+Joseph
+Creation date: 2022-10-10 13:55:28 work_notes: awaiting communication from the partner
+Creation date: 2022-10-11 14:15:09 comments: Hello Frank,
+If you want me to escalate the issue to Guardwall directly for further investigation, provide me with the distribution lists name and e-mail addresses which are not working,  along with a screenshot displaying the account details from the exchange admin. ..Essentially, evidence that the lists are present in O365 but absent in Guardwall.. Alternatively, you also have the option to manually add the distribution list.
+Thanks,
+Joseph
+Creation date: 2022-10-11 14:15:09 work_notes: requesting data
+Creation date: 2022-10-11 14:27:53 comments: I'll search for a couple of addresses. We had to add one or two of them manually.
+
+Frank
+
+[SW Logo-215x41]
+Frank Cuevas
+frank@bluetag.com<mailto:frank@bluetag.com>
+http://www.bluetag.com<https://urldefense.guardwall.com/v2/url?u=https-3A__nam12.safelinks.protection.mailmate.com_-3Furl-3Dhttp-253A-252F-252Fwww.bluetag.com-252F-26data-3D04-257C01-257CRubyG-240synex.com-257C1561b3440e7d4egeef7f08d9ca1779f7-257C972a0e27c3554fd792159266c8f332ac-257C0-257C0-257C637763023453130484-257CUnknown-257CTWFpbfdZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI5Mn0-253D-257C0-26sdata-3DjlTczyGPsdu24as4VruLkErMdPAuoHG1drqmrHK9Jp8-253D-26reserved-3D0&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=BY4ipaEFxZvBHVfXxtCjDkwz4QghDeeX77uSrlh6S9o&m=r2BEVpBqSzR6_3ZjTvOmeFkZgL5BCa9m_6cstnmSvGk&s=0fKPQorN32dFoHG2tG9AV5cffbMggHvywMVPQBHaxl8&e=>
+Phone (567) 137-3937
+Fax (567) 690-8476
+Cell (567) 662-7317
+Creation date: 2022-10-11 14:36:38 work_notes: awaiting partner
+Creation date: 2022-10-12 14:04:48 work_notes: awaiting data from partner
+Creation date: 2022-10-13 14:08:31 comments: Hello Bob and Frank,
+If you have manually created all the distribution lists on Guardwall already, we might need to close this ticket until we can replicate the issue. Please share your thoughts on this.
+Thanks,
+Joseph
+Creation date: 2022-10-13 14:08:31 work_notes: First request for closure
+Creation date: 2022-10-13 14:50:02 comments: I am uncertain if all of them have been manually created. I will double check to confirm.
+
+[SW Logo-214x51]
+Frank Cuevas
+frank@bluetag.com<mailto:frank@bluetag.com>
+http://www.bluetag.com<https://urldefense.guardwall.com/v2/url?u=https-3A__nam12.safelinks.protection.mailmate.com_-3Furl-3Dhttp-253A-252F-252Fwww.bluetag.com-252F-26data-3D04-257C01-257CRubyG-2540synnex.com-257C1561b4440e7d4eeeef7f08d9ca1779f7-257C972a0e27c3554fd79229266c8f332ac-257C0-257C0-257C637763024453130484-257CUnknown-257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0-253D-57C0-26sdata-3DjlTczyGPsdu24as4VuLkErMdPAuoHG1drqmrHK9Jp8-253D-26reserved-3D0&d=DwMGaQ&c=uGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=Y4ipaEFxZvBHVfXxtCjDkwz4QghDeeX77uSrlh6S9o&m=r2BEVpBqSzR6_3ZjTvOmeFkZgL5BCa9m_6cstnmSvGk&s=0fKPQorN32dFoHG2tG9AV5cffbMggHvwMVPQBHaxl8&e=>
+Phone (567) 137-3937
+Fax (567) 690-8476
+Cell (567) 662-7317
+Creation date: 2022-10-13 14:53:28 work_notes: awaiting partner verification
+Creation date: 2022-10-14 14:25:28 work_notes: awaiting  update from partner
+Creation date: 2022-10-17 14:07:06 comments: Hello Bob and Frank,
+Waiting for verification.
+Thanks,
+Joseph
+Creation date: 2022-10-17 14:07:06 work_notes: waiting partner verification
+Creation date: 2022-10-19 14:08:49 comments: Hello Bob and Frank,
+I understand that you are currently occupied with the move. I am considering archiving this ticket until Guardwall resolves their open ticket regarding Azure auto sync. We can revisit it if the issue persists. What are your thoughts on this?
+Thanks,
+Joseph
+Creation date: 2022-10-19 14:08:49 work_notes: First request for closure
+Creation date: 2022-10-19 14:12:06 comments: Certainly, that works. we'll reopen if necessary. 
+
+Frank
+
+[SW Logo-215x51]
+Frank Cuevas
+frank@bluetag.com<mailto:frank@bluetag.com>
+http://www.bluetag.com<https://urldefense.guardwall.com/v2/url?u=https-3A__nam12.safelinks.protection.mailmate.com_-3Furl-3Dhttp-253A-252F-252Fwww.bluetag.com-252F-26data-3D04-257C01-257CRubyG-2540synnex.com-257C1561b4440e7d4eeeef7f08d9ca1779f7-257C972a0e27c3554fd792259266c8f332ac-257C0-257C0-257C637763024453130484-257CUnknown-257CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0-253D-257C0-26sdata-3DjlTczyGPsdu24as4VruLkErMdPAuoHG1drqmrHK9Jp8-253D-26reserved-3D0&d=DwMGaQ&c=euGZstcaTDllvimEN8b7jXrwqOf-v5A_CdpgnVfiiMM&r=BY4ipaEFxZvBHVfXxtCjDkwz4QghDeeX77uSrlh6S9o&m=r2BEVpBqSzR6_3ZjTvOmeFkZgL5BCa9m_6cstnmSvGk&s=0fKPQorN32dFoHG2tG9AV5cffbMggHvywMVPQBHaxl8&e=>
+Phone (567) 137-3937
+Fax (567) 137-3937
+Cell (567) 662-7317
+Creation date: 2022-10-19 14:36:17 work_notes: closing as per partner's  request
+Creation date: 2022-10-19 14:36:17 comments: Hello Bob and Frank,
+The ticket has been closed. If you need further assistance on this matter or any other issue, please do not hesitate to reach out. If you require additional support specifically for this concern, kindly update the ticket. Thank you once again for contacting Nimbus support.
+Thanks,
+Joseph
+
+If you would like to speak to someone in support please call SUPPORT: 1-855-995-1349, EXT. 2 option 3 for security
+Creation date: 2022-10-22 15:39:46 work_notes: Automatically closed after spending three days in resolved state.
+Creation date: 2022-10-25 08:02:28 work_notes: Customer Satisfaction Survey has been dispatched  2022-10-24 12:00:00

@@ -1,0 +1,87 @@
+A case was opened with a short description of Could not find the recording
+A longer description includes From: Queen Shefali <queen.shefali@ong.com> 
+Sent: Sunday, December 11, 2022 8:47 AM
+To: Speech Analytics <speechanalytics@ong.com>; Voice Communications <voicecomm@ong.com>
+Cc: Valerina Boston <valerina.boston@ong.com>
+Subject: Calls not Recording
+
+Good afternoon,
+
+Currently at OKE, Kim-Que Aving's calls are not being recorded. Would you kindly investigate this matter?
+
+Thank you,
+
+Queen Shefali
+
+
+
+
+
+Creation date: 2022-12-13 15:55:10 work_notes: From: Queen Shefali <queen.shefali@ong.com> 
+Sent: Monday, December 12, 2022 7:52 AM
+To: Asha Weringdon <Asha.Weringdon@ong.com>
+Subject: RE: Calls not Recording
+
+I still can't seem to find her. I have attempted searching by name, agent ID, and even the interaction IDs on the sample you provided.
+
+From: Asha Weringdon <Asha.Weringdon@ong.com> 
+Sent: Monday, December 12, 2022 8:46 AM
+To: Queen Shefali <queen.shefali@ong.com>
+Subject: RE: Calls not Recording
+
+Good morning, 
+
+Would you kindly try looking for her right now? 
+
+
+Asha Weringdon
+Telephony Solutions Analyst
+602-456-9384
+
+ 
+
+From: Queen    
+Shefali <queen.shefali@ong.com> 
+Sent: Monday, December 12, 2022 5:37 AM
+To: Asha Weringdon <Asha.Weringdon@ong.com>
+Subject: RE: Calls not Recording
+
+There are no search choices that turn her up. Could you confirm that I receive every agent who reports to me for the Oxford site? 
+
+From: Asha Weringdon <Asha.Weringdon@ong.com> 
+Sent: Sunday, December 11, 2022 11:11 PM
+To: Queen    
+Shefali <queen.shefali@ong.com>; Speech Analytics <speechanalytics@ong.com>; Voice Communications <voicecomm@ong.com>
+Cc: Valerina 
+Boston <valerina.boston@ong.com>
+Subject: RE: Calls not Recording
+
+Hi Queen! 
+
+This month, there are 4 calls that I can see that were all made today. 
+ 
+
+Can you try searching using her Agent or Station ID? 
+agent id: 9057116
+station id: 7707118
+
+Asha Weringdon
+Telephony Solutions Analyst
+602-456-9384
+Creation date: 2022-12-13 15:56:20 work_notes: Kim-Que is in the group -  QS - LY (Unassigned New Hire)
+Queen Shefali does have access to this group
+Creation date: 2022-12-13 16:01:57 work_notes: [7:57 AM] Queen Shefali
+Yes, now I am available. 
+
+[7:57 AM] Asha Weringdon
+Okay, kindly accept all pop-up windows
+
+[8:00 AM] Asha Weringdon
+I changed the filter to This Month's call recordings since she hasn't recorded any calls today
+
+[8:00 AM] Queen    
+Shefali
+That's really odd, but thank you very much. Firoz couldn't locate her on my computer, either, hehe 
+
+[8:01 AM] Asha Weringdon
+Not an issue! At times it is funny that BMLIT may be rather selective in its search results! However, I'm delighted it's working now! I hope you have a great day and let me know if there's anything more I can do to assist!

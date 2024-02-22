@@ -1,0 +1,193 @@
+A case was opened with a short description of Chromebooks - user not able to participate in teams meeting
+A longer description includes sp:- 503-520-4005
+
+
+
+
+Creation date: 2022-10-13 15:16:12 work_notes: 2022-10-12 09:16:12 - Palomi Soni (Work notes)
+issue:- "apologize for not being able to connect you"
+it has been happening for some time.
+
+even if she attempts to call someone seperately 
+same thing occurs
+attempt to contact myself from her end
+same issue
+
+opened okta team
+Creation date: 2022-10-13 15:22:07 work_notes: issue:- "apologize for not being able to connect you"
+it has been happening for some time
+
+even if she attempts to call someone separately 
+same thing occurs
+attempt to contact myself from her end
+same issue
+
+opened okta teams
+okta teams works fine
+she is able to join meetings and call
+recommended customer to use okta teams for now
+
+clicked on 4 dots>download desktop app
+downloaded
+same error
+
+logged her off from citrix
+have her wait for seven mins
+signed back>opened teams
+
+customer has good internet connection
+Creation date: 2022-10-13 15:34:39 work_notes: same issue
+screenshot attached
+
+Machine name CORP\CX768CCG0401498
+Display name Windows 12 - CC - Group 6
+Delivery Group Win 12 CC - Group 6 - Prod
+Machine IP 10.15.2.21
+Creation date: 2022-10-13 15:36:10 work_notes: KB0021332
+Creation date: 2022-10-13 15:37:58 work_notes: This INC was added under parent INC0507190.
+Creation date: 2022-10-13 15:37:58 work_notes: Lead Support: 
+suggested to connect to the PI and send the ticket to me
+Creation date: 2022-10-13 15:38:30 work_notes: T8916070 2022-10-12  09:38:30
+Linking this ticket to the PI INC0507190
+Creation date: 2022-11-02 20:56:12 work_notes: Work note taken from the Parent Incident: Updating ticket with latest communication:
+_________________________________
+From: Virat Kohli <virat.kohli@citrix.com>
+Date: Sunday, October 23, 2022 at 1:30 PM
+To: Ram Shukla <ram.shukla@fom.com>
+Cc: Citrix Tech assistance <techassistance@citrix.com>
+Subject: RE: Citrix Case 83225501 - Problem using MS Teams from CWA Chrome [ ref:_00E122M7V._1328z1hrWct:ref  ]
+Hello Ram,
+ I apologize for any misunderstanding and appreciate the clarification. It appears that those logs were not generated for some reason. I will investigate that further as I examine the logs that have previously been supplied.
+Thanks,
+--Virat
+NOTE:  Upcoming out of office Oct 28   Oct 31
+ Virat Kohli
+Senior Escalation Engineer | Citrix Workspace App
+Tech Assistance, Asia
+T    +65 1800-780-5236 ext.14337
+ __________________________________
+From: Ram Shukla <ram.shukla@fom.com> 
+Sent: Sunday, October 16, 2022 4:19 PM
+To: Virat Kohli <virat.kohli@citrix.com>
+Cc: Citrix Tech assistance <techassistance@citrix.com>
+Subject: Re: Citrix Case 83225501 - Problem using MS Teams from CWA Chrome [ ref:_00E122M7V._1328z1hrWct:ref  ]
+Hi again,
+I have no problem sending the logs to you. In fact, I would be glad to do that if it was possible. The issue is that I am not even unable to get the console logs.
+After I did as directed by these instructions:
+https://docs.citrix.com/en-us/chrome-citrix-workspace-app/repair.htm
+Step 1 for console logs instructs "open chrome://inspect/#apps". I could do this.
+Step 2 instructs "Click on  inspect  in the Application tab for all Citrix Workspace-related windows: SessionWindow.html, Main.html"
+Yet, as I mentioned in my earlier email, I can't see anything on that page. I can't even click on  inspect ; the page is absolutely blank. If I can't complete this stage, how can I obtain logs? I attempted this in Chrome on the VDI, as well as in Chrome in Storefront, and they both display the same thing.
+(screenshot)
+Description produced automatically
+Thanks!
+Ram Shukla
+EUC Sad & MDM Manager
+812-432-5467
+ ________________________________
+From: Virat Kohli <virat.kohli@citrix.com>
+Date: Sunday, October 16, 2022 at 1:49 PM
+To: Ram Shukla <ram.shukla@fom.com>
+Cc: Citrix Tech assistance <techassistance@citrix.com>
+Subject: RE: Citrix Case 83225501 -  Problem using MS Teams from CWA Chrome [ ref:_00E122M7V._1328z1hrWct:ref  ]
+Hello Ram,
+After saving the log files, you can attach them to an email or upload them to website https://cis.citrix.com (specifying this case number when prompted).
+Thanks,
+--
+NOTE:  Upcoming leaves Oct 19-20
+Virat Kohli
+Senior Escalation Engineer | Citrix Workspace App
+Tech Assistance, Asia
+T    +65 1800-780-5236 ext.14337
+ _______________________________
+From: Ram Shukla <ram.shukla@fom.com> 
+Sent: Sunday, October 16, 2022 10:07 AM
+To: Virat Kohli <virat.kohli@citrix.com>
+Cc: Citrix Tech assistance <technicalsupport@citrix .com>
+Subject: Re: Citrix Case 83225501 - Problem using MS Teams from CWA Chrome [ ref:_00E122M7V._1328z1hrWct:ref ]
+How do I send console logs? When I navigate to that page's apps, there are no options listed.
+Thanks!
+Ram Shukla
+EUC Sad & MDM Manager
+812-432-5467
+ _________________________________
+From: Virat Kohli <virat.kohli@citrix.com>
+Date: Sunday, October 16, 2022 at 09:01 AM
+To: Ram Shukla <ram.shukla@fom.com>
+Cc: Citrix Tech assistance <techassistance@citrix.com>
+Subject: RE: Citrix Case 83225501 - Problem using MS Teams from CWA Chrome [ ref:_00E122M7V._1328z1hrWct:ref  ]
+Hello Ram,
+Thanks for submitting the logs. I'll be working on getting our Engineering team to investigate the problem at the code level. They will most likely require the console logs, so please upload them as soon as possible.
+Thanks,
+--Virat
+NOTE:  Upcoming leaves Oct 19-20
+Virat Kohli
+Senior Escalation Engineer | Citrix Workspace App
+Tech Assistance, Asia
+T    +65 1800-780-5236 ext.14337
+Creation date: 2022-11-04 19:21:35 work_notes: Work note replicated from the Parent Incident: Hello Ram,
+ 
+I wanted to provide you a brief case update. After looking over the provided logs, I believe there might be a problem with the protocol or connection mechanism. I'm checking  internally with several resources, and I'll let you know what we find.
+ 
+ 
+Thanks,
+--Virat
+ 
+ 
+NOTE: Upcoming leave Nov 6
+ 
+Virat Kohli
+Senior Escalation Engineer | Citrix Workspace App
+Tech Assistance, Asia
+T    +65 1800-780-5236 ext.14337
+Creation date: 2022-11-22 21:18:53 work_notes: Work note taken from the  Parent Incident: Hi Ram,
+
+Thanks for contacting us and sharing your input. This week Anurag is on leave, therefore I am keeping an eye on this case in his absence. 
+
+Our internal actual team is actively working on this problem based on the internal communication I have seen. We requested that the latest version of CWA be installed because it contains some comparable and desired fixes 1) to determine  if those solutions  might take care of your problem and 2) if not, collect fresh logs with this updated version and continue your efforts to find a solution. 
+
+To move on with a solution, we must collect an additional batch of logs. This does not imply  that you will have to hold off till the introduction of a new version. By examining the logs, we might be able to identify a fix without needing to update CWA. Having stated that, obtaining a new CWA version with remedy would be necessary if we discover that it is a bug. 
+
+I am sorry for the delay in finding a solution and thank you for your patients as we work towards one. In order for me to give them to our internal team and continue  working toward a solution, I would appreciate it if you could gather another batch of logs and upload them for the time being. 
+
+Best Regards,
+Rishabh Meher
+Lead Escalation Engineer
+Citrix Tech Assistance
+----------------------------------------
+From: Ram Shukla [ram.shukla@fom.com]
+Sent: 11/20/2022 1:17 PM
+To: virat.kohli@citrix.com
+Cc: techassistance@citrix.com; mahendra.singh@fom.com
+Sub: Re: Citrix Case 83225501 - Problem using CWA Chrome to access MS Teams [ ref:_00E122M7V._1328z1hrWct:ref  ]
+Good afternoon!
+I was finally able to update the Citrix Workspace app to 33.10.0.10, but I still face the error message when I try to connect to a Teams meeting: It appears that the camera preview is linked because I can see myself there, but when I try to join the meeting, I get the " sorry, we couldn't connect you screen" message again.
+Apart than gathering logs and waiting for a new version of the Citrix Workspace, is there anything further we can do? I've tried the Citrix version 4 times now, and each time I get the same issue.
+Ram Shukla
+------------------------------------------------------------
+From: Virat Kohli <virat.kohli@citrix.com>
+Date: Tuesday, November 15, 2022 at 2:12 PM
+To: Ram Shukla <ram.shukla@fom.com>
+Cc: techassistance@citrix.com <techassistance@citrix.com>
+Subject: Re: Citrix Case 83225501 - Problem using CWA Chrome to access MS Teams  [ ref:_00E122M7V._1328z1hrWct:ref ]
+Hello Ram,
+I greatly appreciate the update you have provided. Kindly inform me once you've had a chance to test the updated version, and if you have any queries.
+Thanks,
+--Virat
+NOTE:  Upcoming leaves Nov 17-27
+Virat Kohli
+Senior Escalation Engineer | Citrix Workspace App
+Tech Assistance, Asia
+T    +1 800-414-8719 ext.24502
+
+------------------------------------------------------------
+From: Ram Shukla [ram.shukla@fom.com]
+Sent: 11/15/2022 1:04 PM
+To: virat.kohli@citrix.com
+Cc:  techassistance@citrix.com
+Subject: Re: Citrix Case 83225501 -  Problem using CWA Chrome to access MS Teams [ ref:_00E122M7V._1328z1hrWct:ref ]
+Hi!
+I'm working on this at the office today, but I'm having trouble getting the app to update. As it's a managed Chromebook, I'm not able to update it myself. I believe I have to wait for the administrator to push the update. I will get in touch with the administrator to ask him to push it to the device, but he is on leave right now.  Once it has been updated and I have made an effort to replicate the error, I will email you back.
+Thanks!
+Ram Shukla
+Creation date: 2022-12-01 22:35:09 work_notes: Work note replicated from the Parent Incident: Logs were acquired and forwarded to Citrix.

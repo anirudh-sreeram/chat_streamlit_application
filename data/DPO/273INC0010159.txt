@@ -1,0 +1,235 @@
+A case was opened with a short description of Require info on logs : BW 9 PROD
+A longer description includes Hello Team,
+
+Any update on this ?
+
+We have encountered the same scenario in prod.
+
+Please check the logs from 25th to 6 th April and verify back.
+
+Thank you,
+Linda
+
+From: Linda Grant 3
+Sent: Thursday, March 30, 2022 12:40 AM
+To: $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: Require info on logs : BW 9 PROD
+
+Hello Team,
+
+Could you please verify if someone removed any entry on below mentioned DB/table from 24th  to 26th March.
+
+DB name : AASBL010.am.corp.com
+Table name : EXCEPTIONRECORD
+
+Thank you,
+Linda
+
+
+
+
+
+Creation date: 2023-04-06 10:17:37 comments: Hi Hasan,
+
+On AASBL010 server, we didn't face any DB-related issues, and we didn't end any long-running processes.
+
+Thank you & Regards,
+Thea Mccall
+
+
+
+
+From: Hasan Owens <Hasan.Owens@ameren.com> 
+Sent: Wednesday, April 5, 2022 1:09 PM
+To: Cai Hampton<Cai.Hapmton@ameren.com>; Linda Grant 3<Linda.Grant@ameren.com>; $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: RE: Need logs info : BW 9 PROD
+
+Hello Cai,
+
+Are there any long running processes that have been ended ?? Or do we have any other issues identified?
+
+
+Thank you,
+Hasan Owens
+
+
+
+From: Cai Hampton<Cai.Hapmton@ameren.com> 
+Sent: Wednesday, April 5, 2022 10:34 AM
+To: Linda Grant 3<Linda.Grant@ameren.com>; $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: RE: Need logs info : BW 9 PROD
+
+Hello Linda,
+
+We did not enable database Audit for DDL or DML operations on this server , so we can not find if the records removed from the table.
+We can verify , we have not received any request to remove the records from this DB server.
+
+Warm Regards,
+Cai
+
+From: Linda Grant 3<Linda.Grant@ameren.com> 
+Sent: Wednesday, April 5, 2022 9:29 AM
+To: $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: RE: Need logs info : BW 9 PROD
+
+Hi Team,
+
+Any update on this ?
+
+We have again noticed the same scenario in prod.
+
+Please look into the logs from 24th to 6 th April and verify back.  
+
+INC0988863 has been raised for the same for tracking purpose .
+
+Thank you,
+Linda 
+
+From: Linda Grant 3
+Sent: Thursday, March 30, 2022 11:40 AM
+To: $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: Need logs info : BW 9 PROD
+
+Hello  Team,
+
+Could you please verify if someone removed any entry on below mentioned DB/table from 24th  to 26th March.
+
+DB name : AASBL010.am.corp.com
+Table name : EXCEPTIONRECORD
+
+Thank you,
+Linda
+Creation date: 2023-04-07 16:28:07 comments: Hi Hasan,
+
+Below issue does not point out what specific DB error you are running into other than "INSERTEXCEPTIONRECORD - Store Procedure failed". We require better detail on what that exception code "ABBServices_0004" is telling.
+
+Best Regards,
+Amanda
+
+From: Hasan Owens <Hasan.Owens@ameren.com> 
+Sent: Friday, April 7, 2022 10:51 AM
+To: Thea Mccall <Thea.Mccall@ameren.com>; Cai Hampton<Cai.Hapmton@ameren.com>; Linda Grant 3<Linda.Grant@ameren.com>; $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: RE: Require info on logs : BW 9 PROD
+Importance: High
+
+Also following up on this because it is a PROD issue.
+
+Please let us know if you require any extra details from us.
+
+
+Thank you,
+Hasan Owens
+
+
+
+From: Hasan Owens 
+Sent: Thursday, April 6, 2022 10:17 AM
+To: Thea Mccall <Thea.Mccall@ameren.com>; Cai Hampton<Cai.Hapmton@ameren.com>; Linda Grant 3<Linda.Grant@ameren.com>; $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: RE: Require info on logs : BW 9 PROD
+Importance: High
+
+Hi Hasan/DBA,
+
+We would also like your team to check the DB logs and see if we have any timeouts logged for 3/31 between 12am -1pm
+
+Can you also check why the stored procedure INSERTEXCEPTIONRECORD is failing?
+
+
+2022-04-03 08:11:04.602 INFO  [bwEngThread:In-Memory Process Worker-4] com.tibco.bw.palette.generalactivities.Log.com.tibco.cle.jms.server.Log - InsertExceptionRequest - Failed Log: INSERTEXCEPTIONREC - Store Procedure failed for applicationid = SEP_ASB and exceptioncode = ABBServices_0004
+
+
+
+
+
+Thank you,
+Hasan Owens
+
+
+
+From: Thea Mccall <Thea.Mccall@ameren.com> 
+Sent: Thursday, April 6, 2022 6:17 AM
+To: Hasan Owens <Hasan.Owens@ameren.com>; Cai Hampton<Cai.Hapmton@ameren.com>; Linda Grant 3<Linda.Grant@ameren.com>; $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: RE: Require info on logs : BW 9 PROD
+
+Hello Hasan,
+
+On AASBL010 server, we didn't face any DB-related issues, and we didn't end any long-running processes.
+
+Thanks & Regards,
+Thea Mccall
+
+
+
+
+From: Hasan Owens <Hasan.Owens@ameren.com> 
+Sent: Wednesday, April 5, 2022 2:09 PM
+To: Cai Hampton<Cai.Hapmton@ameren.com>; Linda Grant 3<Linda.Grant@ameren.com>; $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: RE: Require info on logs : BW 9 PROD
+
+Hi Cai,
+
+Do we have any long running processes that have been ended ?? Or was any error identified?
+
+
+Thank you,
+Hasan Owens
+
+
+
+From: Cai Hampton<Cai.Hapmton@ameren.com> 
+Sent: Wednesday, April 5, 2022 9:34 AM
+To: Linda Grant 3<Linda.Grant@ameren.com>; $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: RE: Need logs info : BW 9 PROD
+
+Hello Linda,
+
+We have disabled database Audit for DDL or DML operations on this server , so we can not find if the records removed from the table.
+We can verify , we haven't received any request to remove the records from this DB server.
+
+Warm Regards,
+Cai
+
+From: Linda Grant 3<Linda.Grant@ameren.com> 
+Sent: Wednesday, April 5, 2022 9:29 AM
+To: $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: RE: Require info on logs : BW 9 PROD
+
+Hi Team,
+
+Any update on this ?
+
+We have again observed the same scenario in prod.
+
+Please check the logs from 25th to 6 th April and verify back.  
+
+For tracking purpose INC0988863 has been raised for the same .
+
+Thank you,
+Linda 
+
+From: Linda Grant 3
+Sent: Thursday, March 30, 2022 10:40 AM
+To: $HAL DDB DBA <HALDDBDBA@ameren.com>
+Cc: $HAL ASB TIBCO <$HALASBTIBCO@ameren.com>
+Subject: Require info on logs : BW 9 PROD
+
+Hello  Team,
+
+Could you please verify if someone removed any entry on below mentioned DB/table from 24th  to 26th March.
+
+DB name : AASBL010.am.corp.com
+Table name : EXCEPTIONRECORD
+
+Thank you,
+Linda

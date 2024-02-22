@@ -1,0 +1,61 @@
+A case was opened with a short description of Stuck Automatic Repair, HQ PC
+A longer description includes Stuck Automatic Repair
+
+
+
+
+Creation date: 2022-12-05 15:31:24 work_notes: Stuck Automatic Repair
+KB0167823
+The user is claiming that the Automatic Repair screen is where their computer is stuck
+I experienced 0% packet loss when pinging the PC
+The user reports that when the computer attempts to run automated repair, it fails and displays an error message with a restart or advanced settings option.
+Had user restart PC, same issue.
+Has user turned off and back on PC with same problem. User shut off PC, bypassed phone so that PC to data joke was connected directly over Ethernet, tried again, same result.
+Asset Tag: P109982
+IP Address: 11.288.32.21
+Ping statistics for 11.288.32.21:
+    Packets: Sent = 5, Received = 0, Lost = 5 (100% loss),
+the call ended when the user was advising them to reconnect the network cable
+Creation date: 2022-12-05 15:40:55 work_notes: Contacted the user at 16199596712, stated she would be sticking with Tick for TS, and was with them
+Creation date: 2022-12-05 15:43:45 work_notes: User contacted back after being disconnected; after doing so, she was still unable to ping the computer. She tried connecting the computer directly to the wall and bypassing the phone, but the message remained the same. The phone automatically repaired itself, and the user had no other computers available to use as network cables for testing
+Creation date: 2022-12-05 15:47:12 work_notes: If you used the cable that came with the PC to check the network, try using the one that came with the phone instead, going straight from the data jack to the PC and avoiding the phone.
+If problem continues and booting to automated repair continues, the exact location (building/floor/dept), good callback, send up a ticket.
+Creation date: 2022-12-05 15:56:40 work_notes: The user was instructed by ll lory in infra to use the network instead of the phone, either by connecting the phone to the wall or the computer via a cable.
+Unable to ping the computer after removing the phone and connecting the network wire to the wall, the user continues to receive the automated repair notice
+
+Sungan Mills MN HQ - floor 3rd, underwriting dept
+Creation date: 2022-12-05 16:08:52 work_notes: SCheey 2022-12-04 9:08:52
+EUX, please help.
+Creation date: 2022-12-05 19:07:06 work_notes: From: Mayank Agarwal 
+Sent: Sunday, December 4, 2022 12:07 PM
+To: Nayana Reddy <nayana.reddy@mmn.com>
+Subject: Computer
+
+Hi,
+
+Regarding the start-up repair of your computer -- I have a ticket for you. Are you using a different one or were you able to get it to work?
+
+
+Mayank Agarwal
+Technology Support Analyst
+612-699-1276
+Creation date: 2022-12-05 21:19:49 work_notes: A caller requested an update. User was advised that this is now at EUX and that they had contacted them for troubleshooting.
+Creation date: 2022-12-05 22:31:38 work_notes: Common troubleshooting
+
+Replacement for Kiosk.
+
+From: Nayana Reddy <nayana.reddy@mmn.com> 
+Sent: Sunday, December 4, 2022 2:36 PM
+To: Mayank Agarwal <mayank.agarwal@mmn.com>
+Subject: RE: Computer
+
+We have additional computers, and I managed to log in on one of them. so that the ticket can be closed. 
+
+Right now, all I need help with is getting my two monitors adjusted. Instead of just switching between screens, I have to drag my mouse to the outside of the monitor. I know it's a quick fix, but I don't know how to do it. 
+
+From: Mayank Agarwal <mayank.agarwal@mmn.com> 
+Sent: Sunday, December 4, 2022 2:30 PM
+To: Nayana Reddy <nayana.reddy@mmn.com>
+Subject: RE: Computer
+
+Can you utilize that computer tomorrow? Normally, I don't come into work until Tuesday.

@@ -1,0 +1,105 @@
+A case was opened with a short description of Kentico Database for PSA Enrollment: Missing Data
+A longer description includes Kentico missing data. Data from the July and August 2021 for PSA enrollments are required. This request for our CSPM Code of Conduct Annual Report is urgent.
+
+
+
+
+Creation date: 2023-04-18 14:38:24 comments: Kentico missing data. For PSA Enrollments, we need information from July and August 2020. This is an urgent request for our CSPM Code of Conduct Annual Report.
+Creation date: 2023-04-18 14:45:30 work_notes: Hi Team,
+BP need data from kentico database from July and Aug 2020
+specifically ASPUser_addressData 
+please assist BP
+Creation date: 2023-04-25 18:35:20 work_notes: Thanks. We will process this tonight.
+
+From: Jaydon A.Combs <Jaydon.A.Combs@wecenergy.com> 
+Sent: Tuesday, April 18, 2021 5:20 PM
+To: Faisal R.Summers <Faisal.Summers@wecenergy.com>; Ronan U. Soto<Ronan.Soto@wecenergy.com>; Yusuf Clark <Yusuf.Clark@wecenergy.com>
+Cc: STEVIA I.MELTON <STEVIA.MELTON@wecenergy.com>; Carter G.Pineda <CARTER.PINEDA@wecenergy.com>; $HP Firebase DBA <HPFirebaseDBA@wecenergy.com>; Stevie Q.Melton <STEVIA.MELTON@wecenergy.com>; Todd Bishop 2<Todd.Bishop2@wecenergy.com>; Uzair R.Phelps <Uzair.Phelps@wecenergy.com>; Todd Bishop<Todd.Bishop@wecenergy.com>; Jayson Estrada<Jayson.Estrada-new@wecenergy.com>; Zakir S.Garza <Zakir.Garza@wecenergy.com>; Kenny Bean <Kenny.Bean@wecenergy.com>; Duncan Cardenas <Duncan.Cardenas@wecenergy.com>; Sebastien I.Lindsay <SEBASTIAN.LINDSAY@wecenergy.com>; Todd Bishop<Todd.Bishop@wecenergy.com>
+Subject: RE: URGENT -RE: Kentico DB dump - INC3015680 
+
+Yes, I just made sure he still had access.
+
+Jaydon 
+
+From: Faisal R.,Summers <Faisal.Summers@wecenergy.com> 
+Sent: Tuesday, April 18, 2021 5:17 PM
+To: Ronan U. Soto<Ronan.Soto@wecenergy.com>; Yusuf Clark <Yusuf.Clark@wecenergy.com>
+Cc: STEVIA I.MELTON <STEVIA.MELTON@wecenergy.com>; Jaydon A.Combs <Jaydon.A.Combs@wecenergy.com>; Carter G.Pineda <CARTER.PINEDA@wecenergy.com>; $HP Firebase DBA <HPFirebaseDBA@wecenergy.com>; Stevie Q.Melton <STEVIA.MELTON@wecenergy.com>; Todd Bishop 2<Todd.Bishop2@wecenergy.com>; Uzair R.Phelps <Uzair.Phelps@wecenergy.com>; Todd Bishop<Todd.Bishop@wecenergy.com>; Jayson Estrada<Jayson.Estrada-new@wecenergy.com>; Zakir S.Garza <Zakir.Garza@wecenergy.com>; Kenny Bean <Kenny.Bean@wecenergy.com>; Duncan Cardenas <Duncan.Cardenas@wecenergy.com>; Sebastien I.Lindsay <SEBASTIAN.LINDSAY@wecenergy.com>; Todd Bishop<Todd.Bishop@wecenergy.com>
+Subject: RE: URGENT -RE: Kentico DB dump - INC3015680 
+
+The data-provider from earlier, Yusuf Clarke, is presently off duty and will work tonight. Doe he still have access to the sharepoint location below?
+
+Energy_service - Market - Web_Data - All_Documents (sharepoint.com)
+
+Best Regards,
+Faisal
+
+From: Ronan U. Soto<Ronan.Soto@wecenergy.com> 
+Sent: Tuesday, April 18, 2021 12:53 AM
+To: $HP ORA DBA <HPORADBA@wecenergy.com>
+Cc: STEVIA I.MELTON <STEVIA.MELTON@wecenergy.com>; Jaydon A.Combs <Jaydon.A.Combs@wecenergy.com>; Carter G.Pineda <CARTER.PINEDA@wecenergy.com>; Stevie Q.Melton <STEVIA.MELTON@wecenergy.com>; Todd Bishop 2<Todd.Bishop2@wecenergy.com>; Uzair R.Phelps <Uzair.Phelps@wecenergy.com>; Todd Bishop<Todd.Bishop@wecenergy.com>; Jayson Estrada<Jayson.Estrada-new@wecenergy.com>; Zakir S.Garza <Zakir.Garza@wecenergy.com>; Kenny Bean <Kenny.Bean@wecenergy.com>; Duncan Cardenas <Duncan.Cardenas@wecenergy.com>; Sebastien I.Lindsay <SEBASTIAN.LINDSAY@wecenergy.com>; Todd Bishop<Todd.Bishop@wecenergy.com>
+Subject: RE: URGENT -RE: Kentico DB dump - INC3015680 
+
+Hello Faisal/DBA Team,
+
+As discussed, Business need data from 1st July 2020  28th Aug 2020. Similar work was completed last year using RITM0238640.
+
+I have prepared new ticket for DBA team RITM7675050. If you have any queries, kindly contact me, and assist in spreading this information right away.
+
+Server Name: Listener name - TISAP002
+Database Name: CEASP_site,
+Table Name 2: ASP_Enrollment_UserData
+Table Name 2: ASPUser_AddressData
+Similar work was completed and old request no. was  (RITM0238640) .
+Business Need Data from 1st July2020 - 28th Aug 2020
+Please share the information with Carter G.Pineda CARTER.PINEDA@wecenergy.com and Jaydon heather.p.attisha@wecenergy.com
+or you can add data to below share point location.
+
+Energy_service - Market - Web_Data - All_Documents (sharepoint.com)
+
+
+Thanks,
+Ronan.Soto
++1-964-852-5294
+
+From: Jaydon A.Combs <Jaydon.A.Combs@wecenergy.com> 
+Sent: Tuesday, April 18, 2021 11:39 AM
+To: Ronan U. Soto<Ronan.Soto@wecenergy.com>; Carter G.Pineda <CARTER.PINEDA@wecenergy.com>; Stevie Q.Melton <STEVIA.MELTON@wecenergy.com>; Todd Bishop 2<Todd.Bishop2@wecenergy.com>; Uzair R.Phelps <Uzair.Phelps@wecenergy.com>; Todd Bishop<Todd.Bishop@wecenergy.com>; Jayson Estrada<Jayson.Estrada-new@wecenergy.com>; Zakir S.Garza <Zakir.Garza@wecenergy.com>; Kenny Bean <Kenny.Bean@wecenergy.com>; Duncan Cardenas <Duncan.Cardenas@wecenergy.com>
+Cc: STEVIA I.MELTON <STEVIA.MELTON@wecenergy.com>
+Subject: RE: URGENT -RE: Kentico DB dump - INC3015680 
+Importance: High
+
+I have prepared incident ticket INC0563980
+
+From: Ronan U. Soto<Ronan.Soto@wecenergy.com> 
+Sent: Tuesday, April 18, 2021 11:28 AM
+To: Jaydon A.Combs <Jaydon.A.Combs@wecenergy.com>; Carter G.Pineda <CARTER.PINEDA@wecenergy.com>; Stevie Q.Melton <STEVIA.MELTON@wecenergy.com>; Todd Bishop 2<Todd.Bishop2@wecenergy.com>; Uzair R.Phelps <Uzair.Phelps@wecenergy.com>; Todd Bishop<Todd.Bishop@wecenergy.com>; Jayson Estrada<Jayson.Estrada-new@wecenergy.com>; Zakir S.Garza <Zakir.Garza@wecenergy.com>; Kenny Bean <Kenny.Bean@wecenergy.com>; Duncan Cardenas <Duncan.Cardenas@wecenergy.com>
+Cc: STEVIA I.MELTON <STEVIA.MELTON@wecenergy.com>
+Subject: RE: URGENT -RE: Kentico DB dump - INC3015680 
+
+Hello Jaydon,
+
+We are checking on it. Could you please make incident ticket. 
+
+Thanks,
+Ronan.Soto
++1-964-852-5294
+
+From: Jaydon A.Combs <Jaydon.A.Combs@wecenergy.com> 
+Sent: Tuesday, April 18, 2021 11:00 AM
+To: Carter G.Pineda <CARTER.PINEDA@wecenergy.com>; Stevie Q.Melton <STEVIA.MELTON@wecenergy.com>; Todd Bishop 2<Todd.Bishop2@wecenergy.com>; Uzair R.Phelps <Uzair.Phelps@wecenergy.com>; Todd Bishop<Todd.Bishop@wecenergy.com>; Jayson Estrada<Jayson.Estrada-new@wecenergy.com>; Zakir S.Garza <Zakir.Garza@wecenergy.com>; Kenny Bean <Kenny.Bean@wecenergy.com>; Duncan Cardenas <Duncan.Cardenas@wecenergy.com>
+Cc: Ronan U. Soto<Ronan.Soto@wecenergy.com>; STEVIA I.MELTON <STEVIA.MELTON@wecenergy.com>
+Subject: URGENT -RE: Kentico DB dump - INC3015680 
+Importance: High
+
+Hi,
+
+We need a data request TODAY for the Annual Report. We need data from Kentico from July 2020 and August 2020.  It appears he Kentico Database dump was for 2019 up to 6/30/2020. 
+
+The t-code that was generated and contains data beginning Aug.28,2020.
+
+If you have any questions or queries please let me know.
+
+
+Jaydon
+Jaydon A.Combs | WEC Energy

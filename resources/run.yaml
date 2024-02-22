@@ -1,0 +1,32 @@
+preemptable: true
+restartable: true
+
+data:
+  - snow.core_llm.home:/mnt/core_llm
+  - snow.core_llm.akshay:/mnt/akshay
+  - snow.core_llm.toby:/mnt/toby
+  # - snow.task_intel_org.home:/mnt/home
+  # - snow.atg_platform_account.storage:/mnt/atg_platform
+
+resources:
+  mem: 128
+  cpu: 2
+  gpu: 1
+  gpuMem: 80
+
+name: starcoderplus_sgd_08_14
+
+command:
+    - text-generation-launcher
+    - --port
+    - 8080
+    - --max-input-length
+    - 8191
+    - --max-total-tokens
+    - 8192
+    - --weights-cache-override
+    - /mnt/core_llm/models/cache
+    - --huggingface-hub-cache
+    - /mnt/core_llm/models/cache
+    - --model-id
+    - /mnt/toby/models/sgd_08_14

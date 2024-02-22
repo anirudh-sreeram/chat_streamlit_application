@@ -1,0 +1,183 @@
+A case was opened with a short description of  I need to back access to server DMINP431 -calculates gas customers for JST 
+A longer description includes  I need to back access to server DMINP431 -calculates gas customers for JST 
+
+-bp cannot access the below server with the information, while he could on the previous computer. please check the attached 
+
+DMINP431
+272.268.120.4
+272.268.120.5
+
+PC86631
+617-516-6641
+
+
+
+
+
+Creation date: 2023-04-13 19:06:32 work_notes: Incident has been raised on behalf of Jackson B ROBERT from CALL0850319
+Creation date: 2023-04-18 11:56:27 work_notes: Please assist BP. thanks.
+
+
+
+From: VARAPRASAD DINAKAR 1 <VARAPRASAD.DINAKAR@jstenergy.com> 
+Sent: Sunday, April 16, 2023 3:39 PM
+To: Kate Krurz <Kate.Krurz@jstenergy.com>; Mahesh V. Nanda <Mahesh.Nanda@jstenergy.com>; Jackson B. ROBERT <Jackson.ROBERT@jstenergy.com>; Avinash K. Kumar <Avinash.K.Kumar@jstenergy.com>; Abhi Varma 3 <Abhi.Varma3@jstenergy.com>; $RSTeam <$RSTeam@jstenergy.com>; Pluto L. Honier <Pluto.Honier@jstenergy.com>; Jack C. Bratt <Jack.Bratt@jstenergy.com>; $SEDBA <$SEDBA@jstenergy.com>
+Cc: $HAL JAVA DBA <HAL JAVA DBA@jstenergy.com>; Avinash Guraja <Avinash.Guraja@jstenergy.com>; Rishi  B. Martt <Rishi .Martt@jstenergy.com>; Avinash S. Murthy <Avinash.Murthy@jstenergy.com>
+Subject: RE: P4:Your group has been allocated incident INC1990231
+
+Kate, 
+
+Our internal database name, "DMINP431," is not linked with any JE servers or databases. One  important thing to note is that all the servers are hosted at Cognizant and you can access them through the following 
+
+Primary IP address: 274.106.57.258 / 292.168.120.8 (private)
+Primary IP address: 274.106.57.229/ 292.168.120.9 (private)
+
+As I wrote before, Jenifer Robert was not able to connect to the servers and applications in their new laptop, while previously they could. 
+
+
+
+Thanks,
+
+Varaprasad
+VARAPRASAD DINAKAR
+Cell: 517-543-9721|Open chat!
+
+From: Kate Krurz <Kate.Krurz@jstenergy.com> 
+Sent: Sunday, April 16, 2023 3:29 PM
+To: VARAPRASAD DINAKAR 1 <VARAPRASAD.DINAKAR@jstenergy.com>; Mahesh V. Nanda <Mahesh.Nanda@jstenergy.com>; Jackson B. ROBERT <Jackson.ROBERT@jstenergy.com>; Avinash K. Kumar <Avinash.K.Kumar@jstenergy.com>; Abhi Varma 3 <Abhi.Varma3@jstenergy.com>; $RSTeam <$RSTeam@jstenergy.com>; Pluto L. Honier <Pluto.Honier@jstenergy.com>; Jack C. Bratt <Jack.Bratt@jstenergy.com>; $SEDBA <$SEDBA@jstenergy.com>
+Cc: $HAL JAVA DBA <HAL JAVA DBA@jstenergy.com>; Avinash Guraja <Avinash.Guraja@jstenergy.com>; Rishi  B. Martt <Rishi .Martt@jstenergy.com>
+Subject: RE: P4:Your group has been allocated incident INC1990231
+
+Please ping DMINP431 from your PC, before you do that.
+
+
+Kate Krurz
+JST Energy
+Kate.Krurz@jstenergy.com
+517.788.1616
+CONFIDENTIAL INFORMATION: This email is JST Energy/JST Energy Company s property and may contain confidential/privileged materials for the only the intended recipient s usage. We strictly prohibit any review, use, distribution or disclosure by others. If you are not the intended receiver (and not authorized to receive for the receiver), please contact the sender and delete all copies of the message with any attachments. Thank you
+We are passionate about creativity.
+
+From: VARAPRASAD DINAKAR 1 <VARAPRASAD.DINAKAR@jstenergy.com> 
+Sent: Sunday, April 16, 2023 3:28 PM
+To: Mahesh V. Nanda <Mahesh.Nanda@jstenergy.com>; Jackson B. ROBERT <Jackson.ROBERT@jstenergy.com>; Avinash K. Kumar <Avinash.K.Kumar@jstenergy.com>; Abhi Varma 3 <Abhi.Varma3@jstenergy.com>; $RSTeam <$RSTeam@jstenergy.com>; Pluto L. Honier <Pluto.Honier@jstenergy.com>; Jack C. Bratt <Jack.Bratt@jstenergy.com>; $SEDBA <$SEDBA@jstenergy.com>
+Cc: $HAL JAVA DBA <HAL JAVA DBA@jstenergy.com>; Avinash Guraja <Avinash.Guraja@jstenergy.com>; Rishi  B. Martt <Rishi .Martt@jstenergy.com>; Kate Krurz <Kate.Krurz@jstenergy.com>
+Subject: RE: P4:Your group has been assigned incident INC1990231
+
+Jenifer,
+
+Mahesh, could you please raise the ticket to the Cybersecurity team? We need to ensure that @Jackson B. ROBERT, the user of the servers and applications is able to utilize them. 
+
+Thanks,
+
+Vasaprasad
+VARAPRASAD DINAKAR
+Cell: 517-745-9721|Open chat!
+
+From: Mahesh V. Nanda <Mahesh.Nanda@jstenergy.com> 
+Sent: Sunday, April 16, 2023 3:21 PM
+To: Avinash K. Kumar <Avinash.K.Kumar@jstenergy.com>; Abhi Varma 3 <Abhi.Varma3@jstenergy.com>; VARAPRASAD DINAKAR 1 <VARAPRASAD.DINAKAR@jstenergy.com>; Jackson B. ROBERT <Jackson.ROBERT@jstenergy.com>; $RSTeam <$RSTeam@jstenergy.com>; Pluto L. Honier <Pluto.Honier@jstenergy.com>; Jack C. Bratt <Jack.Bratt@jstenergy.com>; $SEDBA <$SEDBA@jstenergy.com>
+Cc: $HAL JAVA DBA <HAL JAVA DBA@jstenergy.com>; Avinash Guraja <Avinash.Guraja@jstenergy.com>; Rishi  B. Martt <Rishi .Martt@jstenergy.com>; Kate Krurz <Kate.Krurz@jstenergy.com>
+Subject: Re: P4:Your group has been assigned incident INC1990231
+
+Pluto / Jack,
+Do you know if these are setup on OT side?
+
+@VARAPRASAD DINAKAR 1,  cloud solution? I don't believe it was set on IT side. Cybersecurity will help you to open communication channels again to the new laptop, however you used to open communication before. IT does not manage IPS, thus we are unable to track the IPS down.
+
+Best Regards,
+Mahesh
+________________________________________
+From: Avinash K. Kumar <Avinash.K.Kumar@jstenergy.com>
+Sent: Sunday, April 16, 2023 2:44 PM
+To: Abhi Varma 3 <Abhi.Varma3@jstenergy.com>; Mahesh V. Nanda <Mahesh.Nanda@jstenergy.com>; VARAPRASAD DINAKAR 1 <VARAPRASAD.DINAKAR@jstenergy.com>; Jackson B. ROBERT <Jackson.ROBERT@jstenergy.com>; $RSTeam <$RSTeam@jstenergy.com>; Pluto L. Honier <Pluto.Honier@jstenergy.com>; Jack C. Bratt <Jack.Bratt@jstenergy.com>; $SEDBA <$SEDBA@jstenergy.com>
+Cc: $HAL JAVA DBA <HAL JAVA DBA@jstenergy.com>; Avinash Guraja <Avinash.Guraja@jstenergy.com>; Rishi  B. Martt <Rishi .Martt@jstenergy.com>; Kate Krurz <Kate.Krurz@jstenergy.com>
+Subject: RE: P4:Your group has been assigned incident INC1990231
+ 
+These seem to be external servers because VPNs are not setup to internal servers right? And we don t have such IPs.  So as I at the original incident below it looks like you wanted to access to:
+ 
+DMINP431
+272.168.120.6
+272.168.120.7
+ 
+DMINP431 doesn t exist in our environment, but it might be the name of a DB, but you can't ping dminp011 and nslookup doesn t return anything.  
+ 
+Who would set up the VPN tunnel? Looks like the old laptop could access it whereas the new laptop cannot 
+
+From: Abhi Varma 3 <Abhi.Varma3@jstenergy.com> 
+Sent: Sunday, April 16, 2023 2:17 PM
+To: Mahesh V. Nanda <Mahesh.Nanda@jstenergy.com>; VARAPRASAD DINAKAR 1 <VARAPRASAD.DINAKAR@jstenergy.com>; Jackson B. ROBERT <Jackson.ROBERT@jstenergy.com>; $RSTeam <$RSTeam@jstenergy.com>; Pluto L. Honier <Pluto.Honier@jstenergy.com>; Jack C. Bratt <Jack.Bratt@jstenergy.com>; $SEDBA <$SEDBA@jstenergy.com>
+Cc: $HAL JAVA DBA <HAL JAVA DBA@jstenergy.com>; Avinash Guraja <Avinash.Guraja@jstenergy.com>; Rishi  B. Martt <Rishi .Martt@jstenergy.com>; Kate Krurz <Kate.Krurz@jstenergy.com>
+Subject: RE: P4:Your group has been assigned incident INC1990231
+ 
+It seems those are not our internal IP Addresses.
+ 
+From: Mahesh V. Nanda <Mahesh.Nanda@jstenergy.com> 
+Sent: Sunday, April 16, 2023 2:16 PM
+To: VARAPRASAD DINAKAR 1 <VARAPRASAD.DINAKAR@jstenergy.com>; Jackson B. ROBERT <Jackson.ROBERT@jstenergy.com>; $RSTeam <$RSTeam@jstenergy.com>; Pluto L. Honier <Pluto.Honier@jstenergy.com>; Jack C. Bratt <Jack.Bratt@jstenergy.com>; $SEDBA <$SEDBA@jstenergy.com>
+Cc: $HAL JAVA DBA <HAL JAVA DBA@jstenergy.com>; Avinash Guraja <Avinash.Guraja@jstenergy.com>; Rishi  B. Martt <Rishi .Martt@jstenergy.com>
+Subject: Re: P4:Your group has been assigned incident INC1990231
+ 
+TST team and JE DataBase,
+Do you know what these servers are?
+ 
+Primary IP address: 274.106.57.258 
+Primary IP address: 274.106.57.259
+ 
+Best Regards,
+Mahesh
+________________________________________
+From: VARAPRASAD DINAKAR 1 <VARAPRASAD.DINAKAR@jstenergy.com>
+Sent: Sunday, April 16, 2023 2:12 PM
+To: Jackson B. ROBERT <Jackson.ROBERT@jstenergy.com>
+Cc: $HAL JAVA DBA <HAL JAVA DBA@jstenergy.com>; Avinash Guraja <Avinash.Guraja@jstenergy.com>; Rishi  B. Martt <Rishi .Martt@jstenergy.com>
+Subject: RE: P4:Your group has been allocated incident INC1990231
+ 
+The server is hosted by Cognizant and has primary IP addresses. We have also set up a VPN tunnel to enable communication with these IPs. Jenifer was not able to communicate with the new laptop, while they were able to access through the old laptop.
+ 
+Primary IP address:  274.106.57.258 
+Primary IP address:  274.106.57.259
+ 
+Thanks,
+ 
+Shiva
+VARAPRASAD DINAKAR
+Cell: 517-745-9721|Open chat!
+ 
+From: Jackson B. ROBERT <Jackson.ROBERT@jstenergy.com> 
+Sent: Sunday, April 16, 2023 6:35 AM
+To: VARAPRASAD DINAKAR 1 <VARAPRASAD.DINAKAR@jstenergy.com>
+Cc: $HAL JAVA DBA <HAL JAVA DBA@jstenergy.com>; Avinash Guraja <Avinash.Guraja@jstenergy.com>; Rishi  B. Martt <Rishi .Martt@jstenergy.com>
+Subject: RE: P4:Your group has been assigned incident INC1990231
+ 
+Good Morning Varaprasad,
+ 
+Could you please respond to Avinash's question?
+ 
+Thank You,
+ 
+Jenifer
+ 
+From: Avinash Guraja <Avinash.Guraja@jstenergy.com> 
+Sent: Thursday, April 13, 2023 4:18 PM
+To: Jackson B. ROBERT <Jackson.ROBERT@jstenergy.com>
+Cc: $HAL JAVA DBA <HAL JAVA DBA@jstenergy.com>
+Subject: RE: P4:Your group has been assigned incident INC1990231
+ 
+Hi Jackson,
+ 
+Could you please provide us the Database server details and what type of access you need?
+ 
+Thanks & Regards,
+Avinash Guraja
+Creation date: 2023-04-18 20:09:22 comments: Request your help on this one Jack and Briston Barr has been engaged
+Creation date: 2023-04-18 20:09:46 work_notes: Customer has been notified with the update on the ticket
+______
+
+Notification: Sent Jackson Robert direct message in chat
+Recipient: Jackson Robert
+Ticket state actions: Ticket state not changed
+via: XPO [s2]
+Creation date: 2023-04-18 20:23:42 comments: Jackson B ROBERT informed to close the ticket
+
+via @XPO

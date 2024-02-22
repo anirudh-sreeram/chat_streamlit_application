@@ -1,0 +1,71 @@
+A case was opened with a short description of Create a request for adding or removing access to the SAP system.
+
+
+
+
+
+Creation date: 2022-10-10 15:09:52 work_notes: Automated proposals - Revise signatory 1 & 2
+Creation date: 2022-10-10 15:11:22 work_notes: From: Cabrera, Jayson <Jayson.Cabrera@stryker.com> 
+Sent: Montag, 11. Oktober 2022 16:50
+To: Cordova, Pearl <Pearl.Cordova@stryker.com>
+Cc: Rocha, Caspar <Caspar.Rocha@stryker.com>; Brady, Faith <Faith.Brady@stryker.com>; Damodar, Tejal <Tejal.Damodar@stryker.com>; Duncan, Armaan <Armaan.Duncan@stryker.com>; 
+Oakley, Blaese <Blaese.Oakley@stryker.com>
+Subject: RE: Automated proposals - authorized individuals in Switzerland.
+
+Hello, Pearl
+
+I appreciate your email and the enclosed revision of the signatories. Could you kindly create a ticket in Zendesk for this modification? It's important for us to have a ticket to fulfill our auditing obligations. Once you provide me with the ticket number, I will take responsibility for the necessary actions.
+
+I'm willing to conduct a session on the procedure, during which I can present a comprehensive SAP demonstration. Could you please specify the participants you'd prefer, and I will search for an appropriate date and time. 
+
+Warm Wishes.
+
+Jayson
+
+From: Cordova, Pearl <Pearl.Cordova@stryker.com> 
+Sent: Tuesday, October 11, 2022 3:33 PM
+To: Cabrera, Jayson <Jayson.Cabrera@stryker.com>
+Cc: Rocha, Caspar <Caspar.Rocha@stryker.com>; Brady, Faith <Faith.Brady@stryker.com>; Damodar, Tejal <Tejal.Damodar@stryker.com>; Duncan, Armaan <Armaan.Duncan@stryker.com>; Oakley, Blaese <Blaese.Oakley@stryker.com>
+Subject: Automated proposals - authorized individuals in Switzerland.
+
+Hi Jayson,I had a conversation last Friday with Armaan Duncan, our Senior Legal Counsel, and Blaese Oakley, our Finance Director.
+
+We kindly request to rearrange the order of signatory 1 and 2.
+Essentially, all contracts should initially be directed to me before proceeding to signature 2.
+
+Attached is the file containing the updated SAP configuration.
+Would you please implement these modifications?
+
+Additionally, we are inquiring whether there is an opportunity to arrange a 30-minute informational session regarding the automated process with either yourself or another knowledgeable individual who can provide an overview of the entire process and setup.
+As previously stated, I am uncertain about the individuals engaged in this procedure, but from my perspective, it appears that approximately half of the individuals listed in the attachment were unaware of this going live.
+
+Thank you once more for your generous assistance, and warm wishes, Pearl
+Creation date: 2022-10-10 15:47:07 comments: Hello, Pearl. Appreciate your ticket submission. I've included the file you emailed. I'll notify you once the SAP update is complete. 
+
+Appreciate you.
+Jayson
+Creation date: 2022-10-12 10:30:22 work_notes: Notes have been edited and updated. The change has been made from blank to 'Hello Pearl
+
+I've revised the authorized individuals to align with your requested modifications. I will arrange a distinct session to illustrate the entire procedure as per your request. It might need to take place in a few weeks since my current availability is restricted, and I have a week of leave approaching, but I will determine an appropriate date.
+I'll modify this ticket with the suggested solution. 
+
+Much appreciated.
+
+Jayson'.
+Creation date: 2022-10-12 10:30:22 comments: Hello Pearl
+
+I've revised the authorized individuals to align with your requested modifications. I will arrange a distinct session to illustrate the entire procedure as per your request. It might need to take place in a few weeks since my current availability is restricted, and I have a week of leave approaching, but I will determine an appropriate date.
+I'll modify this ticket with the suggested solution. 
+
+Much appreciated.
+
+Jayson
+Creation date: 2022-10-12 10:37:35 comments: Thank you very much, Jayson, for your generous assistance. Warm Wishes, Pearl.
+Creation date: 2022-10-12 10:39:46 work_notes: reply from: Pearl.Cordova@stryker.com
+Indeed, my concern has been addressed.
+void
+Creation date: 2022-10-12 11:20:49 work_notes: Indeed, my concern has been addressed.
+
+reply from: Pearl.Cordova@stryker.com
+Indeed, my concern has been addressed.
+void

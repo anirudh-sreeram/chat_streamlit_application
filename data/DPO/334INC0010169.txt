@@ -1,0 +1,329 @@
+A case was opened with a short description of Job AS66_P3_P02_D_TOSHIBA_CHA_IN_CH_PM failed in P02 system
+A longer description includes Job AS66_P3_P02_D_TOSHIBA_CHA_IN_CH_PM failed in P02 system. Kindly check:
+
+AS66_P3_P02_D_TOSHIBA_CHA_IN_CH_PM                              AUTOMIC       Canceled 03.03.2023 13:30:20               0            0
+
+
+
+
+Creation date: 2023-03-04 20:59:58 comments: given the role of support engineer.
+Creation date: 2023-03-05 05:12:02 comments: Hello Rico Weiss,
+We will keep you informed as we review these jobs.
+Creation date: 2023-03-05 06:02:02 work_notes: Attachment: Real timi-this is the attached image (18).png.
+Creation date: 2023-03-05 06:02:49 comments: Hello Team,
+We received notice that Walter P02 system jobs were unsuccessful from DETIRE: "No authorization was found for  authorization object in user master".
+For your reference, kindly refer to the screenshots provided. If you have any questions, please contact us.
+Creation date: 2023-03-05 06:04:44 work_notes: Attachment: Real timi-this is the attached image (16).png.
+Creation date: 2023-03-05 06:12:06 work_notes: A support engineer is assigned.
+Creation date: 2023-03-05 06:29:18 comments: examining it
+Creation date: 2023-03-05 06:29:18 work_notes: examining it
+Creation date: 2023-03-05 06:45:06 work_notes: The priority of this item is being lowered in accordance with our conversation with Bauer Kayne during a Teams screen-sharing call
+Creation date: 2023-03-05 06:45:06 comments: The priority of this item is being lowered in accordance with our conversation with Bauer Kayne during a Teams screen-sharing call
+Creation date: 2023-03-05 06:52:00 comments: Hello Rosie,
+
+Regarding the matter at hand, Bauer Kayne has asked to have his user ID's password reset : AUTOMIC  in P02 system. Please see the user information below:
+
+User Id: AUTOMIC
+User Type: System
+User Group: Super
+
+Please consider and give your permission so that this request may be processed.
+
+
+
+Regards and Thanks,
+ 
+Silva.Kane | Q&H DETIRE Security Support| Zain & Colon IT |
+Silva.Kane @zain-colon.com|
+Phone: +91 911 667 9865
+www.zain-colon.com
+OOO:
+Creation date: 2023-03-05 06:52:00 work_notes: Hello Rosie,
+
+Regarding the matter at hand, Bauer Kayne has asked to have his user ID's password reset : AUTOMIC  in P02 system. Please see the user information below:
+
+User Id: AUTOMIC
+User Type: System
+User Group: Super
+
+Please consider and give your permission so that this request may be processed.
+
+
+
+Regards and Thanks,
+ 
+Silva.Kane | Q&H DETIRE Security Support| Zain & Colon IT |
+Silva.Kane @zain-colon.com|
+Phone: +91 911 667 9865
+www.zain-colon.com
+OOO:
+Creation date: 2023-03-06 09:07:18 comments: Hello Silva Kane ,
+
+Avoid making any changes to the DETIRE P02 system's automatic password reset feature as they will affect a lot of automated tasks.
+Don't change your password, the basic team said.
+
+Please contact me with any questions so we can talk.
+Creation date: 2023-03-06 09:34:09 work_notes: Hello Rosie,
+
+Hope you're having a nice day.
+
+I appreciate your approval.
+
+Hello Todd,
+
+Hope you're having a nice day.
+
+We have a designated authorized role Y:ALL_TS3:TOSHI_SYS_USR to AUTOMIC in P02 so, Kindly verify and check.
+
+Regards & Thanks
+ 
+Zaina Vargas | DETIRE Security
+Zaina.Vargas-CTR@zain-colon.com
+Mobile: +91- 9897784087
+www.zain-colon.com
+Next OOO: 7th March 2023
+
+From: Tasneem, Hunt<Hunt.Tasneem @zain-colon.com> 
+Sent: Sunday, March 5, 2023 1:45 PM
+To: Vargas, Zaina  <Zaina.Vargas-CTR@zain-colon.com>; Donna, Morgan <Morgan.Donna @zain-colon.com>
+Cc: IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>; IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>; IT DETIRE - Basis-DL <upjbsis-DL@zain-colon.com>; Kayne, Bauer<Bauer.Kayne @zain-colon.com>; Rajan, Todd <Todd.Rajan @zain-colon.com>
+Subject: RE: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Please add the Y:ALL_TS3:TOSHI_SYS_USR role to AUTOMIC in P02. This should solve the problem.
+
+Warm regards,
+
+ 
+Hunt Tasneem | DETIRE Security Solution Architect | DETIRE Competency Center | Luwcaif, PL
+Mobile: +48 734 887 115
+Zain & Colon Sp. z o.o.
+Edreatbi Business House
+Ezekiel Morse-Sklodowskiej 13
+60-379 Luwcaif
+www.zain-colon.pl
+Next OOO: 
+
+From: Vargas, Zaina  <Zaina.Vargas-CTR@zain-colon.com> 
+Sent: Sunday, March 5, 2023 8:09 AM
+To: Donna, Morgan <Morgan.Donna @zain-colon.com>
+Cc: IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>; IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>; IT DETIRE - Basis-DL <upjbsis-DL@zain-colon.com>; Kayne, Bauer<Bauer.Kayne @zain-colon.com>; Tasneem, Hunt<Hunt.Tasneem @zain-colon.com>; Rajan, Todd <Todd.Rajan @zain-colon.com>
+Subject: RE: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Hello Morgan,
+It's acknowledged
+
+Regards & Thanks
+ 
+Zaina Vargas | DETIRE Security
+Zaina.Vargas-CTR@zain-colon.com
+Mobile: +91- 9897784087
+www.zain-colon.com
+Next OOO: 7th March 2023
+
+From: Donna, Morgan <Morgan.Donna @zain-colon.com> 
+Sent: Sunday, March 5, 2023 12:37 PM
+To: Vargas, Zaina  <Zaina.Vargas-CTR@zain-colon.com>; IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>
+Cc: IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>; IT DETIRE - Basis-DL <upjbsis-DL@zain-colon.com>; Kayne, Bauer<Bauer.Kayne @zain-colon.com>; Tasneem, Hunt<Hunt.Tasneem @zain-colon.com>; Rajan, Todd <Todd.Rajan @zain-colon.com>
+Subject: RE: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Hello Zaina,
+
+Will you please assist with this.
+
+
+
+Best Regards & Thanks, 
+  
+Morgan.Donna  | Q&H   LUPEN| DETIRE Security 
+Mobile   +91-9549657880 
+morgan.donna@zain-colon.com | www.zain-colon.com 
+Scheduled Leave To Come (ooo)  
+
+From: Rajan, Todd <Todd.Rajan @zain-colon.com> 
+Sent: Sunday, March 5, 2023 12:35 PM
+To: IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>
+Cc: IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>; Rajan, Todd <Todd.Rajan @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>; IT DETIRE - Basis-DL <upjbsis-DL@zain-colon.com>; Kayne, Bauer<Bauer.Kayne @zain-colon.com>; Tasneem, Hunt<Hunt.Tasneem @zain-colon.com>
+Subject: RE: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Hello Karim Team,
+
+A small number of jobs in the P02 system are being canceled, as we could see, because of Step user authorization issues: Automic.
+
+The step user was BATCH when the jobs were started straight from DETIRE. They are canceled, though, because they are now triggered by step user AUTOMIC after the migration to Automic. Please investigate and inform us of any roles that the BATCH user and the Automic user are missing?
+
+Regards & Thanks, 
+ 
+Todd.Rajan  | Q&H-DETIRE Basis Consultant 
+todd.rajan@zain-colon.com
+Mobile: +91-8966986711
+www.zain-colon.com
+
+
+From: Rajan, Todd <Todd.Rajan @zain-colon.com> 
+Sent: Sunday, March 5, 2023 12:30 PM
+To: Tasneem, Hunt<Hunt.Tasneem @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>
+Cc: IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>; IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>; IT DETIRE - Basis-DL <upjbsis-DL@zain-colon.com>; Kayne, Bauer<Bauer.Kayne @zain-colon.com>
+Subject: RE: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Hello Rosie,
+
+Please do not proceed with this request as the password appears to be active. We are following up with the Walter team and will return if necessary.
+
+ 
+
+Regards & Thanks, 
+ 
+Todd.Rajan  | Q&H-DETIRE Basis Consultant 
+todd.rajan@zain-colon.com
+Mobile: +91-8966986711
+www.zain-colon.com
+
+
+From: Kayne, Bauer<Bauer.Kayne @zain-colon.com> 
+Sent: Sunday, March 5, 2023 12:06 PM
+To: Tasneem, Hunt<Hunt.Tasneem @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>
+Cc: IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>; IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>
+Subject: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Hello Hunt,
+
+Please respond to this email request as soon as possible.
+
+Regards & Thanks,
+ 
+Bauer Kayne |  DETIRE Walter Analyst, DETIRE Walter RUN | Zain & Colon IT |
+bauer.kayne@zain-colon.com |
+Mobile :  +91 96306785812
+www.zain-colon.com
+Creation date: 2023-03-06 09:34:09 comments: Hello Rosie,
+
+Hope you're doing well.
+
+I appreciate your approval.
+
+Hello Todd,
+
+Hope you're doing well.
+
+We have a designated authorized role Y:ALL_TS3:TOSHI_SYS_USR to AUTOMIC in P02 so, kindly verify and check.
+
+Regards & Thanks
+ 
+Zaina Vargas | DETIRE Security
+Zaina.Vargas-CTR@zain-colon.com
+Mobile: +91- 9897784087
+www.zain-colon.com
+Next OOO: 7th March 2023
+
+From: Tasneem, Hunt<Hunt.Tasneem @zain-colon.com> 
+Sent: Sunday, March 5, 2023 1:45 PM
+To: Vargas, Zaina  <Zaina.Vargas-CTR@zain-colon.com>; Donna, Morgan <Morgan.Donna @zain-colon.com>
+Cc: IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>; IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>; IT DETIRE - Basis-DL <upjbsis-DL@zain-colon.com>; Kayne, Bauer<Bauer.Kayne @zain-colon.com>; Rajan, Todd <Todd.Rajan @zain-colon.com>
+Subject: RE: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Please add the Y:ALL_TS3:TOSHI_SYS_USR role to AUTOMIC in P02. This should solve the problem.
+
+Warm regards,
+
+ 
+Hunt Tasneem | DETIRE Security Solution Architect | DETIRE Competency Center | Luwcaif, PL
+Mobile: +48 734 887 115
+Zain & Colon Sp. z o.o.
+Edreatbi Business House
+Ezekiel Morse-Sklodowskiej 13
+50-379 Luwcaif
+www.zain-colon.pl
+Next OOO: 
+
+From: Vargas, Zaina  <Zaina.Vargas-CTR@zain-colon.com> 
+Sent: Sunday, March 5, 2023 8:09 AM
+To: Donna, Morgan <Morgan.Donna @zain-colon.com>
+Cc: IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>; IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>; IT DETIRE - Basis-DL <upjbsis-DL@zain-colon.com>; Kayne, Bauer<Bauer.Kayne @zain-colon.com>; Tasneem, Hunt<Hunt.Tasneem @zain-colon.com>; Rajan, Todd <Todd.Rajan @zain-colon.com>
+Subject: RE: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Hello Morgan,
+It's acknowledged
+
+Regards & Thanks
+ 
+Zaina Vargas | DETIRE Security
+Zaina.Vargas-CTR@zain-colon.com
+Mobile: +91- 9897784087
+www.zain-colon.com
+Next OOO: 7th March 2023
+
+From: Donna, Morgan <Morgan.Donna @zain-colon.com> 
+Sent: Sunday, March 5, 2023 12:37 PM
+To: Vargas, Zaina  <Zaina.Vargas-CTR@zain-colon.com>; IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>
+Cc: IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>; IT DETIRE - Basis-DL <upjbsis-DL@zain-colon.com>; Kayne, Bauer<Bauer.Kayne @zain-colon.com>; Tasneem, Hunt<Hunt.Tasneem @zain-colon.com>; Rajan, Todd <Todd.Rajan @zain-colon.com>
+Subject: RE: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Hello Zaina,
+
+Will you please assist with this.
+
+
+
+Best Regards & Thanks, 
+  
+Morgan Donna  | Q&H   LUPEN| DETIRE Security 
+Mobile   +91-9549657880 
+morgan.donna@zain-colon.com | www.zain-colon.com 
+Scheduled Leave To Come (ooo)  
+
+From: Rajan, Todd <Todd.Rajan @zain-colon.com> 
+Sent: Sunday, March 5, 2023 12:35 PM
+To: IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>
+Cc: IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>; Rajan, Todd <Todd.Rajan @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>; IT DETIRE - Basis-DL <upjbsis-DL@zain-colon.com>; Kayne, Bauer<Bauer.Kayne @zain-colon.com>; Tasneem, Hunt<Hunt.Tasneem @zain-colon.com>
+Subject: RE: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Hello Karim Team,
+
+A small number of jobs in the P02 system are being canceled, as we could see, because of Step user authorization issues: Automic.
+
+The step user was BATCH when the jobs were started straight from DETIRE. They are canceled, though, because they are now triggered by step user AUTOMIC after the migration to Automic. Please investigate and inform us of any roles that the BATCH user and the Automic user are missing?
+
+Regards & Thanks, 
+ 
+Todd Rajan  | Q&H-DETIRE Basis Consultant 
+todd.rajan@zain-colon.com
+Mobile: +91-8966986711
+www.zain-colon.com
+
+
+From: Rajan, Todd <Todd.Rajan @zain-colon.com> 
+Sent: Sunday, March 5, 2023 12:30 PM
+To: Tasneem, Hunt<Hunt.Tasneem @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>
+Cc: IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>; IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>; IT DETIRE - Basis-DL <upjbsis-DL@zain-colon.com>; Kayne, Bauer<Bauer.Kayne @zain-colon.com>
+Subject: RE: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Hello Rosie,
+
+Please do not proceed with this request as the password appears to be active. We are following up with the Walter team and will return if necessary.
+
+ 
+
+Regards & Thanks, 
+ 
+Todd.Rajan  | Q&H-DETIRE Basis Consultant 
+todd.rajan@zain-colon.com
+Mobile: +91-8966986711
+www.zain-colon.com
+
+
+From: Kayne, Bauer<Bauer.Kayne @zain-colon.com> 
+Sent: Sunday, March 5, 2023 12:06 PM
+To: Tasneem, Hunt<Hunt.Tasneem @zain-colon.com>; Kane, Silva <Silva.Kane @zain-colon.com>
+Cc: IT DETIRE RUN - Authorizations <it-detire-run-auth@zain-colon.com>; IT DETIRE - Basis-SM <upjbsis-SM@zain-colon.com>; Pippa, Walter<Walter.Pippa @zain-colon.com>
+Subject: INC1288954:DETIRE P02 batch automic tasks did not succeed .
+
+Hello Hunt,
+
+Please respond to this email request as soon as possible.
+
+Regards & Thanks,
+ 
+Bauer Kayne |  DETIRE Walter Analyst, DETIRE Walter RUN | Zain & Colon IT |
+bauer.kayne@zain-colon.com |
+Mobile :  +91 96306785812
+www.zain-colon.com

@@ -1,0 +1,206 @@
+A case was opened with a short description of Issue with the AVD Certificate
+A longer description includes Urgent that we address the certificate issues on the AVD gateway as it is causing connectivity problems for users
+
+
+
+
+Creation date: 2022-10-08 00:54:17 comments: I can be contacted by phone at 949-405-6319
+Creation date: 2022-10-08 02:02:02 work_notes: Roderick announced that the on-premises DC server was taken down today, yet also the CA server.  Issue was escalated to Microsoft.
+Creation date: 2022-10-08 03:37:37 comments: I haven't heard anything from Microsoft support yet. Have you seen updates, Freda?
+
+Mabel
+Creation date: 2022-10-08 03:50:15 comments: Hi Mabel,
+
+I have just contacted  Microsoft regarding this matter and a support engineer will be assigned soon.
+Creation date: 2022-10-08 05:11:56 comments: Still nothing from MS but there is an update on our end. It's working again. I checked the DNS for the Azure network because some other users were reporting different versions of the same issue. I got rid of the old DC which used to be the CA. i booted up the fresh host and we can all login now. Unsure if the problem was fixed because of first change or the second or a combination of the two changes
+
+The CA issue still needs to be resolved but at least users back in and working in AVD
+
+Mabel
+Creation date: 2022-10-08 05:59:28 comments: Hi Mabel,
+
+Nice to hear. I contacted them earlier so they could respond sometime tonight. Either way, I will leave the ticket open for now.
+Creation date: 2022-10-10 16:46:39 comments: 
+Morning,
+
+Checking in as we haven't heard anything yet. We were last informed on Thursday evening that a Microsoft engineer would be assigned to our case, but we did not hear anything over the weekend, so it remains pending. This is still urgent, so please provide us with updated information as soon as possible.
+
+
+Thanks,
+
+Patrick Robertson
+949-878-0788
+probertson@pavanet.com<mailto:probertson@pavanet.com>
+Creation date: 2022-10-10 18:00:24 work_notes: I don't have visibility on this MS escalation, so it will need to be directed to Freda Tran.
+Creation date: 2022-10-12 16:11:27 work_notes: The partner has called in and inquiring about a response as they not received any communication from Micrcosoft yet.
+Creation date: 2022-10-12 16:25:45 work_notes: I spoke with Patrick, and we have visibility on the email thread but not the support ticket in azure. sent an email on the existing thread and also reached out to premier support asking for a callback.
+Creation date: 2022-10-12 21:08:41 work_notes: at the moment, can't access the Azure ticket within the portal. Opened another ticket with Microsoft.
+
+Creation date: 2022-10-12 21:10:27 work_notes: Afternoon, Anita
+
+Please inform me of your availability for the meeting or if you would prefer to reschedule. Thank you.
+
+
+Margarito Baxter
+Support Analyst
+Microsoft Cloud Identity
+Office: +1 469-886-2366
+v-mbaxter@microsoftsupport.com
+Business hours: M-F 10 am   7 pm (US Central)
+Technical Lead | Advisor Myron.Kramer@Microsoft.com
+Backup | Jocelyn Davila (v-jocelyndavila@Microsoft.com)
+Manager | Noemi Lang Noemi.Lang@Microsoft.com
+
+ 
+
+From: Anita T. Summer <Anita.Summer@lezasi.com> 
+Sent: Monday, October 10, 2022 1:39 PM
+To: Microsoft Support <supportmail@Microsoft.com>; Microsoft Support <supportmail@Microsoft.com>; Brenton Coffey <Brenton.Coffey@lezasi.com>; Margarito Baxter(Mixo Solutions) <v-mbaxter@Microsoft.com>
+Cc: ftran@cloudspace.com; Cornelius Frankie  <cfrankie @Microsoft.com>; infrastructure@cloudspace.com; Support <support@lezasi.com>; Tech <tech@lezasi.com>
+Subject: RE: [External] Re: Having difficulty to RDP into AAD joine... - TrackingID#2210010040000809
+
+Some individuals who have received this message do not frequently receive emails from  Anita.Summer@lezasi.com. Discover why this is important
+
+Hi Dusty,
+Thank you for your response. 
+I will be available from 12:30PM and 3PM EST for the remainder of the week. Please let me know if that time works for Margarito.
+
+Thanks, 
+ 
+     
+Anita T. Summer
+Systems Analyst Level 3 
+LEZA Systems Inc 
+O  (516) 320-3001 
+W lezasi.com
+Creation date: 2022-10-12 21:14:30 work_notes: Hello @Jane
+
+I have contacted the premier support line today to request a call back. Can you please provide guidance on Patrick's enquiry as well?
+
+Thanks,
+
+ 
+
+ Duke Anibal
+
+
+Help Desk Admin I
+
+(844) 995 7255
+
+
+cloudspace.com
+
+
+
+
+From: Patrick Robertson <probertson@pavanet.com> 
+Sent: Monday, October 10, 2022 8:53 AM
+To: Jane R <support@mail.support.Microsoft.com>
+Cc: Vendor Escalations - Infrastructure Support <ve-infrasupport@cloudspace.com>; Cornelius Frankie  <cfrankie @Microsoft.com>; Mabel Villarreal <mvillarreal@pavanet.com>; Freda Tran <ftran@cloudspace.com>
+Subject: [Outside] RE: AVD able to connect to RDP due to CA server be... - TrackingID#2210040010000050
+
+We kindly request an update on this matter as we have yet to receive any response. Please let us know when we can schedule a time to connect and address the issue we are currently facing.
+Thanks,
+
+Patrick Robertson
+949-878-0788
+probertson@pavanet.com
+
+
+
+From: Patrick Robertson
+Sent: Friday, October 09, 2022 2:11 PM
+To: Jane R <support@mail.support.Microsoft.com>
+Cc: infrastructure@cloudspace.com; Cornelius Frankie  <cfrankie @Microsoft.com>; Mabel Villarreal <mvillarreal@pavanet.com>; Freda Tran <ftran@cloudspace.com>
+Subject: RE: AVD able to connect to RDP due to CA server be... - TrackingID#2210040010000050
+
+Hello Jane,
+
+Please inform us of a suitable time when we can connect and further discuss this issue.
+
+Thanks,
+
+Patrick Robertson
+949-878-0788
+probertson@pavanet.com
+
+
+
+From: Mabel Villarreal <mvillarreal@pavanet.com>
+Sent: Friday, October 09, 2022 1:01 PM
+To: Jane R <support@mail.support.Microsoft.com>; Freda Tran <ftran@cloudspace.com>; Patrick Robertson <probertson@pavanet.com> 
+Cc: infrastructure@cloudspace.com; Cornelius Frankie <cfrankie @Microsoft.com>
+Subject: RE: AVD able to connect to RDP due to CA server be... - TrackingID#2210040010000050
+
+Hello, Jane. Could you please collaborate with @Patrick Robertson to address the issue? The domain controller was mistakenly decommissioned but necessary steps to decommission the CA first were not completed first. As a result, we are now dealing with issues caused by this oversight and need to resolve them promptly. 
+
+Mabel
+
+
+From: Jane R <support@mail.support.Microsoft.com> 
+Sent: Sunday, October 9, 2022 12:56 PM
+To: Freda Tran <ftran@cloudspace.com>
+Cc: infrastructure@cloudspace.com; Mabel Villarreal <mvillarreal@pavanet.com>; Mabel Villarreal <mvillarreal@pavanet.com>; Cornelius Frankie <cfrankie @Microsoft.com>
+Subject: AVD able to connect to RDP due to CA server be... - TrackingID#2210040010000050
+
+Hello Freda,
+
+This is Jane Runson from Microsoft Directory Services, and I hope you're doing well. I have been assigned to your ticket and would be delighted to assist you. 
+
+Kindly refer to the article on decommissioning a Windows enterprise CA - Windows Server | Microsoft Learn. 
+
+The article provides a comprehensive guide on how to revoke outstanding certificates and complete other necessary tasks to successfully install a CA without impacting your current environment.
+
+Please review it and inform me if you require any further assistance.
+
+I eagerly await your response. Thank you!
+ 
+
+ 
+
+ 
+ 
+ --
+Jane Runson
+Directory Support Analyst | Business Platforms
+Client Service & Support
+Working Hours 8:00AM to 5:00PM MST, M-F
+Creation date: 2022-10-12 21:23:10 work_notes: Hello Jane
+
+I am available at 11PM MST/10AM PST, so please send me a meeting link.
+
+
+Thanks,
+
+Patrick Robertson
+949-878-0788
+probertson@pavanet.com
+
+
+
+From: Jane R <support@mail.support.Microsoft.com> 
+Sent: Tuesday, October 11, 2022 12:23 PM
+To: Anibal@cloudspace.com; Patrick Robertson <probertson@pavanet.com>; supportmail@Microsoft.com
+Cc: infrastructure@cloudspace.com; cfrankie@Microsoft.com; Mabel Villarreal <mvillarreal@pavanet.com>; ftran@cloudspace.com
+Subject: RE: [OUTSIDE] RE: RDP connected by AVD. ... - TrackingID#2210080010000071
+
+Hi Team,
+ 
+I apologize for the delayed response as I have been occupied with consecutive meetings throughout the day. 
+
+The earliest time I am available tomorrow is 11:00 PM MST. Please inform me if that suits you, and I will send you a Teams meeting link. 
+
+Regarding your issue, there are limited choices available. The only option is to restore the decommissioned CA from a backup. Once your environment is recovered, you can proceed with the appropriate decommission process that I mentioned in my previous email. 
+
+I eagerly await your response. Thank you.
+
+ 
+--
+Jane
+Directory Support Analyst | Business Platforms
+Client Service & Support
+Working Hours 8:00AM to 5:00PM MST, M-F
+Creation date: 2022-10-12 21:39:10 work_notes: MS contacted us to confirm that the archival process of the email thread was successful, as stated in the message.
+Creation date: 2022-10-17 06:30:27 work_notes: After 3 days in the resolved state, case automatically closed.
+Creation date: 2022-10-18 08:03:03 work_notes: Customer Satisfaction Survey sent  2022-10-17 01:01:00

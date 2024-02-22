@@ -1,0 +1,1 @@
+[{"role": "user", "content": "are you having lunch now?"}, {"role": "robot", "chosen": "MAINT: I'm having lunch, will be back soon.", "rejected": "MAINT: I'm having lunch, will be back soon.", "model": "NOW_LLM_llama13b_111523"}]

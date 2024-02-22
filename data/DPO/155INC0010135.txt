@@ -1,0 +1,222 @@
+A case was opened with a short description of Weekly Motyf Reboot
+A longer description includes Rebooting the servers listed below is necessary in accordance with the weekly schedule
+
+VTMANJKDBPRT23
+VTMANJKDBPRT37
+VTMANJKWSPVW26
+VTMANJKDBPRT38
+VTMANJKWSPVW27
+VTMANJKDBPRT40
+VTMANJKWSPVW39
+VTMANJKDBPRT23
+VTMANJKWSPVW23
+VTMAN-JKPRPVW02
+VTMAN-JKPRPVW03
+
+
+
+
+Creation date: 2023-03-05 07:33:40 comments: From: Taylor, Tanya <Tanya.Taylor@doug-son.com> 
+Sent: Saturday, March 4, 2023 12:02 PM
+To: Clark, Lillian <Lillian.Clark@doug-son.com>; DCP-Command Center <DCP-CommandCenter@doug-son.com>
+Cc: DCP-Database QSQB <DCP-DBQSQB@doug-son.com>; DCP-AMS <DCP-AMS@doug-son.com>; DCP-Windows<dcp-Windows@doug-son.com>
+Subject: Re: INC2200989 - Weekly Motyf Reboot
+
+Hi Lillian Clark,
+
+As requested, moved the servers to MM.
+
+
+Warm Regards,
+Tanya C
+Graduate Engineer Trainee
+dcp LTD
+502C, 5th Floor, WSD6, SEZ-Holinganallura, Bangalore, India
+M- 8080739744
+www.dcp.com
+ 
+
+________________________________________
+From: Clark, Lillian <Lillian.Clark@doug-son.com>
+Sent: Saturday, March 4, 2023 11:53 PM
+To: DCP-Command Center <DCP-CommandCenter@doug-son.com>
+Cc: DCP-Database QSQB <DCP-DBQSQB@doug-son.com>; DCP-AMS <DCP-AMS@doug-son.com>; DCP-Windows <DCP-Windows@doug-son.com>
+Subject: INC2200989 - Weekly Motyf  Reboot 
+ 
+Hello Team,
+
+As planned, at 12PM, we will be rebooting the servers indicated below. For the next 2 hours, kindly keep the servers in MM.
+ 
+VTMANJKDBPRT23
+VTMANJKDBPRT37
+VTMANJKWSPVW26
+VTMANJKDBPRT38
+VTMANJKWSPVW27
+VTMANJKDBPRT40
+VTMANJKWSPVW39
+VTMANJKDBPRT23
+VTMANJKWSPVW23
+VTMAN-JKPRPVW02
+VTMAN-JKPRPVW03
+ 
+ 
+ 
+Thanks & Regards,
+ 
+Lillian Clark
+Cranintel - Doug & Son Infrastructure
+DCP Tech Ltd.
+502C, 5th Floor, WSD6, SEZ-Holinganallura, Bangalore, India
+Mobile : +91 8893422065
+Lillian.Clark@dcp.com | Lillian.Clark@doug-son.com
+www.dcptech.com
+Creation date: 2023-03-05 07:34:15 comments: Doer: Clark
+Checker: Andre 
+Creation date: 2023-03-05 07:35:14 comments: Logged into the server usmemdcp3k23r3t.
+Creation date: 2023-03-05 07:35:29 work_notes: Okay
+Creation date: 2023-03-05 07:35:52 comments: Started a script to restart the servers listed below.
+
+
+VTMANJKDBPRT23
+VTMANJKDBPRT37
+VTMANJKWSPVW26
+VTMANJKDBPRT38
+VTMANJKWSPVW27
+VTMANJKDBPRT40
+VTMANJKWSPVW39
+VTMANJKDBPRT23
+VTMANJKWSPVW23
+VTMAN-JKPRPVW02
+VTMAN-JKPRPVW03
+Creation date: 2023-03-05 07:36:00 work_notes: Proceed
+Creation date: 2023-03-05 07:47:30 comments: Rebooting of  script has been completed.
+Creation date: 2023-03-05 07:48:03 work_notes: Verified
+Creation date: 2023-03-05 08:15:43 comments: Checked the status of the automated services on the servers listed below.
+
+
+VTMANJKDBPRT23
+VTMANJKDBPRT37
+VTMANJKWSPVW26
+VTMANJKDBPRT38
+VTMANJKWSPVW27
+VTMANJKDBPRT40
+VTMANJKWSPVW39
+VTMANJKDBPRT23
+VTMANJKWSPVW23
+VTMAN-JKPRPVW02
+VTMAN-JKPRPVW03
+Creation date: 2023-03-05 08:15:54 work_notes: Okay
+Creation date: 2023-03-05 08:16:52 comments: Verified URL http://Motyf/ is accessible post reboot of the servers.
+Creation date: 2023-03-05 08:18:40 work_notes: Verified
+Creation date: 2023-03-05 08:21:50 work_notes: Attachment: Attached INC2200989_D&C.docx.
+Creation date: 2023-03-05 08:25:30 work_notes: Attachment: Attached INC2200989_1.PNG.
+Creation date: 2023-03-05 08:25:37 work_notes: Attachment: Removed INC2200989_1.PNG.
+Creation date: 2023-03-05 08:25:52 work_notes: Attachment: Attached INC1200988.PNG.
+Creation date: 2023-03-05 08:29:10 comments: From: Clark, Lillian <Lillian.Clark@doug-son.com> 
+Sent: Saturday, March 4, 2023 12:59 PM
+To: DCP-Database QSQB <DCP-DBQSQB@doug-son.com>; DCP-AMS <DCP-AMS@doug-son.com>
+Cc: DCP-Windows<DCP-Windows@doug-son.com>; Norrit, Darlb <Darlb.Norrit@doug-son.com>
+Subject: RE: INC2200989 - Weekly Motyf  Reboot
+
+Hi Team,
+ 
+We have restarted the Motyf production servers listed below on schedule and confirmed that all of the automatic services are operating as planned.
+ 
+Servers:
+ 
+
+VTMANJKDBPRT23
+VTMANJKDBPRT37
+VTMANJKWSPVW26
+VTMANJKDBPRT38
+VTMANJKWSPVW27
+VTMANJKDBPRT40
+VTMANJKWSPVW39
+VTMANJKDBPRT23
+VTMANJKWSPVW23
+VTMAN-JKPRPVW02
+VTMAN-JKPRPVW03
+ 
+@ QSQB Team : Please confirm from the DB standpoint and update us on the situation.
+ 
+Screenshots for the reference:
+ 
+ 
+  
+ 
+ 
+ 
+Also validated the URL http://motyf/ is accessible 
+ 
+ 
+ 
+ 
+
+
+Thanks & Regards,
+
+Lillian Clark
+Cranintel - Doug & Son Infrastructure
+dcp Ltd.
+502C, 5th Floor, WSD6, SEZ-Holinganallura, Bangalore, India
+Mobile : +91 8893422065
+Lillian.Clark@dcp.com | Lillian.Clark@doug-son.com
+www.dcptech.com
+Creation date: 2023-03-05 08:31:27 work_notes: Attachment: Attached INC2200989_3.PNG.
+Creation date: 2023-03-05 10:35:26 work_notes: From: Ford, Leona <Leona.Ford@doug-son.com> 
+Sent: Saturday, March 4, 2023 3:05 PM
+To: Medina, Juana <Juana.Medina@doug-son.com>
+Cc: dcp-Windows <dcp-Windows@doug-son.com>; Norrit, Darlb <Darlb.Norrit@doug-son.com>; dcp-Database QSQB <dcp-DBQSQB@doug-son.com>; dcp-AMS <dcp-AMS@doug-son.com>
+Subject: RE: INC2200989 - Weekly Motyf Reboot
+
+Hi Juana,
+
+Thank you for the update, we will go ahead to resolve the incident INC2200989 from our side.
+
+
+Thanks & Regards,
+
+Leona Ford
+Cranintel - Doug & Son Infrastructure
+DCP Tech Ltd.
+502C, 5th Floor, WSD6, SEZ-Holinganallura, Bangalore, India
+M: +91-9977333880
+leona.ford@dcp.com  |  Leona.Ford@doug-son.com
+www.dcptech.com
+ 
+
+Please include Team DL DCP-Windows@doug-son.com for help when I'm on leave .
+
+From: Medina, Juana <Juana.Medina@doug-son.com> 
+Sent: Saturday, March 4, 2023 3:02 PM
+To: Clark, Lillian <Lillian.Clark@doug-son.com>
+Cc: DCP-Windows <DCP-Windows@doug-son.com>; Norrit, Darlb <Darlb.Norrit@doug-son.com>; DCP-Database QSQB <DCP-DBQSQB@doug-son.com>; DCP-AMS <DCP-BMTT@doug-son.com>
+Subject: Re: INC2200989 - Weekly Motyf Reboot
+
+Hi Clark , 
+
+Verified from a DB standpoint , every database is operational and functioning as planned. Kindly locate the snip for your records.
+
+  
+
+Best Regards,
+Juana Medina 
+Database Admin ,
+dcp Ltd.
+502C, 5th Floor, WSD6, SEZH-Holinganallura, Bangalore, India
+M- 8994423715
+www.dcp.com
+Creation date: 2023-03-05 10:35:47 work_notes: We rebooted the servers listed below in accordance with the weekly reboot schedule, and we made sure the URL http://motyf/ was still accessible after the reboot. Kindly refer to the screenshots and email that are provided. As a result, we are handling the ticket on our end.
+
+VTMANJKDBPRT23
+VTMANJKDBPRT37
+VTMANJKWSPVW26
+VTMANJKDBPRT38
+VTMANJKWSPVW27
+VTMANJKDBPRT40
+VTMANJKWSPVW39
+VTMANJKDBPRT23
+VTMANJKWSPVW23
+VTMAN-JKPRPVW02
+VTMAN-JKPRPVW03
+Creation date: 2023-03-11 07:45:04 comments: After 6 days, the incident is automatically closed as resolved.

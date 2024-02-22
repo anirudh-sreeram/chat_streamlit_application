@@ -1,0 +1,64 @@
+A case was opened with a short description of RITM0808876  Agile Office api failed.
+A longer description includes {"Message":"Request is not valid.","ModelState":{"request.References[0].InventoryId":["an active wireless number was expected."]}}
+
+
+
+
+Creation date: 2023-04-17 12:41:54 work_notes: From: WILSON S. KOCH 
+Sent: Sunday, April 16, 2021 9:42 AM
+To: FELIX HORTON<felix.horton@ameren.com>
+Subject: RITM0808876  - Rejected out mobile cancel request
+
+Hello Felix,
+Your request ticket RITM0808876  to terminate service on Samsung pager mobile number 517-884-7654 has been rejected since the service was terminated previously as a result of zero usage on the number.
+
+Do you possess the pager?
+With instructions on where to send it for appropriate decommissioning, a member of our staff will get in touch with you soon. Please keep the device in a secure location till then.
+
+Thanks,  
+Wilson Krumm
+Ameren Corporation
+Technology Strategy & Management
+IT Request Fulfillment Team
+Creation date: 2023-04-20 12:25:55 work_notes: From: WILSON S. KOCH 
+Sent: Sunday, April 16, 2021 9:53 AM
+To: FELIX HORTON<felix.horton@ameren.com>
+Subject: RE: RITM0808876  - Rejected out mobile cancellation request
+
+I've made a device return ticket with the number RITM5508874, so send the device to our staff so they can decommission it:
+  
+Ameren Corporation 
+Request Fulfillment
+Ameren Corporation HQ Dr.
+Casper MI, 49299
+
+* Address the mail envelope as follows if mailing by interoffice mail: Request Completion  OEP  (No space is needed)
+
+
+**IMPORTANT** -
+Please send a copy of this email along with the device OR   Sticky note with RITM5508874 and the device's cellphone number attached.
+Every day, we receive a number of equipment returns, and we need to be able to confirm what we are getting.
+
+
+Suggestions about how to return your old device: 
+1) Consult your local headquarters' mail services department to arrange for shipping(interoffice or local standard procedure)
+2) Send it back using any Hub Group, Sendle, or CEVA location of your choice.   Please note the tracking details for future use. If you decide to go with this option but are worried about the price, please talk to your management about potential expenditure reimbursement since they would need to approve your expense report.
+
+If you have any questions, please let me know.
+
+Thanks 
+Wilson
+
+
+From: FELIX HORTON<FELIX.HORTON@ameren.com> 
+Sent: Sunday, April 16, 2021 7:43 AM
+To: WILSON S. KOCH <WILSON.KOCH@ameren.com>
+Subject: RE: RITM0808876  - Rejected out mobile cancel request
+
+Evening
+Yes, the device is present.
+Creation date: 2023-04-20 12:27:56 comments: reply from: WILSON.KOCH@ameren.com
+
+I am satisfied with how the incident was handled. You can close this ticket.
+
+Ref:MSG27213889

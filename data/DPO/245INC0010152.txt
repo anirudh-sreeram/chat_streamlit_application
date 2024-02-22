@@ -1,0 +1,81 @@
+A case was opened with a short description of ssn-uk-liverpool-city-02-r-04||1812123-Windblows||Severity :: High :: Node SSN-UK-LIVERPOOL-CITY-02-R-04 is not working
+A longer description includes ssn-uk-liverpool-city-02-r-04||1812123-Windblows||Severity :: High :: Node SSN-UK-LIVERPOOL-CITY-02-R-04 is not working.
+
+
+
+
+Creation date: 2023-02-27 03:26:42 work_notes: All Alerts in situation 1812123
+159848023::6::ssn-uk-liverpool-city-02-r-04::Severity :: High :: Node SSN-UK-LIVERPOOL-CITY-02-R-04 is Down.
+
+Creation date: 2023-02-27 03:32:15 work_notes: Transferring to the Support Team.
+Creation date: 2023-02-27 03:33:32 work_notes: Transferring to the Support Team.
+Creation date: 2023-02-27 05:07:29 work_notes: Email sent to OSS to check power  and waiting for the reply ...ROSETO # INC1197013..
+
+
+From: S, Rajput <Rajput.S@nu-brace.com>
+Sent: Sunday, February 26, 2023 09:03 AM
+To: Bedi, Angad <Angad.Bedi@nu-brace.com>
+Cc: LCM-NOC LCM-NOC@nu-brace.com>; LCM-NetworkData <LCM-NetworkData@nu-brace.com>
+Subject: INC1107221 - Systems are not working at the site USOKC05 - UK LIVERPOOL City MFG
+
+
+Hello Angad,
+
+We noticed that all of the network devices at the site are presently unavailable. Could you please check and let us know if  there is any power outage or activity going on at the site.
+
+
+
+Thanks and Regards,
+
+Rajput S| Network Operations
+Rajput.S@nu-brace.com
+Mobile: (+91)8870610907
+www.nu-brace.com
+Creation date: 2023-02-27 11:57:48 work_notes: Solving as all the systems are operational  and accessible.. nevertheless  sent an email to OSS to know the  inquire about the same...
+
+From: S, Rajput
+Sent: Sunday, February 26, 2023 2:36 PM
+To: Bedi, Angad <Angad.Bedi@nu-brace.com>
+Cc: LCM-NOC <LCM-NOC@nu-brace.com>; LCM-NetworkData <LCM-NetworkData@nu-brace.com>
+Subject: RE: INC1107221 - Systems are not working at the site USOKC01 - UK LIVERPOOL City MFG
+
+Hello Angad,
+
+Incident INC1197190 has been assigned to your queue for the same. Please verified and update at the earliest.
+
+
+Thanks and Regards,
+
+Rajput S| Network Operations
+Rajput.S@nu-brace.com
+Mobile: (+91)8870610907
+www.nu-brace.com
+
+
+
+From: S, Rajput <Rajput.S@nu-brace.com>
+Sent: Sunday, February 26, 2023 2:14 PM
+To: Bedi, Angad <Angad.Bedi@nu-brace.com>
+Cc: LCM-NOC <LCM-NOC@nu-brace.com>; LCM-NetworkData <LCM-NetworkData@nu-brace.com>
+Subject: RE: INC1107221 - Systems are not working at the site USOKC01 - UK LIVERPOOL City MFG
+
+Hello Angad,
+
+Except for the interfaces listed below, the devices appear to be operational and accessible. Please check and refresh the physical connectivity of the interfaces before proceeding.
+
+Interface Down Alerts - on GigabitEthernet1/0/45 - Gi1/0/48 - on USOKC76-0101NorthAS01
+Interface Down Alerts - on GigabitEthernet2/0/25 - Gi2/0/29 - on UKLVP74-0102WestAS04
+Interface Down Alerts - on tvi-0/666.0 - on SSN-UK-LIVERPOOL-CITY-02-R-03
+
+
+Please also state  whether or not there was power outage  at the site.
+
+
+Thanks and Regards,
+
+Rajput S| Network Operations
+Rajput.S@nu-brace.com
+Mobile: (+91)8870610907
+www.nu-brace.com
+Creation date: 2023-02-27 12:00:00 work_notes: [xSwitch] - The incident's existing occurences have been terminated
+Creation date: 2023-03-04 06:03:33 comments: After 7 days the incident is automatically closed as Resolved.

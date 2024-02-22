@@ -1,0 +1,324 @@
+A case was opened with a short description of FW: Debit Memo - DME2-388 - PO copy request
+A longer description includes Can we send a copy of the PO to each of the vendors listed below?
+
+Thank you,
+
+Khalil Snow
+Accts Payable Coord- AP Reconciliation
+Upgofurg Enterprises | Shared Services Center
+4439 Gale Street, Livermore CA 94550
+T: 804-477-2994
+  E: khalil.snow@upgofurg.com<mailto:khalil.snow@upgofurg.com>
+
+From: Usman Cotton <usman.cotton@mrios.com>
+Sent: Sunday, March 12, 2023 9:34 AM
+To: Khalil Snow <khalil.snow@upgofurg.com>; Evan Bauer <evan.bauer@upgofurg.com>
+Subject: Debit Memo - DME2-388 - PO copy request
+
+To support this pricing deduction, kindly supply a copy of the PO
+
+Thanks you,
+Usman Cotton
+Collections/Receivables Clerk  - Accounts Receivable
+usman.cotton@mrios.com<mailto:mattie.bass@mrios.com>
+334-288-8990 ext. 7886
+
+[Maliha Rios Mfg. Co.]<https://www.mrios.com/home>  [cid:image008.jpg@01D9338E.F8119770]
+Maliha Rios Mfg. Co.
+5396 North Reese Avenue, Fresno CA 93722
+
+From: Khalil Snow Jr. - 9225 WWSPECIALTY <khalil.snow@upgofurg.com<mailto:khalil.snow@upgofurg.com>>
+Sent: Monday, October 31, 2022 2:38 PM
+To: MRios Upgofurg Debits <upgofurg-debits@mrios.com<mailto:upgofurg-debits@mrios.com>>
+Subject: Debit Memo - DME2-388
+
+DEBIT MEMO
+________________________________
+
+FEL-WASHINGTON #1300
+Shared Services Center
+2335 Orchard View Lane, Escondido CA 92027
+
+DEBIT TO:
+MALIHA RIOS MFG CO
+RIOS INDUSTRIES
+PO BOX 2861/2, SHOP NO 3, GALI GHASHI RAM, HAUZ QUAZI
+United States
+
+FEL PO#..........: C1-69774
+Mfg. Inv#.......: 4086687
+Mfg. Inv Date: 10/04/22
+Mfg. Inv Amt.: $668.51
+
+Comment:
+Debit No....: DME2-388
+Debit Date.: 10/19/22
+Debit Type: Billing
+Written By: Khalil Snow Jr.
+
+SHIP TO:
+MALIHA RIOS MFG CO
+RIOS INDUSTRIES
+PO BOX 2861/2, SHOP NO 3, GALI GHASHI RAM, HAUZ QUAZI UNITED STATES
+
+
+Ship Via...:
+Ship Date:
+Prepaid_____________ Collect_____________
+No Pieces:     Packed By:
+
+RGA#:
+________________________________
+
+Ref#
+
+Qty
+
+Item Code/Description
+
+Price
+
+U/M
+
+Extension
+
+Rstk%
+
+RGA#
+
+Mfg Inv/Vdr Product#
+
+1
+6
+SP-S5671HCP
+84.421
+EA
+591.151
+
+
+
+
+
+Billed as $95.501 on invoice # 4086687. Should be $11.051 on PO # C1-69774.
+
+
+
+
+
+
+2
+C
+PER BRANCH PO PRICE
+
+
+
+
+
+
+3
+C
+IS CORRECT, DEBITING
+
+
+
+
+
+
+4
+C
+FOR THE DIFFERENCE.
+
+
+
+
+
+
+5
+C
+THANK YOU, KHALIL SNOW
+
+
+
+
+
+
+
+
+Subtotal
+Restock
+Freight In
+Freight Out
+
+TOTAL
+
+591.16
+0.01
+0.01
+0.01
+
+591.16
+
+
+
+
+Creation date: 2023-03-13 14:40:47 comments: ABE6776 2023-03-12 9:40:47
+received from: Khalil.Snow@upgofurg.com
+
+Can we send a copy of the PO to each of the vendors listed below?
+
+Thanks you,
+
+Khalil Snow
+Accts Payable Coord- AP Reconciliation
+Upgofurg Enterprises | Shared Services Center
+4439 Gale Street, Livermore CA 94550
+T: 804-477-2994
+  E: khalil.snow@upgofurg.com<mailto:khalil.snow@upgofurg.com>
+
+From: Usman Cotton <usman.cotton@mrios.com>
+Sent: Sunday, March 12, 2023 9:34 AM
+To: Khalil Snow <khalil.snow@upgofurg.com>; Evan Bauer <evan.bauer@upgofurg.com>
+Subject: Debit Memo - DME2-388 - PO copy request
+
+To support this pricing deduction, kindly supply a copy of the PO
+
+Thanks you,
+Usman Cotton
+Collections/Receivables Clerk  - Accounts Receivable
+usman.cotton@mrios.com<mailto:mattie.bass@mrios.com>
+334-288-8990 ext. 7886
+
+[Maliha Rios Mfg. Co.]<https://www.mrios.com/home>  [cid:image008.jpg@01D9338E.F8119770]
+Maliha Rios Mfg. Co.
+5396 North Reese Avenue, Fresno CA 93722
+
+From: Khalil Snow Jr. - 9225 WWSPECIALTY <khalil.snow@upgofurg.com<mailto:khalil.snow@upgofurg.com>>
+Sent: Monday, October 31, 2022 2:38 PM
+To: MRios Upgofurg Debits <upgofurg-debits@mrios.com<mailto:upgofurg-debits@mrios.com>>
+Subject: Debit Memo - DME2-388
+
+DEBIT MEMO
+________________________________
+
+FEL-WASHINGTON #1300
+Shared Services Center
+2335 Orchard View Lane, Escondido CA 92027
+
+DEBIT TO:
+MALIHA RIOS MFG CO
+RIOS INDUSTRIES
+PO BOX 2861/2, SHOP NO 3, GALI GHASHI RAM, HAUZ QUAZI
+United States
+
+FEL PO#..........: C1-69774
+Mfg. Inv#.......: 4086687
+Mfg. Inv Date: 10/04/22
+Mfg. Inv Amt.: $668.51
+
+Comment:
+Debit No....: DME2-388
+Debit Date.: 10/19/22
+Debit Type: Billing
+Written By: Khalil Snow Jr.
+
+SHIP TO:
+MALIHA RIOS MFG CO
+RIOS INDUSTRIES
+PO BOX 2861/2, SHOP NO 3, GALI GHASHI RAM, HAUZ QUAZI UNITED STATES
+
+
+Ship Via...:
+Ship Date:
+Prepaid_____________ Collect_____________
+No Pieces:     Packed By:
+
+RGA#:
+________________________________
+
+Ref#
+
+Qty
+
+Item Code/Description
+
+Price
+
+U/M
+
+Extension
+
+Rstk%
+
+RGA#
+
+Mfg Inv/Vdr Product#
+
+1
+8
+SP-S5671HCP
+84.421
+EA
+591.151
+
+
+
+
+
+Billed as $95.501 on invoice # 4086687. Should be $11.051 on PO # C1-69774.
+
+
+
+
+
+
+2
+C
+PER BRANCH PO PRICE
+
+
+
+
+
+
+3
+C
+IS CORRECT, DEBITING
+
+
+
+
+
+
+4
+C
+FOR THE DIFFERENCE.
+
+
+
+
+
+
+5
+C
+THANK YOU, KHALIL SNOW
+
+
+
+
+
+
+
+
+Subtotal
+Restock
+Freight In
+Freight Out
+
+TOTAL
+
+591.16
+0.01
+0.01
+0.01
+
+591.16  fw: debit memo - dme1-348 - request for po copy

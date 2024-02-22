@@ -1,0 +1,117 @@
+A case was opened with a short description of FW: Teletrac Navman software expired
+A longer description includes From: Carney, Terry <TCarney@wasteconnections.com>
+Sent: Monday, August 12, 2022 10:58 AM
+To: Taylor , Sian <STaylor@wasteconnections.com>
+Subject: RE: Teletrac Navman - Expiration
+
+Hi Sian -
+
+Yes, please terminate the campaign and the associated processes for Teletrac Navman CRC and Teletrac Navman Sales (there are two separate eLearnings for this).
+
+Please let me know if this has answered your questions!
+
+Terry
+
+From: Taylor, Sian <STaylor@wasteconnections.com<mailto:STaylor@wasteconnections.com>>
+Sent: Monday, August 12, 2022 9:52 AM
+To: Gilbert, Mackenzie <MGilbert@wasteconnections.com<mailto:SStevenson@wasteconnections.com>>
+Cc: Carney, Terry <TCarney@wasteconnections.com<mailto:TCarney@wasteconnections.com>>
+Subject: RE: Teletrac Navman - Expiration
+
+Hi, 
+Actually, in addition to deactivating the courses, you must also cease the campaign and deactivate the procedure that schedules the campaign daily, which you would not be able to do. Are you turning off all three courses?
+
+I'll open a Zendesk ticket with the request once you respond.
+
+Thank you,
+Sian
+
+From: Gilbert, Mackenzie <MGilbert@wasteconnections.com<mailto:SStevenson@wasteconnections.com>>
+Sent: Monday, August 12, 2022 9:01 AM
+To:  Taylor, Sian <STaylor@wasteconnections.com<mailto:STaylor@wasteconnections.com>>
+Cc: Carney, Terry <TCarney@wasteconnections.com<mailto:TCarney@wasteconnections.com>>
+Subject: Teletrac Navman - Expiration
+
+Hi Sian,
+
+We are about to finish some SAP eLearning. This is because the Teletrac Navman method is no longer new, and the material recorded in this eLearning has now been incorporated into the appropriate new hire training sessions.
+
+How does this function? Do you want us to deactivate the course in SAP? Is this something you deal with? We've never had a situation like this before, and I want to make sure we do everything correctly. Please notify us, and we will monitor the situation!
+
+Thanks!
+
+Mackenzie Gilbert
+Manager Learning
+
+777 W Chandler Blvd
+Chandler, Arizona(AZ), 85225
+e  MGilbert@wasteconnections.com<mailto:SStevenson@wasteconnections.com>
+o  480.756.9735
+c  602.500.4687
+w  Wasteconnections.com<http://Wasteconnections.com/>
+
+[cid:image001.jpg@01D8C74E.DFE4E449]
+
+
+
+
+Creation date: 2022-09-13 23:02:10 work_notes: HR Case has created by email:
+
+Received from: STaylor@wasteconnections.com
+
+FW: Teletrac Navman - Expiration
+
+From: Carney, Terry <TCarney@wasteconnections.com>
+Sent: Monday, August 12, 2022 09:58 AM
+To: Taylor , Sian <STaylor@wasteconnections.com>
+Subject: RE: Teletrac Navman - Expiration
+
+Hi Sian -
+
+
+Yes, please terminate the campaign and the associated processes for Teletrac Navman CRC and Teletrac Navman Sales (there are two separate eLearnings for this).
+
+Please let me know if this has answered your questions!
+
+Terry
+
+From: Taylor, Sian <STaylor@wasteconnections.com<mailto:STaylor@wasteconnections.com>>
+Sent: Monday, August 12, 2022 9:52 AM
+To: Gilbert, Mackenzie <MGilbert@wasteconnections.com<mailto:SStevenson@wasteconnections.com>>
+Cc: Carney, Terry <TCarney@wasteconnections.com<mailto:TCarney@wasteconnections.com>>
+Subject: RE: Teletrac Navman - Expiration
+
+Hi, 
+Actually, in addition to deactivating the courses, you must also cease the campaign and deactivate the procedure that schedules the campaign daily, which you would not be able to do. Are you turning off all three courses?
+
+I'll open a Zendesk ticket with the request once you respond.
+
+Thank you,
+Sian
+
+From: Gilbert, Mackenzie <MGilbert@wasteconnections.com<mailto:SStevenson@wasteconnections.com>>
+Sent: Monday, August 12, 2022 9:01 AM
+To:  Taylor, Sian <STaylor@wasteconnections.com<mailto:STaylor@wasteconnections.com>>
+Cc: Carney, Terry <TCarney@wasteconnections.com<mailto:TCarney@wasteconnections.com>>
+Subject: Teletrac Navman - Expiration
+
+Hi Sian,
+
+We are about to finish some SAP eLearning. This is because the Teletrac Navman method is no longer new, and the material recorded in this eLearning has now been incorporated into the appropriate new hire training sessions.
+
+How does this function? Do you want us to deactivate the course in SAP? Is this something you deal with? We've never had a situation like this before, and I want to make sure we do everything correctly. Please notify us, and we will monitor the situation!
+
+Thanks!
+
+Mackenzie Gilbert
+Manager Learning
+
+777 W Chandler Blvd
+Chandler, Arizona(AZ), 85225
+e  MGilbert@wasteconnections.com<mailto:SStevenson@wasteconnections.com>
+o  480.756.9735
+c  602.500.4687
+w  Wasteconnections.com<http://Wasteconnections.com/>
+
+[cid:image001.jpg@01D8C74E.DFE4E449]
+Creation date: 2022-09-19 23:59:25 comments: Comments on Resolution: Production of courses have been deactivated.

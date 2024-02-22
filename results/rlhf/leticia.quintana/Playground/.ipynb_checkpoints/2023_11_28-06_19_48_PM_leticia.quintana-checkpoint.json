@@ -1,0 +1,1 @@
+[{"role": "context", "content": "Classification Binary"}, {"role": "user", "content": "Please answer with one word. Is a monkey an amphibian or a mammal? "}, {"role": "robot", "chosen": "Mammal", "rejected": "mammal", "model": "NOW_LLM_llama13b_111523", "snapchosen": "Mammal", "snaprejected": "mammal"}]

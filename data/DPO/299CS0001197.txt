@@ -1,0 +1,95 @@
+A case was opened with a short description of Langley Sys IT: NoteValet Platform NFR, Provision Task: 4086375
+A longer description includes Provision Task category: Provision, Partner Name: Langley Sys IT, Organization Name: Langley Sys IT, Vendor: NoteValet, Product: NoteValet Platform NFR, Quantity: 5.0000
+
+
+
+
+Creation date: 2022-09-26 15:50:00 work_notes: CC Task Update: Urgent - Error with provision task: Task Status Updated to: Error
+Creation date: 2022-09-26 15:50:01 work_notes: Error with Provision Task
+Creation date: 2022-09-26 15:53:37 work_notes: Error with Provision Task
+Creation date: 2022-09-26 16:42:42 work_notes: CC Task Update: Urgent - Error with provision task: Task Status Updated to: Error
+Creation date: 2022-09-26 16:44:18 work_notes: CC Task Update: Urgent - Error with provision task: Task Status Updated to: Error
+Creation date: 2022-09-26 17:04:11 work_notes: CC Task Update: Urgent - Error with provision task: Task Status Updated to: Error
+Creation date: 2022-09-26 17:12:36 comments: Hi Bruon,
+
+An error occurred while your NoteValet NFR order was being provisioned. We should have a resolution for you shortly as I have reached out for additional help with this matter.
+
+-Richard
+Creation date: 2022-09-26 17:40:00 comments: I am so sorry for misspelling your name, Bruno.
+
+NoteValet has been informed regarding this error and I hope to hear from them soon.
+
+Thanks & Regards,
+-Richard
+Creation date: 2022-09-26 19:03:55 work_notes: CC Task Update: Urgent - Error with provision task: Task Status Updated to: Error
+Creation date: 2022-09-26 19:09:24 work_notes: CC Task Update: Urgent - Error with provision task: Task Status Updated to: Error
+Creation date: 2022-09-27 14:31:26 work_notes: CC Task Update: Urgent - Error with provision task: Task Status Updated to: Error
+Creation date: 2022-09-28 14:25:59 work_notes: CC Task Update: Urgent - Error with provision task: Task Status Updated to: Error
+Creation date: 2022-10-06 15:49:17 work_notes: Johnny, thank you for your message!
+
+I have another request here about the partnershell order. We're getting an error though that says an email already exists. Can you remove the existing email on the partnershell please? We will then try this again.
+
+Thanks & Regards,
+-Richard
+
+From: NoteValet Platform Support <support@notevaletplatform.com> 
+Sent: Wednesday, October 5, 2022 7:41 AM
+To: Richard Knox <rknox@nimbus.com>
+Subject: [External] RE: Internal server error while provisioning - Langley Sys IT
+
+Hello Richard, 
+
+This error seems to be occurring since Bruno ordered the NFR and then the name on his account was changed. I have escalated this case to our provisioning team.
+
+Thank you, 
+Johnny Lawson
+Director
+NoteValet
+https://www.notevaletplatform.com
+
+
+--------------- Original Message ---------------
+From: Richard Knox [rknox@nimbus.com]
+Sent: 05/10/2022, 14:26
+To: support@notevaletplatform.com
+Subject: Internal server error while provisioning - Langley Sys IT
+
+Hello NoteValet Team!
+ 
+A starPRT - NoteValet NFR is failing while trying to provision. 
+
+An internal server error with status code 500 occurred. Has there recently been problems with accessing the portal?
+  
+I'm trying to resolve this error but am having trouble figuring out where to start.
+ 
+Partner-Langley Sys IT
+Name-Bruno Graves
+Email-bruno@langleysys.com
+ 
+Thanks for your time and have a good day.
+-Richard
+Creation date: 2022-10-06 15:50:21 work_notes: -sent first email response on 9/27
+-got response today, 10/5/2022
+Creation date: 2022-10-06 16:39:57 work_notes: CC Task Update: Urgent - Error with provision task: Task Status Updated to: Error
+Creation date: 2022-10-07 21:45:40 work_notes: -Reactivated on NoteValets end
+-Finishing task
+The old NFR got cancelled on the 1st of Sept and now it's been reactivated on our end:
+Subscription ID: 295
+Partner ID: OHW5C8W
+Customer ID: OH6YGK9
+
+Rohit
+
+--------------- Original Message ---------------
+From: Richard Knox [rknox@nimbus.com]
+Sent: 10/5/2022, 7:47 AM
+To: support@notevaletplatform.com
+Cc: rpatel@nimbus.com; jchase@nimbus.com
+Subject: RE: [External] RE: Internal server error while provisioning - Langley Sys IT
+Creation date: 2022-10-07 21:46:44 comments: Hi Bruno,
+
+I just now received an update that NoteValet NFR has been reactivated on NoteValets end. 
+
+I appreciate your patience and have a great day,
+-Richard
+Creation date: 2022-10-07 21:46:57 work_notes: CC Task Update: Task Status Updated to: Follow Up

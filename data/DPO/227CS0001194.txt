@@ -1,0 +1,286 @@
+A case was opened with a short description of While using the email function via BC, users are getting error
+A longer description includes Errors for Eddie and Edith when using the email function via BC. Kindly email me at mlogan@layaway.net or call 162-554-1682
+
+
+
+
+Creation date: 2022-10-10 22:48:06 work_notes: Client page in Partner Hub > Service Requests > New Request > Office 365 and Enterprise Mobility Suite > Raise a ticket 
+Remember to add any screenshots and provide as much information as possible on troubleshooting steps already attempted.
+-----------------------------------------------------------------------------------------------
+Ticket details
+-----------------------------------------------------------------------------------------------
+Title: NIM5884957 Users attempting to send Purchase Order via BC environment
+
+Description: When attempting to send Purchase Orders from BC, users Eddie and Edith are receiving permission errors. It was working, but after the users were upgraded to Business Premium, it stopped. The email is trying to send out from an email address that belongs to another user. Send-as permissions can be applied, but it'd be great if we could also get the BC permissions working to send as the Current User. Attached a screengrab of the error.
+
+Product: Dynamics CRM
+
+Severity: B (If escalating to Severity A, tech keep ticket)
+
+Verify your number: 8209333936
+
+Verify emails of authorized contacts: ve-productivity@nimbus.com;chuber@nimbus.com;jlawson
+@nimbus.com
+
+Preferred method of contact: Email
+-----------------------------------------------------------------------------------------------
+Partner Details
+-----------------------------------------------------------------------------------------------
+Partner Phone: 162-554-1682
+Partner Email: mlogan@layaway.net
+Partner's Availability - Timezone: Pacific
+Partner Hub URL: https://partner.microsoft.com/en-us/console/support/csp/clients/5d455310-64fb-4ddd-969e-ba10eb16f6de/servicerequests
+Creation date: 2022-10-10 22:48:06 comments: Hi Martha,
+
+Your case is being escalated to Microsoft by Nimbus.
+The progress of your case will continued to be monitored by our vendor escalations team so they can better assist you with communicating with Microsoft.
+Kindly know that you are expected to actively work with the Microsoft engineer during the troubleshooting process since the primary objective of the Vendor Assistance team is to maintain active communication.
+Please reach out if you have any questions or if there are any developments in your case!
+
+Thanks and I hope you have a great day today!
+Creation date: 2022-10-11 15:14:18 work_notes: Hi Gina,
+
+mlogan@layaway.net has been added for visibility and for any queries you have.
+
+Thanks & Regards,
+Carly Huber
+Service Desk Administrator I
+(800) 884 8309
+nimbus.com
+
+
+From: Gina
+ P <support@mailbox.support.microsoft.com> 
+Sent: Monday, October 10, 2022 09:02 AM
+To: Vendor Escalations - Productivity Technical Support <ve-productivity@nimbus.com>
+Cc: Carly Huber <chuber@nimbus.com>; Johnny Lawson
+ <jlawson@nimbus.com>; Martin Krueger
+<mkrueger@nimbus.com>; Myah Mendoza <mmendoza@microsoft.com>; Gina Patterson <v-gpatterson@microsoft.com>
+Subject: [External] NIM5884957 Users attempting to send Purchase Order TrackingID#3320100010002486
+
+Hi Martin,
+ 
+Thank you for reaching out to Microsoft Support.
+ 
+I am Gina, a Microsoft Support Engineer, and I will be assisting you with your request 3320100010002486.
+ 
+You can contact me using the information in my email signature.
+ 
+I understand an error is occurring that is preventing two users from sending Purchase Orders to customer from Business Central. The error states that the email account being used to send the Purchase Order email is not permitted to send email on behalf of the account specified. This started occurring after the users' licenses were upgraded to Premium.
+ 
+Kindly accept our apology for this.
+ 
+ For further troubleshooting, please provide the following:
+  Verify that this is the correct tenant ID: 6d455310-32gfre-4ddd-895rd-ba10eb16f6df
+   Did you "Update users from MS365" from the Users list page, after the users were updated to Business Premium? It can be found under "Process" fastab. If not, please update and try again.
+  Are the affected users able to send test emails via the Email Account page?
+    Is a shared mailbox account being used to send these emails?
+ 
+Once a solution is provided or a workaround is provided, this incident will be considered resolved. The issue will also be considered resolved if an explanation is found or if the issue is determined to be a result of a third party, a known issue, a design choice, or customization settings.
+ 
+Thank you for your continued business with Microsoft.
+
+Thanks &  Regards,
+Gina Patterson
+Technical Service Expert
+Dynamics | Business Central
+Business Hours: M-F 7:00 am   4:00 pm CST
+Need assistance outside of my business hours?
+Find an engineer: dynamics@microsoft.com
+Manager: Wilma Nunez- v-wnunez@microsoftsupport.com
+Viraguard has scanned this email for spam and viruses
+Creation date: 2022-10-11 23:28:32 work_notes: Hi Martha,
+ 
+We value your feedback. After this communication, a separate email regarding case closure will be sent to you where you will have the opportunity to share your feedback and experience with us.
+ 
+It was great working with you on case 3320100010002486.
+ 
+Now, we will archive this support request. If you encounter any additional issues related to this case, kindly reopen your support request.
+
+Martha, after this conversation, you will receive an email
+requesting feedback about your experience with us.
+
+I would be grateful if you could spare less than a minute of your time to share your feedback with us. Your feedback is of great value to us. Microsoft and I utilize this feedback to understand where we are providing good customer service and where we need to improve.
+
+A summary of your support request is below for your recordkeeping:
+
+  Problem: An error was occurring that was preventing two users from sending Purchase Orders to customer from Business Central. The error stated that the email account being used to send the Purchase Order email was not permitted to send email on behalf of the account specified. This started occurring after the users' licenses were upgraded to Premium.
+
+  Cause: An invalid email account type was being used. Instead of using the "Current User" email account type, the customer was using the "Shared Mailbox" type.
+
+  Solution: The email account type was modified to  Current User .
+ 
+Thank you for your business with Microsoft.
+ 
+Have  a great day. 
+Gina Patterson
+Technical Service Expert
+Dynamics | Business Central
+Business Hours: M-F 7:00 am   4:00 pm CST
+Need assistance outside of my business hours?
+Find an engineer: dynamics@microsoft.com
+Manager: Wilma Nunez- v-wnunez@microsoftsupport.com
+------------------- Original Message -------------------
+From: v-gpatterson@microsoft.com;
+Sent: Mon Oct 10 2022 21:57:02 GMT+0100 (West Africa Standard Time)
+To: mlogan@layaway.net; chuber@nimbus.com; help@microsoft.com; ve-productivity@nimbus.com;
+Cc: jlawson@nimbus.com; mkrueger@nimbus.com; mmendoza@microsoft.com;
+Subject: RE: [External] NIM5884957 Users attempting to send Purchase Order TrackingID#3320100010002486 
+Hello Martha,
+ 
+Actually, my shift is going to end soon, but I would like to continue to assist you because it is an emergency issue. 
+ 
+Kindly drop me a Microsoft teams link as soon as you can.
+ 
+I look forward to our conversation.
+
+Gina.
+ 
+________________________________________
+From: Martha Logan <mlogan@layaway.net>
+Sent: Monday, October 10, 2022 09:53 PM
+To: Gina Patterson (Crimsontek) <v-gpatterson@microsoft.com>; Carly Huber <chuber@nimbus.com>; Microsoft Support <help@microsoft.com>; Vendor Escalations - Productivity Technical Support <ve-productivity@nimbus.com>
+Cc: Johnny Lawson <jlawson@nimbus.com>; Martin Krueger <mkrueger@nimbus.com>; Myah Mendoza <mmendoza@microsoft.com>
+Subject: RE: [External] NIM5884957 Users attempting to send Purchase Order TrackingID#3320100010002486
+ 
+I won't be available until 8AM PST which should be 10AM CST. Is anyone online now who can assist with this?  The customer really needs to be able to send emails from their BC system.
+ 
+MAL
+ 
+From: Gina Patterson (Crimsontek) <v-gpatterson@microsoft.com>
+Sent: Monday, October 10, 2022 1:52 PM
+To: Martha Logan <mlogan@layaway.net>; Carly Huber
+<chuber@nimbus.com>; Microsoft Support <help@microsoft.com>; Vendor Escalations - Productivity Technical Support <Ve-productivity@nimbus.com>
+Cc: Johnny Lawson <jlawson@nimbus.com>; Martin Krueger <mkrueger@nimbus.com>; Myah Mendoza <mmendoza@microsoft.com>
+Subject: Re: [External] NIM5884957 Users attempting to send Purchase Order TrackingID#3320100010002486
+ 
+Hello Martha,
+ 
+Thank you for checking in.
+ 
+Kindly accept my apologies for the late feedback. 
+ 
+Kindly let me know if 7AM CST tomorrow is fine for you.
+ 
+If so, please pass along a Microsoft Teams meeting invite so we can look into this together.
+ 
+Looking forward to your reply.
+ 
+Thanks & Regards,
+Gina.
+________________________________________
+From: Martha Logan <mlogan@layaway.net>
+Sent: Monday, October 10, 2022 09:04 PM
+To: Gina Patterson (Crimsontek) <v-gpatterson@microsoft.com>; Carly Huber <chuber@nimbus.com>; Microsoft Support <help@microsoft.com>; Vendor Escalations - Productivity Technical Support <ve productivity@nimbus.com>
+Cc: Johnny Lawson <jlawson@nimbus.com>; Martin Krueger <mkrueger@nimbus.com>; Myah Mendoza <mmendoza@microsoft.com>
+Subject: RE: [External] NIM5884957 Users attempting to send Purchase Order TrackingID#3320100010002486
+ 
+ You rarely receive emails from mlogan@layaway.net. Know why this is significant
+ 
+Is there any other way to quickly get a response to this?  It s been 5 hours since I emailed and I have not heard anything.
+ 
+MAL
+ 
+From: Martha Logan
+Sent: Monday, October 10, 2022 09:15 AM
+To: Gina Patterson (Crimsontek) <v-gpatterson@microsoft.com>; Carly Huber <chuber@nimbus.com>; Microsoft Support <help@microsoft.com>; Vendor Escalations - Productivity Technical Support <ve-productivity@nimbus.com>
+Cc: Johnny Lawson <jlawson@nimbus.com>; Martin Krueger <mkrueger@nimbus.com>; Myah Mendoza <mmendoza@microsoft.com>
+Subject: RE: [External] NIM5884957 Users attempting to send Purchase Order TrackingID#3320100010002486
+Priority: High
+ 
+  Verify that this is the correct tenant ID: 6d455310-32gfre-4ddd-895rd-ba10eb16f6df
+
+   Did you "Update users from MS365" from the Users list page, after the users were updated to Business Premium? It can be found under "Process" fastab. If not, please update and try again.
+Yes, we did this
+  Are the affected users able to send test emails via the Email Account page?
+
+I don't know where to do that.
+    Is a shared mailbox account being used to send these emails?
+No, I don t think so.
+ 
+I have more information here, don't know if it's useful when she receives the error.
+
+ 
+Can we connect in a remote session soon? The client really needs to send out emails as soon as possible.
+ 
+Thanks and Regards,
+ 
+Martha Logan
+162-554-1682
+ 
+From: Gina Patterson (Crimsontek) <v-gpatterson@microsoft.com>
+Sent: Monday, October 10, 2022 7:15 AM
+To: Carly Huber <chuber@nimbus.com>; Microsoft Support <help@microsoft.com>; Vendor Escalations - Productivity Technical Support <ve-productivity@nimbus.com>
+Cc: Johnny Lawson <jlawson@nimbus.com>; Martin Krueger <mkrueger@nimbus.com>; Myah Mendoza <mmendoza@microsoft.com>; Martha Logan
+ <mlogan@layaway.net>
+Subject: Re: [External] NIM5884957 Users attempting to send Purchase Order TrackingID#3320100010002486
+ 
+ 
+This is the first time you have received a message from v-gpatterson @ microsoft.com, so DRAGONGUARD did not recognize this email
+ 
+Alright, Carly
+ 
+I'm still waiting on a reply to my earlier questions.
+ 
+Thanks & Regards,
+Gina.
+________________________________________
+From: Carly Huber
+<chuber@nimbus.com>
+Sent: Monday, October 10, 2022 3:11 PM
+To: Microsoft Support <help@microsoft.com>; Vendor Escalations - Productivity Technical Support <ve-productivity@nimbus.com>
+Cc: Carly Huber<chuber@nimbus.com>; Johnny Lawson  <jlawson@nimbus.com>; Martin Krueger <mkrueger@nimbus.com>; Myah Mendoza <mmendoza@microsoft.com>; Gina Patterson (Crimsontek) <v-gpatterson@microsoft.com>; 'mlogan@layaway.net' <mlogan@layaway.net>
+Subject: RE: [External] NIM5884957 Users attempting to send Purchase Order TrackingID#3320100010002486
+ 
+Hello Gina,
+ 
+mlogan@layaway.net has been added for visibility and for any queries you have.
+
+Thanks & Regards,
+Carly Huber
+Service Desk Administrator I
+(800) 884 8309
+nimbus.com
+
+
+
+
+From: Gina P <support@mailbox.support.microsoft.com>
+Sent: Monday, October 10, 2022 09:03 AM
+To: Vendor Escalations - Productivity Technical Support <ve-productivity@nimbus.com>
+Cc: Carly Huber<chuber@nimbus.com>; Johnny Lawson <jlawson@nimbus.com>; Martin Krueger <mkrueger@nimbus.com>; Myah Mendoza <mmendoza@microsoft.com>; Gina Patterson <v-gpatterson@microsoft.com>
+Subject: [External] NIM5884957 Users attempting to send Purchase Order TrackingID#3320100010002486
+ 
+Hi Martin,
+ 
+Thank you for reaching out to Microsoft Support.
+ 
+I am Gina, a Microsoft Support Engineer, and I will be assisting you with your request 3320100010002486.
+ 
+You can contact me using the information in my email signature.
+ 
+I understand an error is occurring that is preventing two users from sending Purchase Orders to customer from Business Central. The error states that the email account being used to send the Purchase Order email is not permitted to send email on behalf of the account specified. This started occurring after the users' licenses were upgraded to Premium.
+ 
+Kindly accept our apology for this.
+ 
+ For further troubleshooting, please provide the following:
+  Verify that this is the correct tenant ID: 6d455310-32gfre-4ddd-895rd-ba10eb16f6df
+   Did you "Update users from MS365" from the Users list page, after the users were updated to Business Premium? It can be found under "Process" fastab. If not, please update and try again.
+  Are the affected users able to send test emails via the Email Account page?
+    Is a shared mailbox account being used to send these emails?
+ 
+Once a solution is provided or a workaround is provided, this incident will be considered resolved. The issue will also be considered resolved if an explanation is found or if the issue is determined to be a result of a third party, a known issue, a design choice, or customization settings.
+ 
+Thank you for your continued business with Microsoft.
+
+Thanks &  Regards,
+Gina Patterson
+Technical Service Expert
+Dynamics | Business Central
+Business Hours: M-F 7:00 am   4:00 pm CST
+Need assistance outside of my business hours?
+Find an engineer: dynamics@microsoft.com
+Manager: Wilma Nunez- v-wnunez@microsoftsupport.com
+Viraguard has scanned this email for spam and viruses
+Creation date: 2022-10-15 00:30:28 work_notes: Case automatically closed after being in the resolved state for three days.
+Creation date: 2022-10-18 08:03:12 work_notes: Customer Satisfaction Survey sent 2022-10-17 01:00:00

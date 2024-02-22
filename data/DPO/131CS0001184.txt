@@ -1,0 +1,260 @@
+A case was opened with a short description of Users are experiencing difficulty in establishing a connection with the AVD
+
+
+
+
+
+Creation date: 2022-10-14 18:08:27 work_notes: on phone with partner
+https://help.microsoft.com/commerce/clients/fghj487a8-8f91-4438b-a5ea-85862v2bad0/subscriptions
+Creation date: 2022-10-14 18:25:16 comments: Below link will connect you to the host 8fe1:
+
+https://control.mnogrp.com/?Session=a2d01aeb-0070-496c-9af4-0375cf9b5aa7&HostAccessToken=BMGA5UEbCfpDjNXyNyGsxK3JvvG1wM1j3uWdtAK14eaNDZNDEhO8T8XGLkgVsmgxQavfeVWhpr6IMLCIda8Q5J%2BHABtNwgxsNUlFS1KiBHy36VekxbXunhoCDfpfDOAsH0FH6SDzi4UB3vrcV6Kmj5VHkjqaJyfLFOwO7udfnH26
+
+
+
+Ben Bow
+CEO
+
+office: 838-323-5400<tel:+1%20838-323-5400>
+support: 838-212-5490<tel:+1%10838-313-5402>
+
+
+[cid:eds-144x40_b3ced371-9306-4f7e-9b9c-1fdd24d67859.png]
+
+[cid:iconfinder_friendsy_online_social_media_764399_669efb2d-6d60-47c0-82e8-d636c547eb3e.png]<https://www.friendsy.com/mnogrp> [cid:iconfinder_online_social_media_linked_in_734383_b608204e-8c45-41eb-8a07-24e385a0272e.png] <https://www.jobwise.com/company/mnogrp/>
+
+mnogrp.com<https://www.mnogrp.com>
+
+
+VIP Member of [cid:the20_18_494c1932-9284-4b48-tu29-f1c8128a8310.png]  ...We've got IT taken care of of.
+Creation date: 2022-10-14 18:50:53 work_notes: Escalated Sev A. 1109020040005660
+Still trying my best, but think it's a MS problem.
+More than 50 users are non-functional, and only about 10 working.
+Creation date: 2022-10-14 19:10:16 work_notes: all hosts that were expected to be online suddenly became operational.
+Creation date: 2022-10-14 19:15:24 work_notes: all systems are now operational. however, given it was a severity A issue that was recently reported, i advised them to engage Microsoft to verify that everything is functioning correctly.
+Creation date: 2022-10-18 12:29:42 work_notes: We're in Pacific Time. Only six hosts were operational. Notably, the host with the ending "8fe1" was among those that were not functioning. 
+  
+Ben Bow
+Executive Officer
+
+office: 838-323-5400
+support: 838-323-5490
+ 
+
+   
+
+mnogrp.com
+
+VIP  Member of   ...We've got IT taken care of.
+From: Abrar Khan <abrarkhan@microsoft.com>
+Date: Sunday, October 16, 2022 at 8:35 AM
+To: Ben Bow <ben.bow@mnogrp.com>, Microsoft Help <helpmail@microsoft.com>, Microsoft Help <helpmail@microsoft.com>
+Cc: Ravi Kumar<rkumar@microsoft.com>, qwer@nimbus.com <qwer@nimbus.com>, nimmy@nimbus.com <nimmy@nimbus.com>, ve-internal@nimbus.com <ve-internal@nimbus.com>, uhuy@nimbus.com <uhuy@nimbus.com>
+Subject: RE: Only 6 out of 16 are able to access networking.  - TrackingID#1109020040005660
+Hello Ben ,
+ 
+Which time zone were you in? Also, could you furnish a list of the VMs that encountered issues?
+ 
+Regards,
+ 
+Abrar Khan
+Support Analyst    +1 (802) 212-1176
+Azure Networking    abrarkhan@microsoft.com
+
+Customer Service & Support     07:00-16:00 M-F US Central Time
+   
+ 
+ 
+Do you need help outside of my working hours?
+Finding an analyst: azure.bizunit@microsoft.com
+ARR Customer? Please engage: backuparr@microsoft.com
+Manager Help : mngr@microsoft.com.com
+ 
+My manager Ragini Chada (ragini.chada@microsoft.com)
+If you have any feedback regarding my work, feel free to inform either me or my manager.
+ 
+ 
+From: Ben Bow <ben.bow@mnogrp.com> 
+Sent: Sunday, October 16, 2022 09:44 AM
+To: Microsoft Help <helpmail@microsoft.com>; Microsoft Help <helpmail@microsoft.com>; Abrar Khan <abrarkhan@microsoft.com>
+Cc: Ravi Kumar<rkumar@microsoft.com>; qwer@nimbus.com; nimmy@nimbus.com; ve-internal@nimbus.com; uhuy@nimbus.com
+Subject: [EXTERNAL] Re: Only 6 out of 16 are able to access networking.  - TrackingID#1109020040005660
+Importance: High
+ 
+ Individuals who received this message do not frequently receive emails from ben.bow@mnogrp.com. Know why this is important
+
+The client opens at 8:00 AM, and we received the initial report of an issue at 8:03 AM. The problem persisted for several hours.
+ 
+  
+Ben Bow
+CEO
+
+office: 838-323-5400
+support: 838-323-5490
+ 
+
+   
+
+mnogrp.com
+
+VIP Member of   ...We've got IT taken care of.
+From: Abrar K <help@mail.support.microsoft.com>
+Date: Friday, October 16, 2022 at 7:04 AM
+To: Ben Bow <ben.bow@mnogrp.com>, helpmail@microsoft.com <helpmail@microsoft.com>, Abrar Khan <abrarkhan@microsoft.com>
+Cc: Ravi Kumar<rkumar@microsoft.com>, qwer@nimbus.com <qwer@nimbus.com>, nimmy@nimbus.com <nimmy@nimbus.com>, ve-internal@nimbus.com <ve-internal@nimbus.com>, uhuy@nimbus.com <uhuy@nimbus.com>
+Subject: RE: Only 6 out of 16 are able to access networking.  - TrackingID#1109020040005660
+Hi Ben ,
+ 
+I trust you are doing well.
+
+We have not received your response to our inquiry. Could you please share the start and end times of the outage, along with the names of the session host VMS that encountered the DNS issue? This information is crucial for us to proceed with our root cause analysis.
+
+ 
+Regards,
+ 
+Abrar Khan
+Support Analyst
+Azure Networking
+Customer Service & Support       +1 (802) 212-1176
+     abrarkhan@microsoft.com
+     M-F 7:00am - 4:00pm Central Time
+ 
+ 
+Do you need help outside of my working hours?
+Finding an analyst: azure.bizunit@microsoft.com
+ARR Customer? Please engage: backuparr@microsoft.com
+Manager Help : mngr@microsoft.com.com
+ 
+My manager Ragini Chada (ragini.chada@microsoft.com)
+If you have any feedback regarding my work, feel free to inform either me or my manager.
+ 
+ 
+------------------- Original Message -------------------
+From: help@mail.support.microsoft.com;
+Received: Thu Oct 13 2022 13:20:54 GMT-0400 (Central Daylight Time)
+To: Ben Bow <ben.bow@mnopower.com>; Abrar Khan <abrarkhan@microsoft.com>; helpmail@microsoft.com;
+Cc: Ravi Kumar<rkumar@microsoft.com>; qwer@nimbus.com; nimmy@nimbus.com; ve-internal@nimbus.com; uhuy@nimbus.com;
+Subject: RE: Only 6 out of 16 are able to access networking.  - TrackingID#1109020040005660
+Hi Ben ,
+ 
+To assist us in the root cause investigation, could you kindly confirm the time frame of the outage to the best of your knowledge?
+
+Additionally, please provide a list of the session hosts that were operational and those that were not.
+
+ 
+Regards.
+ 
+Abrar Khan
+Support Analyst
+Azure Networking
+Customer Service & Support       +1 (802) 212-1176
+     abrarkhan@microsoft.com
+     M-F 7:00am - 4:00pm Central Time
+ 
+ 
+Do you need help outside of my working hours?
+Finding an analyst: azure.bizunit@microsoft.com
+ARR Customer? Please engage: backuparr@microsoft.com
+Manager Help : mngr@microsoft.com.com
+ 
+My manager Ragini Chada (ragini.chada@microsoft.com)
+If you have any feedback regarding my work, feel free to inform either me or my manager.
+ 
+ 
+------------------- Original Message -------------------
+From: help@mail.support.microsoft.com;
+Received: Thu Oct 13 2022 13:20:54 GMT-0400 (Central Daylight Time)
+To: Ben Bow <ben.bow@mnopower.com>; Abrar Khan <abrarkhan@microsoft.com>; helpmail@microsoft.com;
+Cc: Ravi Kumar<rkumar@microsoft.com>; qwer@nimbus.com; nimmy@nimbus.com; ve-internal@nimbus.com; uhuy@nimbus.com;
+Subject: RE: Only 6 out of 16 are able to access networking.  - TrackingID#1109020040005660
+  
+Hi Ben,
+ 
+Thank you for our discussion earlier today. You can contact me either by replying to this e-mail or calling the phone number provided in my signature below.
+
+As we agreed, I have adjusted the severity of this case downward since the issue was resolved shortly after our call, and all session hosts are now operational. You mentioned that during the outage the non-function VMs encountered time out errors while attempting to resolve host names, including google.com. Your VNet is configured to utilize the AADDS domain controllers for name resolution. We will investigate further to determine the root cause of the name resolution failures.
+
+Feel free to let me know if you have any questions or concerns
+
+ 
+Warm regards,
+ 
+Abrar Khan
+Support Analyst
+Azure Networking
+Customer Service & Support       +1 (802) 212-1176
+     abrarkhan@microsoft.com
+     M-F 7:00am - 4:00pm Central Time
+ 
+ 
+Do you need help outside of my working hours?
+Finding an analyst: azure.bizunit@microsoft.com
+ARR Customer? Please engage: backuparr@microsoft.com
+Manager Help : mngr@microsoft.com.com
+ 
+My manager Ragini Chada (ragini.chada@microsoft.com)
+If you have any feedback regarding my work, feel free to inform either me or my manager.
+ 
+ 
+------------------- Original Message -------------------
+From: help@mail.support.microsoft.com;
+Received: Thu Oct 13 2022 13:21:54 GMT-0400 (Central Daylight Time)
+To: Ben Bow <ben.bow@mnopower.com>; Abrar Khan <abrarkhan@microsoft.com>;
+Cc: Ravi Kumar<rkumar@microsoft.com>; qwer@nimbus.com; nimmy@nimbus.com; ve-internal@nimbus.com; uhuy@nimbus.com;
+Subject: Only 6 out of 16 are able to access networking.  - 
+TrackingID#1109020040005660
+  
+Hi Ben ,
+ 
+Below is the meeting link:
+ 
+________________________________________________________________________________
+Microsoft Teams meeting
+Join on your device, mobile app or room device 
+Click here to join the meeting 
+Meeting ID: 244 662 118 831 
+Passcode: zwFIxU 
+Download Teams | Join on the web
+Or call in (audio only)
++1 212-738-3763,,380667801#   United States, California 
+Phone Conference ID: 279 568 11# 
+Find a local number | Reset PIN 
+Learn More | Meeting options 
+________________________________________________________________________________
+
+ 
+Abrar Khan
+Support Analyst
+Azure Networking
+Customer Service & Support       +1 (802) 212-1176
+     abrarkhan@microsoft.com
+     M-F 7:00am - 4:00pm Central Time
+ 
+ 
+Do you need help outside of my working hours?
+Finding an analyst: azure.bizunit@microsoft.com
+ARR Customer? Please engage: backuparr@microsoft.com
+Manager Help : mngr@microsoft.com.com
+ 
+My manager Ragini Chada (ragini.chada@microsoft.com)
+If you have any feedback regarding my work, feel free to inform either me or my manager.
+Creation date: 2022-10-18 12:29:42 comments: In RCA along MS. Send to VA.
+Creation date: 2022-10-18 12:30:08 work_notes: Apologies, that was intended for the notes.
+Creation date: 2022-10-19 16:15:06 work_notes: Hi Abrar,
+
+I trust all is well with you. I wanted to reach out and inquire if there are any updates on your end.
+Creation date: 2022-10-20 15:16:06 work_notes: Hello Karen,
+
+
+
+1. We are currently looking into the incident involving AVD instances encountering time out errors while attempting to resolve DNS names. This issue is preventing them from resolving the necessary AVD URLs, Leading to service outage.
+
+2. The verification indicates that the VNet indeed relies on your AADDS domain controllers for DNS resolution. It is assumed that the AADDS domain controllers forward DNS request to 168.63.128.15 For the zones they cannot resolve. After examining the forwarder logs, it has been confirmed that there are no responsive DNS queries observed on the azure forwarder.
+
+3. I am collaborating with the AADDS team to explore the possibility of obtaining DNS logs from the domain controllers. These logs could provide insights into whether the VM request reached the DC's. Additionally, I recommend checking the event logs for your VMs for similar information.
+
+Feel free to reach out if you have any additional questions or concerns.
+
+Regards, 
+
+Abrar Khan

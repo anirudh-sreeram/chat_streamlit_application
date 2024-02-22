@@ -1,0 +1,1 @@
+[{"role": "user", "content": "Hi"}, {"role": "robot", "chosen": "Hello! How can I help you today? 123", "rejected": "Hello! How can I help you today?", "model": "NOW_LLM_15.5b_v0.5.0_103123_alltoken_loss", "snapchosen": "Hello! How can I help you today? 123"}]

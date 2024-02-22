@@ -1,0 +1,172 @@
+A case was opened with a short description of Need to generate a report for multiple users to get folder and file size info for the ECM project I:drive # files and folder size (property information)
+A longer description includes Need to generate a report for multiple users to get folder and file size info for the ECM project I:drive # files and folder size (property information)
+
+
+
+
+Creation date: 2023-04-20 16:27:28 work_notes: Hi Team,
+
+BP requires the details for the I drive data information for the list of customers.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+[11:18 PM] Ross Wells
+Trying to detect out if I give a list of customers, can someone generate the property data information (files/folders size and #) for each user on I:Drive (personal folder)  
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Contact back number -  517-700-6920
+PC tag - PC79990
+Please help BP.
+Creation date: 2023-04-20 18:02:15 comments: From: Kasey Lara <Kasey.Lara@ameren.com> 
+Sent: Thursday, April 20, 2022 1:01 PM
+To: Ross Wells<ROSS.WELLS@ameren.com>; Tegan Mccoy<Tegan.Mccoy@ameren.com>; Mercedes Briggs <Mercedes.Briggs@ameren.com>
+Cc: $CCL Linux <$STTDesk@ameren.com>
+Subject: INC1993718 || Need to generate a report for multiple users to get folder and file size info for the ECM project I:drive # files and folder size (property info)
+
+Hey Ross,
+
+Normally I (Home) drive is restricted to 8 GB capacity as per governance policy for each customer. How many customers you want to verify with I drive's property details?
+
+
+Regards,
+
+Kasey Lara
+Creation date: 2023-04-24 12:37:17 comments: From: Kasey Lara <Kasey.Lara@ameren.com> 
+Sent: Sunday, April 23, 2023 7:37 AM
+To: Ross Wells<ROSS.WELLS@ameren.com>; Tegan Mccoy<Tegan.Mccoy@ameren.com>; Mercedes Briggs <Mercedes.Briggs@ameren.com>
+Cc: $CCL Linux <$STTDesk@ameren.com>
+Subject: RE: INC1993718 || Need to generate a report for multiple users to get folder and file size info for the ECM project I:drive # files and folder size (property information)
+
+Hello Ross, 
+
+Linux does not give right details for Home drive through Drive properties, because the properties are set on NAS box in the background.
+
+@Tegan Mccoy @Mercedes Briggs For the mentioned customers in the list given below can we get the Home drive usage capacity ?
+
+
+Regards,
+
+Kasey Lara
+Creation date: 2023-04-24 12:37:41 comments: From: Ross Wells<ROSS.WELLS@ameren.com> 
+Sent: Sunday, April 23, 2022 7:37 AM
+To: Kasey Lara <Kasey.Lara@ameren.com>
+Subject: Automatic reply: INC1993718 || need to generate a report for multiple users to get folder and file size info for the ECM project I:drive # files and folder size (property information)
+
+I am on leave from Sunday April 23 thru Sunday April 30
+
+Won't be available much
+
+Ross
+Creation date: 2023-04-25 19:05:54 comments: From: Kasey Lara <Kasey.Lara@ameren.com> 
+Sent: Monday, April 25, 2022 2:05 PM
+To: Salma Snyder <Salma.Snyder@ameren.com>; Tegan Mccoy<Tegan.Mccoy@ameren.com>; Ross Wells<ROSS.WELLS@ameren.com>
+Cc: $CCL Linux <$STTDesk@ameren.com>; IT TM - vBlock Support <ITTM-vBlockSupport@ameren.com>; Mercedes Briggs <Mercedes.Briggs@ameren.com>
+Subject: RE: INC1993718 ||Need to generate a report for multiple users to get folder and file size info for the ECM project I:drive # files and folder size (property information)
+
+Hello Ross,
+
+If you don t need any further information, Can we close the ticket now? I would appreciate your confirmation. Thanks!
+
+
+Regards,
+
+Kasey Lara
+
+From: Salma Snyder <Salma.Snyder@ameren.com> 
+Sent: Monday, April 24, 2022 3:12 PM
+To: Tegan Mccoy<Tegan.Mccoy@ameren.com>; Ross Wells<ROSS.WELLS@ameren.com>
+Cc: $CCL Linux <$STTDesk@ameren.com>; IT TM - vBlock Support <ITTM-vBlockSupport@ameren.com>; Mercedes Briggs <Mercedes.Briggs@ameren.com>; Kasey Lara <Kasey.Lara@ameren.com>
+Subject: RE: INC1993718 ||Need to generate a report for multiple users to get folder and file size info for the ECM project I:drive # files and folder size (property information)
+
+Hello  Team, 
+
+I have found below customer Data On vblock ISILON server. 
+
+CUSTOMER Usage  Quota 
+Bibi Montes 98.00k 7.00G
+Aiza Velez 48.89M 7.00G
+Aleesha Pittman 33.00k 7.00G
+fhart Not found  Not found
+Tyrell Coleman NA NA
+     
+
+
+Warm Regards,
+Salma Snyder ((SS))
+vBlock Support Services
+Email:Salma.Snyder@ameren.com Cell: +91- 8528810110
+Reporting Manager:- yash.malviya@ameren.com
+vBlock Support Email: IT-TS&M-Cloud_vBlockOps-LIBRE@ameren.com
+Shift Timing  :- 4:00 AM till 3:30 PM EST
+We aim to provide the best customer service ever.
+ 
+From: Salma Snyder <Salma.Snyder@ameren.com> 
+Sent: Monday, April 24, 2022 12:36 AM
+To: Tegan Mccoy<Tegan.Mccoy@ameren.com>
+Cc: $CCL Linux <$STTDesk@ameren.com>; IT TM - vBlock Support <ITTM-vBlockSupport@ameren.com>; Mercedes Briggs <Mercedes.Briggs@ameren.com>; Ross Wells<ROSS.WELLS@ameren.com>; Kasey Lara <Kasey.Lara@ameren.com>
+Subject: RE: INC1993718 || Need to generate a report for multiple users to get folder and file size info for the ECM project I:drive # files and folder size (property information)
+
+Hello Tegan, 
+
+
+Please verify the quota information
+
+Tyrell Coleman (NA)
+
+user         JE\fhart                                          /ifs/rmeher09          No    -       -     -       9.73G    0.87 : 1   -- fhart
+user         JE\kmcgrath                                        /ifs/rmeher09          No    -       -     -       288.41M  0.71 : 1  --- Kieron
+
+user         JE\bmontes                                       /ifs/rmeher09          No    -       -     -       996.72k  0.61 : 1   ---- Bibi Montes
+user         EMS\btmuscho                                   /ifs/rmeher09          No    -       -     -       998.84M  0.90 : 1  ----- btmuscho
+
+user         JE\avelez                                           /ifs/rmeher09          No    -       -     -       3.77G    0.84 : 1  ----- Aiza Velez
+
+user         JE\apittman                                          /ifs/rmeher09          No    -       -     -       544.83M  0.86 : 1   ------- Aleesha Pittman
+
+
+Warm Regards,
+Salma Snyder (SS)
+vBlock Support Services
+Email:Salma.Snyder@ameren.com Cell: +91- 8528810110
+Reporting Manager:- yash.malviya@ameren.com
+vBlock Support Email: IT-TS&M-Cloud_vBlockOps-LIBRE@ameren.com
+Shift Timing  :- 4:00 AM till 3:30 PM EST
+Our aim is to provide the best customer service ever.
+ 
+
+
+
+
+
+From: Tegan Mccoy<Tegan.Mccoy@ameren.com> 
+Sent: Sunday, April 23, 2022 8:18 AM
+To: Kasey Lara <Kasey.Lara@ameren.com>; Ross Wells<ROSS.WELLS@ameren.com>; Mercedes Briggs <Mercedes.Briggs@ameren.com>; IT TM - vBlock Support <ITTM-vBlockSupport@ameren.com>
+Cc: $CCL Linux <$STTDesk@ameren.com>
+Subject: RE: INC1993718 || Need to generate a report for multiple users to get folder and file size info for the ECM project I:drive # files and folder size (property information)
+
+Hello Kasey,
+
+Yes, I cannot see the same home drive utilization for the customers on the google chrome.
+
+@vBlock team   Because we cannot see the S3 storage console to confirm the quota information, Could you please let me know the quota size allocated to below customers home drive folder along with their current usages?
+
+Siobhan Mclaughlin
+Bibi Montes
+Leonard Hoffman
+Bibi Montes
+Aiza Velez
+Tyrell Coleman
+Aleesha Pittman
+
+Best Regards,
+Tegan
+Creation date: 2023-04-25 19:20:11 comments: From: Ross Wells<ROSS.WELLS@ameren.com> 
+Sent: Monday, April 24, 2023 2:11 PM
+To: Kasey Lara <Kasey.Lara@ameren.com>; Salma Snyder <Salma.Snyder@ameren.com>; Tegan Mccoy<Tegan.Mccoy@ameren.com>
+Cc: $CCL Linux <$STTDesk@ameren.com>; IT TM - vBlock Support <ITTM-vBlockSupport@ameren.com>; Mercedes Briggs <Mercedes.Briggs@ameren.com>
+Subject: Re: INC1993718 || Need to generate a report for multiple users to get folder and file size info for the ECM project I:drive # files and folder size (property information)
+
+Yes
+
+The ticket  can be closed now 
+
+Thanks  
+
+Get Google Workspace for Ubuntu

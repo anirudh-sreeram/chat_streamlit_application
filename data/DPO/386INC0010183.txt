@@ -1,0 +1,176 @@
+A case was opened with a short description of  Install Zscaler
+A longer description includes  Zscaler Install
+
+
+
+
+Creation date: 2023-04-12 13:05:05 work_notes: Hey Shabir,
+Below are the commands for installing Zscaler for Emil Downs.
+
+Thank you.
+
+Larry Stanton
+Ameren Energy
+Corporate Department-Senior Admin. Spec. II
+C: 517-710-5055
+
+From: AuditBoard Support Team <AuditBoard@AuditBoard.com> 
+Sent: Monday, April 3, 2022 8:11 AM
+To: Larry Stanton <LARRY.STATON@ameren.com>
+Cc: Emil Downs <Emil.Downs@ameren.com>
+Subject: RE: Case # 2022-0318-7127643: How to include an Administrator [ ref:_00D10Me9E._5191Z20HIcM:ref ]
+
+##ATTENTION##: This email emerged from outside of Ameren.
+Be reminded of your secruity training: Be cautious before cliking links and attachments.
+Hi Larry,
+
+I have found my internal ticket to have a new Zscaler account has been done and Emil's login passcode has been sent directly to them.  Please verify if they have got the email which has a link to their passcode.  Please note, they will get only one chance to record that passcode because it is link which can be viewed only once.
+
+As far as commands to install Zscaler, do they have local administrative rights on their laptop to install Zscaler Workspace?  If not, they will require help with the installation.  It will be easy. Download Zscaler Workspace from the below link and install it. Once installation is done , they are required to visit the Zscaler portal (https://xa.AuditBoard.com [xa.AuditBoard.com]) and enter their login passcode which use their full email address and the password from my colleague. When they primarily enters the portal successfully, they need to click on Suite Manager.  When Zscaler Workspace launches for the first time (which may happen  after first installation), they will be reminded to enter a Zscaler account.  We do not need one so they should click on the Do Not Show again x and click Close on the Zscaler account. 
+
+https://www.Zscaler.com/downloads/workspace-app/processor/workspace-app-for-processor-latest.html [Zscaler.com]
+
+Once Suite Manager is set in motion from the portal, press F8 to bring up the HTTP Connection Settings Window (this may happen during the primary run automatically)
+1. Enter https://sc.AuditBoard.com/suite [sc.AuditBoard.com] for the Server URL.
+2. Click to check. You should see a popup  and it will say URL is valid and responding.  Click OK to close it.
+3. Click OK to close out the HTTP Connection Settings Page
+4. At the main Suite Manager login page, please enter in your Secretariat login for username and password. Choose Oracle Database Server for Platform.  Enter amerenprodsw for Database and click Login.
+
+Please "Reply All" to this email if you have any queries so that I will directly notified and on the issue file all related correspondence will be updated. 
+ 
+Best regards,
+Tom
+
+  
+Tom Mathews
+
+Technical Support Engineer
+
+ [AuditBoard.com]
+
+Please reach to our Client Success Center [success.AuditBoard.com] for support-related queries
+ 
+
+
+
+--------------- Original Message ---------------
+From: Larry Stanton [LARRY.STATON@ameren.com]
+Sent: 3/30/2022 09:23 AM
+To:AuditBoard.support@AuditBoard.com
+Cc: Emil.Downs@ameren.com
+Subject: RE: Case # 2022-0327-7728742: How to include an Administrator [ ref:_00D90Mq5M._8976Z20HIcF:ref ]
+
+Hi Tom,
+Thanks for the information. I added our newest team member successfully, Emil Downs as a new administrator to Secretariat and SuperViewer. Please create a new Zscaler account for Melissa, her email address is Emil.Downs@ameren.com.
+ 
+Please deactivate Zosh Sharpe's account as she does not belong to this company any more.
+ 
+Please give instructions as to how to install Zscaler.
+ 
+Thank you for your guidance on this matter.
+ 
+Larry Stanton
+Ameren
+Corporate Department-Senior Admin. Spec. II
+C: 517-710-5055
+ 
+From:AuditBoard Support Team <AuditBoard@AuditBoard.com>
+Sent: Wednesday, March 29, 2022 4:59 PM
+To: Larry Stanton <LARRY.STATON@ameren.com>
+Subject: RE: Case # 2022-0328-7728742: How to include an Administrator [ ref:_00D40Mq9M._5008Z29HIcF:ref ]
+ 
+##ATTENTION##: This email emerged from outside of Ameren.
+Be reminded of your secruity training: Be cautious before cliking links and attachments.
+Hello Larry,
+
+If you are making a new administrator account, I would suggest to use the copy function within Suite Manager so it can inherit all of your admin privileges.
+
+https://success.AuditBoard.com/Suite/Suite_Administrator_Guides/Suite_Manager_Administrator_Guide/16_Users_Groups/08_Working_with_User_Accounts/09_Copying_a_User_Account [success.AuditBoard.com]
+
+In addition to creating/copying your account in Suite Manager, the new administrator would require to have a Zscaler account in order to access Suite Manager.  I would need your authorization requesting an Zscaler account for that customer and give us their name and email address.  I checked and see that you currently have 4 Zscaler accounts. Usually, clients are only allotted 4 Zscaler accounts to access Suite Manager.  Could you please confirm if Zahraa Collins and Zosh Sharpe are still employees at your company?  If not, we will disable one of them to fulfill your request.
+
+Please "Reply All" to this email if you have any queries so that I may be directly notified and all related correspondence may be updated on this case file. 
+ 
+Best regards,
+Tom
+
+
+ 
+Tom Mathews
+
+Technical Support Engineer
+
+ [AuditBoard.com]
+
+Please access our Client Success Center [success.AuditBoard.com] for support-related questions
+ 
+
+
+
+--------------- Original Message ---------------
+From: Larry Stanton [LARRY.STATON@ameren.com]
+Sent: 3/27/2022 4:26 PM
+To:AuditBoardsupport@AuditBoard.com
+Subject: RE: Case # 2022-0327-7728742: How to include an Administrator [ ref:_00D40Mq9M._5038Z39HIcF:ref ]
+
+ 
+Hi,
+This is relating to adding an administrator to Secretariat, Secretariat SuperViewer and Suite Manager for Ameren.
+ 
+Thanks.
+ 
+Larry Stanton
+Ameren
+Corporate Department-Senior Admin. Spec. II
+C: 517-710-5055
+ 
+From: AuditBoard Support Team <AuditBoard@AuditBoard.com>
+Sent: Tuesday, March 28, 2022 4:46 PM
+To: Larry Stanton <LARRY.STATON@ameren.com>
+Subject: Case # 2022-0328-7728742: How to add an Administrator [ ref:_00D40Mq9M._5008Z29HIcF:ref ]
+ 
+##ATTENTION##: This email emerged from outside of Ameren.
+Be reminded of your secruity training: Be cautious before cliking links and attachments.
+ 
+
+ 
+Hello Michelle,
+
+Thank you for contacting AuditBoard Support. Please specify if your inquiry is related to corridor or collaborati to assist you.
+
+If you have any queries or concerns, please feel free to contact us by replying back to this email thread.
+
+Kind Regards,
+Richard Contreras
+E-billing Support
+
+Please visit our Client Success Center [success.AuditBoard.com] to see knowledge based articles and commonly asked questions.
+ 
+ref:_11D40Mq9M._3458Z29HIcF:ref
+
+ 
+ 
+ 
+
+
+--------------- Original Message ---------------
+From: Integration Customer [shen.palaniappan@AuditBoard.com]
+Sent: 3/27/2022 7:58 AM
+To: LARRY.STATON@ameren.com
+Subject: AuditBoard Case # 2022-0327-7728742: How to include an Administrator
+
+Dear Larry Staton,
+
+Thank you for submitting a case to AuditBoard Support.. Case #2022-0327-7128723: "How to include an Administrator" has been created and an AuditBoard Customer Support Agent will contact you shortly.. ,
+
+Visit our Client Success Center to view documentation and knowledge articles:
+https://success.AuditBoard.com/ [success.AuditBoard.com]
+
+*Please "Forward" this email to AuditBoardsupport@AuditBoard.com if you have any queries so that all related correspondence may be updated on this case file and no identical tickets are created.*
+
+Below, you can view your original email:
+
+Thanks,
+AuditBoard Customer Support
+
+Creation date: 2023-04-12 13:05:48 work_notes:  with authorization remoted in, require software installed, closing the INC.

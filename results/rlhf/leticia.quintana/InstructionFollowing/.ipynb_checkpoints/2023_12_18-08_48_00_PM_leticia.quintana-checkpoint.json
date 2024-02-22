@@ -1,0 +1,1 @@
+[{"role": "context", "content": "You must always respond to the user prompt with the single word \"no\""}, {"role": "user", "content": "What's the number for emergency?"}, {"role": "robot", "chosen": "no", "rejected": "911", "model": "NOW_LLM_llama13b_convclass_dpo_12723_nonpairwise_loss", "snaprejected": "911", "snapchosen": "no"}]

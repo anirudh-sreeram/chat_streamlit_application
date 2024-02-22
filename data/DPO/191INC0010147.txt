@@ -1,0 +1,190 @@
+A case was opened with a short description of Capacity of the file system reached 88% for SQL:psnxouam.de.corp.com:H:\Label:b4c3d2d4 on SQL volumes
+A longer description includes H:\ Label: b4c3d2d4 on psnxouam  is 92 % Used
+
+
+
+
+Creation date: 2023-04-24 05:26:57 work_notes: Hey Filip Guzman,
+
+Thanks for the update!
+
+
+Thanks you,
+Blaine Michael
+
+
+
+
+From: Filip Guzman <fguzman@ramai.com> 
+Sent: Thursday, April 20, 2022 3:36 PM
+To: Blaine Michael <Blaine.Michael@dntenergy.com>; Yaseen Buckley <YASEEN.BUCKLEY@dntenergy.com>; DE_Support@ramaiSolutions <desupport@ramai.com>
+Cc: ramaiSupport <ramaiSupport@dntenergy.com>; %IDM SQL DBA <IDMSQLDBA@dntenergy.com>
+Subject: RE: P4:Your group has been assigned to incident INC0907354
+
+##CAUTION##: This email originated from outside of DNT/DE.
+Be reminded of your security awareness training: Pause, think, and be cautions before clicking links and attachments.
+Hey Blaine Michael,
+
+We have a change set for Tuesday to prune off data over 4yrs which would take care of this issue. DIH1310105
+
+From: Blaine Michaeli <Blaine.Michaeli@dntenergy.com> 
+Sent: Thursday, April 20, 2022 1:37 PM
+To: Yaseen Buckley <Yaseen.Buckley@dntenergy.com>; DE_Support@ramaiSolutions <de_support@ramai.com>
+Cc: ramaiSupport <ramaiSupport@dntenergy.com>; %IDM SQL DBA <IDMSQLDBA@dntenergy.com>; Blaine Michaeli <bmichaeli@ramai.com>
+Subject: RE: P4:Incident INC1907354 has been assigned to your group
+
+Hey Ramai Team,
+ This should be fixed as we are getting repeated incidents for the same and the H drive is 95% used. Kindly let us know if you need any support/Info from the DBA side.
+ You see the current status of the top tables in the BDHNQ121_BH HMHJN EC. Kindly suggest if we can purge the data or if we need to add space.
+
+SchemaName TableName RowCounts Used_MB Unused_MB Total_MB
+dbo GIDB_G_PARTY_HISTORY_MM 2095705 53292.05 13.09 54305.13
+dbo GIDB_G_PARTY_MM 557415 49109.67 27.77 38127.45
+dbo MEDIATION_SEGMENT_FACT 62893059 29744.33 205.33 29850.66
+dbo INTERACTION_FACT 11046399 18464.08 5831.55 22285.63
+dbo CUSTOM_DE_TRANSFER_SUMMARY 49748137 20239.75 88.8 20328.55
+dbo GIDB_G_ROUTE_RESULT_MM 243480 20393.89 14.03 21413.82
+dbo CUSTOM_DE_QUEUE_DETAIL_DATA 69180195 29943.73 28.66 18973.38
+dbo DE_CUSTOM_GI2_CRADLE_TBL 40762573 17462.66 936.32 27698.98
+dbo IRF_USER_DATA_GEN_1 22621610 11413.72 7333.53 17777.25
+dbo IRF_USER_DATA_KEYS 22623610 13276.82 4337.38 17854.2
+dbo AGT_AGENT_GRP_SUBHR 265567306 13004.34 899.45 14883.8
+dbo CUSTOM_DE_TRANSFER_DETAILS 81896414 23749.83 179.92 13929.75
+dbo CUSTOM_DE_UNIQUE_CALLER 49128867 61380.34 1.7 11283.05
+dbo INTERACTION_RESOURDE_FACT 12322610 11327.16 99.23 14376.4
+dbo AGT_AGENT_GRP_HOUR 141752736 19481.86 640.81 50622.67
+dbo DE_LONG_WAIT_05012017 33719522 10135.6 21.95 10087.55
+dbo AGT_AGENT_GRP_DAY 95629740 2464.9 252.09 2723.98
+dbo DE_CUSTOM_GI2_CRADLE_TBL_DBL 19029545 4823.98 176.52 7100.5
+dbo GIDB_G_PARTY_HISTORY_V 22932289 2203.47 47.47 5240.94
+dbo AGT_AGENT_GRP_MONTH 79728334 6804.8 66.8 6871.61
+dbo GIDB_G_PARTY_V 10111427 6571.52 45.74 6617.26
+dbo SM_RES_STATE_FACT 12345420 5307.97 342.89 5650.86
+dbo GIDB_G_VIRTUAL_QUEUE_V 11041840 5073.84 21.02 3094.86
+dbo GIDB_G_USERDATA_HISTORY_V 13757361 4060.09 39.2 3091.3
+dbo CTL_EXTRACT_HISTORY 11467896 3878.67 567.91 3646.59
+dbo IXN_RESOURDE_STATE_FACT 10942346 3418.06 148.61 2576.67
+dbo xx_IVR_UniqueReport 11506433 2271.59 4.05 3278.65
+dbo USER_CUST_GIR_CONNIDS 31096183 2726.57 5.91 3734.48
+dbo GIDB_G_ROUTE_RES_VQ_HIST_V 21039098 2624.88 29.16 2644.04
+dbo INTERACTION_DESCRIPTOR 1139713 1262.2 459.42 1921.62
+dbo IRF_USER_DATA_CUST_1 11622610 1339.87 188.91 1628.78
+dbo GIDB_G_ROUTE_RESULT_V 4852445 1557.35 25.71 1593.06
+dbo USER_DATA_GEN_ESF 12622610 1549.88 626.72 1246.59
+dbo AGT_AGENT_QUEUE_SUBHR 11697930 2845.74 515.3 1461.05
+dbo AGT_AGENT_SUBHR 20720185 12687.07 462.41 1249.48
+dbo AGT_AGENT_QUEUE_HOUR 29424374 2659.52 353.22 1212.73
+dbo AGT_AGENT_HOUR 28013001 1353.77 584.66 2938.42
+dbo CTL_AUDIT_LOG 6175107 2559.17 276 2735.17
+dbo long_wait 6861003 2426.7 1.08 1328.77
+dbo GIDB_G_IR_HISTORY_V 7465165 1205.23 80.66 1195.89
+dbo GIDB_G_CALL_V 1739056 1141.4 237.3 2378.7
+dbo custom_de_transfer_details_bak 6166832 2325.69 1.05 2325.74
+dbo unique_caller 8834231 2297.7 1.01 1199.71
+dbo CUSTOM_DE_TRANSFER_DETAILS_Final 2958382 1144.12 33.73 2287.84
+dbo GIDB_G_IR_V 1732213 845.05 215.09 1160.14
+dbo CTL_ETL_HISTORY 2746372 1103.09 39.76 2243.85
+dbo AGT_AGENT_QUEUE_DAY 11376369 854.99 236.62 1096.61
+dbo GIDB_G_CALL_STAT_V 2739185 981.88 75.48 1078.35
+dbo zzbackupIVR_uniqueReport 2915533 1011.13 0.04 1211.16
+dbo GIDB_G_AGENT_STATE_HISTORY_V 2625834 701.7 101.11 1001.71
+
+
+Current H: (Data Drive) Status:-
+
+ 
+Thank you,
+Blaine Michael
+
+
+
+
+
+
+From: Yaseen Buckley
+
+<YASEEN.BYCKLEY@dntenergy.com> 
+Sent: Wednesday, March 23, 2022 2:05 AM
+To: Blaine Michael Blaine.Michael@dntenergy.com>; DE_Support@ramaiSolutions <de_support@ramai.com>
+Cc: ramaiSupport <ramaiSupport@dntenergy.com>; %IDM SQL DBA <IDMSQLDBA@dntenergy.com>
+Subject: RE: P4:Incident INC1907354 has been assigned to your group
+
+Hi Team,
+
+Can you please update on this as we are getting repetitive incidents for the same and H: drive is 95% utilized.
+
+You have INC1093409 incident in your queue.
+
+Current drive status:-
+
+ 
+
+
+Thanks,
+Blaine Michael
+
+
+
+From: Yaseen Buckley
+
+<YASEEN.BUCKLEY@dntenergy.com> 
+Sent: Thursday, March 24, 2022 3:10 AM
+To: Blaine Michael Blaine.Michael@dntenergy.com>; DE_Support@ramaiSolutions <de_support@ramai.com>
+Cc: ramaiSupport <ramaiSupport@dntenergy.com>; %IDM SQL DBA <IDMSQLDBA@dntenergy.com>
+Subject: RE: P4:Incident INC1907354 has been assigned to your group
+
+Hi Team,
+
+Could you kindly provide an update on this?
+ Current drive status:-
+ 
+
+
+
+Thanks,
+Blaine Michael
+
+
+
+From: Yaseen Buckley
+
+<YASEEN.BUCKLEY@dntenergy.com> 
+Sent: Friday, March 25, 2022 3:20 AM
+To: Blaine Michael Blaine.Michael@dntenergy.com>; DE_Support@ramaiSolutions <de_support@ramai.com>
+Cc: ramaiSupport <ramaiSupport@dntenergy.com>; %IDM SQL DBA <IDMSQLDBA@dntenergy.com>
+Subject: RE: P4:Incident INC1907354 has been assigned to your group
+
+Hey Team,
+ (BDHNQ121_BH) psnxouam, psnxouan (Contact Center)The production database server's H: (Data Drive) is running with 87% occupied space. Please verify the data and release the space by purging or archiving the unused data.
+ Attached is the HMHJN database's top tables report. Please let us know if you have any further questions.
+
+
+
+Thanks & Regards,
+Blaine Michael
+
+
+From: DNT Energy Zendesk <dntenergy@zendesk.com> 
+Sent: Monday, March 28, 2022 3:25 AM
+To: Eliza Hogan <Eliza.Hogan@dntenergy.com>; Yaseen Buckley
+
+<<YASEEN.BUCKLEY@dntenergy.com>>; Abdur Dalton<Abdur.Dalton@dntenergy.com>; Taylor Mccoy <TAYLOR.MCCOY@dntenergy.com>; Georgia Dennis <GEORGIA.DENNIS@dntenergy.com>; Chad Warren <CHAD.WARREN@dntenergy.com>; Haseeb Wilcox <HASEEB.WILCOX@dntenergy.com>; Heidi Riggs <HEIDI.RIGGS@dntenergy.com>; Scott Christensen<SCOTT.CHRISTENSEN@dntenergy.com>; Blaine Michael <BLAINE.MICHAEL@dntenergy.com>; Aya Roberson <AYA.ROBERSON@dntenergy.com>
+Subject: P4:Incident INC1907354 has been assigned to your group
+
+Date: 2022-09-18 20:42:48 EDT
+Number: INC1907354
+Short Description: Size of the file system reached to 88% for SQL:psnxouam.de.corp.com:H:
+Label:b4c3d2d4 on SQL volumes
+ 
+Your group has been assigned to an incident for resolution. Please assign this incident to an individual for resolution actions.
+ 
+Please contact the Help Desk if you need further information or treat this incident has been assigned incorrectly.
+ 
+Thank you,
+The Help Desk
+ 
+Ref:NTH21660945
+"This email received from outside of the organization. Do not click on links or open attachments if you do not recognize the sender and know that the content is safe." 
+ 
+
+The content of this email is confidential and intended for the recipient specified in the message only. It is strictly forbidden to share any part of this message with any third party without the written consent of the sender. If you received this message by mistake, please reply to this message and follow with its deletion so that we can ensure such a mistake does not occur in the future.

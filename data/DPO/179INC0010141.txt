@@ -1,0 +1,48 @@
+A case was opened with a short description of File System Capacity is greater than 95% for SQL:dwnxou2417.he.corp.com:F:\ Label:F Drive b1b74843 on   volu
+A longer description includes F:\ Label:F Drive b1b74843 On DWNXOU2417  is 100% Used on  volumes.
+
+
+
+
+Creation date: 2023-04-20 10:08:02 work_notes: [nMatters] - Post notification with nM event ID 80933137 for Assignment targeting IT IOFS-SQL DATABASE SUPPORT
+Creation date: 2023-04-20 10:08:40 work_notes: [nMatters] - Received Response Assign to me by atrived2(HMS Email) at 22-04-20 11:08:39.794
+Creation date: 2023-04-24 14:51:58 work_notes: Resolved Parent Incident is resolved. 
+Creation date: 2023-04-24 14:51:58 work_notes: Hello Lucas Romero,
+
+We are doing cleanup and will let you know when it is done.
+
+Thank you,
+Regards,
+Jimmy Moore
+IDM Sintel
+Planned Leave : 
+
+From: Jimmy Moore <Jimmy.Moore@hmsenergy.com> 
+Sent: Friday, April 22, 2022 9:10 AM
+To: Lucas Romero
+  <Lucas.Romero@hmsenergy.com>; %IDM Sintel <%IDM Sintel@hmsenergy.com>
+Cc: %IDM SQL DBA <IDMSQLDBA@hmsenergy.com>
+Subject: RE: INC1004470
+
+I would like to check with you.
+
+Thanks and regards,
+Jimmy Moore
+IDM Sintel
+Planned Leave : 
+
+From: Lucas Romero <Lucas.Romero@hmsenergy.com> 
+Sent: Monday, April 24, 2022 8:45 PM
+To: %IDM Sintel <%IDMSintel@hmsenergy.com>
+Cc: %IDM SQL DBA <IDMSQLDBA@hmsenergy.com>
+Subject: INC1004470
+
+Hi Team,
+
+F: drive has used up most space in dwnxou2417 server. Maximum space of the drive is being occupied by windows folder. Kindly check it and do what is needed. 
+
+
+
+Thank you
+Best Regards,
+Lucas Romero

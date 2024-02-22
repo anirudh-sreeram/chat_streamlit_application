@@ -1,0 +1,326 @@
+A case was opened with a short description of Branch Is Not Able To Call Virgin Islands Using Click To Dial
+A longer description includes Branch can call Virgin Islands manually from their desk phone but isn t able to call using Click To Dial
+
+
+
+
+Creation date: 2022-11-04 21:22:25 work_notes: QUINCY MATHEW
+Work notes 2022-11-03 15:47:51
+Albus has not yet rebooted his system although he said he will do it before leaving EOD. I'll check it again on Sunday.
+System
+Email sent 2022-11-02 14:45:05
+Email sent
+Subject:Incident INC0088560 - Work notes added
+From:IT Assistance Desk
+To:quincy.mathew@ong.com
+Display email information
+SS
+QUINCY MATHEW
+Work notes 2022-11-02 14:44:57
+I have advised Albus to perform a complete shutdown of his system, then restart it and log in. After that, reset branch and extension then attempt another call to Virgin Islands. If this is successful he will have the branch TMs reboot their computers.
+System
+Email sent 2022-11-02 11:44:33
+Email sent
+Subject:Incident INC0088560 - Work notes added
+From:IT Assistance Desk
+To:quincy.mathew@ong.com
+Display email details
+SS
+QUINCY MATHEW
+Work notes 2022-11-02 11:44:20
+Passwords have been changed for each Extension and User extension to 9031 and rebooted the IPO. Next I had Rama Cidem load the new 5 digit script. The problem was not solved by this.
+System
+Email sent 2022-11-02 07:02:48
+Email sent
+Subject:Incident INC0088560 - Work notes added
+From:IT Assistance Desk
+To:quincy.mathew@ong.com
+Display email details
+SS
+QUINCY MATHEW
+Work notes 2022-11-02 07:02:30
+From: Ulele Sion <Ulele.Sion@ong.com>
+Sent: Tuesday, November 1, 2022 5:25 PM
+To: Ria Das <Ria.Das@ong.com>; QUINCY MATHEW <quincy.mathew@ong.com>; Micky Sen <senmi@ong.com>
+Cc: Ulele Sion <Ulele.Sion@ong.com>
+Subject: Possible Virgin Islands CLASS CTD calling issue?
+
+Ria   My team sent this note to me so I would like you to check the CLASS Phone number table to make sure that this is allowed to be called in CLASS CTD?
+
+Just now, I contacted the BM in 6473 and when he calls the number (340-163-6014) via click to dial he gets a waiting for line and 3 beeps then 3 beeps again which goes on till he hangs up. He has no trouble manually dialing the number from his desk phone. He states this happens with every number for Virgin Islands cell customers residing in his area. This does not seem like a SIP issue but rather something with CLASS. I spoke with Yeason and we think the numbers are probably not loaded in CLASS. Ulele, what are your views on this?
+
+
+
+
+Ulele Sion
+VP/Director Technology Telephony Services
+Office 614-294-5462
+Mobile 203-392-3782
+System
+Email sent 2022-11-01 16:31:08
+Email sent
+Subject:Incident INC0088560 - Work notes added
+From:IT Assistance Desk
+To:quincy.mathew@ong.com
+Details email details
+SS
+QUINCY MATHEW
+Work notes 2022-11-01 16:31:01
+The numbers he has given me are 340-163-6014 (Account 98252645) and 340-546-5201 (Account 54514027).
+System
+Email sent 2022-11-01 16:24:20
+Email sent
+Subject:Incident INC0088560 - Work notes added
+From:IT Assistance Desk
+To:quincy.mathew@ong.com
+Display email details
+SS
+QUINCY MATHEW
+Work notes 2022-11-01 16:24:05
+Just now, I contacted the BM in 6473 and when he calls the number (340-163-6014) via click to dial he gets a waiting for line and 3 beeps then 3 beeps again which goes on till he hangs up. He has no trouble manually dialing the number from his desk phone. He states this happens with every number for Virgin Islands cell customers residing in his area. This does not seem like a SIP issue but rather something with CLASS. I spoke with Yeason and we think the numbers are probably not loaded in CLASS. 
+System
+Email sent 2022-11-01 15:23:49
+Email sent
+Subject: Incident INC0088560 - Work notes have been added
+From: IT Assistance Desk
+To:quincy.mathew@ong.com
+Display email details
+SS
+QUINCY MATHEW
+Work notes 2022-11-01 15:23:36
+From: QUINCY MATHEW
+Sent: Tuesday, November 1, 2022 3:23 PM
+To: Albus Ronald Miller <albus.ronaldmiller@ong.com>
+Cc: Ulele Sion <Ulele.Sion@ong.com>; Micky Sen <senmi@ong.com>
+Subject: RE: Click to Dial Virgin Islands #'s
+
+Good afternoon,
+
+I am checking again to see if you have had a chance to test? Kindly inform me if issues are still persisting for you when you call Virgin Islands and if so kindly send call samples with the customer's 12 digit phone number, what happened and the time of the call.
+
+Thank you,
+
+Quincy Mathew
+Telephony Solutions Engineer Lead
+709 Hank Ave East Coast, AZ 85225
+   602.693.1729 | quincy.mathew@ong.com
+System
+Email sent 2022-11-01 11:29:01
+Email sent
+Subject:Incident INC0088560 - Work notes added
+From:IT Assistance Desk
+To:quincy.mathew@ong.com
+Display email details
+SS
+QUINCY MATHEW
+Work notes 2022-11-01 11:28:55
+From: QUINCY MATHEW
+Sent: Tuesday, November 01, 2022 11:27 PM
+To: Albus Ronald Miller <albus.ronaldmiller@ong.com>
+Subject: RE: Click to Dial Virgin Islands #'s
+
+Good afternoon,
+
+Did you get a chance to test? If issues are persisting for you kindly give call examples. Thanks.
+
+Quincy Mathew
+Telephony Solutions Engineer Lead
+709 Hank Ave East Coast, AZ 85225
+   602.693.1729 | quincy.mathew@ong.com
+
+
+
+
+From: QUINCY MATHEW
+Sent: Monday, October 31, 2022 4:13 PM
+To: Albus Ronald Miller <albus.ronaldmiller@ong.com>
+Subject: RE: Click to Dial Virgin Islands #'s
+
+Good afternoon,
+
+The carrier has advised you to retest and inform us if you are still facing an issue?
+
+Quincy Mathew
+Telephony Solutions Engineer Lead
+709 Hank Ave East Coast, AZ 85225
+   602.693.1729 | quincy.mathew@ong.com
+
+
+
+
+From: QUINCY MATHEW
+Sent: Monday, October 31, 2022 10:33 AM
+To: Albus Ronald Miller <albus.ronaldmiller@ong.com>
+Subject: RE: Click to Dial Virgin Islands #'s
+
+Understood. Could you send latest call examples to me with the customer's 10 digit phone number, what happened and the time of the call? I will send them to our carrier.
+
+Thank you,
+
+Quincy Mathew
+Telephony Solutions Engineer Lead
+709 Hank Ave East Coast, AZ 85225
+   602.693.1729 | quincy.mathew@ong.com
+
+
+
+
+From: Albus Ronald Miller <albus.ronaldmiller@ong.com>
+Sent: Monday, October 31, 2022 10:27 AM
+To: QUINCY MATHEW <quincy.mathew@ong.com>
+Subject: RE: Click to Dial Virgin Islands #'s
+
+
+Good morning,
+
+Yeah, Sir I face issues even now.
+
+Thank you.
+
+
+Albus Ronald Miller
+Branch Supervisor
+ :7428 R Rjglty CV Montgomery, AL 36117
+ :Albus.ronaldmiller@ong.com
+ : 205-342-0764
+ : 205-996-6543
+Montgomery-Dallas   6473
+
+
+
+
+From: QUINCY MATHEW <quincy.mathew@ong.com>
+Sent: Monday, October 31, 2022 7:19 AM
+To: Albus Ronald Miller <albus.ronaldmiller@ong.com>
+Subject: RE: Click to Dial Virgin Islands #'s
+
+Good morning,
+
+Kindly inform me if you are continuing to face issues to call Virgin Islands.
+
+Thank You,
+
+
+Quincy Mathew
+Telephony Solutions Engineer Lead
+709 Hank Ave East Coast, AZ 85225
+   602.693.1729 | quincy.mathew@ong.com
+System
+Email sent 2022-10-31 16:30:33
+Email sent
+Subject:Incident INC0088560 - Work notes added
+From:IT Assistance Desk
+To:quincy.mathew@ong.com
+Display email details
+SS
+QUINCY MATHEW
+Work notes 2022-10-31 17:30:21
+From: QUINCY MATHEW
+Sent: Monday, October 31, 2022 4:30 PM
+To: 'Vinod Mehta' <vmehta@kiortr.net>; Rosia Vc Mantu <rvcmantu@kiortr.net>; Varun Dhawan <vdhawan@kiortr.net>; TyuVerseMarket <onemain@kiortr.net>; Joky Roun <Jroun@kiortr.net>; Mary Jaun <mjaun@kiortr.net>; jasmin.ceni@bhuinjh.com; Brian Thanos <bthanos@kiortr.net>
+Cc: Ulele Sion <Ulele.Sion@ong.com>; Micky Sen <senmi@ong.com>
+Subject: RE: Score 6473 (302-262-7843- Main Number) Unable To Dial Virgin Islands - Ticket 3657786
+
+I have contacted the branch for updates and I await their feedback.
+
+Thank You,
+
+Quincy Mathew
+Telephony Solutions Engineer Lead
+709 Hank Ave East Coast, AZ 85225
+   602.693.1729 | quincy.mathew@ong.com
+
+
+
+
+From: Vinod Mehta <vmehta@kiortr.net>
+Sent: Monday, October 31, 2022 4:11 PM
+To: Rosia Vc Mantu <rvcmantu@kiortr.net>; QUINCY MATHEW <quincy.mathew@ong.com>; Varun Dhawan <vdhawan@kiortr.net>; TyuVerseMarket <onemain@kiortr.net>; Joky Roun <Jroun@kiortr.net>; Mary Jaun <mjaun@kiortr.net>; jasmin.ceni@morph.com; Brian
+Thanos <bthanos@kiortr.net>
+Cc: Ulele Sion <Ulele.Sion@ong.com>; Micky Sen <senmi@ong.com>
+Subject: Re: Score 6473 (302-373-0764 - Main Number) Unable To Dial Virgin Islands - Ticket 3657786
+
+** EMAIL FROM SENDER OUTSIDE THE ORGANIZATION   BE CAREFUL **
+
+Quincy,
+
+Good afternoon,
+
+Could you kidnly give an update if the calls to Virgin Islands are now being connected ?
+
+Thanks to you,
+
+Kind Regards,
+
+Vinod Mehta
+Lead Network Engineer- Network Operations
+
+KioRtr
+202 Fitzgerald Avenue, Maine, AZ 85225
+T 602-123-4837 | E vmehta@kiortr.net | W kiortr.net
+
+________________________________________
+From: Rosia Vc Mantu <rvcmantu@kiortr.net>
+Sent: Monday, October 31, 2022 4:06 PM
+To: QUINCY MATHEW <quincy.mathew@ong.com>; Varun Dhawan <vdhawan@kiortr.net>; OpenNetGain <opennet@kiortr.net>; Joky Roun <jroun@kiortr.net>; Mary
+Jaun <mjaun@kiortr.net>; jasmin.ceni@morph.com <jasmin.ceni@morph.com>; Brian
+Thanos <bthanos@kiortr.net>; Vinod
+Mehta <vmehta@kiortr.net>
+Cc: Ulele Sion <Ulele.Sion@ong.com>; Micky Sen <senmi@ong.com>
+Subject: RE: Score 6473 (302-262-7843- Main Number) Unable To Dial Virgin Islands - Ticket 3657786
+
+++
+
+Rosia Vc Mantu
+Director, Network Operation Services
+
+KioRtr
+202 Fitzgerald Avenue, Maine, AZ 85225
+T 602-232-1496 | E rvcmantu@kiortr.net | W kiortr.net
+System
+Email sent 2022-10-31 10:44:50
+Email sent
+Subject:Incident INC0088560 - Work notes added
+From:IT Assistance Desk
+To:quincy.mathew@ong.com
+Display email details
+SS
+QUINCY MATHEW
+Work notes 2022-10-31 11:44:44
+I have requested new and recent call examples to send to KioRtr.
+System
+Email sent 2022-10-31 10:34:40
+Email sent
+Subject:Incident INC0088560 has been assigned
+From:IT Assistance Desk
+To:kisiktr.ricalfsauf@ong.com
+Show email details
+SS
+QUINCY MATHEW
+Field changes 2022-10-31 10:34:35
+Assigned toQUINCY MATHEW
+Assignment groupBranch Telephony
+Configuration itemOther
+ImpactLow (5)
+Incident stateIn Progress
+Opened byQUINCY MATHEW
+PriorityLow (6)
+StateIn Progress
+Creation date: 2022-11-08 14:19:47 work_notes: Albus rebooted his computer last day and even now facing the same problem.
+Creation date: 2022-11-10 21:55:35 work_notes: Micky and I checked the differences between calls to Virgin Islands made using CTD and manually in 6473. An CTD call just states "waiting for line" and stays on line till the caller hangs up. A manual call, on the other hand, goes out right away and without any issues. I will order a new IP Office just to prevent this issue. It won't be replaced until after CAD. When we replace the IP office, I will create a new ticket.
+Creation date: 2022-11-14 13:42:16 work_notes: From: QUINCY MATHEW 
+Sent: Sunday, November 13, 2022 7:06 AM
+To: Asha Crew <Asha.Crew@ong.com>; Ricky Blinder <Ricky.Blinder@ong.com>; Yeason Saw <Yeason.Saw@ong.com>
+Cc: Ulele Sion <Ulele.Sion@ong.com>; Micky Sen <senmi@ong.com>
+Sub: RE: Score 6473 IP Office Replacement
+
+Good morning,
+
+Ricky, you have the option to cancel the branch's request for a new IPO. The ARS table includes a few entries that I identified as the cause of the problem and deleted them.  At the end of Thursday, I did a test with the branch, and they are now able to use click-to-dial to call Virgin Islands numbers.
+
+Thank you,
+
+Quincy Mathew
+Telephony Solutions Engineer Lead
+709 Hank Ave East Coast, AZ 85225
+   602.693.1729 | quincy.mathew@ong.com

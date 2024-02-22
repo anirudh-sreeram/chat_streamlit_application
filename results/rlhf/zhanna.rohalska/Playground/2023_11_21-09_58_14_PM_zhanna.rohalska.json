@@ -1,0 +1,1 @@
+[{"role": "context", "content": "Please describe in a simple way in several sentences."}, {"role": "user", "content": "Please describe the rules of Simon says game. "}, {"role": "robot", "chosen": "MAINT: I'm having lunch, will be back soon.", "rejected": "MAINT: I'm having lunch, will be back soon.", "model": "NOW_LLM_15.5b_v0.5.0_103123_alltoken_loss"}]

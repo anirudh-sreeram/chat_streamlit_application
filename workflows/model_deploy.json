@@ -1,0 +1,82 @@
+{
+  "init": {
+    "exec": [
+      {"py": "if \"account\" not in st.session_state:\n    $account=\"snow.core_llm.inference01\""},
+      {"py": "if \"endpoints_file\" not in st.session_state:\n    $endpoints_file=\"endpoints/model_serving_endpoints.json\""},
+      {"py": "import os\nos.environ[\"EAI_TOKEN\"]=\"Gql3TBsE9M_II2VjCg0dgw:mmFT5nqlN8LKJGmQVf6TTGrx-6z9fO05AmqE18uKd9g\""},
+      {"py":"import yaml\nst.session_state[\"run.yaml\"] = yaml.safe_load(open(\"resources/run.yaml\"))"},
+      {"py":"st.session_state[\"data_dirs\"]=\"\\n\".join(st.session_state[\"run.yaml\"][\"data\"])"},
+      {"package": "lib.deploy", "call": "get_jobs", "param": {"account": "account"}, "key": "jobs"},
+      {"package": "lib.deploy", "call": "get_endpoints", "param": {"endpoints_file": "endpoints_file"}, "key": "endpoints_df"}
+    ]
+  },
+  "account_select": {
+      "ifkey": "select_account",
+      "exec":{"py": "$account=$select_account"}
+  },
+  "stage_updateendpoints": {
+    "ifkey": "update_endpoints",
+    "exec": {"package": "lib.deploy", "call": "update_endpoints",
+      "param": {"account": "account", "endpoints_file": "endpoints_file"}, "key": "endpoints_df"}
+  },
+  "stage_get_jobs":{
+      "ifkey": "job_retry",
+      "exec": {"package": "lib.deploy", "call": "get_jobs", "param": {"account": "account"}, "key": "jobs"}
+  },
+  "stage_create_run_yaml": {
+    "ifkey": "submit",
+    "exec": {"package": "lib.deploy", "call":  "create_deployconfig_from_stvars", "param":  "resources/deploy_run.yaml"}
+  },
+  "stage_deploy": {
+    "ifkey": "submit",
+    "exec": [
+      {"package":  "lib.deploy", "call": "start_job", "param": {"account": "account","model": "model_path","config": "resources/deploy_run.yaml"}, "key": "job"},
+      {"ui":{"st.info":{"body": "Create Job Response $job"}}},
+      {"py": "if \"id\" in $job:\n    $job_id=$job[\"id\"]"},
+      {"ui":{"st.info":{"body": "Job Id $job_id"}}}]
+  },
+  "post_deploy": {
+    "ifkey": "job_id",
+    "exec": [
+        {"ui":{"st.info":{"body": "Updating policy using Job Id $job_id"}}},
+      {"package":  "lib.deploy", "call": "update_job_policy", "param": {"account": "snow.core_llm","role_label":"model_serving","job_id": "job_id"}},
+      {"ui": {"st.header":  {"body": "Model Deployed"}}},
+        {"py": "del $job_id"}
+    ]
+  },
+  "stage_main": {
+      "exec": [{"ui":{"st.title":{"body": "Model Maintenance Yard"}}},
+               {"ui":{"st.text":{"body": "Account: $account"}}}]
+    },
+  "stage_input": {
+    "exec": {
+      "package": "lib.uibuilder", "call": "uibuilder", "param_type": "json",
+        "param":
+          [{
+            "Jobs":[
+              {"st.markdown":  {"body":  "# Running Jobs"}},
+              {"st.dataframe": {"data": "jobs", "use_container_width": 1, "height":  400}},
+              {"st.button": {"key": "job_retry", "label": "Get Jobs", "type":"primary"}},
+              {"st.markdown":  {"body":  "# Endpoints"}},
+              {"st.dataframe": {"data": "endpoints_df", "use_container_width": 1, "height":  400}},
+              {"st.button": {"key": "update_endpoints", "label": "Update Endpoints", "type":"primary"}}],
+
+          "Inference Job": [
+            {"st.header":  {"body": "Model Details to Deploy"}},
+            {"st.text_input": {"key": "model_path", "label": "TGI Docker Image:", "value": "ghcr.io/huggingface/text-generation-inference:0.8.0"}},
+            {"st.text_input": {"key": "name", "label": "Job Name:", "value": "starcoderplus_sgd_08_14"}},
+            {"st.text_input": {"key": "command.model-id", "label": "Model Path on Toolkit:", "value":  "/mnt/toby/models/sgd_08_14"}},
+            [{"st.text_input": {"key": "command.max-input-length", "label": "Max Input Length:", "value":8191}},
+            {"st.text_input": {"key": "command.max-total-tokens", "label": "Max Total Tokens:", "value":8192}}],
+            [{"st.text_input": {"key": "resources.mem", "label": "Memory:", "value":128}},
+            {"st.text_input": {"key": "resources.cpu", "label": "CPU:", "value":2}},
+            {"st.text_input": {"key": "resources.gpu", "label": "GPU:", "value":1}},
+            {"st.text_input": {"key": "resources.gpuMem", "label": "GPU Memory:", "value":80}}],
+            {"st.text_area": {"key": "data", "label": "Add Data Dir:", "value": "data_dirs"}},
+            {"st.button": {"key": "submit", "label": "Submit"}}
+          ],
+            "sidebar":[{"st.selectbox":{"key": "select_account", "label":"Account", "options":["snow.core_llm.inference01", "snow.core_llm.inference_external"]}}]
+          }]
+      }
+    }
+}

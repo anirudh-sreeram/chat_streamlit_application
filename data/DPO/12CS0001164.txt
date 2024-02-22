@@ -1,0 +1,343 @@
+A case was opened with a short description of Assist with email restoration issue which was escalated to Microsoft
+A longer description includes GMGD.com domain had a rule that deleted all email received from outside the organization from 9/28 to 10/2
+Assistance is needed to restore these emails to inboxes.
+The rule has already been removed from exchange
+
+
+
+
+Creation date: 2022-10-03 21:09:58 comments: Hi Oscar,
+
+Updated email.
+Creation date: 2022-10-03 21:27:07 comments: Hi Oscar,
+
+In order to recap our communication, we discussed the emails that were missing and the different choices that we have for recovery.   
+I and my team verified this and it is going to escalate to Microsoft. 
+In order to escalate we need a couple of things. 
+
+The emails are treated as recoverable because they can be found in E-Discovery. 
+This can be verified through:  - > https://learn.microsoft.com/en-us/exchange/security-and-compliance/recoverable-items-folder/recoverable-items-folder
+After getting confirmation, you are required to write up a business justification letter mentioning the problem and reason for making this request.   
+Once we get that- Premier support will connect with PG, it seems like it is going to sort itself out but nothing is confirmed. 
+
+We will follow up with this case and update you regarding the current status. 
+If you wish to contact us our support hours are 24/7 and our contact number is 855-884-8309 Ext. 2.
+Kindly contact us if you have any queries or concerns and if there are new developments!
+
+Thank you so much and have a wonderful day!
+Creation date: 2022-10-03 21:42:02 comments: Copying Clark Gates on this ticket.
+
+Clark could you draft the  business justification letter mentioning the problem and reason for making this request."
+
+Thanks
+Oscar Holder
+
+Creation date: 2022-10-03 22:22:09 comments: Kiran kindly fill out the form as was asked.
+
+Sent from my Android so please excuse any typos or autocorrect.
+Creation date: 2022-10-03 22:24:12 comments: Hi Oscar,
+
+May I know your availability tomorrow morning so we can schedule a call to review the case?
+Creation date: 2022-10-03 22:25:06 work_notes: Priority downgraded to 2 
+Approved by Rosa Carr
+
+Creation date: 2022-10-04 13:20:35 work_notes: Partner reached out abut the business justification and was asking what it was. I might be missing details so I don't know. Was this not under their currently owned tenant or something?
+
+I guess I just don't understand why a justification is needed if they can just use ediscovery to recover it? Unless it's broken?
+
+Binny, if you could just help me out here. I told them they can submit the justification here though.
+Creation date: 2022-10-04 13:37:11 comments: I have added the business justification letter describing the problem and the reason this request was made.
+
+Please reach out if additional info is needed.
+
+Creation date: 2022-10-04 14:06:23 work_notes: Partner called to verify that the info provided was sufficient to send up to Microsoft
+Binny was unavailable and I'm not certain what the purpose of this business justification is
+Creation date: 2022-10-04 15:00:38 comments: Hi Oscar,
+
+I wanted to touch base and clarify some miscommunication so we're all on the same page and understand what's happening.
+With regards to escalation, we will escalate to Premier support but not as far as Product Group.
+Unfortunately there isn't a magic fix that can resolve this problem.
+Product Group will incur a charge so will not be involved in this case.
+Apologies for the inconvenience and not setting the correct expectations from the get-go
+I have the correct information from upper management and this is our way forward
+Our vendor escalations team will continue to stay on top of the progress of your case and facilitate all communications.
+Please know that you are expected to actively work with the Microsoft engineer to troubleshoot your problem, as the primary objective of the Vendor Assistance team is to make sure communication stays active.
+
+Please reach out if you have any questions or concerns or if there are any new developments!
+
+Thank you so much and have a wonderful day!
+Creation date: 2022-10-04 15:00:38 work_notes: Customer page in Partner Portal > Service Requests > New Request > Office 365 and Enterprise Mobility Suite > Open ticket
+Remember to upload any screenshots and provide as much detail regarding troubleshooting steps that have already been taken.
+-----------------------------------------------------------------------------------------------
+Ticket details
+-----------------------------------------------------------------------------------------------
+Title: (NIM5705410) Assist with email restoration issue which was escalated to Microsoft
+
+Description: 
+GMGD.com domain had a rule that deleted all email received from outside the organization from 9/28 to 10/2
+Assistance is needed to restore these emails to inboxes.
+The rule has already been removed from exchange
+
+Product: (Microsoft Exchange)
+Severity: B (If escalating to Sev A, tech keep ticket)
+
+Confirm your number: 8209333936
+
+
+Verify email addresses of authorized contacts: ve-productivity@nimbus.com;jterry@nimbus.com;rwall@nimbus.com
+
+Preferred contact method: Phone
+Attachments: 'Rule from GMGD.png'
+-----------------------------------------------------------------------------------------------
+Partner details
+-----------------------------------------------------------------------------------------------
+Partner Phone: 4284263846
+Partner Email: rsanford@pandorait.com
+Partner's Availability - Timezone: CST
+Partner Center URL: https://partner.microsoft.com/en-us/console/support/csp/clients/8fa6338c-0c6a-447a-99a3-b525dfe48023/servicerequests
+Creation date: 2022-10-04 15:07:58 work_notes: MFST called to speak with Binny. Before calling me, MSFT spoke with the partner who said to speak with Binny from Nimbus. Since he understands what's happening.
+Creation date: 2022-10-04 15:35:18 work_notes: Hi Everyone, 
+
+For visibility, I added @rsanford@pandorait.com to answer any questions you have.
+
+@rsanford@pandorait.com Our vendor escalations team will continue to stay on top of the progress of your case and facilitate all communications.
+Please know that you are expected to actively work with the Microsoft engineer to troubleshoot your problem, as the primary objective of the Vendor Assistance team is to make sure communication stays active.
+
+
+
+I hope everything is well on your end,
+
+From: Microsoft Premier Support <mspremsup@microsoft.com> 
+Sent: Monday, October 3, 2022 8:09 AM
+To: Vendor Escalations - Productivity Technical Support <ve-productivity@nimbus.com>
+Cc: Rhonda Wall <rwall@nimbus.com>; Jeremy Terry <jterry@nimbus.com>; Jason Andrade <jandrade@microsoft.com>
+Subject: [External] RE: [Case #:44316149] - (NIM5705410) Assist with email restoration issue which was escalated to Microsoft
+
+
+## Kindly reply above this line ##
+________________________________________
+
+Title: (NIM5705410) Assist with email restoration issue which was escalated to Microsoft                                                                                                                                                                                                                                                            
+ 
+An update has been made to your request (44316149). Please reply to this email to add additional remarks.
+________________________________________
+   Jodie (Microsoft) 
+ Monday, October 3, 2022 3:09 PM GMT
+ Hi Rhonda,
+
+This email is regarding case #44316149
+
+I called you today at +1 8208222936, but unfortunately failed to reach you. I spoke with a customer Rohit Parmar.
+
+May I know your free time/availability to schedule a call?
+
+We look forward to your response.
+
+We appreciate your business with Microsoft Partners Network
+
+Thanks, 
+Jodie Reese 
+Microsoft 365 Service Engineer   Partner Service 
+Email Address   cvg_pun_jodreese_css@office365support.com
+Business Hours : Monday to Friday: 1:00 PM UTC   10:30 PM UTC 
+My Technical Lead: Markus Lee | v-mlee@microsoft.com
+My Team Manager: Osman Cruz | v-osmancruz@microsoft.com
+My Technical Advisor: Sanaa Cooper| sanaa.cooper@microsoft.com
+
+To ensure a consistent support experience, it is advised that you use REPLY ALL when responding to all communications.
+________________________________________
+   Microsoft 
+ Monday, October 3, 2022 1:53 PM GMT
+Hello Binny,
+  
+Thank you for reaching out to Microsoft Support. I am Jodie, the Support Professional who will be assisting you with this case. I can be reached using the contact information below, citing service request number 44316149.
+
+Issue Description:  (NIM5705410) Assist with email restoration issue which was escalated to Microsoft
+
+Scope Agreement: This issue will be considered resolved once the emails have been reecovered. (If the issue is not within scope we will provide the best effort support, but this issue will be resolved. if it is by design.)
+
+We appreciate your business with Microsoft Partners Network
+
+Thanks, 
+Jodie Reese 
+Microsoft 365 Service Engineer   Partner Service 
+Email Address   cvg_pun_jodreese_css@office365support.com
+Business Hours : Monday to Friday: 1:00 PM UTC   10:30 PM UTC 
+My Technical Lead: Markus Lee | v-mlee@microsoft.com
+My Team Manager: Osman Cruz | v-osmancruz@microsoft.com
+My Technical Advisor: Sanaa Cooper| sanaa.cooper@microsoft.com
+
+To ensure a consistent support experience, it is advised that you use REPLY ALL when responding to all communications.
+________________________________________
+   Microsoft 
+ Monday, October 3, 2022 9:48 PM GMT
+ Thank you for reaching out to Microsoft Support - we have opened a support case on your behalf.
+For your reference:
+  Case #: 44316149
+  Created on: Monday, October 3, 2022 09:48 AM
+  Description: GMGD.com domain had a rule that deleted all email received from outside the organization from 9/28 to 10/2. Assistance is needed to restore these emails to inboxes. The rule has already been removed from exchange
+Note that Microsoft will never request your password during support communications. Also, please do not send any personal or financial information via email.
+Thanks
+Microsoft Support
+Tracking ID: 5735cd9f-642a-475b-a7a5-90b2d4c8e810
+Viraguard has scanned this email for spam and viruses
+Creation date: 2022-10-04 17:44:02 work_notes: Microsoft contacted asking for Rhonda
+
+
+Rhonda was busy with a call so I told MS I could assist, they said they would contact Rhonda via email.
+Creation date: 2022-10-04 23:09:19 work_notes: Hi Oscar,
+
+Microsoft sends me things because they usually have to. Please know however that most tasks must be completed by you.
+
+May I know your availability?
+
+Our vendor escalations team will continue to stay on top of the progress of your case and facilitate all communications.
+Please know that you are expected to actively work with the Microsoft engineer to troubleshoot your problem, as the primary objective of the Vendor Assistance team is to make sure communication stays active.
+
+I hope everything is going well on your end,
+
+From: Rishi Sanford
+ <rsanford@pandorait.com> 
+Sent: Monday, October 3, 2022 12:39 PM
+To: Microsoft Premier Support <mspremsup@microsoft.com>; Vendor Escalations - Productivity Support <ve-productivity@nimbus.com>
+Cc: Rhonda Wall<rwall@nimbus.com>; Jeremy Terry
+ <jterry@nimbus.com>; Jason Andrade <jandrade@microsoft.com>
+Subject: [External] RE: [Case #:44316149] - (NIM5705410) Assist with email restoration issue which was escalated to Microsoft
+
+Are there updates?
+
+Microsoft were you able to speak to Rhonda?
+Thanks,
+Oscar Holder
+From: Microsoft Premier Support <mspremsup@microsoft.com> 
+Sent: Monday, October 3, 2022 12:44 PM
+To: ve-productivity@nimbus.com; Rishi Sanford
+ <rsanford@pandorait.com>
+Cc: rwall@nimbus.com; jterry@nimbus.com; Jason Andrade <jandrade@microsoft.com>
+Subject: [External] RE: [Case #:44316149] - (NIM5705410) Assist with email restoration issue which was escalated to Microsoft
+
+
+## Kindly reply above this line ##
+________________________________________
+
+Title: (NIM5705410) Assist with email restoration issue which was escalated to Microsoft                                                                                                                                                                                                                                                            
+ 
+An update has been made to your request (44316149). Please respond to this email to add additional comments.
+________________________________________
+   Jodie (Microsoft) 
+ Monday, October 3, 2022 4:43 PM GMT
+ Hi Rhonda,
+
+This email is regarding case #44316149
+
+I called you today at +1 8208222936, but unfortunately failed to reach you. I spoke with a customer Rohit Parmar.
+
+May I know your free time/availability to schedule a call?
+
+We look forward to your response.
+
+We appreciate your business with Microsoft Partners Network
+
+Thanks, 
+Jodie Reese 
+Microsoft 365 Service Engineer   Partner Service 
+Email Address   cvg_pun_jodreese_css@office365support.com
+Business Hours : Monday to Friday: 1:00 PM UTC   10:30 PM UTC 
+My Technical Lead: Markus Lee | v-mlee@microsoft.com
+My Team Manager: Osman Cruz | v-osmancruz@microsoft.com
+My Technical Advisor: Sanaa Cooper| sanaa.cooper@microsoft.com
+
+To ensure a consistent support experience, it is advised that you use REPLY ALL when responding to all communications.
+Creation date: 2022-10-04 23:38:46 work_notes: I can talk 7AM to 4PM EDT 
+Creation date: 2022-10-05 20:10:46 work_notes: Hi Jodie,
+
+Is there any latest update on this issue?
+
+I hope everything is going well on your end,
+
+From: Rishi Sanford <rsanford@pandorait.com> 
+Sent: Tuesday, October 4, 2022 12:45 PM
+To: Rhonda Wall <rwall@nimbus.com>; Microsoft Premier Support <mspremsup@microsoft.com>; Vendor Escalations - Productivity Support <ve-productivity@nimbus.com>
+Cc: Jeremy Terry <jterry@nimbus.com>; Jason Andrade
+<jandrade@microsoft.com>
+Subject: [External] RE: [Case #:44316149] - (NIM5705410) Assist with email restoration issue which was escalated to Microsoft
+
+Hey Rhonda,
+Microsoft hasn't contacted us at all today and were interested in an update and also to know what is needed to move the ticket forward/if any progress was made.
+
+
+Thanks,
+Oscar Holder
+
+Creation date: 2022-10-05 20:26:43 work_notes: Microsoft was able to speak with Oscar in a screenshare session.
+
+
+Creation date: 2022-10-05 22:20:45 work_notes: Hi Rhonda/Rishi,
+
+I really appreciate your time during the call,
+
+As discussed, you let us know there was a bad actor in the tenant who wrote a transport rule that deleted emails without notification to anyone in the tenant. We are unable to view the emails in the quarantine portal too
+
+We will look into this and provide an update.
+
+Thank you for your business with Microsoft Partners Network
+
+Thanks & Regards, 
+Jodie Reese 
+Microsoft 365 Service Engineer   Partner Service 
+Email Address   cvg_pun_jodreese_css@office365support.com
+Business Hours : Monday to Friday: 1:00 PM UTC   10:30 PM UTC 
+My Technical Lead: Markus Lee | v-mlee@microsoft.com
+My Team Manager: Osman Cruz | v-osmancruz@microsoft.com
+My Technical Advisor: Sanaa Cooper| sanaa.cooper@microsoft.com
+Creation date: 2022-10-06 12:49:25 work_notes: Oscar called totoday to ask for an update.
+
+The last email on our end is the same one that he saw so I said I could send an email if he'd like. He said he was fine with that, so I reached out to Microsoft again this morning:
+
+Good morning Jodie,
+
+I hope you are doing well. Oscar contacted us this morning, requesting an update.
+
+Could you please give an update or connect with Oscar sometime if possible?
+
+Thanks!
+Creation date: 2022-10-06 17:01:50 work_notes: Partner made contact over this ticket (seems pretty pressed for time) and was asking about an update from Microsoft. I told partner that someone already reached out to Microsoft today and to give them a few hours to respond, if they do not after a few hours, then to call us again and ask that we attempt to call Premier Support line for a callback with an update today.
+Creation date: 2022-10-06 17:57:49 work_notes: The request emails are not recoverable, so MSFT is archiving this case. IVR taken.
+Creation date: 2022-10-06 18:01:18 work_notes: Hi Rhonda,
+
+I really appreciate your time during the call,
+
+"As discussed in our previous conversation, the customer told us that a transport rule was created in the tenant that deleted the external emails without notification. We looked into this on our end as well. The emails cannot be recovered because they never reached the user's inbox. We could have recovered them if they had reached the users inbox.
+
+The emails were deleted with notification. This made to happen by design of the transport rule which was created in the tenant."
+
+Please let us know if there are any discrepancies
+
+Thank you for your business with Microsoft Partners Network.
+
+Thanks, 
+Jodie Reese 
+Microsoft 365 Service Engineer   Partner Service 
+Email Address   cvg_pun_jodreese_css@office365support.com
+Business Hours : Monday to Friday: 1:00 PM UTC   10:30 PM UTC 
+My Technical Lead: Markus Lee | v-mlee@microsoft.com
+My Team Manager: Osman Cruz | v-osmancruz@microsoft.com
+My Technical Advisor: Sanaa Cooper| sanaa.cooper@microsoft.com
+Creation date: 2022-10-06 18:03:04 comments: Hi Oscar, 
+
+The following message was received from the Microsoft. 
+
+"As discussed in our previous conversation, the customer told us that a transport rule was created in the tenant that deleted the external emails without notification. We looked into this on our end as well. The emails cannot be recovered because they never reached the user's inbox. We could have recovered them if they had reached the users inbox.
+
+The emails were deleted with notification. This made to happen by design of the transport rule which was created in the tenant."
+
+
+I hope everything is well,
+Creation date: 2022-10-07 23:32:17 comments: Hi Oscar,
+
+If you need any help at any moment kindly let me know. If you do not respond by end of day tomorrow, this issue will be considered resolved and the case will be archived
+
+
+Have a wonderful day,
+Creation date: 2022-10-13 18:30:43 work_notes: Case automatically closed after spending 3 days in the resolved state.
+Creation date: 2022-10-17 08:01:35 work_notes: Customer Satisfaction Survey sent  2022-10-16 01:01:00

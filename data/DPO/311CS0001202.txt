@@ -1,0 +1,258 @@
+A case was opened with a short description of I am unable to natively authenticate an Azure Active Directory (AAD) joined computer to an AAD joined Azure Virtual Machine (VM) anymore.
+A longer description includes Hi,
+
+One of our customers is currently facing an issue where they are unable to establish an RDP connection to a computer hosted in Azure. The client's computer is joined to Azure Active Directory (AAD), and the VM  in Azure functions as a server.
+
+We have confirmed that NLA  is disabled on the Azure VM, and IAM  is properly configured for Americers who have access to login via RDP. Additionally, conditional access policies are not blocking the authentication process, as successful attempts are being logged.
+
+To troubleshoot, we have made modifications to the RDP icon by including the following lines:
+
+authentication level: i:1
+enablecredsspsupport: i:2
+
+After including these lines, the user is now able to reach the Windows login screen. However, their credentials are not being passed through automatically, and they need to manually enter their username along with 'AzureAD\' as a prefix in order to log in, even though we specified this in the RDP connection request.
+
+We kindly request your assistance in investigating and resolving this issue.
+
+
+
+
+Creation date: 2022-10-01 01:16:50 comments: Hello Eric,
+
+Thank you for contacting us. I tried contacting you regarding this issue. Is the connection problem occurring on only one specific machine? Can the client successfully connect to Azure using RDP on any other devices?
+Creation date: 2022-10-01 01:34:10 comments: Hello Eric,
+
+I have attached a couple of articles that might be helpful. Have you attempted to add the AzureAD/username to the local Remote Desktop Users group?
+
+https://www.nihanthgowda.com/unable-to-rdp-azure-vm-use-azure-ad-credentials/
+https://learn.microsoft.com/english-us/windows/client-management/connecting-to-remote-aadj-pc
+Creation date: 2022-10-01 03:03:57 comments: Hello Eric,
+
+Do you still require assistance? If so, could you please provide me with a phone number where I can reach you? In the meantime, I will update the case status to High temporarily.
+Creation date: 2022-10-01 08:51:44 comments: Support,
+
+I did not receive any incoming calls. Please feel free to call my cell phone number 681-483-6247.
+
+I added a test user to the local group. This is not a requirement that we have encountered in the past, and our environments have been functioning seamlessly for several years. In this specific scenario, it did not have any noticeable impact.
+
+We are wondering if Microsoft altered the authentication process yesterday, as it appears to be affecting multiple customers. 
+
+Additionally, this issue is affecting our ability to access files from a file share on a computer that is joined to Azure AD via a VPN connection.
+
+Eric T. Lee, CISSP
+
+CEO & CTO
+
+[https://ke8.googleusercontent.com/proxy/HgDY9_SjYcEuXoJLIFcgls16IHYKf1w6ITCNKNRHM5zovT0LdUI_pHeTtqsNr-oWdqpBT4iGLeah-EHfPHAEPPOJgSIyFWYQy6LKNy22qTUSvOVqUOzdhjGpr8-sDfFwk50wqgBY3So0zO4KeQj-szY=s0-d-e1-ft#https://docs.google.com/a/overviewcs.com/uc?id=0ByHQDwM4DXabRlAxZms5Zm5BYTA&export=download]
+Nazaraaath Tech LLC
+
+761-9 Union Avenue<x-apple-data-detectors://12/1>
+
+Lille, NY 13780<x-apple-data-detectors://12/1>
+
+(888) 452-0714<tel:(888)%40241-0937> - Land Line
+
+(631) 887-0714<tel:(631)%40241-7247> - Phone
+
+SMART. SAFE. FLEXIBLE.
+
+
+http://www.nazaraathtech.com
+Creation date: 2022-10-01 17:38:59 comments: Will I be receiving a call. We are currently at a standstill until I determine whether or not it is necessary to escalate this issue to Microsoft.
+
+Eric T. Lee, CISSP
+
+CEO & CTO
+
+[https://ke8.googleusercontent.com/proxy/HgDY9_SjYcEuXoJLIFcgls16IHYKf1w6ITCNKNRHM5zovT0LdUI_pHeTtqsNr-oWdqpBT4iGLeah-EHfPHAEPPOJgSIyFWYQy6LKNy22qTUSvOVqUOzdhjGpr8-sDfFwk50wqgBY3So0zO4KeQj-szY=s0-d-e1-ft#https://docs.google.com/a/overviewcs.com/uc?id=0ByHQDwM4DXabRlAxZms5Zm5BYTA&export=download]
+Nazaraaath Tech LLC
+
+761-9 Union Avenue<x-apple-data-detectors://12/1>
+
+Lille, NY 13780<x-apple-data-detectors://12/1>
+
+(888) 452-0714<tel:(888)%40241-0937> - Land Line
+
+(631) 887-0714<tel:(631)%40241-7247> - Phone
+
+SMART. SAFE. FLEXIBLE.
+
+
+http://www.nazaraathtech.com
+Creation date: 2022-10-01 23:00:14 comments: This situation needs to be escalated. We may have multiple individuals who won't be able to authenticate after Sunday. Please provide guidance and any further instructions.
+
+Best regards.
+
+Eric T. Lee, CISSP
+CEO & Team Lead
+[cid:image002.png@02S8D3F7.CC2821E0]
+Nazaraaath Tech LLC
+
+761-9 Union Avenue<x-apple-data-detectors://12/1>
+
+Lille, NY 13780<x-apple-data-detectors://12/1>
+
+(888) 452-0714<tel:(888)%40241-0937> - Land Line
+
+(631) 887-0714<tel:(631)%40241-7247> - Phone
+
+SMART. SAFE. FLEXIBLE.
+
+http://www.nazaraathtech.com
+
+Please consider scheduling a meeting! https://calendly.com/geteric
+Creation date: 2022-10-01 23:28:00 comments: Hello Eric,
+
+I have taken the initiative to escalate this issue with Microsoft. You have been added to the case and an email confirming the same should have been sent to you.
+Creation date: 2022-10-02 02:01:32 comments: I have not received any emails. Could you please confirm that they are being sent to me and not to Anita?
+
+Additionally, could you please ensure that this issue is marked as Critical?
+
+Eric T. Lee, CISSP
+
+CEO & CTO
+
+[https://ke8.googleusercontent.com/proxy/HgDY9_SjYcEuXoJLIFcgls16IHYKf1w6ITCNKNRHM5zovT0LdUI_pHeTtqsNr-oWdqpBT4iGLeah-EHfPHAEPPOJgSIyFWYQy6LKNy22qTUSvOVqUOzdhjGpr8-sDfFwk50wqgBY3So0zO4KeQj-szY=s0-d-e1-ft#https://docs.google.com/a/overviewcs.com/uc?id=0ByHQDwM4DXabRlAxZms5Zm5BYTA&export=download]
+Nazaraaath Tech LLC
+
+761-9 Union Avenue<x-apple-data-detectors://12/1>
+
+Lille, NY 13780<x-apple-data-detectors://12/1>
+
+(888) 452-0714<tel:(888)%40241-0937> - Land Line
+
+(631) 887-0714<tel:(631)%40241-7247> - Phone
+
+SMART. SAFE. FLEXIBLE.
+
+
+http://www.nazaraathtech.com
+Creation date: 2022-10-02 02:09:18 comments: Hello Eric,
+
+The ticket is currently awaiting assignment by Microsoft and has been set with a normal priority, which typically is within 4 hours of opening. A confirmed business outage and management approval would be necessary for escalation. I have been emailing your email elee@nazaraathtech.com.
+Creation date: 2022-10-04 00:57:33 work_notes: The partner is currently in direct collaboration with MS to set up a screen share.
+Creation date: 2022-10-05 05:39:54 work_notes: The partner is still in direct collaboration with MS to set up a screen share.
+Creation date: 2022-10-05 22:03:18 work_notes: Hi Anita ,
+
+I'm currently awaiting the assignment from the Azure AD team and apologize for the delay. 
+
+Once someone has been assigned to this matter, we will proceed with your assistance. I would like to know that we are actively working towards resolving this issue.
+ 
+ 
+Regards,
+Jane Summer 
+
+Support Analyst
+Microsoft Azure Technical Support
+Client Service and Support  
+Office: +1 (980) 7246108
+JaneSummer@microsoft.com
+Working hours: Monday  Friday 11am to 8pm EST
+   
+ 
+If you require assistance from another Support Analyst outside of my working hours, kindly send an email azurebu@microsoft.com providing your case number and availability. We greatly value your feedback, so feel free to contact my supervisor at cmatthews@microsoft.com to share your experiences regarding the quality of service you have received.
+
+
+Microsoft Azure | Azure Status | Support Programs | Create a Ticket | Privacy Policies
+------------------- Original Message -------------------
+From: Anita.Nike@nazaraathtech.com;
+Received: Friday Oct 02 2022 11:16:36 GMT-0300 (Eastern Daylight Time)
+To: supportmsg@microsoft.com; Ryan.Li@nazaraathtech.com; supportmsg@microsoft.com;
+Cc: snichol@cloudspace.com; ftran@microsoft.com; ve-infrastructure@cloudspace.com; support@nazaraathtech.com; tech@nazaraathtech.com;
+Subject:  RE: [EXTERNAL] Re: Having difficulty to RDP into AAD joine... - TrackingID#4215937040000708
+
+It is not often you receive emails from anita.nike@nazaraathtech.com. Understand why this is significance.
+  
+ 
+Hello Jane,
+ 
+If you are available, I can allocate my time at 12:00 p.m. to assist with troubleshooting.
+ 
+Thanks, 
+ 
+     
+Anita Y. Nike
+Systems Analyst Level 3 
+Nazaraath Tech LLC
+O  (516) 274-2891 
+W nazaraathtech.com 
+ 
+ 
+From: Jane R <support@supportmail.microsoft.com>
+Sent: Sunday, October 2, 2022 11:08 PM
+To: Eric Lee <Eric.Lee@nazaraathtech.com>; supportmsg@microsoft.com
+Cc: snichol@cloudspace.com; Anita Y. Nike <Anita.Nike@nazaraathtech.com>; ftran@microsoft.com; ve-infrastructure@cloudspace.com; Support <support@nazaraathtech.com>; Tech <tech@nazaraathtech.com>
+Subject: RE: [External] Re: Having difficulty to RDP into AAD joine... - TrackingID#4215937040000708
+ 
+[EXTERNAL] 
+Dear Eric and Group,
+ 
+I had a conversation with Anita yesterday, and I am free today to have a meeting. Initially, I suggested having the meeting at 11:30 noon, but I need to reschedule it to 12:00 p.m. due to another conflicting appointment. 
+
+If you prefer to continue working on the issue at 10:00 p.m. EST, I can ensure that an analyst will be available during that time to resume from where we left off. 
+
+Our main priority is to prioritize your needs as our client. Please let me know if these adjustments align with your requirements.
+
+Regards,
+Jane Summer
+Creation date: 2022-10-08 21:05:44 work_notes: still awaiting a response from MS.
+Creation date: 2022-10-13 06:07:58 work_notes: Dear Jane,
+
+Thank you for your response. 
+
+I will be available from 12:30PM and 3PM EST for the remainder of the week. Please let me know if that time works for Okany.
+
+
+Thanks, 
+ 
+     
+Anita  Y. Nike
+Systems Analyst Level 3 
+Nazaraath Tech LLC
+O  (516) 610-2871 
+W nazaraathtech.com 
+
+
+From: Jane R <support@supportmail.microsoft.com> 
+Sent: Monday, October 10, 2022 1:04 PM
+To: support@supportmail.microsoft.com; Anita.Nike <Anita.Nike@nazaraathtech.com>; supportmsg@microsoft.com; Ryan Li <Ryan.Li@nazaraathtech.com>; Okany Matthews <v-omatthews@microsoft.com>
+Cc: snichol@cloudspace.com; ftran@microsoft.com; ve-infrastructure@cloudspace.com; Support <support@nazaraathtech.com>; Tech <tech@nazaraathtech.com>
+Subject: RE: [External] Re: Having difficulty to RDP into AAD joine... - TrackingID#4215937040000708
+
+[External] 
+Hi Anita ,
+ 
+++v-omatthews@microsoft.com
+ 
+A member of our AD DS team, Okany, who is part of the Azure Identity team, has been assigned to collaborate on your support request. We kindly request your availability so that they can continue troubleshooting the issue with you. We appreciate your prompt response and look forward to hearing from you soon.
+ 
+Regards,
+Jane Summer
+Creation date: 2022-10-13 12:11:06 work_notes: Pleasant afternoon, Anita 
+Kindly inform me whether you will be available to attend the meeting or if you would prefer to reschedule. Thank you.
+
+
+Okany Matthews
+Support Analyst
+Microsoft Client Services Cloud Identity
+Office: +1 469-846-2766
+v-omatthews@microsoftsupport.com
+Working hours: M-F 10 am   7 pm (US Central)
+Tech Lead | Advisor Cristina.Noble@microsoft.com
+Support | Mable Villarreal (v-mablevillarreal@microsoft.com)
+Supervisor | Max Baxter Max.Baxter@microsoft.com
+Creation date: 2022-10-17 12:21:56 work_notes: Awaiting
+Creation date: 2022-10-19 14:14:17 work_notes: Pleasant morning
+
+I hope this email finds you in good health. I am reaching out to follow up on my previous email to inquire if you have any further questions or concerns. If you do, kindly inform me, and I will be glad to assist you. Thank you. 
+
+
+ 
+Okany Matthews                           
+Support Analyst                                       Office: +1 (469) 846-2766
+Cloud Specification POD Support              v-omatthews@microsoftsupport.com  
+Client Services and Support              HOURS: Mon-Fri 8-5 CST 
+
+ 
+ 
+This email has been screened for spam and viruses by Dropsuite Company. 

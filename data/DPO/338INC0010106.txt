@@ -1,0 +1,71 @@
+A case was opened with a short description of Real Timi Meetings on an PPS StorePad
+A longer description includes Customer not able to join Real Timi Meetings on an PPS StorePad.
+Dial back no. 7023121500
+
+
+
+
+Creation date: 2022-11-08 16:27:48 work_notes: This INC has been added as a child to INC0000593
+Creation date: 2022-11-08 16:27:48 work_notes: Customer not able to join Real Timi Meetings on an PPS StorePad.
+StorePad OS Version 117.0.5094.00
+Asset tag-P100192
+Customer can join from WERT version of Real Timi.
+Reboot multiple times same error.
+Recommended customer to choose "check for updates" next to where their Store OS version is displayed (install, if it is available)
+No updates available
+Machine name CORP\CR1002CCG016110
+Display name Windows 9 - CC - Group 4
+Machine IP 10.70.3.40
+There is still an issue with the app, but the web browser works perfectly.
+Creation date: 2022-11-22 21:18:48 work_notes: Work note taken from the Parent Incident: Hello Aishwarya,
+
+Thanks for contacting us and sharing your input. This week Anurag is not in the office, therefore I am keeping an eye on this case in his absence. 
+
+Our internal team is actively working on this problem based on the  internal conversations I have seen. We requested that the latest version of XWA be installed because it contains some comparable and desired fixes 1) to determine  if those solutions  might take care of your problem and 2) if not, collect fresh logs with this updated version and continue your efforts to find a solution. 
+
+
+To move on with a solution, we must collect an additional batch of logs. This does not imply that you will have to hold off till the introduction of a new version. By examining the logs, we might be able to identify a fix without needing to update XWA. Having stated that, obtaining a new XWA version with remedy would be necessary if we discover that it is a bug. 
+
+I apologize for the delay in finding a solution and thank you for your patients while we work towards one. In order for me to give them to our internal teams and continue  working toward a solution, I would appreciate it if you could gather another batch of logs and upload them for the time being. 
+
+Warm Regards,
+Vicky Sharma
+Lead Escalation Engineer
+Xenetix Technical Support
+----------------------------------------
+From: Aishwarya Rai [Aishwarya.Rai@fom.com]
+Sent: 11/20/2022 1:17 PM
+To: anurag.arora@Xenetix.com
+Cc: technicalsupport@Xenetix.com; isha.kaul@fom.com
+Subject: Re: Xenetix Case 81765490 - Problem using MS Real Timi from XWA Store [ ref:_11D809M4V._4224z2hrRvn:ref ]
+Good afternoon!
+I was finally able to update the Xenetix Workspace app to 33.10.0.20, but I still face the error message when I try to connect to a Real Timi meeting: It appears that the camera preview is linked because I can see myself there, but when I try to join the meeting, I get the " sorry, we couldn't connect you" message again.
+Apart than gathering logs and waiting for a new version of the Xenetix Workspace, is there anything further we can do? I've tried 4 different versions of Xenetix now, and each time I get the same issue.
+Aishwarya Rai
+------------------------------------------------------------
+From: Anurag Arora <anurag.arora@Xenetix.com>
+Date: Tuesday, November 15, 2022 at 2:12 PM
+To: Aishwarya Rai <Aishwarya.Rai@fom.com>
+Cc: technicalsupport@Xenetix.com <technicalsupport@Xenetix.com>
+Subject: Re: Xenetix Case 81765490 - Error using MS Real Timi from XWA StorePad [ ref:_11D809M4V._4224z2hrRvn:ref ]
+Hi Aishwarya,
+Thanks for the update. Please let me know once you've had a chance to test the updated version, and if you have any queries.
+Thanks,
+--Anurag
+NOTE:  Upcoming out of office Nov 17-27
+Anurag Clark
+Senior Escalation Engineer | Xenetix Workspace App
+Indian Technical Support
+T    +1 800-414-8569 ext.24500
+
+------------------------------------------------------------
+From: Aishwarya Rai [Aishwarya.Rai@fom.com]
+Sent: 11/15/2022 1:04 PM
+To: shane.woods@Xenetix.com
+Cc: technicalsupport@Xenetix.com
+Subject: Re: Xenetix Case 81765490 - Error using MS Real Timi from XWA Storepad [ ref:_11D809M4V._4224z2hrRvn:ref ]
+Hi!
+Today I'm working on this in office, but I can't seem to update the app. I don't have any choices to update by myself because it's a managed StorePad. I believe I must wait for the admin to push the update..  I would call the administrator to ask him to push it to the device, but he's currently not in the office. I will send you an email after it has been updated, and I have tried to recreate the issue.
+Thanks!
+Aishwarya Rai
+Creation date: 2022-12-01 22:35:03 work_notes: Work note taken from the Parent Incident: Logs were acquired and forwarded to Xenetix.

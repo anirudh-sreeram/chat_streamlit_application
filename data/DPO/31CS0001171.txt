@@ -1,0 +1,235 @@
+A case was opened with a short description of Issue with AVD certificate
+A longer description includes There are Certificate problems with the AVD gateway, causing users to be unable to connect. This is an urgent issue.
+
+
+
+
+Creation date: 2022-10-18 22:16:06 work_notes: Added as a child of CS4755591
+Creation date: 2022-10-18 22:29:22 comments: Hi Jane,
+
+We are currently resolving this. The MSFT case remains open. Our vendor Assistance team is investigating the communication with Microsoft. I will transfer you to our Vendor Assistance team, who will handle the communication with Microsoft.
+
+Regards,
+Freda
+Creation date: 2022-10-18 22:29:22 work_notes: 
+The case was mistakenly closed as a result of a mix-up with a similar case number. The MSFT case is still open and we are adding Jackie and Raju for visibility.
+
+
+Email from jliu@zeesys.com
+Hello Okany
+
+
+Do you have any updates on this? I wanted to check if you have discussed with your team and determined the next steps.
+
+
+Thanks,
+
+
+Jane Liu
+
+949-878-9697
+
+jliu@zeesys.com
+
+
+From: Jane Liu
+Sent: Thursday, October 13, 2022 2:00 PM
+To: Okany M <support@supportmail.microsoft.com>; mbaxter@cloudspace.com; supportmail@microsoft.com
+Cc: ve-infrastructure@cloudspace.com; probertson@microsoft.com; Mable Villarreal <mvillarreal@zeesys.com>; mnaveen@cloudspace.com
+Subject: RE: [EXTERNAL] RE: It is possible to establish an RDP connection to AVD. ... - TrackingID#2210080020000081
+
+Hello Okany
+
+I wanted to check in with you to see if there were any updates or additional information you needed after investigating and communicating with your Azure team. Please let me know if there is anything else I can assist you with.
+
+
+Thanks,
+
+Jane Liu
+
+949-878-9697
+
+jliu@zeesys.com
+
+
+From: Jane Liu
+Sent: Tuesday, October 11, 2022 1:21 PM
+To: Okany M <support@supportmail.microsoft.com>; mbaxter@cloudspace.com; supportmail@microsoft.com
+Cc: ve-infrastructure@cloudspace.com; probertson@microsoft.com; Mable Villarreal <mvillarreal@zeesys.com>; mnaveen@cloudspace.com
+Subject: RE: [EXTERNAL] RE: It is possible to establish an RDP connection to AVD ... - TrackingID#2210080020000081
+
+
+Hello Okany
+
+Please send me a meeting invite for 11PM MST/10AM PST.
+ 
+
+
+
+Thanks,
+
+
+Jane Liu
+
+949-878-9697
+
+jliu@zeesys.com
+
+
+
+From: Okany M <support@supportmail.microsoft.com>
+Sent: Tuesday, October 11, 2022 12:23 PM
+To: mbaxter@cloudspace.com; Jane Liu <jliu@zeesys.com>; supportmail@microsoft.com
+Cc: ve-infrastructure@cloudspace.com; probertson@microsoft.com; Mable Villarreal <mvillarreal@zeesys.com>; mnaveen@cloudspace.com
+Subject: RE: [EXTERNAL] RE: It is possible to establish an RDP connection to AVD ... - TrackingID#2210080020000081
+
+Hi Team,
+
+Apologiez for the delayed response. I have been occupied with consecutive meetings and my first available time slot is tomorrow at 11:00 p.m. MST. Please let me know if this time works for you, and I will send you a Teams meeting invitation. 
+
+Regarding the issue at hand, there are limited options available. The only viable solution is to restore the decommissioned CA from a backup. Once your environment is recovered, you can proceed with the appropriate de-provisioning process that was shared in my previous email. 
+
+I eagerly await your response. Thank you.
+-
+Eric Marc Lee
+Directory Services Analyst | Organisation Platforms
+Client Service & Support
+Working Hours 8:00AM to 5:00PM MST, M-F
+ 
+
+ 
+
+------------------- Original Message -------------------
+From: mbaxter@cloudspace.com;
+Received: Tue Oct 11 2022 09:24:11 GMT-0500 (Central Standard Time)
+To: jliu@zeesys.com; supportmail@microsoft.com;
+Cc: ve-infrastructure@cloudspace.com; probertson@microsoft.com; mvillarreal@zeesys.com; mnaveen@cloudspace.com;
+Subject: [EXTERNAL] RE: It is possible to establish an RDP connection to AVD due ... - TrackingID#2210080020000081
+
+Hi @Okany M
+
+
+I have reached out to Jane to address the inquiries below and have also contacted the premier support line to request a call back today.
+
+
+Best Regards,
+
+
+Margarito Baxter
+
+Help Desk Admin II
+
+(855) 884 7299
+
+Cloudspace.com
+
+From: Jane Liu <jliu@zeesys.com>
+Sent: Monday, October 10, 2022 8:53 AM
+To: Okany M <support@supportmail.microsoft.com>
+Cc: Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@cloudspace.com>; Patrick Robertson <probertson@microsoft.com>; Mable Villarreal <mvillarreal@zeesys.com>; Moinudeen Naveen <mnaveen@cloudspace.com>
+Subject: [EXTERNAL] RE: It is possible to establish an RDP connection to AVD due to CA server be... - TrackingID#2210080020000081
+
+
+Please provide an update on the status of our previous inquiry, as we have not yet received a response. Kindly let us know when we can arrange a time to troubleshoot and resolve the issue that we are currently facing.
+
+Thanks,
+
+Jane Liu
+
+949-878-9697
+
+jliu@zeesys.com
+
+
+From: Jane Liu
+Sent: Sunday, October 09, 2022 2:11 PM
+To: Okany M <support@supportmail.microsoft.com>
+Cc: ve-infrastructure@cloudspace.com; Patrick Robertson <probertson@microsoft.com>; Mable Villarreal <mvillarreal@zeesys.com>; Moinudeen Naveen <mnaveen@cloudspace.com>
+Subject: RE: It is possible to establish an RDP connection to AVD due to CA server be... - TrackingID#2210080020000081
+
+Hello Okany,
+
+
+Please let us know when we can schedule a time to discuss this issue further..
+
+
+Thanks,
+
+Jane Liu
+
+949-878-9697
+
+jliu@zeesys.com
+ 
+From: Mable Villarreal <mvillarreal@zeesys.com>
+Sent: Sunday, October 09, 2022 1:01 PM
+To: Okany M <support@supportmail.microsoft.com>; Kris Dawson <mnaveen@cloudspace.com>; Jane Liu <jliu@zeesys.com>
+Cc: ve-infrastructure@cloudspace.com; Patrick Robertson <probertson@microsoft.com>
+Subject: RE: It is possible to establish an RDP connection to AVD due to CA server be... - TrackingID#2210080020000081
+
+
+Hello Okany  Please collaborate with @Jane Liu on resolving this issue. The domain controller was accidentally decommissioned without following the necessary steps to decommission the CA. Currently, we are working on rectifying and resolving the issues caused by this incident.
+
+
+ 
+Mable
+ 
+
+From: Okany M <support@supportmail.microsoft.com>
+Sent:Sunday, October 09, 2022 12:56 PM
+To: Moinudeen Naveen <mnaveen@cloudspace.com>
+Cc: ve-infrastructure@cloudspace.com; Mable Villarreal <mvillarreal@zeesys.com>; Mable Villarreal <mvillarreal@zeesys.com>; Patrick Robertson <probertson@microsoft.com>
+Subject: It is possible to establish an RDP connection to AVD due to CA server be... - TrackingID#2210080020000081
+
+
+
+Hi Moinudeen,
+
+My name is Okany Summer and I am part of the Directory Services team at Microsoft. I hope you are doing well. I have been assigned to your case and I am here to provide assistance.
+
+I would like to refer you to an article on Microsoft Learn that provides guidance on decommissioning a CA decommission a Window Enterprise CA on Windows Server. 
+
+This article explains the steps to remove any outstanding certificates and complete other necessary tasks to uninstall a CA without impacting your current environment.
+
+Please take the time to review the article and let me know if you require any further assistance.
+
+Thank you and I look forward to your response.
+
+ 
+
+ --
+Eric Marc Lee
+Directory Services Analyst | Organisation Platforms
+Client Service & Support
+Working Hours 8:00AM to 5:00PM MST, M-F
+ 
+
+
+
+CybSecure has conducted a thorough scan of this email to ensure that it is free from any potential spam or viruses.
+
+This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and delete the original message. Cloudspace retains and exercises all rights to confidentiality, including any associated privileges.
+Creation date: 2022-10-18 22:45:34 work_notes: Hi @Okany M,
+
+I hope everything is going well. I contacted the Premier line and was informed that they have reached out to you in order to get in touch with Jane regarding this escalation. I am eagerly awaiting your response.
+Creation date: 2022-10-18 22:45:34 comments: Hi Jane,
+
+I hope everything is fine. I contacted the Premier support line regarding this issue and they assured me that they will reach out to the assigned agent on this case. They will contact you through this email thread as well as via phone number 949-878-9697. I will keep an eye on this matter, but please inform us if you don't receive a call from MFST within the next two business hours.
+Creation date: 2022-10-19 18:52:58 work_notes: Waiting for MFST update
+
+It might be necessary to contact Anita and ask CSAM to examine this.
+Creation date: 2022-10-20 14:25:45 work_notes: Hi Jane, I hope you're doing well. 
+
+We had a discussion regarding the need for a CA in your environment. Only you are able to determine if a CA is necessary since we do not have enough information. 
+
+If there is no backup or system state for the CA, there will be no way to recover it. In this case, you may need to implement a PKI if necessary. 
+
+We recommend that you reach out to your CSAM, who is included in this email, to schedule a CE visit. This visit will allow us to assess your environment and create an action plan based on your specific requirements. 
+
+If you have any further questions or need assistance, please feel free to let me know.
+ 
+Regards,
+ 
+
+--
+Eric Marc Lee

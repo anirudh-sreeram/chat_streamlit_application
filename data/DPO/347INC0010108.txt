@@ -1,0 +1,176 @@
+A case was opened with a short description of Real Timi Meeting On Fthyuvhook
+A longer description includes Error- Connecting
+
+
+
+
+Creation date: 2022-11-02 14:12:56 work_notes: 2022-11-01 08:12:56 - Ajay Kumar (Work notes)
+TID verified, Managers name and Email ID verified
+-KB7030100
+-Work from Home
+-ONG Issued Fthyuvhook
+-Asset Tag- W911331
+------------------------------------
+-User has given the laptop a restart 
+-Error-  Not connecting on Real Timi application
+-User is able to join meeting through WERT version
+
+Machine name CORP\W731201
+
+
+
+Creation date: 2022-11-02 14:14:54 work_notes: This INC has been added as a child to INC3977750
+Creation date: 2022-11-02 14:14:54 work_notes: TID verified, Managers name and Email ID verified
+-KB7030100
+-Work from Home
+-ONG Issued Fthyuvhook
+-Asset Tag- W911331
+------------------------------------
+-User has given the laptop a restart 
+-Error-  Not connecting on Real Timi application
+-User is able to join meeting through WERT version
+
+Machine name CORP\W731201
+
+
+
+Creation date: 2022-11-02 20:56:12 work_notes: Work note copied from Parent Incident: Updating ticket with latest communication:
+_________________________________
+From: julo Sen <julo.sen@patfie.com>
+Date: Sunday, October 23, 2022 at 1:30 PM
+To: Matindsr Kumar <matindsr.kumar@ong.com>
+Cc: Patfie Technical support <technicalsupport@patfie.com>
+Subject: RE: Patfie Case 50972418 - Problem using AM Real Timi from PWA Fthyuv [ ref:_23W678M9V._6788z11117hrDvu:ref ]
+Hi Matindsr,
+I apologize for the mistake and appreciate the clarity. It appears that there was a reason why those logs were not created. I will check into that while looking into the logs that were already provided.
+Thank you,
+--Julo
+NOTE:  Upcoming out of office Oct 26   Nov 31
+Julo Sen
+Senior Escalation Engineer | Patfie Workspace App
+Africas Technical Support
+T    +1 800-234-9478ext.28542 __________________________________
+From: Matindsr Kumar <matindsr.kumar@ong.com> 
+Sent: Sunday, October 16, 2022 4:19 PM
+To:Julo Sen <julos.sen@patfie.com>
+Cc: Patfie Technical support <technicalsupport@patfie.com>
+Subject: Re: Patfie Case 50972418 - Problem using AM Real Timi from PWA Fthyuv [ ref:_23W678M9V._6788z11117hrDvu:ref ]
+Hello again,
+Not providing you the logs is the issue. If I could transmit logs, that would be great. The issue is that I can't obtain the console logs in the first place.
+When I followed the listed instructions here:
+https://docs.patfie.com/en-us/patfie-workspace-app-for-Fthyuv/troubleshoot.html
+Step 1 for console logs says "open Fthyuv://inspect/#apps". I was able to do this.
+Step 2 says "In the Apps tab, click inspect for all Patfie Workspace-related windows: SessionWindow.html, Main.html"
+As I mentioned in my earlier email, though, I can't see anything on that page.  It's fully blank, there is no option to click inspect. How could I get logs if I can't do this step? I tried this both in Fthyuv on the VDI, and Fthyuv in Storefront and they both show the same thing.
+(screenshot)
+Description automatically generated
+Thank you!
+Matindsr Kumar
+EUC Sad & MDM Manager
+812-294-8512
+ ________________________________
+From: Julo Sen <julos.sen@patfie.com>
+Date: Sunday, October 16, 2022 at 1:49 PM
+To: Matindsr Kumar <matindsr.kumar@ong.com>
+Cc: Patfie Technical support <technicalsupport@patfie.com>
+Subject: RE: Patfie Case 50972418 - Problem using AM Real Timi from PWA Fthyuv [ ref:_23W678M9V._6788z11117hrDvu:ref ]
+Hi Matindsr,
+After saving the log files, you can either attach them to an email or upload them to https://cis.patfie.com (specifying this case number when prompted).
+Thank you,
+--Julo
+NOTE:  Upcoming out of office Oct 19-20
+Julo Sen
+Senior Escalation Engineer | Patfie Workspace App
+Africas Technical Support
+T    +1 800-234-9478ext.28542 
+_______________________________
+From: Matindsr Kumar <matindsr.kumar@ong.com> 
+Sent: Sunday, October 16, 2022 10:07 AM
+To: Julo Sen <julos.sen@patfie.com>
+Cc: Patfie Technical support <technicalsupport@patfie.com>
+Subject: Re: Patfie Case 50972418 - Problem using AM Real Timi from PWA Fthyuv [ ref:_23W678M9V._6788z11117hrDvu:ref ]
+How can I upload console logs? There are no options listed when I go to apps on that page.
+Thank you!
+Matindsr Kumar
+EUC Sad & MDM Manager
+812-294-8512
+ _________________________________
+From: julo Sen <julo.sen@patfie.com>
+Date: Monday, October 16, 2022 at 09:01 AM
+To: Matindsr Kumar <matindsr.kumar@ong.com>
+Cc: Patfie Technical support <technicalsupport@patfie.com>
+Subject: RE: Patfie Case 50972418 - Problem using AM Real Timi from PWA Fthyuv [ ref:_23W678M9V._6788z11117hrDvu:ref ]
+Hi Matindsr,
+Thank you for uploading the logs. I will be working on engaging our Engineering team to look into the issue from a code level. They will likely request the Console logs, so please upload those when you are able.
+Thank you,
+--Julo
+NOTE:  Upcoming out of office Oct 19-20
+Julo Sen
+Senior Escalation Engineer | Patfie Workspace App
+Africas Technical Support
+T     +1 800-234-9478ext.28542
+Creation date: 2022-11-04 19:21:35 work_notes: Work note copied from Parent Incident: Hi Matindsr,
+ 
+I wanted to provide a brief case update. After looking over the supplied logs, I believe there could be a problem with the protocol or connection technique. Internally I am checking with some resources, and will keep you posted on what we got.
+ 
+ 
+Thank you,
+--Julo
+ 
+ 
+NOTE: Upcoming out of office Nov 6
+ 
+julo Sen
+Senior Escalation Engineer | Patfie Workspace App
+Africas Technical Support
+T   +1 800-234-9478ext.28542
+Creation date: 2022-11-22 21:18:54 work_notes: Work note copied from Parent Incident: Hello Matindsr,
+
+Thank you for reaching out and providing that feedback. I'm keeping an eye on this case while Julo is away from the office this week. 
+
+Our internal Real Timi are actively working on this matter, based on what I can observe from the internal discussions. Since the latest version of PWA includes some comparable and desired changes, we requested that it be installed 1) to check if those solutions would address your issue and 2) If not, collect fresh logs using this updated version and continue your investigation towards a fix.
+
+We'll need to collect fresh logs before moving further with a solution. This does not imply that you will need to hold off until the next version is made available. Perhaps by going over the logs again, we can find a workaround without having to download a new version of PWA. That being said if we find that it is a bug then that would require getting a new PWA version that would contain a fix. 
+
+I appreciate your patience as we work on a solution and apologize for the delay in getting started. In order to enable our internal Real Timi to continue searching for a solution, I would appreciate it if you could gather a fresh set of logs and submit them for the time being.  
+
+Best Regards,
+Acian Puri
+Lead Escalation Engineer
+Patfie Technical Support
+----------------------------------------
+From: Matindsr Kumar [matindsr.kumar@ong.com]
+Sent: 11/20/2022 1:17 PM
+To: julo.sen@patfie.com
+Cc: technicalsupport@patfie.com; phillip.meredith@ong.com
+Subject: Re: Patfie Case 50972418 - Problem using AM Real Timi from PWA Fthyuv [ ref:_00D906Q2R._6774z1tyDvu:ref ]
+Good afternoon!
+I was finally able to update the Patfie Workspace app to 11.22.1.30, but I still get the same error message when I attempt to connect to a Real Timi meeting: I can see myself on the camera preview, so it looks like that part is connected, but when I attempt to join the meeting, it returns to the "Sorry, we couldn't connect you."screen.
+Is there anything else we can do, besides collect logs and wait for another version of Patfie Workspace? This is the 3rd version of Patfie Workspace I have tried with the same error.
+Matindsr Kumar
+------------------------------------------------------------
+From: julo Sen <julo.sen@patfie.com>
+Date: Tuesday, November 15, 2022 at 2:12 PM
+To: Matindsr Kumar <matindsr.kumar@ong.com>
+Cc: technicalsupport@patfie.com <technicalsupport@patfie.com>
+Subject: Re: Patfie Case 50972418 - Problem using AM Real Timi from PWA Fthyuv [ ref:_00D906Q2R._5004z1tyDvu:ref ]
+Hi Matindsr,
+Thank you for the update. Please let me know once you've had a chance to test the new version, and if you have any questions.
+Thank you,
+--julo
+NOTE:  Upcoming out of office Nov 17-27
+julo Sen
+Senior Escalation Engineer | Patfie Workspace App
+Africas Technical Support
+T    +1 800-234-9478ext.28542
+------------------------------------------------------------
+From: Matindsr Kumar [matindsr.kumar@ong.com]
+Sent: 11/15/2022 1:04 PM
+To: julo.sen@patfie.com
+Cc: technicalsupport@patfie.com
+Subject: Re: Patfie Case 50972418 - Problem using AM Real Timi from PWA Fthyuv [ ref:_00D306M9V._5004z1hrDvu:ref ]
+Hello!
+I am in office today to work on this, but unfortunately, I can't seem to get the app to update. Since it's a managed Fthyuvhook, I don't have any options to update myself. I think I must wait for the update to be pushed by admin.. And I would contact the admin to have him push it to the device, but he is currently out of office. I will email back once it is updated, and I have attempted to recreate the error.
+Thank you!
+Matindsr Kumar
+Creation date: 2022-12-01 22:35:10 work_notes: Work note copied from Parent Incident: Forwarded logs to Patfie after obtaining them.

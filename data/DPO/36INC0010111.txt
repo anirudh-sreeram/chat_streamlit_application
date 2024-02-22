@@ -1,0 +1,70 @@
+A case was opened with a short description of DXC IM NO: E2-IM718553520 - Please mount /usr/bko/friendLOCAL on server gnfjdl04 ( gnfjdl2)
+A longer description includes Hi Team,
+
+we checked and found /usr/bko/friendLOCAL is not mounted on app gnfjdl04 ( gnfjdl2) please ensure that everything is mounted correctly on this server. There's a chance that something went wrong after this server was patched.
+
+Regards,
+Aman
+
+
+
+
+Creation date: 2023-02-21 13:54:07 comments: Hi Team,
+
+Please update on this.
+
+
+Thanks & Regards,
+ 
+Sanjay.Tehri | Q&H   CMS| CERT BASIS
+
+Mobile: +91-7014798138
+sanjay.tehri-ctr@nexacms.com |
+www.nexacms.com
+Creation date: 2023-02-21 13:54:54 comments: <0005>Update
+20/02/2023 12:29:28 (dd/mm/yyyy hh:mm:ss) UTC
+(ROHITKALYAN.M2@DXC.COM) M, ROHIT KALYAN
+From: Tehri, Sanjay <Sanjay.Tehri-CTR@nexacms.com>
+Sent: Monday, February 20, 2023 5:57 PM
+To: T, Suman Ghosh <sumanghosh.m2@ctr.com>; F, Sumedha <sumedha.f@ctr.com>; Maleka, Arjun <arjun.maleka@ctr.com>; EAO IN PaaS Team <EAOINPAASTEAM@ctr.com>; Saha, Reetesh <Reetesh.Saha@nexacms.com>
+Cc: IT CERT - Basis <bkobasis@nexacms>; Nexacms SC notification <nexacms.sc-notify@ctr.com>; ITO GDC INDIA NEXACMS MONITORING <nexacms.monitoring@ctr.com>
+Subject: RE: External: - RE: INC2534911 - Please mount /usr/bko/friendLOCAL on server gnfjdl04 ( gnfjdl2)
+
+Hi Rohit,
+
+It is mounted and accessible, as far as I can tell. Kindly go ahead and close.
+
+
+Thanks & Regards,
+
+Sanjay.Tehri | Q&H   CMS| CERT BASIS
+
+Mobile: +91-7014798138
+sanjay.tehri-ctr@nexacms.com |
+www.nexacms.com
+
+
+From: T, Suman Ghosh <sumanghosh.m2@ctr.com>
+Sent: Monday, February 20, 2023 5:46 PM
+To: Tehri, Sanjay <Sanjay.Tehri-CTR@nexacms.com>; F, Sumedha <sumedha.f@ctr.com>; Maleka, Arjun <arjun.maleka@ctr.com>; EAO IN PaaS Team <EAOINPAASTEAM@ctr.com>; Saha, Reetesh <Reetesh.Saha@nexacms>
+Cc: IT CERT - Basis <bkobasis@nexacms.com>; Nexacms SC notification <nexacms.sc-notify@ctr.com>; ITO GDC INDIA NEXACMS MONITORING <nexacms.monitoring@ctr.com>
+Subject: RE: External: - RE: INC2534911 - Please mount /usr/bko/friendLOCAL on server gnfjdl04 ( gnfjdl2)
+
+CAUTION: External email
+Hello Aman,
+
+It is handled. Kindly verify and inform us whether this incident may be closed.
+
+
+gnfjdl04:(/usr)(root)#bdf /usr/bko/friendLOCAL
+Filesystem          kbytes    used   avail %used Mounted on
+sncqas1:/usr/bko/friendLOCAL
+                   88440527 38574254 27454796   69% /usr/bko/friendLOCAL
+gnfjdl04:(/usr)(root)#cd /usr/bko/friendLOCAL
+gnfjdl04:(/usr/bko/friendLOCAL)(root)#ll
+
+
+Thanks & Regards
+Rohit Kumar M
+Creation date: 2023-02-21 14:01:30 work_notes: [xSwitch] - Terminated existing events for this Incident
+Creation date: 2023-03-01 06:02:08 comments: After 6 days, the incident is automatically closed as resolved.

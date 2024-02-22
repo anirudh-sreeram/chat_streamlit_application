@@ -1,0 +1,105 @@
+A case was opened with a short description of FW: Generate the commitment report for the month of December 2022.
+A longer description includes ________________________________
+From: Shawna Nichol   <Shawna Nichol@swdc.com>
+Sent: Tuesday, December 6, 2022 4:35:43 PM (UTC-04:00) Central Time (Mexico & Caribbean islands)
+To: ZIPHER MI (Now Fedact) Sales Open Commitments <SalesOpenCommitments@fedact.com>
+Subject: FW: Generate the commitment report for the month of December 2022.
+
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+I have included updates in the attachment. If you have any inquiries, please don't hesitate to ask.
+
+Thanks,
+Shawna Nichol 
+
+From: ZIPHER MI (Now Fedact) SFAL <SalesForceActionLine@fedact.com>
+Sent: Monday, December 5, 2022 5:00 PM
+To: Shawna Nichol  <Shawna.Nichol@swdc.com>; Patrick Robertson( Fedact MI) <Patrick Robertson@fedact.com>
+Subject: [EXTERNAL] Generate the commitment report for the month of December 2022.
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+CONFIDENTIAL
+
+Please find attached the Generate the commitment report t, which includes loans that have been approved for mortgage insurance but not yet activated. Kindly review the document to confirm whether mortgage insurance has been activated for the relevant loans. 
+If you regularly receive this report, you may observe that the borrowers' personal identifiable information has been removed. This step has been taken as part of our continuous efforts to ensure the security of your borrowers' data.
+
+
+Note:  Particular link customers can continue to use to activate loans.
+Because the file contains customer data and adheres to our privacy policy, it has been password protected. You will receive a separate email with the password required to open the file.
+Instructions:
+          *   Perform the appropriate "Action" for each loan on the  Generate the commitment report
+"Action" description:
+1.      Turn on = The loan with zero monthly payment has been closed and now requires mortgage insurance. (closing date of the loan must also be given)
+2.      Cancel =  mortgage insurance is not required
+3.      Unknown = In our system not able to find loan, etc.
+4.      Pending = The ownership status of the property has either been closed or is currently unknown..   At this time no action required.
+o        Incase Activate is chosen, its Mandatory to enter a loan closing date (mm/dd/yy) (Zero monthly only)
+o        If Cancel, Pending or Unknown is selected, no need to fill the loan closing date
+o        If Loan Number of the Lender is wrong, give the correct number
+o        If case if any disturbance in any other data is incorrect, please ping the Security and Maintenance at 801-444-5664.
+
+Note: If the "activate" option is selected and no closing date is provided, a message stating "data required" will appear for the loan.
+
+
+  *   For the fastest turnaround, e-mail completed report to SalesOpenCommitments@fedact.com<mailto:SalesOpenCommitments@fedact.com>. (Error to return report electronically will result in delayed processing.)
+CAUTION: After completing view commit report, click on File, Save, and Close.  later go back to the open email with the spreadsheet still attached and click on Forward to send it back to SalesOpenCommitments@fedact.com<mailto:SalesOpenCommitments@fedact.com>. (DON T USE THE REPLY OPTION).  When closing the email, to save the changes click on Yes option.  This saves a copy of the updated email  for further reference in the article you send.
+Notice:  If you have received this message by mistake or if you are not the intended recipient, please promptly inform the sender and delete this message and any attachments from your computer. Thank you for your cooperation.
+
+
+
+
+Creation date: 2022-12-07 22:37:35 comments: 501135517 12/08/2022 16:37:35
+received from: SalesOpenCommitments@fedact.com
+
+________________________________
+From: Shawna Nichol   <Shawna Nichol@swdc.com>
+Sent: Tuesday, December 6, 2022 4:35:43 PM (UTC-04:00) Central Time (Mexico & Caribbean islands)
+To: ZIPHER MI (Now Fedact) Sales Open Commitments <SalesOpenCommitments@fedact.com>
+Subject: FW: Generate the commitment report for the month of December 2022.
+
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+I have included updates in the attachment. If you have any inquiries, please don't hesitate to ask.
+
+Thanks,
+Shawna Nichol 
+
+From: ZIPHER MI (Now Fedact) SFAL <SalesForceActionLine@fedact.com>
+Sent: Monday, December 5, 2022 5:00 PM
+To: Shawna Nichol  <Shawna.Nichol@swdc.com>; Patrick Robertson( Fedact MI) <Patrick Robertson@fedact.com>
+Subject: [EXTERNAL] Generate the commitment report for the month of December 2022.
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+CONFIDENTIAL
+
+Please find attached the Generate the commitment report t, which includes loans that have been approved for mortgage insurance but not yet activated. Kindly review the document to confirm whether mortgage insurance has been activated for the relevant loans. 
+If you regularly receive this report, you may observe that the borrowers' personal identifiable information has been removed. This step has been taken as part of our continuous efforts to ensure the security of your borrowers' data.
+
+
+Note:  Particular link customers can continue to use to activate loans.
+Because the file contains customer data and adheres to our privacy policy, it has been password protected. You will receive a separate email with the password required to open the file.
+Instructions:
+          *   Perform the appropriate "Action" for each loan on the  Generate the commitment report
+"Action" description:
+1.      Turn on = The loan with zero monthly payment has been closed and now requires mortgage insurance. (closing date of the loan must also be given)
+2.      Cancel =  mortgage insurance is not required
+3.      Unknown = In our system not able to find loan, etc.
+4.      Pending = The ownership status of the property has either been closed or is currently unknown..   At this time no action required.
+o        Incase Activate is chosen, its Mandatory to enter a loan closing date (mm/dd/yy) (Zero monthly only)
+o        If Cancel, Pending or Unknown is selected, no need to fill the loan closing date
+o        If Loan Number of the Lender is wrong, give the correct number
+o        If case if any disturbance in any other data is incorrect, please ping the Security and Maintenance at 801-444-5664.
+
+Note: If the "activate" option is selected and no closing date is provided, a message stating "data required" will appear for the loan.
+
+
+  *   For the fastest turnaround, e-mail completed report to SalesOpenCommitments@fedact.com<mailto:SalesOpenCommitments@fedact.com>. (Error to return report electronically will result in delayed processing.)
+CAUTION: After completing view commit report, click on File, Save, and Close.  later go back to the open email with the spreadsheet still attached and click on Forward to send it back to SalesOpenCommitments@fedact.com<mailto:SalesOpenCommitments@fedact.com>. (DON T USE THE REPLY OPTION).  When closing the email, to save the changes click on Yes option.  This saves a copy of the updated email  for further reference in the article you send.
+Notice:  If you have received this message by mistake or if you are not the intended recipient, please promptly inform the sender and delete this message and any attachments from your computer. Thank you for your cooperation.
+
+Creation date: 2022-12-09 13:17:28 work_notes: 502006921 12/08/2022 07:17:28
+SOC SWDC Mortgage 12.08.22 CS1390025.xlsx attached from Email Client

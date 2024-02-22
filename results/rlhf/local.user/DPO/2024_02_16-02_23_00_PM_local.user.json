@@ -1,0 +1,1 @@
+{"conversation": [{"role": "user", "content": "hi"}, {"role": "robot", "chosen": "MAINT: I'm having lunch, will be back soon.", "rejected": "MAINT: I'm having lunch, will be back soon.", "model": "NOW_LLM_llama13b_convclass_dpo_12723_nonpairwise_loss"}], "metadata": {"metatags": {}}}

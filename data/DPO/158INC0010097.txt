@@ -1,0 +1,88 @@
+A case was opened with a short description of  Problem with branch phone
+A longer description includes user is unable to call to specific area code hence user made call to report the phone lines problem
+
+
+
+
+Creation date: 2022-10-04 19:16:36 work_notes: user contacted for registering the phone lines problem because unable to call specific area code
+KB2218564 
+
+Reported problem: user cannot make calls to 1 area code( 671) and error message to get in touch with admin
+Duration of issue - 2 week 
+Any error messages on the phones - NO
+Problem impacting one, multiple, or all users - all users
+Problem happening on the handset and/or headset -  Both
+Is the closed light on - NO
+Incoming and/or outgoing impacted - Outgoing
+Creation date: 2022-10-04 19:17:43 work_notes: Lead help:
+Okay to escalate
+Creation date: 2022-10-04 19:19:55 work_notes: Telephony kindly help
+Creation date: 2022-10-04 19:40:47 work_notes: From: SAANVI REDDY 
+Sent: Monday, October 3, 2022 2:40 PM
+To: 'TwoImpMoney' <twoimp@herbran.net>; 'Maria Carlin' <mcarlin@herbran.net>; Jackie Herlin <jherlin@herbran.net>; 'Westin De Woods' <wdewoods@herbran.net>; 'Bhaskar Kumar' <bkumar@herbran.net>; 'Brijesh Khanna' <bkhanna@herbran.net>
+Cc: Sandeep Reddy <Sandeep.Reddy@ivk.com>; George Neil <neilge@ivk.com>
+Subject: Score 2782 Unable To Call Guam
+
+As the branch is unable to dial Guam, kindly open a ticket for this them. Please see call samples below.
+
+Score 2782   863-293-5544   Main #
+
+Outgoing to 671-435-0945 Branch called at 09:44AM and 12:25PM "You are unable to make this call, kindly get in touch with system administrator ".
+Outgoing to 671-678-3443 Branch called at 10:39AM and 12:44PM "You are unable to make this call, kindly get in touch with system administrator ".
+
+Thank you,
+
+Saanvi Reddy
+Telephony Solutions Engineer Sr
+615 Mager Ave Castle Coast, VT 05036
+  802.396.6771 | saanvi.reddy@ivk.com
+Creation date: 2022-10-04 19:49:31 work_notes: From: SAANVI REDDY 
+Sent: Monday, October 3, 2022 2:49 PM
+To: 'Jackie Herlin' <jherlin@herbran.net>; 'Twoimpmoney' <twoimp@herbran.net>; 'Maria Carlin' <mcarlin@herbran.net>; 'Westin De Woods' <wdewoods@herbran.net>; 'Bhaskar Kumar' <bkumar@herbran.net>; 'Brijesh Khanna' <bkhanna@herbran.net>
+Cc: Sandeep Reddy <Sandeep.Reddy@ivk.com>; George Neil <neilge@ivk.com>
+Subject: RE: Score 2782 Not Able To Dial Guam
+
+Now, they can call on both the numbers. Thanks!
+
+Saanvi Reddy
+Telephony Solutions Engineer Sr
+615 Mager Ave Castle Coast, VT 05036
+  802.396.6771 | saanvi.reddy@ivk.com
+
+
+
+
+From: SAANVI REDDY 
+Sent: Monday, October 3, 2022 2:45 PM
+To:  Jackie Herlin' <jherlin@herbran.net>; 'Twoimpmoney' <twoimp@herbran.net>; 'Maria Carlin' <mcarlin@herbran.net>; 'Westin De Woods' <wdewoods@herbran.net>; 'Bhaskar Kumar' <bkumar@herbran.net>; 'Brijesh Khanna' <bkhanna@herbran.net>
+Cc: Sandeep Reddy <Sandeep.Reddy@ivk.com>; George Neil <neilge@ivk.com>
+Subject: RE: Score 2782 Unable To Dial Guam
+
+Testing them now. Please wait.
+
+Saanvi Reddy
+Telephony Solutions Engineer Sr
+615 Mager Ave Castle Coast, VT 05036
+  802.396.6771 | saanvi.reddy@ivk.com
+ 
+
+ 
+
+From: Jackie Herlin <jherlin@herbran.net> 
+Sent: Monday, October 3, 2022 2:43 PM
+To: SAANVI REDDY <saanvi.reddy@ivk.com>; 'TwoImpMoney' <twoimp@herbran.net>; 'Maria Carlin' <mcarlin@herbran.net>; 'Westin De Woods' <wdewoods@herbran.net>; 'Bhaskar Kumar' <bkumar@herbran.net>; 'Brijesh Khanna' <bkhanna@herbran.net>
+Cc: Sandeep Reddy <Sandeep.Reddy@ivk.com>; George Neil <neilge@ivk.com>
+Subject: RE: Score 2782 Unable To Dial Guam
+
+** EMAIL FROM SENDER OUTSIDE THE ORGANIZATION   BE CAREFUL **
+
+Kindly test now. I administered a global fix to manage this for all locations.
+
+Jackie Herlin
+Supervisor Voice
+Network Management Center 
+ 
+Herbran
+161 Drenear Avenue Road, Princetown, NY 10012
+T (518) 255-9440
+E jherlin@herbran.net | W herbran.net

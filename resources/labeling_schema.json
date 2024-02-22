@@ -1,0 +1,69 @@
+{
+  "Generation": [
+    "Act as if",
+    "Instruction Following",
+    "Creative Prompt",
+    "Vague Prompt",
+    "Content - Story / poem",
+    "Content - Email",
+    "Content - Blog / article (long)",
+    "Content - Other",
+    "Content - social media (short)",
+    "Nonsense Prompt",
+    "Leading Question",
+    "Code"
+  ],
+  "Extraction": [
+    "Specify format",
+    "Single complex extraction",
+    "Semantic Extraction"
+  ],
+  "Closed QA": [
+    "Abstractive",
+    "Extractive",
+    "Generative",
+    "Meta Question"
+  ],
+  "Classification": [
+    "Numerical",
+    "Categorical",
+    "Few-shot",
+    "Binary",
+    "multi select"
+  ],
+  "Summarization": [
+    "List format",
+    "Abstractive",
+    "Extractive",
+    "Aspect Focused",
+    "Long summary",
+    "Short summary"
+  ],
+  "Open QA": [
+    "Historical Information",
+    "Factual Information",
+    "economics",
+    "language and linguistics",
+    "literature",
+    "music and musicians",
+    "science",
+    "social sciences",
+    "processes",
+    "advice",
+    "television",
+    "sports"
+  ],
+  "Brainstorming": [
+    "With format",
+    "short answers",
+    "longer answers"
+  ],
+  "Rewrite": [
+    "Style Transfer",
+    "Error Correction (inversion)",
+    "POV shift",
+    "Tone Change",
+    "Simple paraphrase",
+    "Replace information"
+  ]
+}

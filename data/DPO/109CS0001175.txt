@@ -1,0 +1,176 @@
+A case was opened with a short description of Canair Mechanical - Client Transfer - Acquisition
+A longer description includes End-consumer Canair Mechanical is trying to switch from reseller Citadel IT Nerds.
+
+
+
+
+Creation date: 2022-09-27 16:18:56 work_notes: Canair Mechanical found under partner Citadel IT
+Creation date: 2022-09-27 16:21:32 work_notes: From duplicate CS3594927
+
+End-consumer Canair Mechanical is trying to switch from reseller Citadel IT Nerds.
+Creation date: 2022-09-27 16:52:57 comments: Good morning Raphael,
+
+As long as the subscriptions are active, our team can move a client's company profile subscriptions and billing between Cloudspace partners. To do this, we need to record your approval and the current partner's approval in our system. Once both approvals are received, we can submit a request to our backend team to move the client(s) and any active subscriptions over. However, the client's current partner has submitted a cancellation request for September 29, which is currently preventing us from moving this client over. I've reached out to them, offering guidance on how to bring their subscriptions back online. I'll keep you informed as soon as I hear back.
+
+If you agree to this request, kindly fill out the template below with your details and send it back with the filled out version:
+
+As a representative of [INSERT PARTNER RECEIVING THE CLIENT], I, [INSERT RESPONSIBLE PARTY NAME], hereby accept the acquisition of [Canair Mechanical] and all ongoing subscriptions on the Cloudspace Platform, with the earliest effective date being [INSERT EFFECTIVE DATE].
+
+Would you kindly let us know why the request is being denied, if it is?
+
+*Please know that processing time is dependent on the services being used by the client and is subject to the timely reception of all necessary partner and vendor approvals by Cloudspace. Due to a high volume of requests that are submitted near or at the end of the month, requests that are received within five days of the end of the month may not be transferred until the next month.
+Creation date: 2022-09-27 16:52:57 work_notes: Release https://cloudspaceprod.deskflow.com/nav_to.do?uri=df_clientservice_case.do?sys_id=a919080c03847f053afb0eed34849756%25sysparm_view=Support
+
+KB for the transfer procedure: https://cloudspaceprod.deskflow.com/kb_view.do?sysparm_article=KB0012960
+For tracking, please append at the end of the Short Description "Customer Migration - Acquisition"
+https://cloudspace.sharepoint.com/:w:/t/servicedesk/FT9pbrwaL2NMrXXyy9DOKXkByZkhH8wJp4A1FuYSOxl36A?e=xcC2PH
+
+Checklist:
+
+  If it doesn't already exist, create Deskflow tickets for "winning" Partner's acquisition approval
+   If it doesn't already exist, create a Deskflow ticket for "losing" Partner's release approval
+  In Deskflow, put the ticket number from the "losing" partner in the Parent field of the "winning" Partner's ticket to link the two tickets together
+  To authorize an acquisition or release, choose the Main Partner Administrator
+   Add CAM to DeskFlow Watchlist for losing Partner
+   Look for running services on the CloudSpace platform
+   Determine whether the "winning" Partner has the proper Partner Shells setup based on the running services
+   To find out if a client has any services that would be provided under the Partners shadow business, search for the client's name in One Time Charges
+   Ask the "losing" Partner, if they have no running services, whether they can just remove the customer from their Platform account instead of approving a transfer
+   Send first communications to Partner(s) for approval (using Deskflow macros).
+   If there is no answer after two tries, engage CAM to either contact the Partner by phone or  see if there is alternative contact who can authorize the transfer
+   After involving the CAM, if no progress is achieved, submit a Wrike to DataOPS and tag the RSM right away so they may examine the transfer request and choose whether to authorize it
+   The appropriate resource for escalation is the RSM in the event a Partner is dissatisfied or adding complexities to the transfer request
+   Deskflow should keep the "winning" Partner informed on the timeline of the process, after the Wrike is filed and all approvals that were obtained have been submitted
+Creation date: 2022-09-27 17:02:33 comments: 
+As a representative of Logicseq, I, Raphael Marquez, hereby accept the acquisition of [Canair Mechanical] and all ongoing subscriptions on the Cloudspace Platform, with the earliest effective date being 9/26/2022.
+
+ Thanks,  
+ 
+[cid:image001.png@01D8D259.64909539]
+[cid:image002.png@01D8D259.64909539]<http://logicseq.com/>
+[Friendsy]<https://www.friendsy.com/Logicseq>
+[Jobwise]<https://www.jobwise.com/company/Logicseq>
+[Chatterpin]<https://www.chatterpin.com/Logicseq>
+[Videoburst]<https://www.videoburst.com/channel/ACyrKinKGb9ZO86BM--wEd4n>
+Raphael Marquez
+Acquisition Directory
+Logicseq
+Main:
+(855) 592 1912
+Direct:
+(702) 433-3363<tel:(702)%20433-3363>
+Email:
+amarquez@logicseq.com<mailto:amarquez@logicseq.com>
+Web:
+www.logicseq.com<http://www.logicseq.com/>
+[cid:image007.jpg@01D8D259.64909539]
+[cid:image008.png@01D8D259.64909539]
+[cid:image009.png@01D8D259.64909539]
+[cid:image010.jpg@01D8D259.64909539]
+[cid:image011.png@01D8D259.64909539]
+[cid:image012.png@01D8D259.64909539]
+[cid:image013.jpg@01D8D259.64909539]
+Notice of Security: If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message. This email message, including any attachments, is for the sole use of the intended recipients and may contain confidential and privileged information. Unauthorized disclosure or distribution is prohibited.
+Creation date: 2022-09-27 19:10:50 comments: Thanks Raphael for submitting your acquisition statement. Before we start the customer transfer, we still need the client's existing msp to supply the release statement and bring the subscriptions back from cancellation.
+Creation date: 2022-09-28 17:50:02 work_notes: from duplicate ticket CS3615945
+
+Support  
+
+Please refer to the written release from the current resellers below.
+
+
+ Thanks,  
+ 
+[cid:image001.png@01D8D259.64909539]
+[cid:image002.png@01D8D259.64909539]<http://logicseq.com/>
+[Friendsy]<https://www.friendsy.com/Logicseq>
+[Jobwise]<https://www.jobwise.com/company/Logicseq>
+[Chatterpin]<https://www.chatterpin.com/Logicseq>
+[Videoburst]<https://www.videoburst.com/channel/ACyrKinKGb9ZO86BM--wEd4n>
+Raphael Marquez
+Acquisition Directory
+Logicseq
+Main:
+(855) 592 1912
+Direct:
+(702) 433-3363<tel:(702)%20433-3363>
+Email:
+amarquez@logicseq.com<mailto:amarquez@logicseq.com>
+Web:
+www.logicseq.com<http://www.logicseq.com/>
+[cid:image007.jpg@01D8D259.64909539]
+[cid:image008.png@01D8D259.64909539]
+[cid:image009.png@01D8D259.64909539]
+[cid:image010.jpg@01D8D259.64909539]
+[cid:image011.png@01D8D259.64909539]
+[cid:image012.png@01D8D259.64909539]
+[cid:image013.jpg@01D8D259.64909539]
+Notice of Security: If you are not the intended recipient, please contact the sender by reply email and destroy all copies of the original message. This email message, including any attachments, is for the sole use of the intended recipients and may contain confidential and privileged information. Unauthorized disclosure or distribution is prohibited.
+
+
+From: Mark Watson <mwatson@canairmechanical.com>
+Date: Tuesday, September 27, 2022 at 10:38 AM
+To: Greg Hansel <GHansel@logicseq.com>, Raymond White <rwhite@logicseq.com>, Raphael Marquez <amarquez@logicseq.com>
+Subject: FW: Canair Office 365 Licenses transfer
+Just received this from Clay at Citadel.
+
+Mark Watson
+Canair Mechanical
+2772 Peregrine Lane
+Lillith, WV 58439
+614-244-8366
+mwatson@canairmechanical.com<mailto:mwatson@canairmechanical.com>
+
+
+From: Clay Forsyth [mailto:Clay.Forsyth@citadelit.com]
+Sent: Tuesday, September 27, 2022 12:26 PM
+To: Mark Watson <mwatson@canairmechanical.com>; Matt Wilde <Matt.Wilde@citadelit.com>
+Cc: Barnard Cayman <bcayman@canairmechanical.com>
+Subject: RE: Canair Office 365 Licenses transfer
+
+Hi Mark,
+
+See below:
+
+As a representative of Citadel IT, I, Clay Forsyth, hereby approve the release of Canair Mechanical - Customer Transfer- and any ongoing subscriptions on the Cloudspace Platform with the earliest effective date of 9.27.2022.
+
+Thank you,
+Clay
+
+
+From: Mark Watson [mailto:mwatson@canairmechanical.com]
+Sent: Tuesday, September 27, 2022 1:26 PM
+To: Clay Forsyth <Clay.Forsyth@citadelit.com<mailto:Clay.Forsyth@citadelit.com>>; Matt Wilde <Matt.Wilde@citadelit.com<mailto:Matt.Wilde@citadelit.com>>
+Cc Barnard Cayman <bcayman@canairmechanical.com<mailto:bcayman@canairmechanical.com>>
+Subject: Canair Office 365 Licenses transfer
+Importance: High
+
+Clay, Matt
+
+Can you give us your consent to release the Canair Mechanical Office 365 license? In order for the licensing to be transferred to us, Cloudspace needs this release.
+
+As a representative of [INSERT PARTNER CURRENTLY HOUSING THE CLIENT], I, [INSERT RESPONSIBLE PARTY NAME] hereby approve the release of Canair Mechanical - Customer Transferr- and any ongoing subscriptions on the Cloudspace Platform with the earliest effective date of [INSERT EFFECTIVE DATE].
+
+ Thank you,  
+
+Mark Watson
+Canair Mechanical
+2772 Peregrine Lane
+Lillith, WV 58439
+614-244-8366
+mwatson@canairmechanical.com<mailto:mwatson@canairmechanical.com>
+
+
+
+CybSecure has scanned this email for spam and viruses
+Creation date: 2022-09-28 18:15:19 work_notes: Hello All, Losing partner has given us their reply.
+Creation date: 2022-09-28 19:28:31 work_notes: Losing msp's release enclosed. Subscriptions still need to be brought back. sent an email to losing msp in https://cloudspaceprod.deskflow.com/nav_to.do?uri=df_clientservice_case.do?sys_id=a919080c03847f053afb0eed34849756%25sysparm_view=Support
+Creation date: 2022-09-30 15:08:17 comments: Greetings Raphael, 
+
+Upon reviewing this request, I discovered that the client's prior MSP had terminated their licensing, and you had renewed the client's subscription under your account. As a result, we will close this ticket. If you still need help with this, please deny the Closure of this case and let us know how we can help.
+
+Please phone 855-883-CSPC if you would like to speak with someone and get help. Alternatively, you can manage and reply to all tickets using the app.cloudspace.com. 
+
+Thanks!
+Creation date: 2022-09-30 15:52:29 comments: The requestor has approved this case's resolution.
+Creation date: 2022-10-03 15:54:11 work_notes: A Customer Satisfaction Survey has been delivered.  2022-10-02 08:52:32

@@ -1,0 +1,95 @@
+A case was opened with a short description of Memory Utilization is High at Prod Server, exceeding 110 for 25mins
+A longer description includes cbment1862.up.corp.com has Major high Memory Utilization : 98%
+Please find below top 6 processes with high Memory usage:
+Name  Process ID  Physical Memory
+MachineAgentService.exe  2730  198,283 kB
+MsMpEng.exe  4397  190,048 kB
+svchost.exe  6654  81,510 kB
+MsSense.exe  3065  69,922 kB
+MonitoringHost.exe  6748  51,367 kB
+
+
+
+
+Creation date: 2023-04-06 02:07:10 work_notes: Current usage is still high - thus monitoring.
+Creation date: 2023-04-07 02:01:26 work_notes: Current usage is still high - thus monitoring.
+Creation date: 2023-04-07 19:31:22 work_notes: Hey Team, Please take a look at this high memory usage issue on the server.
+Creation date: 2023-04-14 17:09:00 work_notes: We do not support ScaleFusion application.
+Creation date: 2023-04-18 00:23:54 comments: Current memory usage is high. Monitoring.
+Creation date: 2023-04-18 15:31:35 work_notes: From: Katherine Welch <Katherine.Welch@userspower.com> 
+Sent: Monday, April 17, 2023 10:25 AM
+To: Cain Gutierrez <Cain.Gutierrez@userspower.com>; Rhodri Short<Rhodri.Short@userspower.com>
+Cc: $LCM Wintel <$LCMWintel@userspower.com>; Ajay Sharma <Ajay.Sharma@userspower.com>
+Subject: RE: CBMENT1862 || INC0968101 || High Memory Utilization
+
+Hi Cain,
+
+Server has been restarted against std. change #CHG0210348. It's now back online and the memory usage seems to be good now.
+
+ 
+
+Thanks & Regards,
+Katherine Welch
+
+From: Katherine Welch <Katherine.Welch@userspower.com> 
+Sent: Monday, April 17, 2023 10:15 AM
+To: Cain Gutierrez <Cain.Guttierez@userspower.com>; Rhodri Short<Rhodri.Short@userspower.com>
+Cc: $LCM Wintel <$LCMWintel@userspower.com>; Ajay Sharma <Ajay.Sharma@userspower.com>
+Subject: RE: CBMENT1862 || INC0968101 || High Memory Utilization
+
+Thanks Cain..!
+
+We're restarting the server and will let you know when it's done.
+
+Thanks & Regards,
+Katherine Welch  
+
+From: Cain Gutierrez <Cain.Gtierrez@userspower.com> 
+Sent: Wednesday, March 17, 2022 10:08 AM
+To: Katherine Welch <Katherine.Welch@userspower.com>;Rhodri Short <Rhodri.Short@userspower.com>
+Cc: $LCM Wintel <$LCMWintel@userspower.com>; Ajay Sharma <Ajay.Sharma@userspower.com>
+Subject: RE: CBMENT1862 || INC0968101 || High Memory Utilization
+
+Please restart at the earliest possible.  Then any further operations will automatically resume. 
+
+Cain
+
+
+
+From: Katherine Welch <Katherine.Welch@userspower.com> 
+Sent: Monday, April 17, 2023 10:07 AM
+To: Rhodri Short<Rhodri.Short@userspower.com>; Cain Gutierrez <Cain.Gutierrez@userspower.com>
+Cc: $LCM Wintel <$LCMWintel@userspower.com>; Ajay Sharma <Ajay.Sharma@userspower.com>
+Subject: RE: CBMENT1862 || INC0968101 || High Memory Utilization
+
+Hi Rhodri,
+
+Hope you are doing well!
+
+Could you please let me know a good downtime to restart this server as memory usage is very high now?
+
+ 
+
+Thanks & Regards,
+Katherine Welch
+
+From: Ajay Sharma <Ajay.Sharma@userspower.com> 
+Sent: Sunday, April 16, 2023 3:52 PM
+To: Rhodri Short<Rhodri.Short@userspower.com>; Cain Gutierrez <Cain.Gutierrez@userspower.com>
+Cc: $LCM Wintel <$LCMWintel@userspower.com>
+Subject: CBMENT1862 || INC0968101 || High Memory Utilization
+
+Hello Rhodri,
+
+Per our discussion , memory usage is running critical on below server for quite a long time. When we check from VCenter it looks good but there are  some processes that are running in background and using memory on the server. Please have a normal restart of the server. Please provide the downtime window for restart. 
+
+Also server is running with 8GB of RAM. Please check and let us know if this is sufficient for the application or it requires to be increased.
+
+Server name: CBMENT1862
+
+
+  
+
+Thanks & Regards,
+Ajay Sharma | LCM Wintel 
+USERS POWER

@@ -1,0 +1,57 @@
+A case was opened with a short description of To include TIMDEV users in AD group
+A longer description includes Kindly include the user ishaan.gandhi@nu-brace.com in Active Directory (AD) groups "APL_Timdev_DEV"
+
+
+
+
+Creation date: 2023-03-01 18:14:35 work_notes: Result of a similar incident INC1098224
+Creation date: 2023-03-01 19:51:40 work_notes: From: LCM-IAM 
+Sent: Wednesday, March 1, 2023 12:18 AM
+To: Pandey,Shewtha<Shewtha.Pandey@nu-brace.com>; Dronamaraju, Suraj<Suraj.Dronamaraju@nu-brace.com>
+Cc: LCM-IAM <LCM-IAM@nu-brace.com>; R, Lakshmi <Lakshmi.L-CTR@nu-brace.com>
+Subject: INC1256123 - [Approval] To include TIMDEV  consumers to AD group
+
+Hello Shwetha/Suraj
+
+Could you please Approve / Denny to include the consumer[ishaan.gandhi@nu-brace.com] to the given Security group [APL_TIMDEV_DEV].
+
+Regards,
+Jessy Oorvi
+
+ 
+Identity and Access Management Team
+lcm-iam@nu-brace.com
+Creation date: 2023-03-02 10:56:11 work_notes: Attachment: RE INC1256123 - Approval To include TIMDEV consumers to AD group.msg has been attached.
+Creation date: 2023-03-02 10:56:43 comments: lcm_ssingh2023-03-01 04:56:43
+Hello Jessy,
+
+Approval has been given. Could please include the consumer in the AD group.
+Creation date: 2023-03-02 11:03:28 work_notes: From: Dronamaraju, Suraj<Suraj.Dronamaraju@nu-brace.com> 
+Sent: Wednesday, March 1, 2023 1:23 AM
+To: LCM-IAM <LCM-IAM@nu-brace.com>; Pandey,Shewtha<Shewtha.Pandey@nu-brace.com>
+Cc: R, Lakshmi <Lakshmi.L-PTR@nu-brace.com>
+Subject: RE: INC1256123 - [Approval] To include TIMDEV users to AD group
+
+Approved
+
+Regards,
+Suraj 
+
+From: LCM-IAM <LCM-IAM@nu-brace.com> 
+Sent: Tuesday, February 28, 2023 6:51 PM
+To: Pandey,Shewtha<Shewtha.Pandey@nu-brace.com>; Dronamaraju, Suraj<Suraj.Dronamaraju@nu-brace.com>
+Cc: LCM-IAM <LCM-IAM@nu-brace.com>; R, Lakshmi <Lakshmi.L-PTR@nu-brace.com>
+Subject: INC1256123 - [Approval] To include TIMDEV consumers to AD group
+
+Hello Shewtha/Suraj,
+
+Could you kindly Approve / Denny to include the consumer[ishaan.gandhi@nu-brace.com] in the given Security group [APL_TIMDEV_DEV].
+
+Regards,
+Jessy Oorvi
+
+ 
+Identity and Access Management Team
+lcm-iam@nu-brace.com
+Creation date: 2023-03-02 11:06:22 comments: According to the request, user has been added to the AD Group. Therefore closing the task.
+Creation date: 2023-03-09 07:06:20 comments: After 7 days in the Resolved state, the incident is automatically closed.

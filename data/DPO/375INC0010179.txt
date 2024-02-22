@@ -1,0 +1,196 @@
+A case was opened with a short description of om.google.mongodbserver.jdbc.MongoDBServerException: User not able to login 'TWappspace8'
+A longer description includes Hello DBA Team,
+Could you please check the issue below:
+
+Caused by: com.tibco.bw.sharedresource.jdbc.runtime.exceptions.ConnectionCreateException: com.google.mongodbserver.jdbc.MongoDBServerException: User not able to login 'TWappspace8'. ClientConnectionId:1d183f1e-243b-4a76-9904-32aa2669ed97
+        at com.tibco.bw.sharedresource.jdbc.runtime.connectionpool.JDBCPool.createNewMongoDBConnection(JDBCPool.java:396)
+        at com.tibco.bw.sharedresource.jdbc.runtime.connectionpool.JDBCPool.createConn(JDBCPool.java:100)
+        ... 7 common frames deleted
+Caused by: com.google.mongodbserver.jdbc.MongoDBServerException: User not able to login 'TWappspace8'. ClientConnectionId:1d183f1e-243b-4a76-9904-32aa2669ed97
+
+2022-03-04 22:05:50.150 ERROR [bwEngThread:Engine Manager] com.tibco.pvm.system.PvmSystem - Facing issue  while stopping the GroupConnection
+java.lang.NullPointerException: null
+2022-03-04 23:15:59.150 ERROR [bwEngThread:Engine Manager] com.tibco.pvm.system.PvmSystem - PVM: Backend database connection is not available. Engine delayed.
+
+Regards,
+Eric
+
+
+
+
+
+
+Creation date: 2023-04-06 12:33:26 work_notes: [sMatters] - Stopped existing events for this Issue
+[sMatters] - Injected alert with xM event ID 79419234 for Assignment targeting IT INFR-MongoDB DATABASE SUPPORT
+Creation date: 2023-04-06 12:44:27 work_notes: [sMatters] -Response Received given to me by ivaldez(Mobile Phone) at 22-04-06 11:44:26.921
+Creation date: 2023-04-06 20:45:10 work_notes: Thank you Jamila. We can connect now.
+
+We have successfully recycled our services and confirmed.
+
+
+Thank you,
+Issac Valdez
+
+
+
+From: Jamila Ghosh<Jamila.Ghosh@mcpower.com> 
+Sent: Monday, April 7, 2022 11:42 AM
+To: Gabriel Dyer <Gabriel.Dyer@mcpower.com>; Issac Valdez <Issac.Valdez@mcpower.com>; Monty Sherman
+<Monty.Sherman@mcpower.com>; Zayn Holder <Zayn.Holder@mcpower.com>
+Cc: $HP MWV TIBCO <$HPMWVTIBCO@mcpower.com>;
+ Krystal Black 3 <Krystal.Black3@mcpower.com>; IT_OPS_TASKS<IT_OPS_TASKS@mcpower.com>; $HP MONGODB DBA<HPMONGODBDBA@mcpower.com>
+Subject: RE: INC0917723
+-Customer unable to  Login 'TWappspace8' | AESBL106
+
+Hey Monty,
+
+Password  changed successfully what we are using right now. Please confirm on the access.
+
+Regards,
+Jamila
+
+From: Gabriel Dyer <Gabriel.Dyer@mcpower.com> 
+Sent: Monday, April 6, 2022 11:08 AM
+To: Jamila Ghosh<Jamila.Ghosh@mcpower.com>; Issac Valdez <Issac.Valdez@mcpower.com>; Monty Sherman
+ <Monty.Sherman@mcpower.com>; Zayn Holder
+ <Zayn.Holder@mcpower.com>
+Cc: $HP MWV TIBCO <$HPMWVTIBCO@mcpower.com>; Krystal Black 3
+ <Krystal.Black3@mcpower.com>; IT_OPS_TASKS
+ <IT_OPS_TASKS@mcpower.com>; $HP  MONGODB DBA
+ <HPMONGODBDBA@mcpower.com>
+Subject: RE: INC0917723
+- Customer unable to login 'TWappspace8' | AESBL106
+
+
+Hi Jamila, while we are creating Yodeck and we received user and password from krystal/from you. This was working previously . can you check when and why  was the password changed?
+
+
+ 
+
+Thanks
+Gabriel Dyer
+
+From: Jamila Ghosh<Jamila.Ghosh@mcpower.com
+> 
+Sent: Thursday, April 6, 2022 10:51 AM
+To: Issac Valdez <Issac.Valdez@mcpower.com>; Monty Sherman
+ <Monty.Sherman@mcpower.com>; Zayn Holder
+ <Zayn.Holder@mcpower.com>;Gabriel Dyer <Gabriel.Dyer@mcpower.com>
+Cc: $HP MWV TIBCO <$HPMWVTIBCO@mcpower.com>; Krystal Black 3
+ <Krystal.Black3@mcpower.com>; IT_OPS_TASKS
+ <IT_OPS_TASKS@mcpower.com>; $HP  MONGODB DBA
+ <HPMONGODBDBA@mcpower.com>
+Subject: RE: INC0917723- User unable to login 'TWappspace8' | AESBL106
+
+
+++ Gabriel,
+
+
+Hi Gabriel,
+
+
+As discussed could you please check the 'TWappspace8' access from your end  and verify
+
+Regards,
+Jamila
+
+From: Issac Valdez <Issac.Valdez@mcpower.com> 
+Sent: Thursday, April 6, 2022 10:48 AM
+To: Monty Sherman
+ <Monty.Sherman@mcpower.com>; Zayn Holder
+ <Zayn.Holder@mcpower.com>; Jamila Ghosh <Jamila.Ghosh@mcpower.com>
+Cc: $HP MWV TIBCO
+ <$HPMWVTIBCO@mcpower.com>; Krystal Black 3
+ <Krystal.Black3@mcpower.com>; IT_OPS_TASKS
+ <IT_OPS_TASKS@mcpower.com>; $HP MONGODB DBA
+ <HPMONGODBDBA@mcpower.com>
+Subject: RE: INC0917723- User  not able to login'TWappspace8' | AESBL106
+
+
+Thanks. Please give us the updates.
+
+
+Thanks,
+Issac Valdez
+
+
+
+From: Monty Sherman <Monty.Sherman@mcpower.com> 
+Sent: Thursday, April 6, 2022 10:48 AM
+To: Issac Valdez <Issac.Valdez@mcpower.com>; Zayn Holder  <Zayn.Holder@mcpower.com>; Jamila Ghosh<Jamila.Ghosh@mcpower.com>
+Cc: $HP MWV TIBCO <$HPMWVTIBCO@mcpower.com>; Krystal Black 3
+ <Krystal.Black3@mcpower.com>; IT_OPS_TASKS <IT_OPS_TASKS@mcpower.com>; $HP  MONGODB DBA <HPMONGODBDBA@mcpower.com>
+Subject: RE: INC0917723-User not able to login 'TWappspace8' | AESBL106
+
+
+Hi Issac,
+
+Jamila is working on this.
+
+Thanks & Regards,
+Monty Sherman
+
+
+From: Issac Valdez <Issac.Valdez@mcpower.com> 
+Sent: Thursday, April 6, 2022 10:43 AM 
+To: Zayn Holder <Zayn.Holder@mcpower.com>; $HP  MONGODB DBA  <HPMONGODBDBA@mcpower.com>
+Cc: $HP MWV TIBCO <$HPMWVTIBCO@mcpower.com>; Krystal Black 3
+ <Krystal.Black3@mcpower.com>; IT_OPS_TASKS  <IT_OPS_TASKS@mcpower.com>
+Subject: RE: INC0917723 -User is not able to login 'TWappspace8' | AESBL106
+Importance: High
+
+Hi DBA Team,
+
+This is a Prod issue. Can you get an update on the INC?
+
+
+Thanks,
+Issac Valdez
+
+
+
+From: Zayn Holder <Zayn.Holder@mcpower.com> 
+Sent: Thursday, April 6, 2022 8:26 AM
+To: $HP  MONGODB DBA <HPMONGODBDBA@mcpower.com> 
+Cc: $HP MWV TIBCO <$HPMWVTIBCO@mcpower.com>; Krystal Black 3
+ <Krystal.Black3@mcpower.com>; IT_OPS_TASKS  <IT_OPS_TASKS@mcpower.com>
+Subject: RE: INC0917723- User  unable to login'TWappspace8' | AESBL106
+
+
+Adding another error we are facing: Please check it at the earliest.
+
+
+CausedBy> com.tibco.bx.core.faults.BxException: BX-800028: Bug faced during system initialization.
+<CausedBy> com.tibco.pvm.system.util.exceptions.PmSystemException: MVP-SYS-102118: Error connecting to DB resource.
+<CausedBy> com.tibco.bw.sharedresource.jdbc.runtime.exceptions.ConnectionCreateException: com.tibco.bw.sharedresource.jdbc.runtime.exceptions.ConnectionCreateException: com.google.mongodbserver.jdbc.MongoDBServerException: User not able to login 'TWappspace8'. ClientConnectionId:de99b840-bf07-41cd-ad78-2d3bef9d052e.
+<CausedBy> com.tibco.bw.sharedresource.jdbc.runtime.exceptions.ConnectionCreateException: com.google.mongodbserver.jdbc.MongoDBServerException: User not able to login 'TWappspace8'. ClientConnectionId:de99b840-bf07-41cd-ad78-2d3bef9d052e.
+
+
+
+Regards,
+Eric
+
+From: Zayn Holder <Zayn.Holder@mcpower.com> 
+Sent: Thursday, April 6, 2022 8:21 AM
+To: $HP  MONGODB DBA <HPMONGODBDBA@mcpower.com>
+Cc: $HP MWV TIBCO  <$HPMWVTIBCO@mcpower.com>; Krystal Black 3
+ <Krystal.Black3@mcpower.com>; IT_OPS_TASKS  <IT_OPS_TASKS@mcpower.com>
+Subject: INC0917723- User not able to login 'TWappspace8' | AESBL106
+
+Importance: High
+
+Hi DBA Team,
+Could you please check the issue we are facing:
+
+Caused by: com.tibco.bw.sharedresource.jdbc.runtime.exceptions.ConnectionCreateException: com.google.mongodbserver.jdbc.MongoDBServerException: User not able to login 'TWappspace8'. ClientConnectionId:1d183f1e-243b-4a76-9904-32aa2669ed97
+        at com.tibco.bw.sharedresource.jdbc.runtime.connectionpool.JDBCPool.createNewMongoDBConnection(JDBCPool.java:290)
+        at com.tibco.bw.sharedresource.jdbc.runtime.connectionpool.JDBCPool.createConn(JDBCPool.java:104)
+        ... 7 common frames omitted
+Caused by: com.google.mongodbserver.jdbc.MongoDBServerException: User not able to login 'TWappspace8'. ClientConnectionId:1d183f1e-243b-4a76-9904-32aa2669ed97
+
+2022-03-04 23:15:59.150 ERROR [bwEngThread:Engine Manager] com.tibco.pvm.system.PvmSystem - Error occurred while stopping the GroupConnection
+java.lang.NullPointerException: null
+2022-03-04 23:15:59.150 ERROR [bwEngThread:Engine Manager] com.tibco.pvm.system.PvmSystem - PVM: Backend database connection is not available. Engine suspended.
+
+Regards,
+Eric

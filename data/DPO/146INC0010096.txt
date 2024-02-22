@@ -1,0 +1,471 @@
+A case was opened with a short description of ORIG RITM8035240 / SCTASK6205720 closed in error  - Software install P547431 IBM Rational Developer Cobol Energy Device License 8.6.6 request
+A longer description includes From: Peri Dubey <Peri.Dubey@ong.com> 
+Sent: Thursday, November 10, 2022 6:54 AM
+To: MAX CRUCK <max.cruck@ong.com>; Jevy Yuin <yuinj@ong.com>
+Cc: Rashi Jain <rashi.jain@ong.com>; Varun Jones <Varun.Jones@ong.com>
+Subject: FW: RITM8035240
+
+After this ticket/task SCTASK6205720 was closed, it meant to generate another task for the end user experience, but it didn't. Would you kindly have someone to install it? 
+
+I am adding Rashi in this thread so that she will be aware of the issue. 
+
+Best regards,
+
+Peri Dubey 
+
+
+
+
+Creation date: 2022-11-11 15:12:57 work_notes: TM
+Peri Dubey
+Additional comments 2022-10-27 09:16:26
+LICENSE ASSIGNED.
+TM
+Peri Dubey
+Work notes 2022-10-27 09:16:26
+TRANSFERRED AVAILABLE LICENSE FRM ADITYA UTTAR to Rakhi Ghosh
+Creation date: 2022-11-11 15:14:22 work_notes: laptop P547431
+Notes from Orig: will need the  BD Analitic perspective installed from the S:\IST\Common\ BD Analitic  folder
+Creation date: 2022-11-11 15:51:17 work_notes: [8:51 AM] Sushmita Bakshi
+Good Morning. I have a ticket to install IBM Rational Developer Cobol Energy Device License 8.6.6 onto your computer P547431.  I have no idea when the install will be finished, and I don't have a license number in case one is required.
+Creation date: 2022-11-11 16:34:09 work_notes: [8:55 AM] Sushmita Bakshi
+Alright I'm searching the folder for the license associated with this issue, but I can't seem to find it for that particular install. The misunderstanding is that.
+ 
+
+[8:56 AM] Jevy Yuin
+are you referring to INC5597660
+
+[8:56 AM] Sushmita Bakshi
+Yes sorry
+[8:59 AM] Jevy Yuin
+let me look
+ like 2
+
+[09:02 AM] Jevy Yuin
+what I should do is contact the TM and see if they really need the IBM Rational Developer Cobol Energy Device License 8.6.6  or if they just want the   BD Analitic   or both.  
+
+[09:04 AM] Jevy Yuin
+Peri did purchase a license for it ... so she should have that information.
+
+[09:32 AM] Sushmita Bakshi
+Peri told me to contact the supervisor 
+
+[09:33 AM] Sushmita Bakshi
+The end user is now away from their computer due to a family matter and will return after lunch.
+Creation date: 2022-11-11 16:34:31 work_notes: [8:52 AM] Rakhi Ghosh
+Hi, Ravi.   Actually, I have to go for a little time since I have to pick up my spouse from the hospital after some tests.   Can I call you on Teams?  Might be easier to discuss.
+
+[8:53 AM] Rakhi Ghosh
+Could I give you access to my PC when I leave?  
+
+[8:54 AM] Sushmita Bakshi
+We can do this any time that works best for you. Please look after your husband.  
+
+[8:54 AM] Rakhi Ghosh
+Is it something you can do while I"m away from the computer?  IN that case, it might be perfect if you do it now.
+
+[8:55 AM] Sushmita Bakshi
+The problem is that I'll lose connectivity and global protect will time out. 
+
+[8:56 AM] Rakhi Ghosh
+Right, that makes sense!  I'll let you know as soon as I get back.  Could be as long as 91 minutes.  Thanks!
+ like 2
+Creation date: 2022-11-11 16:57:53 work_notes: [09:44 AM] Sushmita Bakshi
+Can you look at this ticket please INC5597660.  Sia assigned it to me to install a program from S:\IST\Common\ BD Analitic  folder. 
+
+[09:49 AM] Akash Rawat
+Is the software in the vault too
+
+[09:52 AM] Sushmita Bakshi
+Not that particular name; right now, I'm searching through every folder.
+[09:53 AM] Akash Rawat
+Contact Sia and let her know that it is not in the vault.
+
+[09:56 AM] Sushmita Bakshi
+Sia also made sure the vault had that installation, but it wasn't there. According to what Sushmita previously informed me, if it is not in the vault, I cannot install it. I understand what the ticket clarifies but I am on a thin wire here and do not want any reason for them to let me go. The software will need to be in the vault to be installed.
+Creation date: 2022-11-11 17:49:40 work_notes: [10:14 AM] Rakhi Ghosh
+Hi, Ravi.  I'm back.  Whenever you want to start, let me know.  I have a meeting at 1:30 CST, in case that matters.
+
+[10:49 AM] Sushmita Bakshi
+I apologize for the wait. The software is nowhere to be found, and the folder mentioned is not the one I am permitted to access. As soon as I find out the details for the installation, I'll let you know. Sorry.
+Creation date: 2022-11-11 18:58:01 work_notes: [11:30 PM] Sushmita Bakshi
+Do you have a current version installed right now?  
+
+[11:31 PM] Rakhi Ghosh
+No, RDi is not coming up if I search for RDi or rational.  No icons showing anywhere.  
+
+[11:35 PM] Sushmita Bakshi
+I am pushing out  BD Analitic now.  I will find Cobol next and push it out if you need both. 
+
+[11:36 PM] Rakhi Ghosh
+Thanks
+ like 2
+
+[11:36 PM] Sushmita Bakshi
+You're welcome 
+
+[11:40 PM] Sushmita Bakshi
+While installing, kindly keep the computer turned on and connected.  I am going to push Cobol now.  It will install right after  BD Analitic finishes. 
+
+[11:40 PM] Rakhi Ghosh
+Sure thing.  
+
+[11:41 PM] Sushmita Bakshi
+Thank you
+
+[11:41 PM] Sushmita Bakshi
+Thank you
+
+[11:47 PM] Sushmita Bakshi
+I am waiting on Cobol to be installed.   BD Analitic failed I will try again
+
+[11:48 PM] Rakhi Ghosh
+I was wondering if  BD Analitic needs to the rational IDE to be installed first?  It runs in that IDE, as I recall.
+
+[11:50 PM] Sushmita Bakshi
+If that is the case you will need to submit a Request RITM for IDE and  BD Analitic to be installed together.  If you just ask for IDE I am concerned that the  BD Analitic will be forgotten.  I am trying it again after the Cobol installation. 
+
+[11:51 PM] Rakhi Ghosh
+You are also installing the IDE (RDi), yes?  I didn't actually make any of the requests, so pretty confusing on what was asked and what the process is.  Sorry!
+
+[11:52 PM] Rakhi Ghosh
+My understanding is that both the Cobol and  BD Analitic are actually plugins that run within the Rational Developer for i IDE (RDi).  For what that's worth.
+
+[11:54 PM] Sushmita Bakshi
+No the IDE/RDi exists in the ticket at all.  This was sent from the original that did not make the task requests for installations.  I am not sure what we can do now.  
+
+[11:55 PM] Sushmita Bakshi
+I am asking my management team
+
+[11:56 PM] Rakhi Ghosh
+Thanks.
+ like 2
+Creation date: 2022-11-11 18:58:51 work_notes: Checking with EUX management on what the next steps have to be.  There are many things that are missing or incorrect with this ticket
+Creation date: 2022-11-11 19:19:05 work_notes: [12:07 PM] Sushmita Bakshi
+Would you check PDQ please pushed out IBM Cobol and  BD Analitic to P547431 but  BD Analitic failed twice.  I have no info on cobol.  the user said they may need IDE/RDi installed first but that is not on the ticket.  
+
+[12:10 PM] Yuvan Swett
+Yep! one sec!
+ like 2
+
+[12:17 PM] Yuvan Swett
+I think you have to have RDi installed before you install the  BD Analitic. since the  BD Analitic is an eclipse plugin for RDi.
+
+[12:17 PM] Yuvan Swett
+Almost positive about that ^
+
+[12:17 PM] Sushmita Bakshi
+That's what I believed. Thank you
+Creation date: 2022-11-11 19:19:15 work_notes: [12:08 PM] Sushmita Bakshi
+In order to make sure nothing has hung up, I am having someone check the push system. Again, the  BD Analitic was unsuccessful, but the other is providing no information. They are checking 
+ like 2
+
+[12:18 PM] Sushmita Bakshi
+I am have asked a couple of people and they believe you do need the RDi/IDE installed for the others to work. I am sorry that the ticket I have does not have that.  I don't know if that was on the original Request.
+Creation date: 2022-11-11 19:40:22 work_notes: Attempted to install both IBM developer Cobol and  BD Analitic from PDQ
+Found out from User and LS on IND Team that IDE or RDi must be installed first.  
+The plugins won't install on Rakhi's system since she doesn't have either installed. 
+This INC was created after the RITM failed to create install SCTASK tickets.  
+Not sure whether the original RITM included the necessary software installations 
+Rakhi is asking her manager for information on the initial ticket.
+Creation date: 2022-11-14 13:24:21 work_notes: [6:24 AM] Sushmita Bakshi
+Good Morning.  Could you please let me know if a RITM was submitted for the additional IDE/RDi software?
+Creation date: 2022-11-14 13:35:06 work_notes: [6:32 AM] Rakhi Ghosh
+Good morning, Ravi.   Is the request you already worked on INC5597660, where you're trying to get the  BD Analitic and Cobol licenses installed?
+
+On Thursday, I emailed Varun Jones, explaining our predicament (can't find a request for RDi).  She's the one Aman Williams said I should contact.  She hasn't replied yet.  I'll contact her again soon and let you know.  I'll also cc you there.  
+
+Thanks!
+
+ like 2
+
+[6:34 AM] Sushmita Bakshi
+Thank you.  
+
+[6:34 AM] Sushmita Bakshi
+That is the ticket number, indeed. I made several attempts at installing it, but it kept failing. 
+ like 2
+Creation date: 2022-11-14 13:40:02 work_notes: From: Rakhi Ghosh <rakhi.ghosh@ong.com> 
+Sent: Sunday, November 13, 2022 6:39 AM
+To: Varun
+Jones <Varun.Jones@ong.com>
+Cc: Stefen 
+Ciat <stefen.ciat@ong.com>; Sushmita Bakshi <sushmita.bakshi@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Good morning, Purnia.  
+
+I have added Sushmita Bakshi to this thread since she s working on the request to install the Cobol and  BD Analitic plugins on my PC (request # INC5597660) .  However, without having Rational/Liposaed IDE and the RDi plugin on my PC, they won t install.  
+
+Is there a request to install the Rational/Liposaed IDE and the RDi plug-in on my PC and, if so, what is that number?  Or, how can I submit one?  I do see that RDz is available to request through the self-service portal, which probably does include the Rational/Liposaed IDE.  Should I begin making out a request for that, or is that something you would do?
+
+Thanks very much for your assistance on this!
+
+
+Rakhi Ghosh
+Technology Software Engineer Sr 
+
+
+ 
+
+From: Rakhi Ghosh 
+Sent: Thursday, November 10, 2022 1:10 PM
+To: Varun Jones <Varun.Jones@ong.com>
+Cc: Stefen 
+Ciat <stefen.ciat@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Purnia, I do find Rational Developer for z (RDz), for what that s worth.  
+
+
+Rakhi Ghosh
+Technology Software Engineer Sr 
+
+
+ 
+
+From: Rakhi Ghosh 
+Sent: Thursday, November 10, 2022 12:52 PM
+To: Varun Jones <Varun.Jones@ong.com>
+Cc: Stefen 
+Ciat <stefen.ciat@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Hi again, Purnia.  
+
+Following up on this thread, Sushmita Bakshi tried installing Cobol and  BD Analitic for which she has a request, but because RDi is not installed on my PC, they would not install (they are plugins for RDi).   She doesn t find a request for me for RDi.  It is definitely not installed on my PC.  I don t find RDi in the self-service portal, either.  
+
+I checked with Aman and he checked with Rick Smith; they suggested I check back with you.  Can you help us figuring out what happened to the request for RDi and how we can get it back into the system, or start a new one?  I would have tried through the self-service portal if I could have found the product.  Sorry to  disturb you!
+
+Thanks!
+
+
+Rakhi Ghosh
+Technology Software Engineer Sr 
+
+
+ 
+
+From: Varun
+Jones <Varun.Jones@ong.com> 
+Sent: Thursday, November 10, 2022 8:24 AM
+To: Rakhi Ghosh <rakhi.ghosh@ong.com>
+Cc: Stefen Ciat <stefen.ciat@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+FYI- To replace the ticket that was mistakenly closed by the system, they have generated an INC5597660
+
+
+Purnia Ali
+Sr Administrative Assistant to Alopin Hannah
+(812) 294-6062
+
+
+ 
+
+From: Rakhi Ghosh <rakhi.ghosh@ong.com> 
+Sent: Thursday, November 10, 2022 6:21 AM
+To: Varun
+Jones <Varun.Jones@ong.com>
+Cc: Stefen 
+Ciat <stefen.ciat@ong.com>
+Subject: Getting DVGGC and RDi up and running on my laptop
+
+Hi, Constance.  Lucky
+Drones recommends you as the person to help me solve my DVGGC issues and get RDi installed on my laptop.
+
+The issues I am having:
+
+  I do not have authority to get into the latest DVGGC folder (S:\IST\Common\Access_L_Client_Solution\ClientSolutions).  I get the message that I am disallowed from using that resource when I try.
+  I was using a different folder (S:\IST\Common\CLASS\Client Solution\Client Solutions), clicking the LaunchDVGGC.bat.  
+o It would take as much as 20 minutes to finally bring up the first page.  
+o But, today again I gaced the error: N:\Packages\Windows\ClientSolutions\dvggclaunch_win-64.exe The system cannot find the drive specified.  
+  I need RDi which is not on my PC yet.  Can you tell me how I can get that?  
+o I checked out the self service portal and find the IBM Rational Developer licenses.  They have big price tags.  Should I be requesting the IBM Rational Developer Websphere and IBM Rational Developer Cobol?
+
+
+Thanks for any advice you can provide!  
+
+
+Rakhi Ghosh
+Technology Software Engineer Sr
+Creation date: 2022-11-14 16:52:29 work_notes: From: Varun Jones <Varun.Jones@ong.com> 
+Sent: Monday, November 13, 2022 09:34 AM
+To: Rakhi Ghosh <rakhi.ghosh@ong.com>
+Cc: Stefen Ciat <stefen.ciat@ong.com>; Sushmita Bakshi <sushmita.bakshi@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Can you access the IST_Common folder?  It takes some time to be connected after the request is sent. 
+
+
+Purnia Ali
+Sr Administrative Assistant to Alopin Hannah
+(812) 294-6062
+
+
+ 
+
+From: Rakhi Ghosh <rakhi.ghosh@ong.com> 
+Sent: Sunday, November 13, 2022 7:51 AM
+To: Varun Jones <Varun.Jones@ong.com>
+Cc: Stefen 
+Ciat <stefen.ciat@ong.com>; Sushmita Bakshi <sushmita.bakshi@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Additionally, Purnia ,Still I am not able to access the shared folder:  S:\IST\Common\Access_L_Client_Solution\ClientSolutions
+
+I took a look at the self-service portal, but I wasn t sure how I would request this through that interface.  Let me know if I should be asking someone else for assistance?
+
+Thanks!
+
+
+Rakhi Ghosh
+Technology Software Engineer Sr
+Creation date: 2022-11-15 19:17:35 work_notes: From: Rakhi Ghosh <rakhi.ghosh@ong.com> 
+Sent: Monday, November 14, 2022 12:15 PM
+To: Sushmita Bakshi <sushmita.bakshi@ong.com>; Varun Jones <Varun.Jones@ong.com>
+Cc: Stefen Ciat <stefen.ciat@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Sure, Ravi. I apologize for not informing you sooner. I believe you would learn from one of the apps!  
+
+Nevertheless, RDi was installed for me yesterday afternoon by Summie Rathore, and I'm good to go. I appreciate your efforts and please feel free to close this.
+
+
+Rakhi Ghosh
+Technology Software Engineer Sr 
+
+
+ 
+
+From: Sushmita Bakshi <sushmita.bakshi@ong.com> 
+Sent: Monday, November 14, 2022 11:44 PM
+To: Rakhi Ghosh <rakhi.ghosh@ong.com>; Varun
+Jones <Varun.Jones@ong.com>
+Cc: Stefen Ciat <stefen.ciat@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Rakhi,
+
+I've opened a ticket for you to install  BD Analitic. Would you be okay if I close the ticket, as you have been added to the role group you indicated and have got access?
+
+Kindest Regards,
+
+Sushmita Bakshi
+EUX (End User Experience) 
+812-294-9032
+
+Personal Customer Commitment
+
+We do our best to resolve computer issue promptly and efficiently. We always monitor ONG for cyberthreats. All while serving the end user with the best experience possible.
+ 
+
+From: Rakhi Ghosh <rakhi.ghosh@ong.com> 
+Sent: Monday, November 14, 2022 8:19 AM
+To: Varun Jones <Varun.Jones@ong.com>
+Cc: Stefen Ciat <stefen.ciat@ong.com>; Sushmita Bakshi <sushmita.bakshi@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Hello, Purnia.  This morning, something remarkable occurred. Christ Joves discovered and fixed my issue. It turned out I should have been assigned to RG_IST_COMMON_D role group to see files in IST/Common.  
+
+Thus, I sincerely appreciate your assistance, and the issue has been fixed!
+
+
+
+
+Rakhi Ghosh
+Technology Software Engineer Sr 
+
+
+ 
+
+From: Varun Jones <Varun.Jones@ong.com> 
+Sent: Monday, November 14, 2022 8:17 AM
+To: Rakhi Ghosh <rakhi.ghosh@ong.com>
+Cc: Stefen Ciat <stefen.ciat@ong.com>; Sushmita Bakshi <sushmita.bakshi@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+I have asked about this folder to security group.  Awaiting response.
+
+
+Purnia Ali
+Sr Administrative Assistant to Alopin Hannah
+(812) 294-6062
+
+
+ 
+
+From: Rakhi Ghosh <rakhi.ghosh@ong.com> 
+Sent: Sunday, November 13, 2022 11:46 PM
+To: Varun Jones <Varun.Jones@ong.com>
+Cc: Stefen Ciat <stefen.ciat@ong.com>; Sushmita Bakshi <sushmita.bakshi@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Duh, correction:  that S:\IST\Common\Access_L_Client_Solution\ClientSolutions folder IS under IST\Common. when I attempt to go to that folder still got the same error. 
+
+
+
+
+Rakhi Ghosh
+Technology Software Engineer Sr 
+
+
+ 
+
+From: Rakhi Ghosh 
+Sent: Sunday, November 13, 2022 11:38 PM
+To: Varun Jones <Varun.Jones@ong.com>
+Cc: Stefen Ciat <stefen.ciat@ong.com>; Sushmita Bakshi <sushmita.bakshi@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Hi, Purnia.   
+
+I am able to access the IST/COMMON folder. But, the folder I was given for Access Client Services--DVGGC (S:\IST\Common\Access_L_Client_Solution\ClientSolutions) isn t in the Common folder.  I think Aman mentioned that he wasn t able to access that Access_L_Client folder, either.  
+
+Is S:\IST\Common\Access_L_Client_Solution\ClientSolutions the correct folder you want me to acess?   Or could you please let me know the most recent version of DVGGC?  I noticed that there is an DVGGC folder under IST/Common. In fact, I copied that to my local computer and, when I start it from there, it seems to be working quite well. So, I might be all done for setup as long as that IST/Common/DVGGC folder is the official latest version of DVGGC. 
+
+Thank you for your generous support! 
+
+
+
+Rakhi Ghosh
+Technology Software Engineer Sr 
+
+
+ 
+
+From: Varun
+Jones <Varun.Jones@ong.com> 
+Sent: Sunday, November 13, 2022 09:34 AM
+To: Rakhi Ghosh <rakhi.ghosh@ong.com>
+Cc: Stefen Ciat <stefen.ciat@ong.com>; Sushmita Bakshi <sushmita.bakshi@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Can you open the IST_Common folder?  It takes some time to snyc after the request is completed. 
+
+
+Purnia Ali
+Sr Administrative Assistant to Alopin Hannah
+(812) 294-6062
+
+
+ 
+
+From: Rakhi Ghosh <rakhi.ghosh@ong.com> 
+Sent: Sunday, November 13, 2022 7:51 AM
+To: Varun Jones <Varun.Jones@ong.com>
+Cc: Stefen Ciat <stefen.ciat@ong.com>; Sushmita Bakshi <sushmita.bakshi@ong.com>
+Subject: RE: Getting DVGGC and RDi up and running on my laptop
+
+Purnia, Still I dont have access to the shared folder:  S:\IST\Common\Access_L_Client_Solution\ClientSolutions
+
+I went through the self-service portal, but It was not clear to me how I would request this through that interface.  Could you please let me know if I can get help from someone else?
+
+Thank you!
+
+
+Rakhi Ghosh
+Technology Software Engineer Sr
+Creation date: 2022-11-15 19:18:25 work_notes: QVO was installed by another team onto Rakhi's computer
+For access, she was also assigned to the appropriate role group. 
+She may now utilize the software as intended.

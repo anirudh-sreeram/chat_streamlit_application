@@ -1,0 +1,1 @@
+{"conversation": [{"role": "user", "content": "hi"}, {"role": "robot", "chosen": "Hi there! How can I help you on this beautiful day? \u2600\ufe0f", "rejected": "Hi there! How can I help you on this beautiful day? \u2600\ufe0f", "model": "NOW_LLM_llama13b_convclass_dpo_12723_nonpairwise_loss"}], "metadata": {"metatags": {}}}

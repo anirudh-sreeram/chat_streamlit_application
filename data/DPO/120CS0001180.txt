@@ -1,0 +1,143 @@
+A case was opened with a short description of Mixo PC: Ludul Business Backup + Email Archiving, Provision Task: 4142442
+A longer description includes Provision Task type: Deprovision, Associate Name: Oryian, Organization Name: Mixo PC, Merchant: Ludul Commodities: Ludul Business Backup + Email Archiving, Quantity: 15.0000
+
+
+
+
+Creation date: 2022-10-19 16:33:01 work_notes: The customer has opted to cancel their subscription as a result of: Frustrations - Support
+Creation date: 2022-10-19 16:33:02 work_notes: Services will end on: Wed Oct 18 00:00:00 MDT 2022
+Creation date: 2022-10-19 17:05:58 work_notes: CC Task Update: Updated Task Status to: Ready
+Creation date: 2022-10-19 17:06:11 work_notes: CC Task Update: Urgent - Provision task in error: Task Status updated to: Error
+Creation date: 2022-10-19 17:06:13 work_notes: State of Provision Task Is Error
+Creation date: 2022-10-19 17:25:53 comments: Hi Okany,
+
+I acknowledge your request to cancel the Ludul Business Backup + Email Archiving service. However, during the processing of the order, an error was encountered. While investigating this issue, I noticed that there was an initial order for Ludul Business Backup, followed by an order for Ludul Business Backup + Email Archiving. Were you attempting to upgrade to the Archiver service? Normally, this can be done smoothly by using the upgrade button, but if a cancellation and reordering process is followed instead, it can potentially cause complications on your end. When an order for backup is canceled and then an order for the archiver is placed, certain backend adjustments need to be made by us in order to ensure that your account functions correctly.
+
+Please inform me of how I can be of assistance to you. If you wish to upgrade to Ludul Business Backup + Email Archiving, I can explore the possibility of converting your account and subsequently canceling this ticket. If you would like to retain the backup service, we can reactivate your account; however, please note that you would need to reorder Ludul Business Backup through the Cloudspace platform. If you intend to proceed with the cancellation and have no plans to reorder, kindly let me know.
+
+Time sensitivity may be a factor in this matter, so I hope to receive your response soon. Feel free to inform me of any specific requirements or further assistance you require.
+
+I wish you a wonderful day ahead.
+Creation date: 2022-10-19 18:18:54 comments: Hi,
+
+I would like to proceed with canceling the subscription because it is not functioning correctly. 
+
+The representative who provided instructions on how to upgrade was unclear and provided incrrect info multiple times.
+
+Thanks,
+
+Okany Matthews
+O: 949 743 4491
+
+[Emaillogo]<http://oryian.com/>
+
+System problems? Looking for an improved IT solution? Want a fixed monthly cost? Explore our online offerings!<http://oryian.com/>
+
+
+DISCLAIMER The information included in this email is potentially confidential and intended solely for the recipient(s) named. If you receive this email by mistake, kindly inform the sender by replying to this email. Please refrain from reading, copying, forwarding, or storing this message if you are not the intended recipient. Unauthorized use of the contents is strictly prohibited unless otherwise explicitly stated. The opinions expressed in this message are those of the individual sender and not necessarily of Oryian. While we have taken precautions, Oryian cannot be held responsible for the accuracy or contents of this email and any attachments included.
+
+Creation date: 2022-10-19 18:23:59 comments: 
+I am actually interested in utilizing the Ludul + email archiving for Mixo. 
+
+Could you accommodate this request and provide the necessary 15 licenses for it to work?
+
+Thanks,
+
+Okany Matthews
+O: 949 743 4491
+
+[Emaillogo]<http://oryian.com/>
+
+System problems? Looking for an improved IT solution? Want a fixed monthly cost? Explore our online offerings!<http://oryian.com/>
+
+
+DISCLAIMER The information included in this email is potentially confidential and intended solely for the recipient(s) named. If you receive this email by mistake, kindly inform the sender by replying to this email. Please refrain from reading, copying, forwarding, or storing this message if you are not the intended recipient. Unauthorized use of the contents is strictly prohibited unless otherwise explicitly stated. The opinions expressed in this message are those of the individual sender and not necessarily of Oryian. While we have taken precautions, Oryian cannot be held responsible for the accuracy or contents of this email and any attachments included.
+
+Creation date: 2022-10-19 19:41:47 comments: Hey Okany, 
+
+Thank you for your prompt response. I am glad to assist in resolving this error. I will contact Ludul to ensure that we can reinstate and upgrade the license to the archiver option. To proceed with cancelling the cancellation ticket, I kindly request your written response. Please copy and send the following statement back to me.
+
+"I, (first/last name) of Oryian, approve and request Cloudspace to cancel the deprovision ticket for Mixo PC of Ludul Business Backup + Email Archiving effective 10/18/2022."
+
+I will inform you once I receive an update from Ludul.
+
+ If you have any additional questions, please feel free to ask.
+Creation date: 2022-10-19 19:47:10 work_notes: From: Shawna Nichol 
+Sent: Tuesday, October 18, 2022 12:46 PM
+To: Ludul Support <support@ludul.com>
+Cc: Leon Duke <lduke@ludul.com>; Service Delivery - Continuity Team <sd-continuity@cloudspace.com>
+Subject: Reestablishment for Mixo PC
+
+Hi Team, 
+
+I have a Associate who has requested the cancellation of an order. The partner is waiting for confirmation regarding the reactivation and upgrade of the account to the archiver plan with 15 licenses. Kindly inform me if this is possible, or if any additional action is required on my part.
+
+Region/Data Center: America
+Partner/Reseller Name: Oryian
+LudulResellerId: 14682-6-3229-13
+Client/Organization Name: Mixo PC
+LudulUserId: 333567-13
+
+Thank you for your cooperation and your time.
+Creation date: 2022-10-19 20:02:01 work_notes: From: Leon Duke 
+Sent: Tuesday, October 18, 2022 11:58 PM
+To: Shawna Nichol  <snichol@cloudspace.com>; Ludul Support <support@ludul.com>
+Cc: Service Delivery - Continuity Team <sd-continuity@cloudspace.com>
+Subject: RE: Reestablishment for Mixo PC
+
+Dear Shawna ,
+
+I I have reestablished your account as requested. Please inform me if there is anything else I can assist you with.
+
+Thanks,
+
+Leon Duke
+
+From: Leon Duke <lduke@Ludul.com> 
+Sent: Tuesday, October 18, 2022 1:00 PM
+To: Shawna Nichol  <snichol@cloudspace.com>; Ludul Support <support@Ludul.com>
+Cc: Service Delivery - Continuity Team <sd-continuity@cloudspace.com>
+Subject: [Outside] RE: Reestablishment for Mixo PC
+
+I apologize for the inconvenience. I have also upgraded the subscription to Archive.
+
+Thanks,
+
+Leon Duke
+Creation date: 2022-10-19 21:20:11 comments: Hey Okany,
+
+Ludul successfully reestablished and upgraded your account to the archiver level. The next step is to request your permission to proceed with the deprovision cancellation. Kindly respond to this message with the following statement:
+
+"I, (first/last name) of Oryian, approve and request Cloudspace to cancel the deprovision ticket for Mixo PC of Ludul Business Backup + Email Archiving effective 10/18/2022."
+
+Once you have completed these steps, please proceed to place an order with the selected archiver and the corresponding 15 licenses. Once the order has been processed, you should be all set. 
+
+If you have any additional questions, please feel free to let me know.
+
+Thank you for your cooperation and your time.
+Creation date: 2022-10-19 21:32:25 comments: Ok, we may cancel out this deprovision as long as only 15 Ludul + email archiving is set up
+
+
+Thanks,
+
+Okany Matthews
+O: 949 743 4491
+
+[Emaillogo]<http://oryian.com/>
+
+System problems? Looking for an improved IT solution? Want a fixed monthly cost? Explore our online offerings!<http://oryian.com/>
+
+
+DISCLAIMER The information included in this email is potentially confidential and intended solely for the recipient(s) named. If you receive this email by mistake, kindly inform the sender by replying to this email. Please refrain from reading, copying, forwarding, or storing this message if you are not the intended recipient. Unauthorized use of the contents is strictly prohibited unless otherwise explicitly stated. The opinions expressed in this message are those of the individual sender and not necessarily of Oryian. While we have taken precautions, Oryian cannot be held responsible for the accuracy or contents of this email and any attachments included.
+
+
+Creation date: 2022-10-19 21:42:01 comments: Okany, 
+
+Thank you for providing clarification. According to the information I have in the Ludul portal, there are currently 15 licenses associated with the subscription. In order for the subscription to appear in the Cloudspace platform, you will need to adjust the number of licenses required for this organization. To proceed with closing out this case, I kindly request your permission to cancel the deprovision ticket. Kindly copy and send me the following statement.
+
+"I, (first/last name) of Oryian, approve and request Cloudspace to cancel the d provision ticket for Mixo PC of Ludul Business Backup + Email Archiving effective 10/18/2022."
+
+Once I get this statement, I will be able to close the ticket.
+
+Thank you for your cooperation and your time.
+

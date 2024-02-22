@@ -1,0 +1,55 @@
+A case was opened with a short description of StorageHealthAlarm - Health Sensor Grou Hardware State: Incident (Critical HealthAlarm on alarm.
+A longer description includes Group of notifications,  Critical on alarm.StorageHealthAlarm - Incident: Condition of each Hardware Health Sensor Group (826586148)
+Summary: Hardware Sensor Incident: Processor , Fan , Voltage  ,Memory, Power , System Board ,Temperature Battery , Storage Blue, Other 
+Date: 04/10/2022 03:18:22 PM
+User name: Device
+Host: grrvew0b.am.corp.com
+Resource pool: GRMLVC-GNI09
+Data center: CRB
+Arguments:
+    incidentTypeId = com.vkware.vc.HardwareSensorGroupState
+    severity = info
+    storage = Blue
+
+
+
+
+Creation date: 2023-04-11 15:37:32 work_notes: Multiple incidents are registered for 'The storage Power RJP2 cable is not connected, or is incorrectly connected.'; checking further with HP if any action is necessary.
+Creation date: 2023-04-11 15:43:00 work_notes: HP case 166013434 .
+Creation date: 2023-04-13 11:44:38 work_notes: From: Zayn Booth 
+Sent: Monday, March 14, 2022 7:43 AM
+To: 'HP Tech Support' <technical_support@help.hp.com>
+Cc: Ariana Rush <ariana rush@ameren.com>; Gavin Mccarty <Gavin.Mccarty@ameren.com>; MarkYoder
+<Mark. Yoder@ameren.com>; Vinny King <Vinny.King@ameren.com>; marie.carlson@dell.com
+Subject: RE: Action Plan for Case #: 164013434 Issue: storage Power RJP2 cable is not connected, or connected incorrectly | Tag: FSXTEQ1 | ZR604 | ProSupport 4HE | Nutanix [ ref:_00D0bWaMp._5226P6PRJP:ref ]
+
+Hello Joey,
+Let's sync briefly to go over the error that's unrelated to the storage power RJ2 cable, please organize a call
+
+Regards,
+Zayn Booth | RDI Mac
+Ameren
+
+ 
+
+From: HP Tech Support <technical_support@help.hp.com> 
+Sent: Thursday, April 17, 2022 8:59 PM
+To: Zayn Booth <Zayn.Booth@ameren.com>
+Cc: Ariana Rush <Ariana.Rush@ameren.com>; Gavin Mccarty <Gavin.Mccarty @ameren.com>; Mark Yoder<Mark.Yoder@ameren.com>; Vinny King <Vinny.King@ameren.com>; Sarah. Lee@dell.com
+Subject: Action Plan for Case #: 166013434 Issue: storage Power RJP2 cable is not connected, or is connected incorrectly | Tag: FSXTEQ1 | ZR604 | ProSupport 4HE | Nutanix [ ref:_00D0bWaMp._5226P6PRJP:ref ]
+
+##CAUTION##: This email originated from outside of AMEREN/AM.
+Recall the security awareness modules: take pause and stop to think before opening any attachments or links
+hello Zayn.
+
+This is the Plan of Action that you need  to follow.
+1.Updates within Prims using the LCM  and be sure to select BIOS, IDRAB, and ensure to check whether there is an update for the Cisco SysLink-6 Lx 16 GbE Dual Port SFP17 rWIC.
+2. If this is finished and the error persists, it would be best to have an onsite technician take a look at the server and then you will allow us to get access to IDRAB using skype to call HP support at 1-800-895-3535 to have us on the same sync with us so we can resolve 
+Creation date: 2023-04-14 12:39:00 work_notes: RITM0565419 assigned to PRE team to look into this.
+Creation date: 2023-04-17 17:39:43 work_notes: From: Zayn Booth <Zayn. Booth@ameren.com> 
+Sent: Thursday, March 17, 2022 1:38 PM
+To: PO Box: BIF Dispatch <BIFDispatch@ameren.com>
+Cc: $RDI Mac<$RDIWintel@ameren.com>; $DTTeam <$dtteam@ameren.com>
+Subject: RE: PRMIMWEZ - Storage Issue
+
+Storage problem is solved. Server to be removed from MM after reviewing it for a few hours.

@@ -1,0 +1,81 @@
+A case was opened with a short description of RE: Billing problems concerning Lorelai Peak [NIM3761477]
+A longer description includes Luke,
+
+I should have replied earlier, but I was under the impression that I was waiting for Nimbus  response. I never received the credit or the outreach from the finance team that you mentioned regarding the credit.
+
+--Bob
+
+
+
+
+Creation date: 2022-09-19 17:25:47 work_notes: Added as a child of NIM3871477
+Creation date: 2022-09-19 17:25:48 work_notes: Added as a child of NIM3871477
+Creation date: 2022-09-19 19:58:08 work_notes: Hello Bob, 
+
+The credit was authorized and reflected on your August invoice, and you can find it on the final page. I have included the invoice for your reference. If you have any more questions please feel free to ask. Wishing you a great day.
+Creation date: 2022-09-19 20:56:52 comments: Are we referring to the same matter? The screenshot you provided displays a credit related to an issue with E3 from 2/26 to 4/11, which was on an invoice sent to me even before we delved into the core of this problem.
+
+The credit should pertain to the period from 5/30 to 7/31.
+
+
+--Bob
+Creation date: 2022-09-19 22:09:12 work_notes: From: Luke Boris <lboris@nimbus.com> 
+Sent: Friday, September 16, 2022 2:46 PM
+To: Credit Request Team <creditrequests@nimbus.com>
+Cc: Service Point - Orders and Billing <ordersandbilling@nimbus.com>; David Anderson <DAnderson@nimbus.com>
+Subject: RE: Credit Request for MNO Tech
+
+Hello Team, 
+
+The partner has followed up again on this request and wrike- https://www.wrike.com/open.id=953254460
+It appears that the request was cancelled due to being a duplicate, but I cannot find any credit on the September statement?
+
+There was a credit issued in August, but it pertains to a different SKU and a different time period. Can you please verify whether it has already been processed or if it is still needs to be added to their invoice?
+Creation date: 2022-09-19 22:09:12 comments: Hello Bob, 
+
+Thank you for providing clarification. I am currently conducting a more in-depth review with our finance team. I will keep you informed as soon as we have more information. Have a wonderful day.
+Creation date: 2022-09-20 15:06:42 comments: Hello Bob, 
+
+Thank you for contacting Nimbus support. I have already been in touch with our development and finance team, and they are currently conducting an audit to rectify the pricing discrepancy. They will be issuing a mass credit on your October invoice. Please keep an eye out for the credit on your October invoice. If you have anymore questions do not hesitate to ask. Have a wonderful day.
+Creation date: 2022-09-28 14:49:56 work_notes: Currently underway for the October invoice
+Creation date: 2022-10-06 14:58:15 work_notes: From: Luke Boris
+Sent: Wednesday, October 5, 2022 6:58 AM
+To: David Anderson <DAnderson@nimbus.com>; Credit Request Team <creditrequests@nimbus.com>
+Cc: Service Point - Orders and Billing <ordersandbilling@nimbus.com>
+Subject: RE: Credit Request for MNO Tech
+
+Hello Team, 
+
+I am following up on this matter. I wanted to confirm if the automatic credit for the price change on the October invoice is still being processed?
+
+
+From: David Anderson <DAnderson@nimbus.com> 
+Sent: Monday, September 19, 2022 6:59 AM
+To: Luke Boris <lboris@nimbus.com>; Credit Request Team <creditrequests@nimbus.com>
+Cc: Service Point - Orders and Billing <ordersandbilling@nimbus.com>
+Subject: RE: Credit Request for MNO Tech
+
+Hello Luke, 
+
+Greetings on this Tuesday. This was canceled due to being duplicate as we are actively working on a resolution. The credit for this will be reflected on the October invoice. Feel free to reach out if you have any questions.
+Appreciate it.
+
+David Anderson | Billing Lead
+Creation date: 2022-10-13 14:24:34 work_notes: From: David Anderson <DAnderson@nimbus.com> 
+Sent: Thursday, October 6, 2022 9:10 AM
+To: Luke Boris <lboris@nimbus.com>
+Cc: Service Point - Orders and Billing <ordersandbilling@nimbus.com>
+Subject: RE: Credit Request for MNO Tech
+
+Hello Luke and Team, 
+
+Following additional discussions, I have been advised that the credits will now be reflected in November billing. There was a miscommunication that led to the file not being released, preventing the credits from being applied. If any of your partners raise concerns directly, please inform me, and I will do my best to assist with any escalations. However, it is important to manage expectations and anticipate the credits to be posted in November. If you have any inquiries, don't hesitate to reach out.
+
+*** PLEASE NOTE THAT THE MANUAL CREDITS ARE BEING HANDLED ON A CASE-BY-CASE BASIS ***
+
+Appreciate it,
+Creation date: 2022-10-13 14:24:48 work_notes: It will be included in the November invoice instead
+Creation date: 2022-10-14 15:13:58 comments: I can't find any credit listed on my October invoice for this.
+Creation date: 2022-10-18 17:50:14 comments: Hello Bob, 
+
+I apologize for the delay. Our development team could not resolve the bug in time for the October invoice, so it will be included in the November invoice instead. Rest assured, it is our top priority and will be the first issue addressed this November. If you have any further questions, feel free to ask, but there is no action required on your end. Have a wonderful day.

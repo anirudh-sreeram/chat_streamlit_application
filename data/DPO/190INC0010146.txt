@@ -1,0 +1,162 @@
+A case was opened with a short description of Due to issue cannot print label hang list on clearance 
+A longer description includes  Due to issue cannot print label hang list on clearance 
+
+
+
+
+Creation date: 2023-04-12 12:14:43 comments: It is being processed.
+Creation date: 2023-04-12 12:15:11 work_notes: Updated the user about the progress on the ticket.
+______
+
+Notification: Sent Ibraheem Pugh  direct message in text
+Recipient: Ibraheem Pugh 
+Ticket status actions: Ticket status not changed
+via: Flexport [s2]
+Creation date: 2023-04-12 12:44:04 comments: Working with DBA to solve the error.
+Creation date: 2023-04-12 12:44:04 work_notes: From: Janet Barnett 
+Sent: Friday, March 11, 2022 8:14 AM
+To: $SAP SQL DBA <SAPSQLDBA@ameren.com>
+Cc: Emilia Webb<EMILIA.WEBB@ameren.com>;  Lydia Lam <LYDIA. LAM@ameren.com>; Eleanor Pittman<ELEANOR.PITTMAN@ameren.com>; Jake Haines <JAKE.HAINES@ameren.com>; Henrietta Ramsey <Henrietta.Ramsey@ameren.com>; Ioana Tucker< Ioana.Tucker@ameren.com>
+Subject: P2: incident INC0919327 - Can't print tag label list on clearance as facing an issue
+Importance: High
+
+Hello SQL DBAs,
+
+We have a ticket on high priority P3 ticket # INC0989736 for eSOMS. The Uzair Golden Unit 2 Plant is in an outage and they are facing  a timeout error. We faced similar error previously and we have reindexed the database. This will have to happen again. Please reindex the eSOMS database on jvmwnt1075 at the earliest  so the plant can continue with their outage. 
+
+Please work on this with high priority. Let us know if you face any issues.  
+
+Note: Before reindexed the database please do a backup on the database, so that we can send it to eSOMS vendor to replicate this error from their end. 
+
+I have generated a zendesk ticket #INC0998411 for your reference.  
+
+Regards,
+Janet Barnett     
+Application Operations & IT Services 
+(IT-Gen Ops & Electric Work Mgmt)
+janet.barnett@ameren.com 
+Cell: +919716704390
+Ameren: We re proud of our long, successful tradition of financial strength, low rates and pride in customer service.  
+Creation date: 2023-04-12 12:44:31 work_notes: Updated the user about the progress on the ticket.
+______
+
+Alert: Sent Ibraheem Pugh  direct message in chat
+Reciever: Ibraheem Pugh 
+Ticket status actions: Ticket status unchanged
+via: Flexport [s2]
+Creation date: 2023-04-12 13:20:10 work_notes: jbarnett 2022-03-11  08:25:30
+From: Janet Barnett 
+Sent: Friday, March 11, 2022 08:24 AM
+To: ANEESA MULLINS<ANEESA.MULLINS@ameren.com>; $SAP SQL DBA <SAPSQLDBA@ameren.com>
+Cc: Emilia Webb<EMILIA.WEBB@ameren.com>;  Lydia Lam <LYDIA.LAM@ameren.com>; Eleanor Pittman<ELEANOR.PITTMAN@ameren.com>; Jake Haines <JAKE.HAINES@ameren.com>; Henrietta Ramsey <HENRIETTA.RAMSEY@ameren.com>; Ioana Tucker<IOANA.TUCKER@ameren.com>
+Subject: RE: P2: incident INC0989327 -Due to error BP cannot print tag hang list on clearance 
+
+Hi Aneesa, 
+
+It worked and the error has been solved! Thanks for your quick action on this error!!
+
+ I am thinking whether that reindex job is set to run daily at eSOMS  database server jvmwnt1075, Could you please confirm if it is working properly? Is there any way (logs) to find it out? I am asking this because this error happened twice within a week. Please do check this and let us know.
+
+ Warm Regards,
+Janet Barnett     
+Application Operations & IT Services 
+(IT-Gen Ops & Electric Work Mgmt)
+janet.barnett@ameren.com 
+Cell: +919716704390
+Ameren: We re proud of our long, successful tradition of financial strength, low rates and pride in customer service. 
+    
+
+
+From: ANEESA MULLINS<ANEESA.MULLINS@ameren.com> 
+Sent: Wednesday, April 12, 2022 9:07 AM
+To: Janet Barnett <Janet.Barnett@ameren.com>; $SAP SQL DBA <SAPSQLDBA@ameren.com>
+Cc: Emilia Webb<EMILIA.WEBB@ameren.com>;  Lydia Lam <LYDIA.LAM@ameren.com>; Eleanor Pittman<ELEANOR.PITTMAN@ameren.com>; Jake Haines <JAKE.HAINES@ameren.com>; Henrietta Ramsey <HENRIETTA. RAMSEY@ameren.com>; Iona Tucker <IONA.TUCKER@ameren.com>
+Subject: RE: P2: incident INC0919368- Due to error cannot print tag label list on clearance
+
+Janet,
+As requested, DB backup copy has been put below.
+
+K:\ApplicationPackage\Janet_Barnett\eSOMS_DB_BackUp
+
+
+Thanks & Regards,
+Aneesa Mulins
+
+From: ANEESA MULLINS<ANEESA.MULINS@ameren.com> 
+Sent: Wednesday, April 12, 2022 8:50 AM
+To: Janet Barnett <Janet.Barnett@ameren.com>; $SAP SQL DBA <SAPSQLDBA@ameren.com>
+Cc: Emilia Webb<EMILIA.WEBB@ameren.com>;  Lydia Lam <LYDIA.LAM@ameren.com>; Eleanor Pittman<ELEANOR.PITTMAN@ameren.com>; Jake Haines <JAKE.HAINES@ameren.com>; Henrietta Ramsey <HENRIETTA.RAMSEY@ameren.com>; Ioana Tucker<IOANA.TUCKER@ameren.com>
+Subject: RE: P2: incident INC0989367 -Due to error Cannot print tag hang list on clearance.
+
+Hi Janet,
+
+This is taken care of. Please check now.
+
+
+Thanks,
+Aneesa Mullins
+
+
+From: ANEESA MULLINS<ANEESA.MULLINS@ameren.com> 
+Sent: Wednesday, March 11, 2022 8:10 AM
+To: Janet Barnett <Janet.Barnett@ameren.com>; $SAP SQL DBA <SAPSQLDBA@ameren.com>
+Cc: Emilia Webb<EMILIA.WEBB@ameren.com>;  Lydia Lam <LYDIA.LAM@ameren.com>; Eleanor Pittman<ELEANOR.PITTMAN@ameren.com>; Jake Haines <JAKE.HAINES@ameren.com>; Henrietta Ramsey <HENERIETTA.RAMSEY @ameren.com>; Ioana Tucker <IOANA .TUCKER@ameren.com>
+Subject: RE: P2: incident INC0919327 -Due to error Cannot print tag hang list on clearance. 
+
+Confirmed.
+
+
+Regards,
+Aneesa Mullins
+Creation date: 2023-04-12 13:35:43 comments: Error was solved. We  worked with SQL DBA to manually rebuild and reindex job of eSOMS database and correct this error .  BP confirmed that error was resolved and all was  working fine. They can Print Tag label list from eSOMS Clearance at Uzair Golden Unit 4 Plant. 
+ As BP confirmed, closing  the ticket . Thanks!!
+
+From: Janet Barnett 
+Sent: Friday, March 11, 2022 9:09 AM
+To: Ibraheem Pugh <IBRAHEEM.PUGH@ameren.com>
+Cc: Emilia Webb<EMILIA.WEBB@ameren.com>; TJ Lydia Lam <LYDIA.LAM@ameren.com>; Eleanor Pittman<ELEANOR.PITTMAN@ameren.com>; Jake Haines <JAKE.HAINES@ameren.com>; Henrietta Ramsey <HENRIRTTA RAMSEY@ameren.com>; Mohammad Johnston
+ <MOHAMMAD.JOHNSTON@ameren.com>
+Subject: RE: P2: incident INC0989327 -Due to error BP cannot print tag hang list on clearance 
+
+Glad that we could help to solve this error and eSOMS Print label hang list functionality at Golden Unit 4 Plant has been restored. Thanks for confirming the resolution, and I will close this ticket. Have a good day!!
+
+
+Warm Regards,
+Janet Barnett     
+Application Operations & IT Services 
+(IT-Gen Ops & Electric Work Mgmt)
+janet.barnett@ameren.com 
+Cell: +919716704390
+AMEREN: We re proud of our long, successful tradition of financial strength, low rates and pride in customer service. 
+    
+
+
+
+From: Ibraheem Pugh <IBRAHEEM.PUGH@ameren.com> 
+Sent: Wednesday, April 12, 2023 9:02 AM
+To: Janet Barnett <JANET.BARNETT@ameren.com>
+Cc: Emilia Webb<EMILIA.WEBB@ameren.com>; TJ Lydia Lam <TJ.LYDIA LAM@ameren.com>; Eleanor Pittman<ELEANOR.PITTMAN@ameren.com>; Jake Haines <JAKE.HAINES@ameren.com>; Henrietta Ramsey <HENRIETTA  RAMSEY@ameren.com>; Mohammad Johnston <MOHAMMAD.JOHNSTON @ameren.com>
+Subject: Re: P2: incident INC0989327 -Due to error BP cannot print tag hang list on clearance   
+
+Thank you Janet
+
+Get Outlook for Windows
+________________________________________
+From: Janet Barnett <Janet.Barnett@ameren.com>
+Sent: Wednesday, April 12, 2023 8:56:54 AM
+To: Ibraheem Pugh <Ibraheem.Pugh@ameren.com>
+Cc: Emilia Webb<EMILIA.WEBB@ameren.com>; Lydia Lam <Lydia.Lam@ameren.com>; Eleanor Pittman<Eleanor.Pittman@ameren.com>; Jake Haines <Jake.Haines@ameren.com>; Henrietta Ramsey <Henrietta.Ramsey@ameren.com>; Oakley Carr  <OAKLEY.CARR@ameren.com>
+Subject: P2: incident INC0989327 -Due to error BP cannot print tag hang list on clearance  
+ 
+Hi Ibraheem, 
+ 
+We have worked with DBA and fixed that error from backend/database. Kindly check this printing Tag Hang list on Clearance and continue with your outage at Uzair Golden Unit 4 Plant. If  any error occurs please let us know. Thanks for your patience and sorry for any inconvenience you might have experienced this morning. 
+ 
+ 
+Regards,
+Janet Barnett     
+Application Operations & IT Services 
+(IT-Gen Ops & Electric Work Mgmt)
+janet.barnett@ameren.com 
+Cell: +919716704390
+Ameren: We re proud of our long, successful tradition of financial strength, low rates and pride in customer service.

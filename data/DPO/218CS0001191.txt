@@ -1,0 +1,703 @@
+A case was opened with a short description of RE: Microsoft Azure issues [NIM5610069]
+A longer description includes Hello, I'm trying to create the following support ticket but the submit button isn't functioning.
+
+The problem I'm having is with Azure, as seen here
+
+I'm trying to deploy a Standard_D3_v2 virtual machine in WestUS3 but I'm getting an error message
+
+Error: azureml.core.webservice.webservice: Investigation service deployment has reached a failed terminal state, latest service status: Failed
+Activity ID: a87fe940-bbae-4392-9ca5-b13d429f2055
+The current sub activity type is unknown, and other records are not available.
+Error:
+{
+"code": "Bad Request"
+Status Code: 400,
+"message": "Invalid request"
+"the details": [
+{
+"code": "Insufficient deployment resources",
+"message": "Unable to program: Post request failed because
+Insufficient computational resources. For a given compute target, one replica cannot be created for each specific CPU/memory configuration (6 CPU cores, 18GB memory). You can solve this problem by adjusting the number of copies,
+Use a different CPU/memory configuration or use a different calculation Goal."
+}
+}
+}
+despite the fact that I created a system resource that matches my specifications. Thank you, Fintan
+
+
+
+
+Creation date: 2022-09-22 08:27:36 work_notes: Added as a child of NIM5610069
+Creation date: 2022-09-22 08:27:38 work_notes: Added as a child of NIM5610069
+Creation date: 2022-09-22 09:11:27 comments: Hello Fintan,
+
+We are looking to create a Microsoft support ticket for you. So that it can go under our premier support agreement. 
+
+I am very happy to do so for you, kindly provide me the following details: 
+
+Contact Name
+Contact Number
+Contact Email Address
+Availability (with time zone)
+
+Once you have provided the above mentioned details with me, I will raise a ticket for you and share the ID with you. 
+
+Thanks and Regards,
+
+Bruno
+Creation date: 2022-09-22 09:27:25 comments: 
+Hello Team,
+
+Thank you so much, the details below are what you're looking for. This is critical for business, so we would ideally resolve this all today.
+
+Contact Name - Fintan Berger
+Contact Number - 18692858161
+Contact Email Address - fintanb@deploy.com
+Availability (with time zone) - Flexible GMT
+
+Thanks
+
+Fintan
+Creation date: 2022-09-22 09:57:18 comments: Hello Everyone,
+
+Before creating the ticket, the automated diagnostics were run and output the following:
+
+------------------------------------------------------------------------------------------------------------------------------------------
+Allocation result
+According to the analysis of your deployment, we suggest you deploy an alternate size, or an alternate region. The deployment allocation you are looking for failed with the input parameters: Subscription ID: c47eeb7b-c58c-4997-b97a-6cc63db21d43, region: West US 3, size: Standard_D3_v2, instances: 1 
+
+Based on inputs, the Allocation Success Recommender calculates the chance of success for a particular allocation.  If your allocation is not expected to succeed or is blocked, then Recommender suggests alternatives with better success rates. Recommendations are ranked by their success rate. 
+
+Note: The current release does not support Availability Zone alternative recommendations but are scheduled to feature in the following release.
+
+Alternative deployments
+
+Current Region  Alternate VM Series Alternate VM Size
+West US 3 Fv2-series Standard_F8s_v2
+West US 3 B-series Standard_B8ms
+West US 3 B-series Standard_B12ms
+West US 3 Fv2-series Standard_F16s_v2
+West US 3 B-series Standard_B16ms
+
+
+Alternate Region VM Series VM Size
+West US Ev3-series Standard_E8_v3
+West US F-series Standard_F4
+West US Av2-series Standard_A8_v2
+West US Dv4-series Standard_D8_v4
+West US Dv3-series Standard_D8_v3
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Since time is of the essence, it may be worth trying alternatives. I could also raise a ticket with Microsoft, but they may just advise you to do the above.
+
+Can you please suggest on how  would you like me to proceed. 
+  
+Bruno
+Creation date: 2022-09-22 19:33:15 comments: Hello Bruno,
+
+That is good to know. I'd like to run the diagnostics myself. Could you forward me a link to Allocation Success Recommender? Can you also raise a ticket with MS in the event they can provide additional advice?
+
+Thanks,
+ Fintan.
+
+
+Creation date: 2022-09-23 08:45:34 comments: Hello Fintan,
+
+Unfortunately, I can't link to it since it is just one of the steps to raising a support ticket. 
+
+I will create a support ticket for you now and update you with the ID once it is done. 
+
+Bruno
+Creation date: 2022-09-23 10:40:02 comments: Hello Fintan,
+
+We are really sorry for the late response. 
+
+I am confirming with you that I have successfully submitted the case with Microsoft support(ID 3309230050000902) and they will connect with you very soon. 
+
+Thanks and Regards,
+
+Bruno
+Creation date: 2022-09-26 14:55:59 work_notes: Hello Fintan,
+
+Please run this command and let me know what the output is.
+
+Execute command from Azure Shell on portal.
+
+az vm list-skus --location centralindia --size Standard_M --all --output table
+
+Monica Nolan
+Support Analyst
+Microsoft Azure Technical Support
+Consumer Service and Support
+ 
+
+monicanolan@microsoft.com
+
+If you would like to contact another Technical Support Analyst outside of my working hours, kindly send an email to azurebu@microsoft.com with your case number and availability. 
+We always welcome your feedback. Feel free to contact my manager about the level of support you have received at Evan.Daniels@microsoft.com
+
+Microsoft Azure | Azure Status | Support Programs | Open a Ticket | Privacy Policy
+
+From: Fintan Berger <fintanb@deploy.com> 
+Sent: Thursday, September 22, 2022 5:14 PM
+To: Monica Nolan
+<monicanolan@microsoft.com>
+Cc: Microsoft Support <supportmail@microsoft.com>; Bruno Hayden <ve-productivity@nimbus.com>; bhayden@nimbus.com; Kaya Keller
+<kaya.keller@microsoft.com>; Herman Torres<htorres@microsoft.com>
+Subject: Re: [EXTERNAL] Re: [NIM4539667] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+
+Rarely do you receive emails from fintan@deploy.com. Know why this is significant
+
+Awesome thanks a lot for your assistance! Fintan
+
+On Thu, 22 Sep 2022, 12:36 Monica Nolan, <monicanolan@microsoft.com> wrote:
+Hello Fintan,
+ 
+Thanks for letting me to know the current status. I am reviewing  the error.
+ 
+Please give me some time to get back to you with the best solution.  
+Monica Nolan
+Support Analyst
+Microsoft Azure Technical Support
+Consumer Service and Support
+ 
+
+monicanolan@microsoft.com
+
+If you would like to contact another Technical Support Analyst outside of my working hours, kindly send an email to azurebu@microsoft.com with your case number and availability. 
+We always welcome your feedback. Feel free to contact my manager about the level of support you have received at Evan.Daniels@microsoft.com
+
+Microsoft Azure | Azure Status | Support Programs | Open a Ticket | Privacy Policy
+ 
+From: Fintan Berger <fintanb@deploy.com> 
+Sent: Thursday, September 22, 2022 4:41 PM
+To: Microsoft Support <supportmail@microsoft.com>
+Cc: Bruno Hayden <ve-productivity@nimbus.com>; bhayden@nimbus.com; Monica Nolan
+<monicanolan@microsoft.com>; Herman Torres<htorres@microsoft.com>
+Subject: Re: [EXTERNAL] Re: [NIM4539667] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+
+
+
+Thanks Monica, you have helped me a lot. That fixed the problem. But now I get 
+ 
+"message": "Kubernetes Deployment failed",
+  "details": [
+    {
+      "code": "CrashLoopBackOff",
+      "message": "Error in entry script, FileNotFoundError: [Errno 2] No such file or directory: '/var/azureml-app/main.py', please run print(service.get_logs()) to get details."
+    },
+ 
+Which is also a very obscure error
+ 
+Any ideas? 
+ 
+Fintan
+ 
+On Thursday, 22 Sep 2022, 12:01 Monica N, <support@mail.support.microsoft.com> wrote:
+Hello Bruno,
+
+Good morning!
+ 
+I appreciate you contacting Microsoft Azure VM Support.
+ 
+I am Monica Nolan, a Azure VM Technical Support Analyst, and I will be assisting you on Support Request 3310230050001002. Kindly reach out to me via my contact details, listed in the email signature for any questions or concerns regarding your case.
+
+Issue statement
+
+[NIM4539667] 
+
+Environment details
+
+/Subscription/b37eeb7b-c58c-4997-b97a-6cc63db21e43
+
+Troubleshooting
+
+Error while deploying:-
+
+ERROR:azureml.core.webservice.webservice:Service deployment polling reached
+non-successful terminal state, current service state: Failed
+Operation ID: a87fe940-bbae-4392-9ca5-b13d429f2055
+Current sub-operation type not known, more logs unavailable.
+Error:
+{
+  'code': 'BadRequest',
+  'statusCode': 400,
+  'message': 'The request is invalid',
+  'details': [
+    {
+      'code': 'DeploymentResourceInsufficient',
+      'message': 'Unschedulable: Insufficient compute resource resulted in failed deployment request failed. For the specified compute target, 1 replica cannot be created per specified CPU/Memory configuration(4 CPU Cores, 14GB Memory). This problem can be addressed by adjusting the number of replicas, using an alternate CPU/memory configuration, or using an alternate compute target.'
+    }
+  ]
+}
+
+Please let me know if this is a marketplace image or a customized image.
+Recommendation
+
+We understand that your desired VM size in subscription c47eeb7b-c58c-4997-b97a-6cc63db21d32 could not be deployed.
+Deployment restrictions exist to account for numerous business and technical constraints, such as capacity limitations. We are really sorry for any inconvenience and how it may have affected you. We are always working on expanding coverage to accommodate many sizes in as many locations as possible.
+
+Recommended Steps
+
+Please use the following to identify SKU restrictions and quota limitations for your subscription: 
+  To list all sizes that are available for deployment for subscription c47eeb7b-c58c-4997-b97a-6cc63db21d32, execute the Azure CLI command az vm list-skus to check for the VM sizes available by region and the deployment restrictions that may exist on the VM size. If the size you desire is marked NotAvailableForSubscription or is unlisted, please see the steps in Troubleshooting region or SKU subscription issues in order to submit a request for accessing the SKU size.
+  To view the quota usage for subscription c47eeb7b-c58c-4997-b97a-6cc63db21d32, use the Azure CLI command az-vm-list-usage. For each subscription, in each region, quote limits are enforced at two tiers. Theh first tier is the Total Regional vCPUs limit while the second tier is the per VM Series vCPUs limit. If you are unable to deploy your desired size as a result of a quote limit, please see the steps in Quota increase requests in order to submit a request for increasing the limits.
+
+Recommended Documents
+  
+  To determine sizes available by region for your subscription using PowerShell, execute the Get-AzComputeResourceSku command, for Azure CLI see the az vm list-skus command, for the REST API see the Resource SKUs - List operation.
+
+Please allow me some time for the investigation. I will review the issue from azure end and get back to you.
+
+If you have any concerns regarding the above or if additional information is needed, please let me know.
+ 
+My working hours are from Mon to Fri 10:00 AM to 7:00 PM IST, please let me know if you have questions/concerns.
+  
+Monica Nolan
+Support Analyst
+Microsoft Azure Technical Support
+Consumer Service and Support
+ 
+
+monicanolan@microsoft.com
+
+If you would like to contact another Technical Support Analyst outside of my working hours, kindly send an email to azurebu@microsoft.com with your case number and availability. 
+We always welcome your feedback. Feel free to contact my manager about the level of support you have received at Evan.Daniels@microsoft.com
+
+Microsoft Azure | Azure Status | Support Programs | Open a Ticket | Privacy Policy
+ 
+This email has been cleared for spam and viruses by CybSecure. 
+Creation date: 2022-09-27 15:22:22 work_notes: 
+Where is the azure shell on the portal? Fintan
+
+On Thu, 22 Sep 2022, 12:55 Monica Nolan, <monicanolan@microsoft.com> wrote:
+Hello Fintan,
+ 
+Please run this command and let me know what the output is.
+
+Execute command from Azure Shell on portal.
+
+az vm list-skus --location centralindia --size Standard_M --all --output table
+ 
+Monica Nolan
+Support Analyst
+Microsoft Azure Technical Support
+Consumer Service and Support
+ 
+ 
+monicanolan@microsoft.com
+
+If you would like to contact another Technical Support Analyst outside of my working hours, kindly send an email to azurebu@microsoft.com with your case number and availability. 
+We always welcome your feedback. Feel free to contact my manager about the level of support you have received at Evan.Daniels@microsoft.com
+
+Microsoft Azure | Azure Status | Support Programs | Open a Ticket | Privacy Policy
+Creation date: 2022-09-28 15:21:55 work_notes: Hello Fintan,
+
+
+I requested a BST time zone engineer and moved the case to them.
+
+I can see that your case was assigned to @Myla Lin, she should be contacting you very soon. 
+
+Hope your issue is resolved soon.
+
+Have a great day!
+
+Monica Nolan
+Support Executive
+Microsoft Azure Technical Support
+Consumer Service and Support
+ 
+
+monicanolan@microsoft.com
+
+If you would like to contact another Technical Support Analyst outside of my working hours, kindly send an email to azurebu@microsoft.com with your case number and availability. 
+We always welcome your feedback. Feel free to contact my manager about the level of support you have received at Evan.Daniels@microsoft.com
+
+Microsoft Azure | Azure Status | Support Programs | Open a Ticket | Privacy Policy
+
+From: Fintan Berger <fintanb@deploy.com> 
+Sent: Tuesday, September 27, 2022 7:28 PM
+To: Monica Nolan <monicanolan@microsoft.com>
+Cc: Bruno Hayden <bhayden@nimbus.com>; Kamal Olsen <kamal.olsen@ascend.com>
+Subject: Re: [EXTERNAL] Re: [NIM4535026] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+
+Hello Monica, did you transfer my case to someone in my time zone, so that we can continue working on this problem? It would be great to be able to speak with them asap. Thank you, Fintan. 
+
+
+
+On Tue, 27 Sept 2022 at 13:41, Fintan Berger <fintanb@deploy.com> wrote:
+I'm in the call, but no one is here? Fintan
+
+On Tue, 27 Sept 2022 at 12:43, Monica Nolan <monicanolan@microsoft.com> wrote:
+Here s our meeting link.
+________________________________________________________________________________ 
+Microsoft Teams meeting 
+Join from your computer, mobile app or room device 
+Click here to join the meeting 
+Meeting ID: 383 304 881 174 
+Passcode: 5knRbW
+Download Teams | Join on the web
+Or call in (audio only) 
++1 317-800-4395,,837986524#   United States, New York 
+1118000401153,,,,837986524#   India (Toll-free) 
+Phone Conference ID: 838 986 623# 
+Find a local number | Reset PIN 
+Learn More | Meeting options 
+________________________________________________________________________________ 
+ 
+ 
+_____________________________________________
+From: Fintan Berger <fintanb@deploy.com> 
+Sent: Tuesday, September 27, 2022 5:10 PM
+To: Monica Nolan <monicanolan@microsoft.com>
+Cc: Bruno Hayden  <bhayden@nimbus.com>; Kamal Olsen <kamal.olsen@ascend.com>
+Subject: Re: [EXTERNAL] Re: [NIM4599365] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+ 
+Hello Monica, are we connecting now? Fintan
+ 
+On Tue, 27 Sept 2022 at 11:34, Monica Nolan <monicanolan@microsoft.com> wrote:
+Hello Fintan,
+ 
+I will connect with you at 12.30 UK GMT. Don't worry.
+ 
+Monica Nolan
+Support Analyst
+Microsoft Azure Technical Support
+Consumer Service and Support
+ 
+ 
+monicanolan@microsoft.com
+
+If you would like to contact another Technical Support Analyst outside of my working hours, kindly send an email to azurebu@microsoft.com with your case number and availability. 
+We always welcome your feedback. Feel free to contact my manager about the level of support you have received at Evan.Daniels@microsoft.com
+
+Microsoft Azure | Azure Status | Support Programs | Open a Ticket | Privacy Policy
+ 
+From: Fintan Berger <fintanb@deploy.com> 
+Sent: Tuesday, September 27, 2022 4:01 PM
+To: Monica Nolan<monicanolan@microsoft.com>; Bruno Hayden
+ <bhayden@nimbus.com>; Sophie Dowsett-Smith <sophie.dowsett-smith@ascend.com>
+Subject: Re: [EXTERNAL] Re: [NIM4539667] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+ 
+Hello Monica, 
+ 
+is that time fine for you? Or Do you want to connect with me another time?
+ 
+Fintan
+---------- Forwarded message ---------
+From: Fintan Berger <fintanb@deploy.com>
+Date: Tuesday, 27 Sept 2022 at 10:19
+Subject: Re: [EXTERNAL] Re: [NIM4539667] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+To: Monica Nolan <monicanolan@microsoft.com>
+ 
+Hello Monica, 
+ 
+Can we connect at 12:30 UK GMT.
+ 
+Thanks and Regards,
+Fintan
+ 
+On Tuesday, 27 Sept 2022 at 10:08, Monica Nolan
+<monicanolan@microsoft.com> wrote:
+Hello Fintan,
+
+Let me know your time zone to schedule the call.
+ 
+Monica Nolan
+Support Analyst
+Microsoft Azure Technical Support
+Consumer Service and Support
+
+monicanolan@microsoft.com
+
+If you would like to contact another Technical Support Analyst outside of my working hours, kindly send an email to azurebu@microsoft.com with your case number and availability. 
+We always welcome your feedback. Feel free to contact my manager about the level of support you have received at Evan.Daniels@microsoft.com
+
+Microsoft Azure | Azure Status | Support Programs | Open a Ticket | Privacy Policy
+ 
+From: Fintan Berger <fintanb@deploy.com> 
+Sent: Tuesday, September 27, 2022 2:04 PM
+To: Monica Nolan <monicanolan@microsoft.com>
+Subject: Re: [EXTERNAL] Re: [NIM4539667] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+ 
+Hello Monica, that would be awesome. Would 12pm work for you? 
+Thanks and Regards,
+ Fintan
+
+ 
+On Tuesday, 27 Sept 2022 at 09:17, Monica Nolan
+<monicanolan@microsoft.com> wrote:
+Hello Fintan,
+ 
+Good Morning!
+
+Definitely, we can meet over the call, but first let me know your preferred time.
+ 
+My operating hours are from Mon to Fri 10:00 AM to 7:00 PM IST, please let me know if you have questions.
+ 
+Monica Nolan
+Support Analyst
+Microsoft Azure Technical Support
+Consumer Service and Support
+ 
+ 
+monicanolan@microsoft.com
+
+If you would like to contact another Technical Support Analyst outside of my working hours, kindly send an email to azurebu@microsoft.com with your case number and availability. 
+We always welcome your feedback. Feel free to contact my manager about the level of support you have received at Evan.Daniels@microsoft.com
+
+Microsoft Azure | Azure Status | Support Programs | Open a Ticket | Privacy Policy
+ 
+From: Fintan Berger <fintanb@deploy.com> 
+Sent: Monday, September 26, 2022 1:09 PM
+To: Monica Nolan <monicanolan@microsoft.com>
+Subject: Re: [EXTERNAL] Re: [NIM4539667] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+ 
+Hello Monica, 
+
+Yes, I am having problems deploying kubenetes VM. Our target is an ML deployment to face live customers. I am fine to share the script, shall we connect over the call to sort out this problem?
+ 
+Thanks and Regards,
+ 
+Fintan
+ 
+On Mon, 26 Sept 2022 at 06:48, Monica Nolan
+<monicanolan@microsoft.com> wrote:
+Hello Fintan,
+ 
+Good Morning!
+ 
+Thanks for giving me all that info.
+ 
+I have a couple of questions regarding this.
+ 
+1. Is the VM deployed, or are you facing problems during deployment.
+ 
+2. What is the purpose of this deployment.
+ 
+3. Is this script for one VM, how many VMs deployment is happening.
+ 
+4. Are you attempting to deploy Kubernetes VM.
+ 
+5. Would you mind sharing the script with me, so can review and investigate further.
+ 
+Please let me know if you have any concerns on above or if additional info is needed.
+ 
+My operating hours are from Mon to Fri 10:00 AM to 7:00 PM IST, please let me know if you have questions.
+ 
+Monica Nolan
+Support Analyst
+Microsoft Azure Technical Support
+Consumer Service and Support
+ 
+ 
+monicanolan@microsoft.com
+
+If you would like to contact another Technical Support Analyst outside of my working hours, kindly send an email to azurebu@microsoft.com with your case number and availability. 
+We always welcome your feedback. Feel free to contact my manager about the level of support you have received at Evan.Daniels@microsoft.com
+
+Microsoft Azure | Azure Status | Support Programs | Open a Ticket | Privacy Policy
+ 
+From: Fintan Berger <fintanb@deploy.com> 
+Sent: Thursday, September 22, 2022 7:42 PM
+To: Monica Nolan <monicanolan@microsoft.com>
+Subject: Re: [EXTERNAL] Re: [NIM4539667] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+ 
+from the terminal I see this
+ 
+ResourceType     Locations     Name                    Zones    Restrictions
+---------------  ------------  ----------------------  -------  --------------
+VM CentralIndia Standard_M128           2,3      None
+VM CentralIndia Standard_M128-32ms      2,3      None
+VM CentralIndia Standard_M128-64ms      2,3      None
+VM CentralIndia Standard_M128dms_v2     2,3      None
+VM CentralIndia Standard_M128ds_v2      2,3      None
+VM CentralIndia Standard_M128m          2,3      None
+VM CentralIndia Standard_M128ms         2,3      None
+VM CentralIndia Standard_M128ms_v2      2,3      None
+VM CentralIndia Standard_M128s          2,3      None
+VM CentralIndia Standard_M128s_v2       2,3      None
+VM CentralIndia Standard_M16-4ms        2,3      None
+VM CentralIndia Standard_M16-8ms        2,3      None
+VM CentralIndia Standard_M16ms          2,3      None
+VM CentralIndia Standard_M192idms_v2    2,3      None
+VM CentralIndia Standard_M192ids_v2     2,3      None
+VM CentralIndia Standard_M192ims_v2     2,3      None
+VM CentralIndia Standard_M192is_v2      2,3      None
+VM CentralIndia Standard_M208ms_v2      3        None
+VM CentralIndia Standard_M208s_v2       3        None
+VM CentralIndia Standard_M32-16ms       2,3      None
+VM CentralIndia Standard_M32-8ms        2,3      None
+VM CentralIndia Standard_M32dms_v2      2,3      None
+VM CentralIndia Standard_M32ls          2,3      None
+VM CentralIndia Standard_M32ms          2,3      None
+VM CentralIndia Standard_M32ms_v2       2,3      None
+VM CentralIndia Standard_M32ts          2,3      None
+VM CentralIndia Standard_M416-208ms_v2  3        None
+VM CentralIndia Standard_M416-208s_v2   3        None
+VM CentralIndia Standard_M416ms_v2      3        None
+VM CentralIndia Standard_M416s_v2       3        None
+VM CentralIndia Standard_M64            2,3      None
+VM CentralIndia Standard_M64-16ms       2,3      None
+VM CentralIndia Standard_M64-32ms       2,3      None
+VM CentralIndia Standard_M64dms_v2      2,3      None
+VM CentralIndia Standard_M64ds_v2       2,3      None
+VM CentralIndia Standard_M64ls          2,3      None
+VM CentralIndia Standard_M64m           2,3      None
+VM CentralIndia Standard_M64ms          2,3      None
+VM CentralIndia Standard_M64ms_v2       2,3      None
+VM CentralIndia Standard_M64s           2,3      None
+VM CentralIndia Standard_M64s_v2        2,3      None
+VM CentralIndia Standard_M8-2ms         2,3      None
+VM CentralIndia Standard_M8-4ms         2,3      None
+VM CentralIndia Standard_M8ms           2,3      None
+ 
+On Thu, 22 Sept 2022 at 13:09, Fintan Berger <fintanb@deploy.com> wrote:
+I am unable to find azure shell on the portal? Fintan
+Creation date: 2022-09-29 15:20:34 work_notes: Hello Fintan, 
+I will move it to 2:00PM BST.
+
+Thank you, 
+
+Myla Lin
+Technical Support Analyst
+Microsoft Azure Technical Support
+
+Office: +1 752-692-0137
+mlin@microsoft.com
+Operating hours: Mon-Fri 8am   5pm Eastern (US)
+
+ 
+
+
+From: Fintan Berger <fintanb@deploy.com> 
+Sent: Wednesday, September 28, 2022 2:47 AM
+To: Microsoft Support <supportmail@microsoft.com>
+Cc: bhayden@nimbus.com; Kaya Keller
+<kaya.keller@microsoft.com>; Herman Torres
+<htorres@microsoft.com>; Myla Lin
+ <mlin@microsoft.com>
+Subject: [EXTERNAL] Re: [NIM4539667] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+
+Thank you so much Myla. Is it possible for you to contact me at 12:30PM or 2PM BST? Much appreciated, Fintan
+
+On Wed, 28 Sept 2022 at 01:24, Myla  <support@mail.support.microsoft.com> wrote:
+Hello Fintan,   
+ 
+I hope everything is fine.
+ 
+I am Myla Lin, a Technical Support Analyst  and I will be assisting you on SR 3310230050001002, I know you are facing a problem with deploying a kubernetes VM through Azure CLI after looking at the statement that you shared with us. 
+
+Kindly, let me know whether my understanding is correct or Incorrect?
+
+My working hours are from 8:00 AM - 4:00 PM EST, because of the time zone difference I have assigned a call for us for tomorrow at 8:00AM EST that will be at 1:00 PM BST for you. Kindly let me know if that works for you or you can reschedule for some other time. This call will help me familiarize myself with your issue and work out the best solution.
+I will wait for your response and can adjust my time to connect with you. 
+
+Thank you,
+ 
+Myla Lin
+    
+Technical Support Analyst
+Microsoft Azure Technical Support
+  mlin@microsoft.com
+Operating hours: Mon-Fri 8am   5pm Eastern (US)
+             
+If you would like to contact another Technical Support Analyst outside of my working hours, kindly send an email to azurebu@microsoft.com with your case number and availability. 
+We always welcome your feedback. Feel free to contact my manager about the level of support you have received at afarrell@microsoft.com
+
+Microsoft Azure | Azure Status | Support Programs | Open a Ticket | Privacy Policy
+ 
+This email has been cleared for spam and viruses by CybSecure. 
+Creation date: 2022-09-30 15:10:06 work_notes: Hello Everyone
+
+I wanted to follow up and know the status of this.
+
+Fintan, did Microsoft reach out to you as requested?
+
+Bruno
+Creation date: 2022-10-03 14:59:49 work_notes: Hello @Bruno, 
+
+I hope everything is good.
+
+The deployment problem has now been resolved but we are currently waiting for CSAM to guide the customer in the right direction to get more support on different topics.
+
+I will keep the customer in the loop.
+Thanks ,
+
+Myla Lin
+Technical Support Analyst
+Microsoft Azure Technical Support
+
+Office: +1 752-692-0137
+mlin@microsoft.com
+Operating hours: Mon-Fri 8am   5pm Eastern (US) 
+
+
+From: Bruno Hayden<BHayden@nimbus.com> 
+Sent: Sunday, October 2, 2022 7:02 AM
+To: Fintan Berger <fintanb@deploy.com>
+Cc: Myla Lin <mlin@microsoft.com>; Microsoft Support <supportmail@microsoft.com>; Kaya Keller<kaya.keller@microsoft.com>; Herman Torres <htorres@microsoft.com>
+Subject: RE: [EXTERNAL] Re: [NIM4638367] DeploymentResourceInsufficient whe... - TrackingID#3310230050001002
+
+Hello Fintan,
+
+Thanks for sharing that with me. 
+
+Myla, since this case is priority, can you share an update.
+
+Thanks,
+
+Bruno
+
+ 
+
+ Bruno Hayden
+
+
+
+
+Technical Support Analyst III
+1911 335 8309
+
+
+
+nimbus.com
+
+
+
+From: Fintan Berger <fintanb@deploy.com> 
+Sent: 02 October 2022 09:53
+To: Bruno Hayden
+ <BHayden@nimbus.com>
+Cc: Myla Lin<mlin@microsoft.com>; Microsoft Support <supportmail@microsoft.com>; Kaya Keller
+<kaya.keller@microsoft.com>; Herman Torres
+<htorres@microsoft.com>
+Subject: Re: [EXTERNAL] Re: [NIM4539667] Deployment Resource Insufficient whe... - TrackingID#3310230050001002
+
+Hello Bruno, 
+
+I haven't received any updates, still waiting. 
+
+Thanks and Regards
+
+Fintan
+
+On Thu, 29 Sept 2022 at 15:09, Bruno Hayden
+ <BHayden@nimbus.com> wrote:
+Hello Everyone,
+ 
+I wanted to follow up and ask about the status of this case.
+ 
+Fintan, did Microsoft reach out to you as requested?
+ 
+Bruno
+Creation date: 2022-10-04 15:22:51 comments: Hello Fintan,
+
+Now that this particular problem has been resolved, do you want me to go ahead and close this case?
+
+I see you sent an email to support about setting up Kubernetes, and that should solve this problem. I have told Harper that you want to call to resolve that problem.
+
+Kind Regards
+Bruno
+Creation date: 2022-10-08 11:30:30 work_notes: Ticket will close automatically after 3 days when status is resolved.
+Creation date: 2022-10-11 08:01:41 work_notes: Customer Satisfaction Survey sent  2022-10-10 01:01:00

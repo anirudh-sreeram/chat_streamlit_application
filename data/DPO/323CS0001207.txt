@@ -1,0 +1,340 @@
+A case was opened with a short description of Lynxcorp IT: Innovatec Cyber Protect Cloud, Provision Task: 3461871
+A longer description includes Provision Instance type: Deprovision, Partner Name: Lynxcorp IT, Company Name: Lynxcorp IT, Vendor: InnovaTec, Product: InnovaTec Cyber Protect Cloud, Total: 2.0000
+
+
+
+
+Creation date: 2022-09-23 14:58:47 work_notes: Terminating services on: Thu Sep 22 01:01:00 MDT 2022
+Creation date: 2022-09-23 14:58:47 work_notes: Subscription being canceled by client as a result of: Business Change: No longer Need Product
+Creation date: 2022-09-23 18:38:43 work_notes: CC Task Update: Task Status Updated to: Ready
+Creation date: 2022-09-23 18:38:59 work_notes: CC Task Update: Task Status Updated to: Complete
+Creation date: 2022-09-23 18:45:23 work_notes: From: Anaya Cameron
+Sent: Thursday, September 22, 2022 11:41 PM
+To: Aleksander Guerra <aguerra@nimbus.com>; Alexander Whitaker <Alexander.Whitaker@innovatec.com>; Larry Flores <lflores@nimbus.com>
+Cc: Kendra Rubio <Kendra.Rubio@innovatec.com>
+Subject: RE: Account Move Appeal Away - Lynxcorp IT
+
+Hi Alex x2 and Kendra!
+
+Hoping you all have had a amazing week and are having a nice Thursday.
+
+I located the deprovision task on our side (https://app.nimbus.com/provisioning-tasks/4967517), which ran and is now complete. Should I do a hard delete on my end to finish this? Kindly let me know if there are any other measures to be taken  from the Nimbus end to get this finalized.
+
+From: Aleksander Guerra <aguerra@nimbus.com> 
+Sent: Thursday, September 22, 2022 11:17 PM
+To: Alexander Whitaker <Alexander.Whitaker@innovatec.com>; Larry Flores <lflores@nimbus.com>; Anaya Cameron <acameron@nimbus.com>
+Cc: Kendra Rubio <Kendra.Rubio@innovatec.com>
+Subject: Re: Account Move Appeal Away - Lynxcorp IT
+
+Thanks, Alexander!
+
+@Larry Flores @Anaya Cameron will you be able to help here?
+
+Regards, 
+
+ 
+ Aleksander Guerra
+
+
+
+Vendor Partnerships Supervisor Americas
+(420) 664-8325
+
+
+nimbus.com
+
+
+
+
+
+From: Alexander Whitaker <Alexander.Whitaker@innovatec.com>
+Date: Thursday, September 22, 2022 at 09:08 AM
+To: Aleksander Guerra <aguerra@nimbus.com>
+Cc: Kendra Rubio <Kendra.Rubio@innovatec.com>
+Subject: [External] FW: Account Move Appeal Away - Lynxcorp IT
+Another thing for you Guerra   
+ 
+This SP (lynxcorp IT) wants to cancel their Innovatec. We would like Nimbus to cancel this SP s Innovatec in the market.  Please reach out if you have any queries. Thank you!
+ 
+ 
+ 
+Alexander Whitaker
+Alexander Whitaker|  Lead, Distribution and Collections
+Innovatec | 3  Kameron Mills Ave, Suite 581, Stromanbury, TX 31863, United States
+Mobile: +1 (564) 314-8772
+Arrange a call 
+ 
+Innovatec Cyber Cloud: Service Providers' Go-To Cyber Protection. Know More
+ 
+ 
+From: Kendra Rubio <Kendra.Rubio@innovatec.com> 
+Sent: Thursday, September 22, 2022 10:35 AM
+To: Alexander Whitaker <Alexander.Whitaker@innovatec.com>
+Cc: Sarah Chaney <Sarah.Chaney@innovatec.com>; April Shah <april.shah@innovatec.com>; Roisin Zuniga <Roisin.Zuniga@innovatec.com>
+Subject: RE: Account Move Appeal Away - Lynxcorp IT
+ 
+Hi Alexander,
+ 
+The partner verifies they would like to cancel the account with Innovatec. In March  22, he told me the downgrade to PAYG was handled by Nimbus side. 
+ 
+Kindly find attached a written verification to close the account. Once Nimbus remove the account in their market, I will send in a request for termination   can you keep me updated once it is done? 
+ 
+Warm regards,
+ 
+Kendra Rubio | Partner Success Supervisor
+Innovatec | 4325 Balistreri Way. Suite 316, Bereniceside, NC 55271
+Email: kendra.rubio@innovatec.com| Phone: +1 486 585 0128 -1710
+AVAILABLE DISCOUNT CODES
+ 
+ 
+ 
+From: Kendra Rubio 
+Sent: Wednesday, September 21, 2022 09:37 PM
+To: Alexander Whitaker <Alexander.Whitaker@innovatec.com>
+Cc: Sarah Chaney <Sarah.Chaney@innovatec.com>; April Shah <april.shah@innovatec.com>; Roisin Zuniga <Roisin.Zuniga@innovatec.com>
+Subject: RE: Account Move Appeal Away - Lynxcorp IT
+ 
+Hi Alexander,
+ 
+Grateful for the follow up. 
+ 
+I just looked at the history and it seems we did not get any requests to downgrade the account. 
+ 
+I ve worked to migrate his client to be straight with Innovatec and the tenant is now deactivated. I m not sure if the partner will continue or cease to use the platform. I ve tried to contact him but he s not responding now.  
+ 
+I will ask again to better understand their reasons: if they will quit using the service, I will request written verification in order to begin the procedure internally as well as with Nimbus. In the event they want to continue to use the platform and be on PAYG channel, I will also ask for written verification to properly downgrade the account using CBF in SFDC.
+ 
+I will keep you updated in both situations, so we can move forward in the way that makes the most sense.
+ 
+Warm regards,
+ 
+Kendra Rubio | Partner Success Supervisor
+Innovatec | 4325 Balistreri Way, Suite 316, Bereniceside, NC 55271
+Email: kendra.rubio@innovatec.com| Phone: +1 486 585 0128 -1710
+AVAILABLE DISCOUNT CODES
+ 
+ 
+From: Alexander Whitaker <Alexander.Whitaker@innovatec.com> 
+Sent: Wednesday, September 21, 2022 7:54 PM
+To: Kendra Rubio <Kendra.Rubio@innovatec.com>; Roisin Zuniga <Roisin.Zuniga@innovatec.com>
+Cc: Sarah Chaney <Sarah.Chaney@innovatec.com>;April Shah <april.shah@innovatec.com>
+Subject: FW: Account Move Appeal Away - Lynxcorp IT
+ 
+Kendra/Roisin,
+
+Can you look into this account (Lynxcorp IT).  Until March, we were charging them on a tier 2 commit in accordance with the numbers in PBI, when we started charging in accordance with usage  
+ 
+ 
+Issue is, nothing has changed in SFDC or the console. If this ended up with PayGo, a CBF should have been done to reflect the change in SF & in the console, provision should have switched them over to PayGo. Did you get a downgrade email for them back in February/March-ish from Nimbus?
+ 
+The only client under their tenant is deactivated now and just a bit over a gig of data and no workloads . PBI is also showing them as churn. We have to have Nimbus cancel in their market if they have quit using the platform. That way we have a confirmation email to officially terminate them on the inside. If that is how it is, let me know and I will speak with Nimbus to get this done. We have to be careful to follow this process so there is an audit trail.
+
+Grateful for your help.
+ 
+Regards,
+Alexander 
+Alexander Whitaker
+Alexander Whitaker|  Lead, Distribution and Collections
+Innovatec | 3  Kameron Mills Ave, Suite 581, Stromanbury, TX 31863, United States
+Mobile: +1 (564) 314-8772
+Arrange a call 
+ 
+Innovatec Cyber Cloud: Service Providers' Go-To Cyber Protection. Know More
+ 
+ 
+From: Sid Kramer <skramer@nimbus.com> 
+Sent: Wednesday, September 21, 2022 1:25 PM
+To: Alexander Whitaker <Alexander.Whitaker@innovatec.com>; Kendra Rubio <Kendra.Rubio@innovatec.com>; Roisin Zuniga <Roisin.Zuniga@innovatec.com>;April Shah <april.shah@innovatec.com>; Project-Nimbus <Project-Nimbus@innovatec.com>
+Cc: Nimbus Provisioning <provisioning@nimbus.com>; Anaya Cameron <acameron@nimbus.com>; Larry Flores <lflores@nimbus.com>
+Subject: RE: Account Move Appeal Away - Lynxcorp IT
+ 
+Hi All,
+ 
+Thanks for that Alexander, their final subscription hasn't been cancelled in Nimbus market, so looks like everything is working as it should   
+ 
+Regards,
+ 
+ 
+ 
+ Sid Kramer
+
+
+Provisioning Consultant L2
+
+(355) 684 7798
+
+
+nimbus.com
+
+
+
+
+From: Alexander Whitaker <Alexander.Whitaker@innovatec.com> 
+Sent: Wednesday, September 21, 2022 11:23 PM
+To: Sid Kramer <skramer@nimbus.com>; Kendra Rubio <Kendra.Rubio@innovatec.com>; Roisin Zuniga <Roisin.Zuniga@innovatec.com>; April Shah <april.shah@innovatec.com>; Project-Nimbus <Project-Nimbus@innovatec.com>
+Cc: Nimbus Provisioning <provisioning@nimbus.com>; Anaya Cameron <acameron@nimbus.com>; Larry Flores <lflores@nimbus.com>
+Subject: [External] RE: Account Move Appeal Away - Lynxcorp IT
+ 
+Hi all,
+ 
+Below are the stats 
+ 
+  The Commons Program Institute has been migrated and is not  under Nimbus in US5
+  Lynxcorp IT is under the Nimbus MP USD (Reseller 1070356) account in US5 and is on a tier 2 commit with Innovatec in SF.  But they have 1 client who is deactivated and only 1.97GB of storage and no workloads.  Has the service been cancelled for them in the Nimbus market?
+
+Thank you,
+Alexander 
+Alexander Whitaker
+Alexander Whitaker|  Lead, Distribution and Collections
+Innovatec | 3  Kameron Mills Ave, Suite 581, Stromanbury, TX 31863, United States
+Mobile: +1 (564) 314-8772
+Arrange a call 
+ 
+Innovatec Cyber Cloud: Service Providers' Go-To Cyber Protection. Know More
+ 
+ 
+From: Sid Kramer <skramer@nimbus.com> 
+Sent: Tuesday, September 21, 2022 1:05 PM
+To: Kendra Rubio <Kendra.Rubio@innovatec.com>; Roisin Zuniga <Roisin.Zuniga@innovatec.com>;April Shah <april.shah@innovatec.com>; Project-Nimbus <Project-Nimbus@innovatec.com>
+Cc: Nimbus Provisioning <provisioning@nimbus.com>; Anaya Cameron<acameron@nimbus.com>; Larry Flores <lflores@nimbus.com>
+Subject: RE: Account Move Appeal Away - Lynxcorp IT
+ 
+Hi Team,
+ 
+Just looking to follow up and verify this account move was finalized? Looks like this ticket fell through the cracks as there haven't been any updates from the Partner/Vendor. Just wanted to verify before I close out the ticket   
+ 
+Regards,
+ 
+ 
+ 
+ Sid Kramer
+
+
+Provisioning Consultant L2
+
+(355) 684 7798
+
+
+nimbus.com
+
+
+
+
+From: Larry Flores <lflores@nimbus.com> 
+Sent: Monday, June 13, 2022 2:33 PM
+To: Kendra Rubio <Kendra.Rubio@innovatec.com>; Roisin Zuniga <Roisin.Zuniga@innovatec.com>; April Shah <april.shah@innovatec.com>; Sid Kramer <skramer@nimbus.com>; Project-Nimbus <Project-Nimbus@innovatec.com>
+Cc: Nimbus Provisioning <provisioning@nimbus.com>; Anaya Cameron <acameron@nimbus.com>
+Subject: RE: Account Move Appeal Away - Lynxcorp IT
+ 
+Thank you for the update Kendra, kindly let us know if you need anything from our Nimbus team. 
+ 
+  Larry Flores he | him
+Provisioning Consultant, L3
+520.874.1256
+ 
+nimbus.com
+4370 Roscoe Springs Suite 450
+Alexanderstad, WY 84398
+ 
+ 
+From: Kendra Rubio <Kendra.Rubio@innovatec.com> 
+Sent: Monday, June 13, 2022 2:31 PM
+To: Roisin Zuniga <Roisin.Zuniga@innovatec.com>;April Shah <april.shah@innovatec.com>; Sid Kramer <skramer@nimbus.com>; Project-Nimbus <Project-Nimbus@innovatec.com>
+Cc: Nimbus Provisioning <provisioning@nimbus.com>; Anaya Cameron <acameron@nimbus.com>; Larry Flores <lflores@nimbus.com>
+Subject: [External] RE: Account Move Appeal Away - Lynxcorp IT
+ 
+Dear all,
+ 
+The partner verifies the client account (The Common Program) doesn t have any commitment with them. 
+ 
+We can generate a new account in US5 datacenter and port the data. 
+ 
+I'll collaborate with cloud provisioning and keep you in the loop regarding next steps or if additional info is required.
+ 
+Warm regards,
+ 
+Kendra Rubio | Partner Success Supervisor
+Innovatec | 4325 Balistreri Way, Suite 316, Bereniceside, NC 55271
+Email: kendra.rubio@innovatec.com| Phone: +1 486 585 0128 -1710
+ 
+From: Roisin Zuniga <Roisin.Zuniga@innovatec.com> 
+Sent: Wednesday, June 8, 2022 3:09 PM
+To:April Shah <april.shah@innovatec.com>; Sid Kramer <skramer@nimbus.com>; Project-Nimbus <Project-Nimbus@innovatec.com>; Kendra Rubio <Kendra.Rubio@innovatec.com>
+Cc: Nimbus Provisioning <provisioning@nimbus.com>; Anaya Cameron<acameron@nimbus.com>; Larry Flores <lflores@nimbus.com>
+Subject: RE: Account Move Appeal Away - Lynxcorp IT
+ 
+Dear all, 
+ 
+Sorry for the delay in replying. 
+ 
+Gabriela is not with Innovatec anymore. So technically this can be done. It would be a change process through standard channels.
+ 
+We need to verify with Lynxcorp IT that their client has no commitments and no outstanding balances. We also need to verify that we can port the data away.
+ 
+I will request one of PSMs reach out to the partner. 
+ 
+@Kendra, please can you reach out to the partner.
+
+Thanks
+ 
+ 
+Warm regards,
+Roisin Zuniga| Partner Success Lead, Americas | Innovatec| Office: +3 786 797 49 81 #6658 | E-mail: roisin.zuniga@innovatec.com | Skype: roisin.zuniga
+ 
+ 
+From: April Shah <april.shah@innovatec.com> 
+Sent: Tuesday, May 31, 2022 12:51 AM
+To: Sid Kramer <skramer@nimbus.com>; Project-Nimbus <Project-Nimbus@innovatec.com>; Gabriela Dia Little <Gabriela.Little@innovatec.com>
+Cc: Nimbus Provisioning <provisioning@nimbus.com>; Anaya Cameron <acameron@nimbus.com>; Larry Flores <lflores@nimbus.com>
+Subject: RE: Account Move Appeal Away - Lynxcorp IT
+ 
+Hi Sid,
+ 
+I am going to add @Gabriela Dia Little to work on this one since she is in charge of the Lynxcorp IT account. Why do they want to move away from their partner, do you know?
+ 
+Gabriela   Is this something we would usually give approval for?
+ 
+Regards, 
+ 
+April Shah | Distribution Account Supervisor
+Innovatec | 3  Kameron Mills Ave, Suite 581, Stromanbury, TX 31863
+Mobile: +1 (519) 776-3139  
+ 
+ 
+ 
+From: Sid Kramer <skramer@nimbus.com> 
+Sent: Tuesday, May 24, 2022 12:38 PM
+To: April Shah <april.shah@innovatec.com>; Project-Nimbus <Project-Nimbus@innovatec.com>
+Cc: Nimbus Provisioning <provisioning@nimbus.com>; Anaya Cameron <acameron@nimbus.com>; Larry Flores <lflores@nimbus.com>
+Subject: Account Move Appeal Away - Lynxcorp IT
+ 
+Hello April  and Team,
+ 
+Partner Lynxcorp IT submitted a request for a client account, The Commons Program, to part ways with Lynxcorp IT and go straight to Innovatec.
+ 
+Can this be done? also can this be fulfilled on US5?
+
+Kindly let me know what info is needed to accommodate this request.
+ 
+Thanks!
+ 
+ 
+  Sid Kramer
+Provisioning Consultant L2 
+Direct Line: +1 320-638-1131
+ 
+nimbus.com
+4370 Roscoe Springs Suite 450
+Alexanderstad, WY 84398
+ 
+ 
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law. Nimbus reserves all rights to confidentiality and all the privileges that may apply. 
+ 
+This email has been scanned for viruses and spam by Deflect LLC
+
+ 
+This email has been scanned for viruses and spam by Deflect LLC
+
+ 
+This email has been scanned for viruses and spam by Deflect LLC

@@ -1,0 +1,201 @@
+A case was opened with a short description of FW: [EXTERNAL] Cancel verification for the loans whose status is updated as Delinquent in system. 
+A longer description includes PRIVATE
+
+Kindly check the below response before processing.
+
+From: Niall Meyers<Niall.Meyers@indifi.com>
+Sent: Sunday, November 6, 2022 1:08 PM
+To: Malachi, Rice
+ (Assurance - Contractor) <Rice.Malachi@assurance.com>; Mason Baxter<Mason.Baxter@indifi.com
+>; Richie, Barker
+ (Assurance) <Barker.Richie@assurance.com
+>; Assurance Lender Solutions <LenderSolutions@Assurance.com>
+Subject: RE: [EXTERNAL] Cancel verification for the loans whose status is updated as Delinquent in system. 
+
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+Hello,
+
+Full loan has been paid on 11/02/2022 and no claim will be filed on it. Kindly cancel the certificate. 
+
+Thanks & Regards
+
+Niall Meyers
+Nochex Insurance PMI
+
+Valiant Mortgage, Inc.
+3091, Brundavan Apartments,
+Chicago, US-20 #102
+O: 958-550-8411 ext 9162
+F: 958-778-8767
+
+[signature_2148808010]
+
+
+
+From: Malachi, Rice(Assurance - Contractor) <Rice.Malachi@assurance.com<mailto:Rice.Malachi@assurance.com>>
+Sent: Sunday, November 6, 2022 11:59 PM
+To: Niall Meyers
+ <Niall.Meyers@indifi.com<mailto:Niall.Meyers@indifi.com>>; Mason Baxter
+ <Mason.Baxter@indifi.com<mailto:Mason.Baxter@indifi.com
+>>; Richie, Barker
+ (Assurance) <Barker.Richie@assurance.com<mailto:Barker.Richie@assurance.com
+>>; Assurance Lender Solutions<LenderSolutions@Assurance.com<mailto:LenderSolutions@Assurance.com>>
+Cc: Malachi, Rice
+ (Assurance - Contractor) <Rice.Malachi@assurance.com<mailto:Rice.Malachi@assurance.com>>
+
+Subject: [EXTERNAL] Cancel verification for the loans whose status is updated as Delinquent in system. 
+Importance: High
+
+
+PRIVATE
+
+
+Hello,
+
+
+
+The loans which are updated as delinquent in our system just came to us for cancellation and we out them on hold for cancellation. Could you please confirm me whether they are really updated us for cancellation, If so we will cancel them today or verify if any claim is filed on them?
+
+CERTIFICATE_NUMBER
+Loan Number
+ASSIGNMENT_NAME
+Assignment_age
+ASSIGNMENT_INFO.
+received_at
+USER_ID
+ROOT_TYPE
+SERVICING_ORG_ID
+SERVICING_ORG_NAME
+CANCELLATION_REASON
+CANCELLATION_DESCRIPTION
+7588114673
+36694521
+DELINQUENCY
+4
+["Delq CAT 11"]
+11/24/2022
+
+FDM
+C333333IUS
+VALIANT MORTGAGE, INC.
+C - Lender Request
+2   Paid all
+
+Thanks & Regards
+
+Christine Schaefer
+Lender Solutions Team
+54 Jennifer Lane,
+North Carolina, Raleigh, NC 27601
+Phone:  911-400-7858
+lendersolutions@Assurance.com<mailto:lendersolutions@Assurance.com>
+
+
+
+________________________________
+This e-mail along with any attached files may contain privileged and confidential information, and it is intended solely for the specified recipient. If you have received this e-mail unintentionally, kindly inform the sender immediately. Please be aware that the confidentiality, privileges, and copyright associated with this e-mail remain intact, even if it was sent to you in error. It is your responsibility to ensure that this e-mail and its attachments are free from viruses or any other imperfection. We cannot guarantee that this material is devoid of computer viruses or other flaws. The sender is not liable for any legal issues or damage resulting from use of this material. Their responsibility is limited to providing the material once again.________________________________
+
+
+
+
+Creation date: 2022-11-07 19:17:03 comments: visitor 11/06/2022 13:17:03
+received from: christine.schaefer@assurance.com
+
+PRIVATE
+
+Kindly check the below response before processing.
+
+From: Niall Meyers<Niall.Meyers@indifi.com>
+Sent: Sunday, November 6, 2022 1:08 PM
+To: Malachi, Rice
+ (Assurance - Contractor) <Rice.Malachi@assurance.com>; Mason Baxter<Mason.Baxter@indifi.com
+>; Richie, Barker
+ (Assurance) <Barker.Richie@assurance.com
+>; Assurance Lender Solutions <LenderSolutions@Assurance.com>
+Subject: RE: [EXTERNAL] Cancel verification for the loans whose status is updated as Delinquent in system. 
+
+
+WARNING: This email comes from an external source, so please exercise caution and refrain from clicking on any links or opening attachments unless you can identify the sender and are confident the content is secure.
+
+Hello,
+
+Full loan has been paid on 11/02/2022 and no claim will be filed on it. Kindly cancel the certificate. 
+
+Thanks & Regards
+
+Niall Meyers
+Nochex Insurance PMI
+
+Valiant Mortgage, Inc.
+3091, Brundavan Apartments,
+Chicago, US-20 #102
+O: 958-550-8411 ext 9162
+F: 958-778-8767
+
+[signature_2148808010]
+
+
+
+From: Malachi, Rice(Assurance - Contractor) <Rice.Malachi@assurance.com<mailto:Rice.Malachi@assurance.com>>
+Sent: Sunday, November 6, 2022 11:59 PM
+To: Niall Meyers
+ <Niall.Meyers@indifi.com<mailto:Niall.Meyers@indifi.com>>; Mason Baxter
+ <Mason.Baxter@indifi.com<mailto:Mason.Baxter@indifi.com
+>>; Richie, Barker
+ (Assurance) <Barker.Richie@assurance.com<mailto:Barker.Richie@assurance.com
+>>; Assurance Lender Solutions<LenderSolutions@Assurance.com<mailto:LenderSolutions@Assurance.com>>
+Cc: Malachi, Rice
+ (Assurance - Contractor) <Rice.Malachi@assurance.com<mailto:Rice.Malachi@assurance.com>>
+
+Subject: [EXTERNAL] Cancel verification for the loans whose status is updated as Delinquent in system. 
+Importance: High
+
+
+PRIVATE
+
+
+Hello,
+
+
+The loans which are updated as delinquent in our system just came to us for cancellation and we out them on hold for cancellation. Could you please confirm me whether they are really updated us for cancellation, If so we will cancel them today or verify if any claim is filed on them?
+
+CERTIFICATE_NUMBER
+Loan Number
+ASSIGNMENT_NAME
+Assignment_age
+ASSIGNMENT_INFO.
+received_at
+USER_ID
+ROOT_TYPE
+SERVICING_ORG_ID
+SERVICING_ORG_NAME
+CANCELLATION_REASON
+CANCELLATION_DESCRIPTION
+7588114673
+36694521
+DELINQUENCY
+4
+["Delq CAT 11"]
+11/24/2022
+
+FDM
+C333333IUS
+VALIANT MORTGAGE, INC.
+C - Lender Request
+2   Paid all
+
+Thanks & Regards
+
+Christine Schaefer
+Lender Solutions Team
+54 Jennifer Lane,
+North Carolina, Raleigh, NC 27601
+Phone:  911-400-7858
+lendersolutions@Assurance.com<mailto:lendersolutions@Assurance.com>
+
+
+
+________________________________
+This e-mail along with any attached files may contain privileged and confidential information, and it is intended solely for the specified recipient. If you have received this e-mail unintentionally, kindly inform the sender immediately. Please be aware that the confidentiality, privileges, and copyright associated with this e-mail remain intact, even if it was sent to you in error. It is your responsibility to ensure that this e-mail and its attachments are free from viruses or any other imperfection. We cannot guarantee that this material is devoid of computer viruses or other flaws. The sender is not liable for any legal issues or damage resulting from use of this material. Their responsibility is limited to providing the material once again.________________________________

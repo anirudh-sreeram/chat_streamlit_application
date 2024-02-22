@@ -1,0 +1,133 @@
+A case was opened with a short description of Create a Termination Correction ticket
+A longer description includes Hi.  I used SAP to file a termination, however I typed the last Day Worked incorrectly. Can I make the date correction?  Thanks.
+10/7/2022 should be the Last Day of Work.  By accident, I inserted today's date.
+
+
+
+
+Creation date: 2022-10-11 15:07:15 comments: Hi.  I have filed a termination using SAP and when I entered the Last Day Worked, I entered it incorrectly. Can I make the date correction?  Thanks.
+Creation date: 2022-10-11 15:07:16 comments: We appreciate you for contacting HR assistance. I'm going through your query right now and will get back to you soon.
+Creation date: 2022-10-11 15:07:17 comments: Hi Mike, 
+I hope everything is going good
+Creation date: 2022-10-11 15:07:18 comments: Okay, let's check
+Creation date: 2022-10-11 15:07:19 comments: please Can I know name of the employees
+Creation date: 2022-10-11 15:07:20 comments: Ada Duke
+Creation date: 2022-10-11 15:07:21 comments: I have one more query... Nevertheless the worker's benefits are still active at the end of the month 10November 30, 2022)?
+Creation date: 2022-10-11 15:07:21 comments: Thanks
+Creation date: 2022-10-11 15:07:22 comments: I what would be the last day of work?
+I noticed that the dates are identical, normally we advise those 3 dates to match
+Creation date: 2022-10-11 15:07:23 comments: Termination Date
+Last Day of Work
+Pay Through Date
+Creation date: 2022-10-11 15:07:24 comments: Last Working Day must be 10/7/2022.  Accidentally, I inserted today's date
+Creation date: 2022-10-11 15:07:25 comments: And the end date is 11/12 right?
+Creation date: 2022-10-11 15:07:26 comments: Correct, the 11/12 termination date is accurate.
+Creation date: 2022-10-11 15:07:27 comments: Okay, I'll get the necessary approvals for the changes, and we'll Keep you updated on the case's status
+Creation date: 2022-10-11 15:07:28 comments: Changes can only be made by the SAP team, now that the termination task has been finished
+Creation date: 2022-10-11 15:09:23 comments: That's correct, coverage expires on the final day of the month wherein you (employee) will resign.
+Creation date: 2022-10-11 15:10:54 comments: How else can I assist you today?
+Creation date: 2022-10-11 15:16:16 comments: The ticket is ready, and we will continue to keep you informed of any changes
+Creation date: 2022-10-11 15:17:02 comments: No, now is not a good time.  Thanks.
+Creation date: 2022-10-11 15:17:09 comments: Okay
+Creation date: 2022-10-11 15:17:13 comments: You're welcome
+Creation date: 2022-10-11 15:17:18 comments: Have an amazing day!
+Creation date: 2022-10-11 16:11:22 work_notes: Sent the HRC approval email 
+Creation date: 2022-10-11 18:56:32 work_notes: HRC approved 
+From: Rivas, Kieran <Kieran.Rivas@stryker.com> 
+Sent: Wednesday, November 12, 2022 12:32 PM
+To: Davila, Cassie <Cassie.Davila@stryker.com>
+Subject: RE: Termination Correction Ada Duke 15508703
+
+approved
+
+From: Davila, Cassie <Cassie.Davila@stryker.com> 
+Sent: Wednesday, November 12, 2022 12:12 PM
+To: Rivas, Kieran <Kieran.Rivas@stryker.com>
+Subject: Termination Correction for Ada Duke 15508703
+Importance: High
+
+Hi Kieran, 
+
+I hope this morning is going really well for you. Mike is asking to have the last day of Work that he entered for Ada's termination to be corrected. He told us that he entered the wrong information.
+The following dates should be used 
+Termination Date
+11/12/2022
+Last Day of Work
+10/7/2022
+Pay Through Date
+11/12/2022
+Tell me whether we have your permission to move forward, please.
+Thanks a lot. 
+
+
+ Best wishes,
+Creation date: 2022-10-11 19:03:06 work_notes: From: Davila, Cassie 
+Sent: Wednesday, November 12, 2022 1:03 PM
+To: 'Japan.payrolldepartment@stryker.com' <Japan.PayrollDepartment@stryker.com>; 'endou755@stryker.com' <endou755@stryker.com>
+Subject: Termination dates for Ada Duke
+
+Hi team,
+
+kindly note the employee Ada Duke's (EE ID: 15508703) last day of employment has been changed to 10/7. The following are the changed dates:
+ Termination Date
+11/12/2022
+Last Day of Work
+10/7/2022
+Pay Through Date
+11/12/2022
+In regards to her benefits and payment concerns, you keep this in mind.
+ 
+Warm regards,
+Cassie D | GBP HR Services - Japan
+Creation date: 2022-10-11 19:03:18 work_notes: Hello team, 
+
+I hope today is going well for you. Could you kindly assist us with the following request?
+
+I'm grateful in advance.
+ 
+EE Name: Ada Duke
+EE ID: 15508703
+
+Research completed:  The manager made submitted the dates incorrectly
+
+What must be done, what problem or issue has to be resolved: Please update Ada's termination task dates. 
+The following dates should be used.
+Termination Date
+11/12/2022
+Last Day of Work
+10/7/2022
+Pay Through Date
+11/12/2022
+
+Approval: HRC Kieran Rivas has approved, approval below
+
+urgency level reason : High
+
+On behalf of the GBP HR Services   Japan
+Creation date: 2022-10-11 19:03:18 comments: Hi Mike,
+
+I hope today is going really well for you. We appreciate you contacting Stryker HR. 
+
+Kindly note that our SAP consultants have escalated your issue and are presently looking into it because of the importance of your query. We'll continuously follow up with your case and try to get back to you with a resolution in the next 2-3 business days.
+
+Thank you,
+Cassie D | GBP HR Services   Japan
+Creation date: 2022-10-11 19:13:17 work_notes: Updated the close notes. 'Updated the termination dates' was replaced from Empty.
+Creation date: 2022-10-11 19:13:17 comments: Hi Mike - In accordance with your request, I have changed Ada 's last day of employment to 10/07.
+
+I'll go ahead and mark this ticket as "Solution Proposed" as HRIP doesn't need to do anything else at this time.
+
+The ticket will not be able to be reopened and you will get a customer satisfaction if the following email is not answered within 4 days, stating whether or not we resolved your problem. We will be very grateful if you could give us your insightful feedback. We are continually striving to enhance your experience with us because we value your feedback. In the event that there is anything further we can do to help, don't hesitate to contact the GBP HR site.
+
+
+Regards,
+
+Gary Harman
+
+HRIP SAP Team
+Creation date: 2022-10-11 19:13:17 work_notes: Hi Mike - In accordance with your request, I have changed Ada 's last day of employment to 10/07.
+Creation date: 2022-10-11 19:21:03 work_notes: Yes - my problem has been fixed
+
+reply from: Mike.Davila@stryker.com
+Yes - my problem has been fixed
+null

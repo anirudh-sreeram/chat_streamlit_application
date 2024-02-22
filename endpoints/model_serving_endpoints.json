@@ -1,0 +1,107 @@
+{
+    "NOW_LLM_llama13b_convclass_dpo_12723_nonpairwise_loss": {
+        "url": "https://e8fc2164-1b1e-4d0d-8e0f-db5edc69c538-8080.job.console.elementai.com/generate",
+        "Authorization": "Bearer 8o30OElfDYV_D6YbbznT0A:GDC2BsXIfSdfjv9iWka3V4MkazpvHfe0cCwXohzbP0Q",
+        "Content-Type": "application/json",
+        "formatter": "dummy_formatter",
+        "chat_formatter": "dummy_formatter",
+        "server": "huggingface_server",
+        "prompt_tags": {
+            "user": "<|user|>\n",
+            "context": "<|system|>\n",
+            "robot": "<|assistant|>\n",
+            "end": "<|end|>\n"
+        },
+        "timeout": 20
+    },
+    "NOW_LLM_llama13b_v0_4_091223_targetonly_loss": {
+        "url": "https://1aa5a816-2ae2-4ed8-ba8b-03784c3b3125-8080.job.console.elementai.com/generate",
+        "Authorization": "Bearer 8o30OElfDYV_D6YbbznT0A:GDC2BsXIfSdfjv9iWka3V4MkazpvHfe0cCwXohzbP0Q",
+        "Content-Type": "application/json",
+        "formatter": "dummy_formatter",
+        "chat_formatter": "dummy_formatter",
+        "server": "huggingface_server",
+        "prompt_tags": {
+            "user": "<|user|>\n",
+            "context": "<|system|>\n",
+            "robot": "<|assistant|>\n",
+            "end": "<|end|>\n"
+        },
+        "timeout": 20
+    },
+    "NOW_LLM_llama13b_112923": {
+        "url": "https://2eaabe87-3e08-43d4-81c9-6c35a5aaf528-8080.job.console.elementai.com/generate",
+        "Authorization": "Bearer 8o30OElfDYV_D6YbbznT0A:GDC2BsXIfSdfjv9iWka3V4MkazpvHfe0cCwXohzbP0Q",
+        "Content-Type": "application/json",
+        "formatter": "dummy_formatter",
+        "chat_formatter": "dummy_formatter",
+        "server": "huggingface_server",
+        "prompt_tags": {
+            "user": "<|user|>\n",
+            "context": "<|system|>\n",
+            "robot": "<|assistant|>\n",
+            "end": "<|end|>\n"
+        },
+        "timeout": 20
+    },
+    "NOW_LLM_llama13b_convclass_dpo_121123_nonpairwise_loss": {
+        "url": "https://c1bffe54-6046-4ab1-985c-414d1c1cff9c-8080.job.console.elementai.com/generate",
+        "Authorization": "Bearer 8o30OElfDYV_D6YbbznT0A:GDC2BsXIfSdfjv9iWka3V4MkazpvHfe0cCwXohzbP0Q",
+        "Content-Type": "application/json",
+        "formatter": "dummy_formatter",
+        "chat_formatter": "dummy_formatter",
+        "server": "huggingface_server",
+        "prompt_tags": {
+            "user": "<|user|>\n",
+            "context": "<|system|>\n",
+            "robot": "<|assistant|>\n",
+            "end": "<|end|>\n"
+        },
+        "timeout": 20
+    },
+    "Mistral_mixtral_7Bx8_instruction": {
+        "url": "https://1bb8635a-bd83-4884-9da4-1cebb8365629-8080.job.console.elementai.com/generate",
+        "Authorization": "Bearer 8o30OElfDYV_D6YbbznT0A:GDC2BsXIfSdfjv9iWka3V4MkazpvHfe0cCwXohzbP0Q",
+        "Content-Type": "application/json",
+        "formatter": "dummy_formatter",
+        "chat_formatter": "dummy_formatter",
+        "server": "huggingface_server",
+        "prompt_tags": {
+            "user": "[USER]\n",
+            "context": "[SYSTEM]\n",
+            "robot": "[ASSISTANT]\n",
+            "end": "\n"
+        },
+        "timeout": 20
+    },
+    "NOW_LLM_Mistral7b_12_20_23_neftune15": {
+        "url": "https://06e39601-6e8b-4113-970d-ae61a03b3b99-8080.job.console.elementai.com/generate",
+        "Authorization": "Bearer 8o30OElfDYV_D6YbbznT0A:GDC2BsXIfSdfjv9iWka3V4MkazpvHfe0cCwXohzbP0Q",
+        "Content-Type": "application/json",
+        "formatter": "dummy_formatter",
+        "chat_formatter": "dummy_formatter",
+        "server": "huggingface_server",
+        "prompt_tags": {
+            "user": "<|user|>\n",
+            "context": "<|system|>\n",
+            "robot": "<|assistant|>\n",
+            "end": "<|end|>\n"
+        },
+        "timeout": 20
+    },
+    "NOW_LLM_llama13b_skill_discovery_010724_sn": {
+        "url": "https://87eefdea-44aa-473b-8b05-b05ecb702ced-8080.job.console.elementai.com/generate",
+        "Authorization": "Bearer 8o30OElfDYV_D6YbbznT0A:GDC2BsXIfSdfjv9iWka3V4MkazpvHfe0cCwXohzbP0Q",
+        "Content-Type": "application/json",
+        "formatter": "dummy_formatter",
+        "chat_formatter": "dummy_formatter",
+        "server": "huggingface_server",
+        "prompt_tags": {
+            "user": "<|user|>\n",
+            "context": "<|system|>\n",
+            "robot": "<|assistant|>\n",
+            "end": "<|end|>\n"
+        },
+        "timeout": 20
+    }
+}

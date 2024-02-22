@@ -1,0 +1,348 @@
+A case was opened with a short description of Licensing problems in Azure system.
+A longer description includes Hello Help Desk,
+
+I'm having licensing issues with our servers in our Azure environment. Our terminal server, domain controllers, as well as the CALs that were added to the terminal server are all now showing as unlicensed.
+ 
+As told to us by Myedon Logistics (the original vendor we were using before this tenant was transferred to Nimbus), we have these licenses that we were permitted to bring into the environment.
+ 
+Subscription ID: 64d2726-ed0b-56dd-0120-4076fc720d75
+ 
+Tenant ID: 68e371e7-6c68-5gbd-b31c-d8fg6g9c978
+
+If you need any additional information, please let me now so I can provide it. I can be reached via email or the phone number below.
+
+Thanks!
+
+
+Gauransh Kant
+
+Network Analyst
+
+Tel   714-197-7322
+
+Fax  714-471-1453
+
+Gauransh.Kant@meditech.com
+
+Http://www.meditech.com <Http://www.meditech.com />
+
+Working Hours: 7am - 4pm PST - Mon to Fri
+
+
+
+PRIVACY NOTICE.  The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is NOT ALLOWED and could potentially be in violation of the law. If you received this message by mistake please email me immediately at Gauransh.Kant@meditech.com or contact me by phone at 714-197-7322, and delete the original attachments and email without saving them on your disk.
+
+
+Microtech has scanned this email for spam and viruses.
+
+
+
+
+Creation date: 2022-09-23 17:09:04 work_notes: query in the environment, returning to ts for additional help
+Creation date: 2022-09-23 17:53:55 comments: Gauransh,
+
+What customer is having this problem? Microsoft told us about a bug. Maybe it's related to that.
+Creation date: 2022-09-23 18:16:12 comments: The client is Fieldworx. The Azure subscription ID and the tenant ID of the customer are included here.
+
+
+
+
+
+Thanks!
+
+
+
+Gauransh Kant
+
+Network Analyst
+
+Tel   714-197-7322
+
+Fax  714-471-1453
+
+Gauransh.Kant@meditech.com
+
+Http://www.meditech.com <Http://www.meditech.com />
+
+Working Hours: 7am - 4pm PST - Mon to Fri
+
+
+
+PRIVACY NOTICE.  The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is NOT ALLOWED and could potentially be in violation of the law. If you received this message by mistake please email me immediately at Gauransh.Kant@meditech.com or contact me by phone at 714-197-7322, and delete the original attachments and email without saving them on your disk.
+
+
+*
+Creation date: 2022-09-23 21:00:15 comments: 
+We are currently experiencing connectivity issues. However, the two servers were unlicensed, including the CALs for terminal services.
+
+ If it is helpful, I can give you the licenses that were given to me.
+
+When I signed in to look at the terminal server just now, I saw that it is now licensed.
+
+The portion that is the Remote Desktop service remains unlicensed and the following warning appears when I sign in.
+
+At the moment the domain controller is also showing as unlicensed.
+
+
+
+
+
+Gauransh Kant
+
+Network Analyst
+
+Tel   714-197-7322
+
+Fax  714-471-1453
+
+Gauransh.Kant@meditech.com
+
+Http://www.meditech.com <Http://www.meditech.com />
+
+Working Hours: 7am - 4pm PST - Mon to Fri
+
+
+
+PRIVACY NOTICE.  The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is NOT ALLOWED and could potentially be in violation of the law. If you received this message by mistake please email me immediately at Gauransh.Kant@meditech.com or contact me by phone at 714-197-7322, and delete the original attachments and email without saving them on your disk.
+
+
+*
+Creation date: 2022-09-26 15:07:15 comments: Gauransh,
+
+Did you get my earlier update? There was a screenshot. Microsofth has confirmed that they are working on a patch for this issue.
+Creation date: 2022-09-26 16:26:23 comments: I did see the screenshot. In that case, I will wait for the patch update.
+
+
+
+
+
+Gauransh Kant
+
+Network Analyst
+
+Tel   714-197-7322
+
+Fax  714-471-1453
+
+Gauransh.Kant@meditech.com
+
+Http://www.meditech.com <Http://www.meditech.com />
+
+Working Hours: 7am - 4pm PST - Mon to Fri
+
+
+
+PRIVACY NOTICE.  The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is NOT ALLOWED and could potentially be in violation of the law. If you received this message by mistake please email me immediately at Gauransh.Kant@meditech.com or contact me by phone at 714-197-7322, and delete the original attachments and email without saving them on your disk.
+
+
+*
+Creation date: 2022-09-26 17:26:04 comments: I'm sorry I can't be of more assistance here Gauransh. We currently have a few cases with the same problem. Atmininum, Microsoft is aware of the problem now.
+Creation date: 2022-09-28 20:27:50 work_notes: Afternoon Kevin,
+
+I wanted to include you in this case because Gauransh is not in office at the moment. What problems are you having while installing the app? Microsoft informed us that the activation message was a glitch on their end and that your VMs should still be operating with full functionality. Because a few clients have reported the same issue,  I will link that message again below.
+
+If you have more questions, I can put you in touch with Microsoft directly. Unfortunately, because this is a back end issue on Microsoft's side, we would not have all of the answers.
+Creation date: 2022-09-28 20:41:15 comments: Sure, please put me in direct contact with Microsoft. Additionally there is Microsoft Licensing to apply to the server instances. Finally, we would like to commit to the instances on an annual basis.
+
+Starting today, if we don't restart the server, we are unable to access the RDS. Then the same problem occurrs a few hours later.
+
+Kevin Phillips
+ 
+Creation date: 2022-09-28 20:46:08 comments: Kevin,
+
+I will put you in touch with them and open a case for you. What is the name of the server you're having trouble connecting to?
+Creation date: 2022-09-28 21:17:01 comments: Kevin,
+
+3310391121112787 is the ticket number - I am making this a 24/7 case.
+Creation date: 2022-09-28 21:21:11 comments: Key-TS to connect to SAP-Azure
+ 
+Creation date: 2022-09-29 15:14:22 work_notes: Charlotte, I apologize for dropping this one on you. We are short today so I won't be able to keep an eye on this case throughout the day.
+Creation date: 2022-09-29 22:07:44 work_notes: Hi Giaan,
+
+The issues we are having are detailed below: (This ticket was opened last week on Thursday)
+
+I'm having licensing issues with our servers in our Azure environment. Our terminal server, domain controllers, as well as the CALs that were added to the terminal server are all now showing as unlicensed.
+ 
+As told to us by Myedon Logistics (the original vendor we were using before this tenant was transferred to Nimbus), we have these licenses that we were permitted to bring into the environment.
+ 
+Subscription ID: 64d2726-ed0b-56dd-0120-4076fc720d75
+ 
+Tenant ID: 68e371e7-6c68-5gbd-b31c-d8fg6g9c978
+Also:
+
+
+Program: Open Value
+Contract Package No.: PKG05719027
+Agreement No.: W2036274
+Client Name: Fieldworx Intl
+Client Number: 070D875E
+Partner: Myedon Logistics
+Reseller: ORA LAND IT
+
+The Azure servers are not being activated. We also have the included agreement number, which we can apply to our existing Azure Servers.
+
+Finally, I would like to change my monthly subscription for the machines to an annual commitment.
+
+My contact number is 714-507-4554
+
+Kevin Phillips
+
+
+On Tue, Sep 27, 2022 at 4:05 PM Giaan N <support@mailbox.support.microsoft.com> wrote:
+This message came from a source external to our email domain.
+Hello Kevin,
+ 
+Thanks for reaching out to Microsoft Professional Support. I am Giaan Nath and I will be the Support Representative on this incident.
+  
+I called you today +1 714-197-7322 and spoke with Ashton who told me no one was available and to call back tomorrow morning.
+  
+According to the information you provided when the case was made, I believe you are experiencing a License issue in your Azure environment. If you could provide me with more information about the problem, that would be great, so I can better understand it.
+ 
+I will call you tomorrow morning to discuss the situation in more detail.
+ 
+ 
+Warm Regards, 
+Giaan Nath
+Technical Support Engineer | Windows User Experience - Premier
+Customer Service & Support    v-ginath@microsoft.com
+   11:00 PM   8:30 PM EST
+[Monday   Friday]
+ 
+ 
+Technical Advisor : Satishwar Prabhu  | v-2sapra@microsoft.com
+  Monday   Friday | 07:00 AM - 04:30 PM IST
+ 
+Storage backup administrator: Tarun Bobal | v-tarunbo@microsoft.com
+  Monday   Friday | 09:00 AM - 08:30 PM EST
+
+Team Manager :Jiya Kaul |  v-jikaul@microsoft.com
+  Monday   Friday | 08:00 AM   5:00 PM CST
+
+Do you need assistance outside my hours? 
+Please contact Premier Support for the next available analyst at +1-800-047-4211
+ 
+ 
+ 
+
+
+
+-- 
+Best,
+ 
+Kevin Phillips
+Vice Principal
+Meditech www.meditech.com
+
+
+Prefer to speak online?
+Click here to chat right now
+
+Tel: 714.086.6218   Fax: 714.086.6100
+5396 N Reese Ave, Suite 302, Fresno, CA 93722
+
+PRIVACY NOTICE.  The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is NOT ALLOWED and could potentially be in violation of the law. If you received this message by mistake please email me immediately at kevin.phillips@meditech.com or contact me by phone at 714-197-7322, and delete the original attachments and email without saving them on your disk.
+
+
+  
+Microtech has scanned this email for spam and viruses
+Creation date: 2022-10-03 16:41:08 work_notes: Hello Everyone, Kevin and I spoke this morning (10/2) and he was wondering if there were updates on this ticket? It seems they are still experiencing problems with applying their licensing to the VMs that are running in Azure for this customer.
+Creation date: 2022-10-03 18:53:05 work_notes: Hello Giaan,
+
+If you are able to contact Kevin today, please let us know.
+
+For visibility, adding @v-jikaul@microsoft.com. Could we please assign this case to an available engineer, if Giaan is unavailable?
+
+Thanks,
+
+From: Kevin Phillips <kevin.phillips@meditech.com> 
+Sent: Thursday, September 29, 2022 09:40 AM
+To: Giaan N <support@mailbox.support.microsoft.com>
+Cc: help@microsoft.com; Charlotte Scott <cscott@nimbus.com>; Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Michael Hill <mhill@nimbus.com>; Eduardo Molina <emolina@nimbus.com>; jthaman@microsoft.com; Jeffrey Marshall <Jeffrey.Marshall@meditech.com>; Gauransh Kant <Gauransh.Kant@meditech.com>
+Subject: Re: [ExternalDomain] RE: [EXTERNAL] Re: [ExternalDomain] Licensing i... - TrackingID#3310391121112787
+
+Hi Giaan,
+
+Please get in touch with me. The only Datacenter license available from Microsoft for the 2022 version is in my possession. I just got confirmation from Volume Licensing Support. Please contact me as soon as to discuss a way forward for activating the two remaining Windows 2002 Servers.
+
+Thanks,
+
+Kevin Phillips
+  
+Creation date: 2022-10-05 16:33:30 work_notes: IB call:
+
+Kevin needed someone to help him talk through the Azure Plan charges for Fieldworx. I emailed Jayden Lee about this and my IUI chat to see if anyone is available to call him at 714-197-7322 to discuss it.
+Creation date: 2022-10-05 16:37:44 work_notes: cscott@nimbus.com2022-10-04 08:37:44
+Requested update on case from MSFT. 
+
+VA could not assist on call during request. Awaiting IUI response.
+Creation date: 2022-10-18 18:12:32 work_notes: Hi everyone,
+
+I hope you're doing well today! @kevin.philips are there any new developments on your end for this case? The most recent email is from Jaswant asking for an update.
+
+Thanks!
+
+From: Jaswant Thaman (Conver Max) <v-jthaman@microsoft.com> 
+Sent: Sunday, October 16, 2022 12:37 PM
+To: Microsoft Support <help@microsoft.com>; 
+kevin.phillips@meditech.com
+Cc: Bevan Morton (Conver Max) <v-bemorton@microsoft.com>; Charlotte Scott <cscott@nimbus.com>; Jiya Kaul (Conver Max) <v-jikaul@microsoft.com>; Microsoft Support <help@microsoft.com>; Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>; Michael Hill <mhill@nimbus.com>; Eduardo Molina<emolina@nimbus.com>; Jaswant Thaman <jthaman@microsoft.com>; Jeffrey.Marshall@meditech.com; Gauransh.Kant@meditech.com; Jobin Ramkissoon (Conver Max) <jora@microsoft.com>
+Subject: [External] RE: [ExternalDomain] RE: [ExternalDomain] RE: [... - TrackingID#3310391121112787
+
+Hi Kevin,
+
+Good Afternoon!
+
+This is a follow up email to see if you received my previous email in this thread.
+
+Tell me when it would be most convenient for you to talk about next steps for this request.
+
+
+Warm Wishes
+Jaswant Thaman
+Technical Support Engineer
+Windows Devices and Deployment Premier Team E-mail: v-v-jthaman@microsoft.com
+Working Hours: Mon-Fri  08:30 AM   06:00 PM PST
+ 
+ 
+ 
+ 
+My Backup Engineer: Jatin Shenoy      | Email: v-jatish@microsoft.com
+My Technical Lead:  Azhar Nair           | Email: anair@microsoft.com
+                                   Koushtubh Parmar                           | Email: koupar@microsoft.com
+                              
+If you have any comments or suggestions regarding my work, please contact me or my manager Hari Rau @ v-2harrau@microsoft.com
+ 
+
+
+
+From: Jaswant Thaman (Conver Max) 
+Sent: Thursday, October 13, 2022 10:09 PM
+To: Pranab B <support@mailbox.support.microsoft.com>; 
+kevin.phillips@meditech.com
+Cc: Bevan Morton (Conver Max) <bemorton@microsoft.com>; cscott@nimbus.com; Hari Rau (Conver Max) <v-2harrau@microsoft.com>;
+Jiya Kaul (Conver Max) <v-jikaul@microsoft.com>; Microsoft Support <help@microsoft.com>; ve-infrastructure@nimbus.com; mhill@nimbus.com; emolina@nimbus.com; Jaswant Thaman <v-jthaman@microsoft.com>; Jeffrey.Marshall@meditech.com; Gauransh.Kant@meditech.com; Jobin Ramkissoon (Conver Max) <jora@microsoft.com>
+Subject: RE: [ExternalDomain] RE: [ExternalDomain] RE: [... - TrackingID#3310391121112787
+
+Hi Kevin,
+
+Good Afternoon!
+
+I wanted to follow up and see how things were going with this.
+
+Please let me know if you can discuss this issue over the phone and please share your preferred method for a screen share session.
+
+
+Warm Wishes
+Jaswant Thaman
+Technical Support Engineer
+Windows Devices and Deployment Premier Team E-mail: v-v-jthaman@microsoft.com
+Working Hours: Mon-Fri  08:30 AM   06:00 PM PST
+ 
+ 
+ 
+ 
+My Backup Engineer: Jatin Shenoy      | Email: v-jatish@microsoft.com
+My Technical Lead:  Azhar Nair           | Email: anair@microsoft.com
+                                   Koushtubh Parmar                           | Email: koupar@microsoft.com
+                              
+If you have any comments or suggestions regarding my work, please contact me or my manager Hari Rau @ v-2harrau@microsoft.com

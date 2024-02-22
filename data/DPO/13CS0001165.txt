@@ -1,0 +1,214 @@
+A case was opened with a short description of Use Mailmate Login
+A longer description includes I m not sure if you can assist with this, but I have a user who can log into OWA, I recently reset her password, but Mailmate will not connect on her IOS phone nor on her desktop. She has a Business Standard license and the most recent version of Microsoft Office installed. She has no issue accessing the web, but when I try to set up a new profile in Mail, it asks for login credentials and never accepts them.
+
+This should not be a policy driven issue because this started on Wednesday or Thursday of last week. Unless MS changed something, I should have other people reporting similar problems then, but I only see her reporting problems.
+
+Any assistance is greatly appreciated.
+
+[A description of a person smiling for the camera was generated automatically]
+Jayden Morgan
+Sr Operational Manager
+Timport Technologies
+
+Phone: 830.621.4811
+Mobile: 830.439. 3345
+Email: jmorganconsult@timport.com<mailto:jmorganconsult@timport.com>
+
+825 W Ketchie St
+China Grove, NC 38381
+
+Timport Tech<https://timport.tech/>
+
+
+This email has been scanned for spam and viruses by CybSecure
+
+
+
+
+Creation date: 2022-10-11 19:36:28 work_notes: From duplicate CS5899629
+
+Hi!
+Thank you for contacting Swan Tech Cloud Support team.
+The first available Support Analyst will reach out to you soon and will work with you to find a solution for your issue.
+Kindly find the details of your Incident Request below:
+
+Support Ticket Number: INC# 2676007
+Issue Description: Use Mailmate Login
+Thank you for your patience. Have a great day.
+
+
+P.S. :  For effective communication, please use "Reply All".
+Thanks
+
+[Icon  Description automatically generated]
+
+Rama Sameera
+Cloud Support Analyst
+Swan Tech
+
+5396 N Reese Ave
+Fresno, CA 93722
+(844) 525-6201
+CSSupport@swantech.com<mailto:rama.sameera@limmel.com>
+
+
+From: Jayden Morgan <jmorganconsult@timport.com>
+Sent: Tuesday, October 11, 2022 11:52 AM
+To: CS Support <CSSupport@swantech.com>; support@cloudspace.com
+Subject: Use Mailmate Login
+
+
+I m not sure if you can assist with this, but I have a user who can log into OWA, I recently reset her password, but Mailmate will not connect on her IOS phone nor on her desktop. She has a Business Standard license and the most recent version of Microsoft Office installed. She has no issue accessing the web, but when I try to set up a new profile in Mail, it asks for login credentials and never accepts them.
+
+This should not be a policy driven issue because this started on Wednesday or Thursday of last week. Unless MS changed something, I should have other people reporting similar problems then, but I only see her reporting problems.
+
+Any assistance is greatly appreciated.
+
+[A description of a person smiling for the camera was generated automatically]
+Jayden Morgan
+Sr Operational Manager
+Timport Technologies
+
+Phone: 830.621.4811
+Mobile: 830.439. 3345
+Email: jmorganconsult@timport.com<mailto:jmorganconsult@timport.com>
+
+825 W Ketchie St
+China Grove, NC 38381
+
+Timport Tech<https://nam10.safelinks.protection.mailmate.com/?url=https%3A%2F%2grsmdefense.com%2Fv3%2F__https%3A%2F%2Ftimport.tech%2F__%3B!!CYQycLDRcg!rto_m3ez_q-hGat2AMYPyF-m_2ec2GKhDJjrYcrfdNu3EWodkVkRzoDo-XlO9gZErJy2AsmdGfZfFU_97BJ4fX4%24&data=05%7C01%7CCSPSupport%40swantech.com%7Ce77bee2e42db40de909608daabbdea96%7C7fe14ab68f5d413984bfcd8aed0ee6b9%7C1%7C0%7C638011130282517823%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=lGzXBSdIz%2FURJeadeh8QvN5DW%2F%2Fy1iLAXriEFhY2a08%3D&reserved=0>
+Creation date: 2022-10-11 20:01:49 comments: Hi Jayden,
+
+Thank you for getting in touch with Cloudspace Support. Could you please confirm the client's name as well as the affected user name?
+
+As we have seen a recent multitude cases like this, the issue could have been caused by Microsoft's Depreciation of Basic Authentication. Let us first try running Diag: Enable Basic Auth in EXO" (you can click the blue button) from this article: https://techcommunity.microsoft.com/u6/exchange-team-blog/basic-authentication-and-exchange-online-june-2021-update/cb-q/3565938
+
+It also describes how to use Powershell to re-enable SMTP Auth and you can find that method here:
+https://learn.microsoft.com/en-us/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#disable-smtp-auth-in-your-org
+
+Please respond to this case or reach out to us at 1-855-995-8309, we are available to assist you 24/7.
+Thank you and have a wonderful day,
+Creation date: 2022-10-11 20:18:55 work_notes: From duplicate CS5890475
+
+Hi Jayden,
+Hello!!
+
+Thanks for contacting the Swan Tech Cloud Support team.
+
+My name is Luna, and I am the Support Analyst who will be assisting you in resolving your problem.
+
+Before proceeding, we kindly request that you provide some additional info to help us better support you.
+
+
+  *   End User Company Name /Tenant Name :
+  *   @***.Onmicrosoft.com domain :
+  *   Email address of affected users:
+  *   Please share another contact number if available:
+
+
+P.S. :  For effective communication, please use "Reply All".
+
+[Logo    Description automatically generated]
+
+Luna Ross
+Cloud Support Analyst
+Swan Tech
+
+5396 N Reese Ave
+Fresno, CA 93722
+(844) 636-7312
+cssupport@swantech.com<mailto:cssupport@swantech.com>
+
+From: Sameera, Rama (d)<rama.sameera@swantech.com<mailto:rama.sameera@swantech.com>>
+Sent: Tuesday, October 11, 2022 12:02 AM
+To: Jayden Morgan <jmorganconsult@timport.com<mailto:jmorganconsult@timport.com>>; support@cloudspace.com<mailto:support@cloudspace.com>
+Cc: CSP Support <CSPSupport@swantech.com<mailto:CSPSupport@swantech.com>>
+Subject: RE: Use Mailmate Login - Incident ID - 2676007
+
+________________________________
+Hi!
+Thank you for contacting Swan Tech Cloud Support team.
+The first available Support Analyst will reach out to you soon and will work with you to find a solution for your issue.
+Kindly find the details of your Incident Request below:
+
+Support Case Number: INC#  2676007
+Issue Description: Use Mailmate Login
+Thank you for your patience. Have a great day.
+
+
+P.S. :  For effective communication, please use "Reply All".
+Thanks
+
+[Icon    Description automatically generated]
+
+Rama Sameera
+Cloud Support Engineer
+Swan Tech
+
+5396 N Reese Ave
+Fresno, CA 93722
+(844) 525-6201
+CSSupport@swantech.com<mailto:rama.sameera@limmel.com>
+
+
+From: Jayden Morgan <jmorganconsult@timport.com<mailto:jmorganconsult@timport.com>>
+Sent: Tuesday, October 11, 2022 11:52 AM
+To: CSP Support <CSPSupport@swantech.com<mailto:CSPSupport@swantech.com>>; support@cloudspace.com<mailto:support@cloudspace.com>
+Subject: Use Mailmate Login
+
+
+I m not sure if you can assist with this, but I have a user who can log in to OWA, I recently reset her password, but mailmate will not connect neither on her IOS phone nor on her desktop mailmate. She has a business standard license and the most recent version of Microsoft office installed. Web access is fine, but when I try to set up a new email account, it asks for login credentials and never accepts them.
+
+It should not be policy driven as this started on Thursday or Friday of last week, unless MS made a change then I should have others with similar issue, but I only see her having this issue.
+
+Any help is greatly appreciated.
+
+[A description of a person smiling for the camera was generated automatically]
+Jayden Morgan
+Sr Operational Manager
+Timport Technologies
+
+Phone: 830.621.4811
+Mobile: 830.439. 3345
+Email: jmorganconsult@timport.com<mailto:jmorganconsult@timport.com>
+
+825 W Ketchie St
+China Grove, NC 38381
+
+Timport Tech<https://nam10.safelinks.protection.mailmate.com/?url=https%3A%2F%2grsmdefense.com%2Fv3%2F__https%3A%2F%2Ftimport.tech%2F__%3B!!CYQycLDRcg!rto_m3ez_q-hGat2AMYPyF-m_2ec2GKhDJjrYcrfdNu3EWodkVkRzoDo-XlO9gZErJy2AsmdGfZfFU_97BJ4fX4%24&data=05%7C01%7CCSPSupport%40swantech.com%7Ce77bee2e42db40de909608daabbdea96%7C7fe14ab68f5d413984bfcd8aed0ee6b9%7C1%7C0%7C638011130282517823%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000%7C%7C%7C&sdata=lGzXBSdIz%2FURJeadeh8QvN5DW%2F%2Fy1iLAXriEFhY2a08%3D&reserved=0>
+
+
+Notice of Disclaimer: This electronic message and any attachments are meant only for addressee use. It might contain privileged, proprietary or confidential information. You may not copy, distribute or share this email or any of its attachments. If you are not the intended recipient, please notify us by return email right away and if you have received this email in error then you should also destroy any copies of the messages an any attachments. Beware of emails which can spread computer viruses. Always check that email attachments are free of viruses. The sender of this email is not responsible for any damages to the system caused by its transmission or unauthorized use of it.
+
+This email has been scanned for spam and viruses by CybSecure
+Creation date: 2022-10-11 20:41:44 work_notes: waiting for an update on the status
+it appears that the ticket system is responding to the partner, then the partner asks the client within their own ticketing system.
+Creation date: 2022-10-11 20:57:48 comments: The user is ahayden@lowwhile.com
+
+Received from my Sprint 5G Device
+Get Mailmate for IOS<https://aka.ms/AAb9ysg>
+Creation date: 2022-10-11 21:10:51 comments: Reading it now, it would not affect other users in this Tenet though. I have an account as well actually and it has not ben affect...yet   
+
+Jayden Morgan
+Timport Tech<https://timport.tech/>
+8306214811
+Creation date: 2022-10-11 21:35:24 comments: Hi Jayden,
+
+A bit further down in the SMTP AUTH article (which has the shell powershell cmds), it demonstrates how the feature can be enabled for just one user account, rather than the entire organisation.
+It reads, " Set-CASMailbox -Identity vera@rhodo.com -SmtpClientAuthenticationDisabled $false"
+Creation date: 2022-10-13 17:27:04 comments: Hello Jayden Morgan,
+
+I would like to check in on the status of this case CS5899426 and see if you require any further assistance. Please reply to this case or call us at 1-855-995-8309, we are available to assist you 24/7.
+
+Thank you and have a great day,
+Creation date: 2022-10-13 21:55:52 comments: Thank you for your help. I was able to get my client started while also assisting another tenet in the process.
+
+Please close and thank you again.
+
+Jayden Morgan
+Timport Tech<https://timport.tech/>
+8306214811
+Creation date: 2022-10-14 15:04:29 comments: Was able to help the user log into MS365 from mailmate deskapp.
+
+The requestor  accepted the solution for this ticket.
+Creation date: 2022-10-17 15:06:00 work_notes: A customer satisfaction survey has been distributed. 2022-10-16 08:05:31

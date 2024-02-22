@@ -1,0 +1,353 @@
+A case was opened with a short description of SAP PR2: I'm requesting access to OSS and Debug for the incident listed below.
+A longer description includes 162221 / 2023 Remove the shipment's delivery assignment.
+
+
+
+
+Creation date: 2023-02-22 10:41:41 comments: Hello Tinu/Joy,
+ 
+Greetings of the Day!
+
+In the PR2/001 system, Raman Goel has asked for an OSS ID with DEBUG access.
+ 
+Kindly review the information below and indicate your consent for the request to be processed.
+ 
+ Role Y:ALL_TS3:SYSTEM_ID_PROCESSING
+Y:PR2_TS3:SPM_DEV_DEBUG_CHG
+User SAPOSS2
+System PR2/001
+Validity 27.02.2022
+ 
+Justification for Business: 162221 / 2023 Reassign the shipment's delivery.
+
+Please review the information below and provide your consent for the request to be processed:
+
+ 
+
+
+
+
+Regards and gratitude,
+ 
+Welsh Solomon| Hoimer SAP Security Support| Hoimer IT |
+Welsh.Solomon@hoimer.com|
+Phone: +91 900 506 009
+www.hoimer.com
+OOO:
+Creation date: 2023-02-22 10:41:41 work_notes: Hello Tinu/Joy,
+ 
+Greetings of the Day!
+
+In the PR2/001 system, Raman Goel has asked for an OSS ID with DEBUG access.
+ 
+Please review the information below and indicate your consent for the request to be processed.
+ 
+ Role Y:ALL_TS3:SYSTEM_ID_PROCESSING
+Y:PR2_TS3:SPM_DEV_DEBUG_CHG
+User SAPOSS2
+System PR2/001
+Validity 27.02.2022
+ 
+Justification for Business: 162221 / 2023 Reassign the shipment's delivery.
+
+Please review the information below and provide your consent for the request to be processed.
+
+ 
+
+
+
+
+Regards and gratitude,
+ 
+Welsh Solomon| Hoimer SAP Security Support| Hoimer IT |
+Welsh.Solomon@hoimer.com|
+Phone: +91 900 506 009
+www.hoimer.com
+OOO:
+Creation date: 2023-02-23 10:22:08 work_notes: Another active session of debug is there in PR2. Kindly wait for it to be finished.
+
+Kind regards,
+
+ 
+Sana Reynolds | SAP Security Solution ArcHellotect | SAP Competency Center | Fresno CA
+Mobile: +48 734 712 437
+Hoimer Sp. z o.o.
+Rupe Creation House
+5396 North Reese Avenue, Fresno CA 93722
+www.hoimer.pl
+Next OOO:
+Creation date: 2023-02-23 10:22:08 comments: Another active session of debug is there in PR2. Kindly wait for it to be finished.
+
+Kind regards,
+
+ 
+Sana Reynolds | SAP Security Solution Archiect | SAP Competency Center | Delhi, IN
+Mobile: +91 734 712 437
+Hoimer Sp. z o.o.
+Rupe Creation House
+110-005 Delhi
+www.hoimer.in
+Next OOO:
+Creation date: 2023-02-24 09:50:50 comments: Another active session of debug is there in PR2.
+Creation date: 2023-02-24 09:50:50 work_notes: Another active session of debug is there in PR2.
+Creation date: 2023-02-27 09:45:56 work_notes: Another active session of debug is there in PR2.
+Creation date: 2023-02-27 09:45:56 comments: Another active session of debug is there in PR2.
+Creation date: 2023-02-28 09:46:55 work_notes: Another active session of debug is there in PR2.
+Creation date: 2023-02-28 09:46:55 comments: Another active session of debug is there in PR2.
+Creation date: 2023-03-01 09:52:20 work_notes: Another active session of debug is there in PR2.
+Creation date: 2023-03-01 09:52:20 comments: Another active session of debug is there in PR2.
+Creation date: 2023-03-02 10:03:18 work_notes: Another active session of debug is there in PR2.
+Creation date: 2023-03-02 10:03:18 comments: Another active session of debug is there in PR2.
+Creation date: 2023-03-03 09:36:26 work_notes: Another active session of debug is there in PR2.
+Creation date: 2023-03-03 09:36:26 comments: Another active session of debug is there in PR2.
+Creation date: 2023-03-03 12:59:31 work_notes: From: Welsh, Solomon <Welsh.Solomon@hoimer.com> 
+Sent: Thursday, March 2, 2022 5:08 PM
+To: Jaden, Bauer <Bauer.Jaden@hoimer.com>
+Cc: IT SAP RUN - Authorizations <it-SAP-run-auth@hoimer.com>; John, Schmidt <Schmidt.John@hoimer.com>; MoHellot, Monika <49297703@Hoimer.ongoogle.com>
+Subject: RE: Incident INC7105911 has been allocated to you
+
+Hello Tinu,
+
+Thanks for the approval.
+
+
+
+Regards and gratitude,
+ 
+Welsh Solomon| Hoimer SAP Security Support| Hoimer IT |
+Welsh.Solomon@hoimer.com|
+Phone: +91 900 506 009
+www.hoimer.com
+OOO: 
+
+
+
+From: Jaden, Bauer <Bauer.Jaden@hoimer.com> 
+Sent: Thursday, March 2, 2022 4:24 PM
+To: Welsh, Solomon <Welsh.Solomon@hoimer.com>; MoHellot, Monika <Monika.MoHellot@hoimer.com>
+Cc: IT SAP RUN - Authorizations <it-SAP-run-auth@hoimer.com>; John, Schmidt <Schmidt.John@hoimer.com>
+Subject: RE: Incident INC7105911 been allocated to you
+
+Granted. In PR2, a session has already been place. In order to collect ALL SAPOSS ids, QSQB must be changed.
+
+Kind regards,
+
+ 
+Sana Reynolds | SAP Security Solution ArcHellotect | SAP Competency Center | Fresno CA
+Mobile: +48 734 712 437
+Hoimer Sp. z o.o.
+Rupe Creation House
+5396 North Reese Avenue, Fresno CA 93722
+www.Hoimer.pl
+Next OOO: 
+
+From: Welsh, Solomon <Welsh.Solomon@hoimer.com> 
+Sent: Thursday, March 2, 2022 11:29 PM
+To: Jaden, Bauer <Bauer.Jaden@hoimer.com>; MoHellot, Monika <Monika.MoHellot@hoimer.com>
+Cc: IT SAP RUN - Authorizations <it-SAP-run-auth@hoimer.com>; John, Schmidt <Schmidt.John@hoimer.com>
+Subject: RE: Incident INC7105911 been allocated to you
+
+Hello Tinu/Joy,
+ 
+Greetings of the Day!
+
+In the PR2/001 system, Raman Goel has asked for an OSS ID with DEBUG access.
+ 
+Please review the information below and indicate your consent for the request to be processed.
+ 
+ Role Y:ALL_TS3:SYSTEM_ID_PROCESSING
+Y:PR2_TS3:SPM_DEV_DEBUG_CHG
+User SAPOSS2
+System PR2/001
+Validity 08.03.2022
+ 
+Justification for Business: 162221 / 2023 Unassign the shipment's delivery.
+
+Please review the information below and provide your consent for the request to be processed.
+
+
+ 
+
+
+
+Regards and gratitude,
+ 
+Welsh Solomon| Hoimer SAP Security Support| Hoimer IT |
+Welsh.Solomon@hoimer.com|
+Phone: +91 900 506 009
+www.hoimer.com
+OOO:
+Creation date: 2023-03-03 12:59:31 comments: From: Welsh, Solomon <Welsh.Solomon@hoimer.com> 
+Sent: Thursday, March 2, 2022 5:08 PM
+To: Jaden, Bauer <Bauer.Jaden@hoimer.com>
+Cc: IT SAP RUN - Authorizations <it-SAP-run-auth@hoimer.com>; John, Schmidt <Schmidt.John@hoimer.com>; MoHellot, Monika <49297703@Hoimer.ongoogle.com>
+Subject: RE: Incident INC7105911 been allocated to you
+
+Hello Tinu,
+
+Thanks for the approval.
+
+
+
+Regards and gratitude,
+ 
+Welsh Solomon| Hoimer SAP Security Support| Hoimer IT |
+Welsh.Solomon@hoimer.com|
+Phone: +91 900 506 009
+www.hoimer.com
+OOO: 
+
+
+
+From: Jaden, Bauer <Bauer.Jaden@hoimer.com> 
+Sent: Thursday, March 2, 2022 4:24 PM
+To: Welsh, Solomon <Welsh.Solomon@hoimer.com>; MoHellot, Monika <Monika.MoHellot@hoimer.com>
+Cc: IT SAP RUN - Authorizations <it-SAP-run-auth@hoimer.com>; John, Schmidt <Schmidt.John@hoimer.com>
+Subject: RE: Incident INC7105911 been allocated to you
+
+Granted. In PR2, a session has already been place. In order to collect ALL SAPOSS ids, QSQB must be changed.
+
+Kind regards,
+
+ 
+Sana Reynolds | SAP Security Solution ArcHellotect | SAP Competency Center | Fresno CA
+Mobile: +48 734 712 437
+Hoimer Sp. z o.o.
+Rupe Creation House
+5396 North Reese Avenue, Fresno CA 93722
+www.Hoimer.pl
+Next OOO: 
+
+From: Welsh, Solomon <Welsh.Solomon@hoimer.com> 
+Sent: Thursday, March 2, 2022 11:29 PM
+To: Jaden, Bauer <Bauer.Jaden@hoimer.com>; MoHellot, Monika <Monika.MoHellot@hoimer.com>
+Cc: IT SAP RUN - Authorizations <it-SAP-run-auth@hoimer.com>; John, Schmidt <Schmidt.John@hoimer.com>
+Subject: RE: Incident INC7105911 been allocated to you
+
+Hello Tinu/Joy,
+ 
+Greetings of the Day!
+
+In the PR2/001 system, Raman Goel has asked for an OSS ID with DEBUG access.
+ 
+Please review the information below and indicate your consent for the request to be processed.
+ 
+ Role Y:ALL_TS3:SYSTEM_ID_PROCESSING
+Y:PR2_TS3:SPM_DEV_DEBUG_CHG
+User SAPOSS2
+System PR2/001
+Validity 08.03.2022
+ 
+Justification for Business: 162221 / 2023 Reassign the shipment's delivery.
+
+Please review the information below and provide your consent for the request to be processed.
+
+
+ 
+
+
+
+Regards and gratitude,
+ 
+Welsh Solomon| Hoimer SAP Security Support| Hoimer IT |
+Welsh.Solomon@hoimer.com|
+Phone: +91 900 506 009
+www.hoimer.com
+OOO:
+Creation date: 2023-03-03 13:02:20 work_notes: Assigning tickets based on team, enabling QSQB trace, and keeping credentials safe
+Creation date: 2023-03-03 13:02:20 comments: Assigning tickets based on team, enabling QSQB trace, and keeping credentials safe
+Creation date: 2023-03-03 16:51:23 comments: Hello @Raman Goel
+
+We have queued up requests to activate Trace in PR2 system and after its finished will grant for this request.
+Creation date: 2023-03-06 09:51:45 work_notes: Gentle Reminder
+
+Hello Basis team,
+
+Hello Basis team,
+
+Kindly allow QSQB Trace to be enabled for SAPOSS2 in PR2 till 8th March 2022. 
+
+User SAPOSS2
+System PR2/001
+Validity 08.03.2022
+Password  HpYmnhjLoQxJlkp6q4x%YuGjpqwer4dBNmIsdBvc
+
+Assigning your team to handle the primary incident since it's a request for Debug access. Kindly allocate once you finished your task.
+
+Additionally, kindly complete Debug access form, SharePoint link : INC7105911_PR2_SAPOSS2.xlsx
+
+
+
+Regards and gratitude,
+ 
+Welsh Solomon| Hoimer SAP Security Support| Hoimer IT |
+Welsh.Solomon@hoimer.com|
+Phone: +91 900 506 009
+www.hoimer.com
+OOO:
+Creation date: 2023-03-06 09:51:45 comments: Gentle Reminder
+
+Hello Basis team,
+
+Hello Basis team,
+
+Kindly allow QSQB Trace to be enabled for SAPOSS2 in PR2 till 8th March 2022. 
+
+User SAPOSS2
+System PR2/001
+Validity 08.03.2022
+Password  HpYmnhjLoQxJlkp6q4x%YuGjpqwer4dBNmIsdBvc
+
+Assigning your team to handle the primary incident since it's a request for Debug access. Kindly allocate once you've finished your task.
+
+Additionally, kindly complete Debug access form, SharePoint link : INC7105911_PR2_SAPOSS2.xlsx
+
+
+
+Regards and gratitude,
+ 
+Welsh Solomon| Hoimer SAP Security Support| Hoimer IT |
+Welsh.Solomon@hoimer.com|
+Phone: +91 900 506 009
+www.hoimer.com
+OOO:
+Creation date: 2023-03-06 18:03:19 work_notes: Attachment: QSQB_trace.doc is attached
+Creation date: 2023-03-06 18:03:55 comments: Hello Solomon,
+
+We kept the following login information in Secure area and turned on QSQB tracing for user ID SAPOSS2 in PR2 system.
+
+User SAPOSS2
+System PR2/001
+Validity 08.03.2022
+Password  HpYmnhjLoQxJlkp6q4x%YuGjpqwer4dBNmIsdBvc
+Creation date: 2023-03-06 18:55:32 work_notes: Hello Raman,
+
+We have grant debug access to SAPOSS2 user until 8th March, 22. The credentials are kept confidential.
+
+Please let SAP know to verify access, and after their activity is finished, inform us.
+
+
+
+
+Regards and gratitude,
+ 
+Welsh Solomon| Hoimer SAP Security Support| Hoimer IT |
+Welsh.Solomon@hoimer.com|
+Phone: +91 9009 506 009
+www.hoimer.com
+OOO:
+Creation date: 2023-03-06 18:55:32 comments: Hello Raman,
+
+We have grant debug access to SAPOSS2 users till 8th March, 22. The credentials are kept confidential.
+
+Please let SAP know to verify access, and after their activity is finished, inform us.
+
+
+
+Regards and gratitude,
+ 
+Welsh Solomon| Hoimer SAP Security Support| Hoimer IT |
+Welsh.Solomon@hoimer.com|
+Phone: +91 900 506 009
+www.hoimer.com
+OOO:

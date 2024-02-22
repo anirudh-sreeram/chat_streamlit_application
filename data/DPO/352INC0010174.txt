@@ -1,0 +1,73 @@
+A case was opened with a short description of [AD] - [Access to Unique Device Identification]
+A longer description includes 1. Application Name: AD
+2. Did the user have access to this before? [Y/N]
+3. Detailed account of the request:
+The user has to be added to the UDI Operators Active Directory group for UDI access (Hull)
+UDI_Operators (Hull)    Earl Taylor to approve
+
+
+
+
+Creation date: 2023-02-22 19:55:18 work_notes: Knowledge article KB1050801:
+SymptomsCI: ZLMEC - UYD Printing
+Customer asking for access to UYDI system&nbsp;&nbsp;
+&nbsp;What to do nextPlease advise customer to raise a request on Service HUB&nbsp;using below form:&nbsp;
+
+https://doug-son.com
+id=sc_cat_item&amp;sys_id=791c76ef4fa40200b882d49f0310c741
+
+
+Customer needs to collect an approval from one of the system owners:
+Primary Owner: Earl Taylor (earl.taylor@doug-son.com)
+Secondary Owner: Gary Waters (Gary.Waters@doug-son.com) &nbsp;Alonzo Page (alonzo.page@doug-son.com)
+&nbsp;
+After user got the authorization, the task should be designated to LOMECT-IAM team. 
+Creation date: 2023-02-22 19:55:51 work_notes: L1 Forwarding - LOMECT-IAM ||
+
+Hello Team,
+Could you help me with this?
+
+I am grateful in advance.
+Creation date: 2023-02-22 20:01:39 work_notes: From: LOMECT-IAM 
+Sent: Wednesday, February 22, 2023 12:31 AM
+To: Taylor, Earl <Earl.Taylor@doug-son.com>; Waters, Gary <Gary.Waters@doug-son.com>; Page, Alonzo <alonzo.page@doug-son.com>
+Cc: LOMECT-IAM <LOMECT-IAM@doug-son.com>; Goodman, Paul <Paul.Goodman@doug-son.com>
+Subject: INC2195471 - [AD] - [UDI Access]
+
+Hello All,
+A request has been made to us to include user [Paul Goodman] [ctr nielct] in the Active Directory Security Group UDI Operators (Hull)
+
+
+Warm Regards,
+Vincent F M
+
+ 
+Identity and Access Management Team
+LOMECT-IAM@doug-son.com
+Creation date: 2023-02-22 20:01:47 work_notes: Awaiting the Group Owner's authorization
+Creation date: 2023-02-23 16:18:29 work_notes: From: LOMECT-IAM
+Sent: Wednesday, February 22, 2023 8:47 PM
+To: Goodman, Paul <Paul.Goodman@doug-son.com>
+Cc: LOMECT-IAM <LOMECT-IAM@doug-son.com>
+Subject: RE: INC2195471 - [AD] - [UDI Access]
+
+Hello Paul,
+
+A request has been made to us to include user [Paul Goodman] [ctr_nielct] in the Active Directory Security Group "UDI Operators (Hull)"
+
+Warm Regards,
+Vincent F M
+
+ 
+Identity and Access Management Team
+LOMECT-IAM@doug-son.com
+--------------------------------------------------------------------------
+From: Taylor, Earl <Earl.Taylor@doug-son.com> 
+Sent: Wednesday, February 22, 2023 11:08 PM
+To: LOMECT-IAM <LOMECT-IAM@doug-son.com>; Waters, Gary <Gary.Waters@doug-son.com>; Page, Alonzo <alonzo.page@doug-son.com>
+Cc: LOMECT-IAM <LOMECT-IAM@doug-son.com>; Goodman, Paul <Paul.Goodman@doug-son.com>
+Subject: Re: INC2195471 - [AD] - [UDI Access]
+
+Authorized
+
+Sent from Outlook for iOS

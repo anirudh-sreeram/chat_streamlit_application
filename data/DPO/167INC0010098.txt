@@ -1,0 +1,142 @@
+A case was opened with a short description of 12/12-PKF00179G-CLASS and ELF delay problems
+A longer description includes Call back no. 6423278935
+User calling they have high frequency of call disconnection and client is unable to hear them during calls.
+
+
+
+
+Creation date: 2022-12-09 19:08:14 work_notes: User phoning they have plenty of call disconnect and client is unable to hear them during calls.
+Closed light is operational
+There are no error messages on the phones
+All users facing problem.
+This is occurring both on the handset and on the headset.
+Problem in both inbound and outbound calls.
+Problem happening since past 2 days.
+
+Ping statistics for 12.213.152.31:
+    Packets: Sent = 147, Received = 147, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 59ms, Maximum = 321ms, Average = 81ms
+
+Ping statistics for 12.213.152.137:
+    Packets: Sent = 139, Received = 139, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 71ms, Maximum = 301ms, Average = 81ms
+
+Cell no. 4148613007
+
+As par KB KB0021053 sending ticket to infra CC.
+Creation date: 2022-12-09 19:25:03 work_notes: Branch Connext   kindly help
+Creation date: 2022-12-09 19:33:21 work_notes: .
+Creation date: 2022-12-09 19:45:46 work_notes: From: Trent Thomson 
+Sent: Thursday, December 8, 2022 1:42 PM
+To: NOC <noc@pkf.com>; Ivanov, Alina <Alina.Ivanov@telemont.com>
+Cc: Stefy Joshua <Stefy.Joshua@pkf.com>; Laura Sorkin <sorkinla@pkf.com>
+Subject: Score 0179
+
+Greetings,
+
+Could you kindly examine this branch to check if there is anything happening from a network end? Since last 2 days they have been having problems with disconnected calls and one way audio on both incoming and outgoing.
+
+Thank you,
+
+Trent Thomson
+Connext Assistance Lead Engineer
+314 Buck Ave San Diego, CA 91911
+  619.273.8588 | trent.thomson@pkf.com
+Creation date: 2022-12-09 20:02:17 work_notes: From: Trent Thomson 
+Sent: Thursday, December 8, 2022 2:01 PM
+To: NOC <noc@pkf.com>; 'Ivanov, Alina' <Alina.Ivanov@telemont.com>
+Cc: Stefy Joshua <Stefy.Joshua@pkf.com>; Laura Sorkin <sorkinla@pkf.com>
+Subject: RE: Score 0179
+
+Latest call instance of dropped call is given below.
+
+
+[1:52 PM] Amelia Pine
+Inbound 412-652-9051 1:52PM EST - was speaking then simply got cut off
+
+
+Thanks,
+
+Trent Thomson
+Connext Assistance Lead Engineer
+314 Buck Ave San Diego, CA 91911
+  619.273.8588 | trent.thomson@pkf.com 
+
+ 
+
+
+From: Trent Thomson 
+Sent: Thursday, December 8, 2022 1:55 PM
+To: NOC <noc@pkf.com>; 'Ivanov, Alina' <Alina.Ivanov@telemont.com>
+Cc: Stefy Joshua <Stefy.Joshua@pkf.com>; Laura Sorkin <sorkinla@pkf.com>
+Subject: RE: Score 0179
+
+Additionally, they maintain that every applications like CLASS, MsgApp, email etc are freezing and performing very sluggishly. I have asked call instances and time stamps to send.
+
+Thank you
+
+Trent Thomson
+Connext Assistance Lead Engineer
+314 Buck Ave San Diego, CA 91911
+  619.273.8588 | trent.thomson@pkf.com
+Creation date: 2022-12-09 20:19:55 work_notes: From: Ivanov, Alina <Alina.Ivanov@telemont.com> 
+Sent: Thursday, December 8, 2022 2:09 PM
+To: Trent Thomson <trent.thomson@pkf.com>; NOC <noc@pkf.com>
+Cc: Stefy Joshua <Stefy.Joshua@pkf.com>; Laura Sorkin <sorkinla@pkf.com>; Ranganathan, Dinesh <Dinesh.Ranganathan@telemont.com>; Ranatunga, Kishore <Kishore.Ranatunga@telemont.com>
+Subject: RE: Score 0179
+
+** EMAIL NOT INTERNAL  BE CAREFUL **
+
+Trent,
+
+Transport seems fine. A few dlay spike are there on the Back UP  however that wil not lead to any problem with drop call.
+
+I observe that calls have increased jitter spike which can lead to problems with QOS
+Creation date: 2022-12-09 20:23:45 work_notes: From: Steve Kudrow <Steve.Kudrow@pkf.com> 
+Sent: Friday, December 9, 2022 3:20 PM
+To: Trent Thomson <trent.thomson@pkf.com>; NOC <noc@pkf.com>; Ivanov, Alina <Alina.Ivanov@telemont.com>
+Cc: Stefy Joshua <Stefy.Joshua@pkf.com>; Laura Sorkin <sorkinla@pkf.com>
+Subject: RE: Score 0179
+
+Trent,
+
+I am asking TeleMont engineering on this branch to see if they can examine the problems thew branch is facing.  I will contact when I hear from them.
+
+Thanks,
+
+Steve Kudrow
+Network Examiner
+Branch Network Operations
+T 619.314.9632  E Steve.Kudrow@pkf.com
+Creation date: 2022-12-09 22:34:42 work_notes: From: Steve Kudrow <Steve.Kudrow@pkf.com> 
+Sent: Thursday, December 8, 2022 4:32 PM
+To: Trent Thomson <trent.thomson@pkf.com>; NOC <noc@pkf.com>; Ivanov, Alina <Alina.Ivanov@telemont.com>
+Cc: Stefy Joshua <Stefy.Joshua@pkf.com>; Laura Sorkin <sorkinla@pkf.com>
+Subject: RE: Score 0179
+
+Trent,
+
+Today, the TeleMont engineering group did certain thorough investigation on this site and has made certain alterations to the primary internet circuit in order to assist with the network problems that the branch has been noting.  It will take a bit for those alterations to correctly show results.  If you could kindly send me the ticket you have for this, I will monitor until Tuesday evening and inspect the network performance at that time.
+
+I have also contacted the branch and talked to Amelia.  I informed her that I will contact on Tuesday to see if they note the overall network experience becoming better also.
+
+Contact me in case you have any queries.
+
+Thank you,
+
+Steve Kudrow
+Network Examiner
+Branch Network Operations
+T 619.314.9632  E Steve.Kudrow@pkf.com
+Creation date: 2022-12-09 22:44:01 work_notes: TeleMont made alterations to the circuit.  Was earlier hard coded because of former problems, however those restrictions have been removed in order to attempt and increase bandwidth and overall network performance.
+Will f/u on Tuesday
+Called the branch and adv as well
+Creation date: 2022-12-13 15:09:27 work_notes: Called branch and talked to Amelia
+She informed that problems with call quality is now limited to 1 user in the branch
+That users PC is facing delay problems as well
+Everyone else in the branch is working, other than slow performance of CLASS and intranet sites
+Sug user to touch base with OS to deal with individual PC problem
+Sending ticket to CC Infra Lead to direct to to required group to handle the CLASS and intranet delay problems
+Adv Samberg in OS also

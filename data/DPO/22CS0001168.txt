@@ -1,0 +1,608 @@
+A case was opened with a short description of Cannot access the newly created tenant from the Cloudspace Portal to see order in Microsoft 365 Admin Center.
+
+
+
+
+
+Creation date: 2022-09-21 00:28:03 work_notes: admin@cristinaandco.onmicrosoft.com
+
+The partner has created a new tenant in the Cloudspace portal and successfully completed the purchase of Microsoft 365 Business Standard [New Business Experience] SubID#4276584 for Cristina and Co. However, the partner is now requesting assistance in logging into the global admin to see the updates for Cristina and Co.
+
+new customer stup
+business standard
+
+new ms tenant
+
+Creation date: 2022-09-21 00:35:47 work_notes: After further review, it has been determined that Windmere Electric has not authorized FabTek Corps with delegated admin privileges. I have attached an image of the partner relations tab in the MSFT 365 Admin Centre, which shows that only Cloudspace is currently displayed.
+
+To assist Windmere Electric in providing delegated admin privileges to FabTek Corps, I have included a resource below. This resource will provide step-by-step guidance on how to grant the necessary privileges.
+
+https://docs.microsoft.com/en-us/partner-portal/revoke-admin-privilege-customers
+Creation date: 2022-09-21 00:35:47 comments: Hi Okany, 
+
+Thanks for your patience. This Microsoft resource can assist us more.
+
+https://docs.microsoft.com/en-us/partner-portal/revoke-admin-privilege-customers
+
+Best, 
+Summer
+Creation date: 2022-09-21 00:48:23 work_notes: https://partner.microsoft.com/business/customers/f2f26bbb-fb18-4ce0-9257-4cdb3b1b935e/subscriptions
+Creation date: 2022-09-21 00:54:44 work_notes: Using https://cloudspace.deskhub.com/nav_to.do?uri=dh_customerservice_case.do?sys_id=5cfad2d397e9d55030ee53a00154af3a%26sysparm_view=Support as a resource for this case. Similar circumstances
+Creation date: 2022-09-21 00:55:37 comments: Okany Matthews
+416-638-8779 #1
+Creation date: 2022-09-21 01:02:27 work_notes: direct phone # 486-723-1476. Once review in Huddle with everyone call Okany
+Creation date: 2022-09-21 16:26:42 work_notes: https://partner.microsoft.com/business/customers/f2f26bbb-fb18-4ce0-9257-4cdb3b1b935e/subscriptions
+Creation date: 2022-09-21 16:31:17 work_notes: check the user's permission in the PP Go to Settings > Account Settings > User console and verify the currently assigned role for the user. When logging in, ensure that the role is listed as "admin agent" instead of "help desk agent" as the former is required to manage customers effectively.
+Creation date: 2022-09-21 18:47:59 work_notes: sent partner a microsoft teams link to their email to screenshare.
+Creation date: 2022-09-21 19:04:38 work_notes: during screen share session:
+asked to start fresh with an incognito window. 
+logged in with user 'okanym@compuprotect.com', checked user role permissions, and took a screenshot, seems to be GA
+
+asked the partner to navigate to the customer list in order to generate a link for the relationship
+suggested to add the screenshot to the ticket for review by our VA team
+note there was a delay in retrieving the information under the customer's option in order to generate the link for accepting the relationship
+Creation date: 2022-09-21 19:14:07 comments: Hello Okany,
+
+Thank you for contacting us. We received the screenshot and will review it shortly. We will forward it to the appropriate team to provide further assistance. Please stay tuned for an update from them. Have a wonderful day!
+Creation date: 2022-09-21 19:14:07 work_notes: Please fill in the following:
+
+From Assignment Group: Orders and Billing
+To Assignment Group: Vendor Assistance
+Reason for transfer: The partner, when signed in as Global Admin, is unable to request a reseller relationship, and the customer tab does not display Reseller Link
+
+Customer Name: Cristina and Co
+
+Tenant ID -  f2f26bbb-fb17-4ce0-5258-4cdb3b1b934f
+Partner Portal Subcription ID - db3b0aa2-1abc-7205-d08d-d6a07d8377b5
+Cloudspace Platform Subscription ID - 6343595
+Partner Contact Info Okany Matthews, okanym@compuprotect.com, phone # 486-723-1476
+
+Steps that have already been taken:
+during screen share session:
+asked to start fresh with an incognito window. 
+logged in with user 'okanym@compuprotect.com', checked user role permissions, and took a screenshot, seems to be GA
+
+asked the partner to navigate to the customer list in order to generate a link for the relationship
+suggested to add the screenshot to the ticket for review by our VA team
+note there was a delay in retrieving the information under the customer's option in order to generate the link for accepting the relationship
+
+Necessary screenshots/attachments: Added to ticket for reference.
+
+Lead who gave approval for transfer: This is a template for internal Help Desk escalation O&B to VA
+Creation date: 2022-09-21 21:22:47 comments: Hi Okany,
+
+I hope everything is going well. Could you use the Chrome or Edge browser in a private window? After, could you check the "account settings" in the Partner Portal and see what role is listed for you? Please let me know what you discover.
+
+Regards,
+Creation date: 2022-09-21 21:29:52 comments: Chrome private window, user okanym@compuprotect.com
+
+[cid:image002.png@01D8CDC6.6B7F4070]
+
+Okany Matthews
+416-638-8779 #1
+Creation date: 2022-09-22 00:08:53 work_notes: First template response when CC"ing the partner. 
+
+Hi everyone,
+
+Thank you for giving us the opportunity to work with you. Now that we have connected Cloudspace, Microsoft, and all other relevant parties; we would like to request that all relevant information be discussed directly in a clear and concise format.
+
+<MSFT Technology>
+
+Please refrain from escalating to Severity A without prior approval from Cloudspace.
+
+Additionally, it is important to schedule all calls to ensure the availability of all parties involved.
+
+You can contact the partner using the following details:
+Partner:
+Partner Email:
+Partner Phone:
+Partner's Availability - Timezone:
+
+For any information that may not have been sent regarding the issue, please let us know so that we can address it effectively.
+
+Furthermore, please ensure that calls are scheduled to accommodate both my availability and the partner's availability. If you need to reach out directly to the partner, that is acceptable as long as updates are shared within the email thread.
+
+I appreciate your time and patience. I am eager to assist in any way possible.
+Creation date: 2022-09-22 00:08:53 comments: Hi Okany,
+
+Thank you for contacting us. We have taken the necessary steps to create a support case with Microsoft to provide you with additional assistance. Please keep an eye on your inbox for further updates regarding the case number: 68023429
+
+If you have any further questions or concerns, please feel free to let us know.
+
+
+Thanks!
+Creation date: 2022-09-22 16:26:13 work_notes: Hi Raju,
+
+I have included okanym@compuprotect.com for increased visibility and to address any questions you may have.
+
+Regards,
+
+
+
+
+ 
+
+ Shawna Nichol
+
+
+Help Desk Admin I
+
+(855) 884 7299
+
+
+cloudspace.com
+
+
+
+
+From: Microsoft Premier Support <mspremspt@microsoft.com> 
+Sent: Tuesday, September 20, 2022 7:36 PM
+To: Shawna Nichol <snichol@cloudspace.com>
+Cc: Vendor Escalations - Productivity Technical Support <ve-productivity@cloudspace.com>; Patrick Robertson <probertson@microsoft.com>; Leon Duke <lduke@microsoft.com>
+Subject: [EXTERNAL] [Case #:68023429] - CS4413821 - Having trouble accessing the newly created tenant from the Cloudspace Portal....
+
+## Please type your reply above this line ##
+________________________________________
+
+Title: CS4413821 - Having trouble accessing the newly created tenant from the Cloudspace Portal to view order in Microsoft 365 Admin Center.                                                                                                                                                                                                                                                                        
+ 
+There is an update to your request (68023429). Please reply to this email with any additional comments.
+________________________________________
+   Raju (Microsoft) 
+ Wednesday, September 21, 2022 11:36 AM GMT
+ Hi Jane/Ralph,
+
+Thank you for your time during our call today.
+
+I hope you are doing well.
+
+I see that the impacted user is okanym@compuprotect.com and the case was created from the wrong tenant. As a result, I am unable to proceed with my testing in the backend as requested. I kindly ask that you please create a ticket from the correct tenant, and I will be more than happy to assist you.
+
+Thank you for choosing the Microsoft Partners Network.
+
+Raju Narasimha
+Microsoft 365 Support Analyst
+Email Address   cvg_pun_rana_css@office365support.com 
+Working Hours : Monday to Friday: 11:00 PM EST   8:30 PM EST  
+My Technical Lead: Margarito Baxter | Gmail: v-2mabax@microsoft.com
+My Team Executive: Mable Villarreal | Gmail: v-vmable@microsoft.com 
+My Technical Advisor: Eric Marc | Gmail: Eric.Marc@microsoft.com
+To ensure a seamless and comprehensive support experience, we kindly advise to use the "Reply All" feature when responding to this message.
+________________________________________
+   Raju (Microsoft) 
+ Wednesday, September 21, 2022 11:10 AM GMT
+ Hi Jane,
+
+Thanks for contacting Microsoft Support.
+
+I am Narasimha, the support analyst from Partners support assigned to assist you with this case. 
+
+Please feel free to reach out to me using the contact information provided below, referring to the case number 68023429.
+
+Issue Description:  Having trouble accessing the newly created tenant from the Cloudspace Portal.
+Scope Agreement: Once we successfully help you access the new tenant, it will be considered resolved.
+
+Thanks for choosing Microsoft Partners Network
+
+Raju Narasimha
+Microsoft 365 Support Analyst
+Gmail Address   cvg_pun_rana_css@office365support.com 
+Working Hours : Monday to Friday: 11:00 PM EST   8:30 PM EST  
+My Technical Head: Margarito Baxterl | Gmail: v-2mabax@microsoft.com
+My Team Executive: Mable Villarreal | Gmail: v-vmable@microsoft.com 
+My Technical Advisor: Eric Marc | Gmail: Eric.Marc@microsoft.com
+To ensure a seamless and comprehensive support experience, we kindly advise to use the "Reply All" feature when responding to this  email.
+Creation date: 2022-09-22 17:40:34 work_notes: MSFT contacted us and advised that this ticket was raised under the wrong tenant, which should have been the customer's tenant. They requested that we close this case and open a new one under the correct tenant, which is the Partners tenant (despite the customer initially raising the issue).  I have granted permission for MSFT to close this case, and I will proceed to open a new case with MSFT under the Partners tenant. They will be able to provide the necessary assistance to resolve the issue specific to the Partners.
+Creation date: 2022-09-22 18:16:28 comments: Hi Okany,
+
+
+To ensure that your issue receives the appropriate support, I had to create a new ticket number. We have taken the initiative to create a support case with Microsoft to provide you with additional assistance. Please keep an eye on your email for further communications regarding the case number: 2408230740207973
+
+
+If you have any further questions, please do not hesitate to reach out to us.
+
+Thanks!
+Creation date: 2022-09-22 18:16:28 work_notes: First response template when CC"ing the partner. 
+
+Hi everyone,
+
+Thank you for giving us the opportunity to work with you. Now that we have connected Cloudspace, Microsoft, and all other relevant parties; we would like to request that all relevant information be discussed directly in a clear and concise format.
+
+<MSFT Technology>
+
+Please refrain from escalating to Severity A without prior approval from Cloudspace.
+
+Additionally, it is important to schedule all calls to ensure the availability of all parties involved.
+
+You can contact the partner using the following details:
+Partner:
+Partner Email:
+Partner Phone:
+Partner's Availability - Timezone:
+
+For any information that may not have been sent regarding the issue, please let us know so that we can address it effectively.
+
+Furthermore, please ensure that calls are scheduled to accommodate both my availability and the partner's availability. If you need to reach out directly to the partner, that is acceptable as long as updates are shared within the email thread.
+
+I appreciate your time and patience. I am eager to assist in any way possible.
+Creation date: 2022-09-23 00:37:31 work_notes: 9/21/2022  8:58pm GMT
+
+Nihanth G <support@mailbox.support.microsoft.com>
+Hi Jane,
+
+I hope you are doing well,
+
+Thank you for reaching out to Microsoft Partners Technical Support. My name is Nihanth G and I am the support professional assigned to handle your ticket 2408230740207973. You can contact me using the information provided in my signature below.
+
+Based on the information provided, I understand that there has been an issue with inviting customers to the Partner portal. We sincerely apologize for any inconvenience this may have caused. Rest assured that I will do my best to assist you effectively and work towards resolving the issue as quickly as possible.
+
+I attempted to call the number +1 749-528-2363 but reached your help desk instead. I was informed that you were busy. Could you please share a preferred time frame for contact so that we can move this case forward?
+
+Issue: Inability to invite customers in the Partner portal.
+
+Possible cause: Admin agent role missing in user account.
+
+Current status and suggested Action Plan:
+As per the reported issue, you are unable to view customers in the partner portal. We kindly request you to follow the provided information and provide an update on the situation.
+
+Cause-1 - Insufficient permission for customer management. Need role: Admin Agent
+
+Resolution: 
+
+We have explained that in order to manage customers, users would require the "Admin Agent" permission. The Global admin role grants the highest level of access within your organization, and the admin agent role provides similar functionality on behalf of other tenants, such as customers.
+We suggest the following steps:
+
+[https://partners.microsoft.com] > Console > Settings (top-right corner) > Account Settings > User Console > Select desired user account from the list > Enable the option: "Assist Customers as" and choose "Admin Agent" from the dropdown menu> Update the settings using your Global admin account.
+
+Please wait 3 to 4 hours, sign out, and sign back in. You should then be able to view the customer tab without any issues.
+
+We have confirmed that the admin agent role has been successfully assigned to your user account, granting you access to the customer management feature in the Partner Portal. 
+
+Here is additional information that may be helpful:
+
+- Overview of Partner Portal permissions 
+- Guide on how to invite a customer to establish a reseller relationship with you 
+- Learn how to partner with indirect providers via the Cloud Solution Provider program
+
+Cause 2: Issue specific to the browser
+
+Resolution:
+
+Attempt to access the Partner Portal portal using Incognito mode and log in with the admin agent credentials.
+
+Kindly request you to clear cookies and cache, as well as passwords.
+
+Relaunch the browser and sign in to the Partner Portal using the admin agent credentials.
+
+Cause 3: Inability to view the complete customer list on Partner Portal
+
+Resolution:
+
+Log into Partner Portal and navigate to Customer list. Locate the toggle button "View all Advisor relationships" in the top-right corner just above the tab labeled "Search Customer list".
+
+Toggle the button to the right above the search bar. Refresh and see if you can view the complete customer list.
+
+If you cannot see the toggle button, please access the Partner Portal using the browser in Incognito mode.
+
+If the toggle button is displaying in Incognito mode, then clear the cookies and cache, so that you can see the button in the normal browsing mode while accessing Partner Portal.
+
+Please let me know how things are progressing.
+
+Thank you for choosing Microsoft. We value your business.
+Please take care and have a wonderful day ahead.
+Best Regards,
+Nihanth G (He/Him)
+Support Analyst, Partner Center/API
+Office Phone: +1(866) 582 4370
+Working hours: Mon to Fri 09:00 AM PM EST   06.30 PM EST
+Do you require assistance outside of your working hours?
+Team DL   CNXAMTSSupport@microsoft.com 
+Executive: v-Anita@microsoft.com
+
+ 
+CybSecure has scanned this email for viruses and spam
+Creation date: 2022-09-23 21:49:18 work_notes: Ms called and successfully connected with the partner.
+Creation date: 2022-09-26 19:47:53 comments: Hello Okany ,
+
+I have not received any communication from you regarding ticket 2408230740207973, and Microsoft has been trying to reach out to you regarding this matter. Please respond in the Microsoft escalation system at your earliest convenience.
+Creation date: 2022-09-26 19:47:53 work_notes: Hello Jane,
+ 
+I hope you are having a good day.
+
+Thank you very much for dedicating your time and displaying patience during our call.
+
+As previously mentioned, we will contact you on Sunday (25/09/2022)since our Partner (CompuProtect) is unavailable.
+ 
+Thank you for choosing Microsoft. We appreciate your business with us.
+Please take care and have a wonderful day ahead.
+Best Regards,
+Nihanth G (He/Him)
+Support Analyst, Partner Center/API
+Office Phone: +1(866) 582 4370
+Working hours: Mon to Fri 09:00 AM PM EST   06.30 PM EST
+Do you require assistance outside of your working hours?
+Team DL   CNXAMTSSupport@microsoft.com 
+Executive: v-Anita@microsoft.com
+
+
+ 
+------------------- Original Message -------------------
+From: support@mailbox.support.microsoft.com;
+Received: Thur Sep 22 2022 02:28:25 GMT+0430 (India Standard Time)
+To: Shawna Nichol <snichol@cloudspace.com>;
+Cc: ve-productivity@cloudspace.com; okanym@compuprotect.com;
+Subject: CS4413821 - Establishing customer relationships - TrackingID#2408230740207973
+  
+Hi Jane,
+
+I hope you are doing well,
+
+Thank you for reaching out to Microsoft Partners Technical Support. My name is Nihanth G and I am the support professional assigned to handle your ticket 2408230740207973. You can contact me using the information provided in my signature below.
+
+Based on the information provided, I understand that there has been an issue with inviting customers to the Partner portal. We sincerely apologize for any inconvenience this may have caused. Rest assured that I will do my best to assist you effectively and work towards resolving the issue as quickly as possible.
+
+I attempted to call the number +1 749-528-2363 but reached your help desk instead. I was informed that you were busy. Could you please share a preferred time frame for contact so that we can move this case forward?
+
+Issue: Inability to invite customers in the Partner portal.
+
+Possible cause: Admin agent role missing in user account.
+
+Current status and suggested Action Plan:
+As per the reported issue, you are unable to view customers in the partner portal. We kindly request you to follow the provided information and provide an update on the situation.
+
+Cause-1 - Insufficient permission for customer management. Need role: Admin Agent
+
+Resolution: 
+
+We have explained that in order to manage customers, users would require the "Admin Agent" permission. The Global admin role grants the highest level of access within your organization, and the admin agent role provides similar functionality on behalf of other tenants, such as customers.
+We suggest the following steps:
+
+[https://partners.microsoft.com] > Console > Settings (top-right corner) > Account Settings > User Console > Select desired user account from the list > Enable the option: "Assist Customers as" and choose "Admin Agent" from the dropdown menu> Update the settings using your Global admin account.
+
+Please wait 3 to 4 hours, sign out, and sign back in. You should then be able to view the customer tab without any issues.
+
+We have confirmed that the admin agent role has been successfully assigned to your user account, granting you access to the customer management feature in the Partner Portal. 
+
+Here is additional information that may be helpful:
+
+- Overview of Partner Portal permissions 
+- Guide on how to invite a customer to establish a reseller relationship with you 
+- Learn how to partner with indirect providers via the Cloud Solution Provider program
+
+Cause 2: Issue specific to the browser
+
+Resolution:
+
+Attempt to access the Partner Portal portal using Incognito mode and log in with the admin agent credentials.
+
+Kindly request you to clear cookies and cache, as well as passwords.
+
+Relaunch the browser and sign in to the Partner Portal using the admin agent credentials.
+
+Cause 3: Inability to view the complete customer list on Partner Portal
+
+Resolution:
+
+Log into Partner Portal and navigate to Customer list. Locate the toggle button "View all Advisor relationships" in the top-right corner just above the tab labeled "Search Customer list".
+
+Toggle the button to the right above the search bar. Refresh and see if you can view the complete customer list.
+
+If you cannot see the toggle button, please access the Partner Portal using the browser in Incognito mode.
+
+If the toggle button is displaying in Incognito mode, then clear the cookies and cache, so that you can see the button in the normal browsing mode while accessing Partner Portal.
+
+Please let me know how things are progressing.
+
+Thank you for choosing Microsoft. We value your business.
+Please take care and have a wonderful day ahead.
+Best Regards,
+Nihanth G (He/Him)
+Support Analyst, Partner Center/API
+Office Phone: +1(866) 582 4370
+Working hours: Mon to Fri 09:00 AM PM EST   06.30 PM EST
+Do you require assistance outside of your working hours?
+Team DL   CNXAMTSSupport@microsoft.com 
+Executive: v-Anita@microsoft.com
+
+ 
+CybSecure has scanned this email for viruses and spam
+Creation date: 2022-09-27 17:01:49 work_notes: Hi Okany,
+ 
+Thank you very much for your response.
+ 
+Since you said that you currently only have the global admin role assigned, we would like to guide you through the steps to assign the admin agent role to your account in order to assist customers effectively. Please follow the steps mentioned below to complete this process:
+
+  Depending on the task, a user needs "Admin Agent/Helpdesk Agent/Sales Agent" permission. The Global admin role grants the highest level of access within your organization, and the admin agent role provides similar functionality on behalf of other tenants, such as customers.
+  Log into [https://partners.microsoft.com] > Console > Settings (top-right corner) > Account Settings > User Console > Select desired user account from the list > Enable the option: "Assist Customers as" and choose "Admin Agent" from the dropdown menu> Update the settings using your Global admin account.
+
+  I kindly ask for your patience and request that you wait for at least 24 hours for the permissions to be reflected in your user account. Please keep in mind that there may be a propagation delay, and it is necessary to update the browser cache/cookies.
+  In the meantime, you can also attempt to access Partner Portal through an incognito browser window after a few hours to verify if the changes have been implemented.
+  If you still do not see the changes after 24 hours, we can attempt to resolve the issue by clearing the old browser cookies/cache files, which will update the changes on your browser.
+
+Please let me know how things are progressing.
+
+Thank you for choosing Microsoft. We value your business.
+Please take care and have a wonderful day ahead.
+Best Regards,
+Nihanth G (He/Him)
+Support Analyst, Partner Center/API
+Office Phone: +1(866) 582 4370
+Working hours: Mon to Fri 09:00 AM PM EST   06.30 PM EST
+Do you require assistance outside of your working hours?
+Team DL   CNXAMTSSupport@microsoft.com 
+Executive: v-Anita@microsoft.com
+
+  
+------------------- Original Message -------------------
+From: okanym@compuprotect.com;
+Received: Mon Sep 26 2022 01:25:41 GMT+0430 (India Standard Time)
+To: supportmail@microsoft.com; snichol@cloudspace.com;
+Cc: ve-productivity@cloudspace.com;
+Subject: [EXTERNAL] Re: Follow-up email regarding the Microsoft case: ... - TrackingID#2408230740207973
+
+You rarely receive email messages from okanym@compuprotect.com. Understand why this is important
+ 
+Upon checking my account, I have confirmed that I only possess the Global Admin role. I am currently traveling and will return to work tomorrow.
+ 
+Okany Matthews
+Creation date: 2022-09-28 17:32:00 work_notes: I received a call from MSFT and informed them that the partner will be unavailable until tomorrow after 9:00 a.m. PT for a call. MSFT agreed to call back at that time.
+Creation date: 2022-09-28 17:33:12 work_notes: Okany Matthews <okanym@compuprotect.com>
+I will be available tomorrow after 09:00 a.m. PT. 
+
+Okany
+
+Get Outlook for iOS
+From: Nihanth G  <support@mailbox.support.microsoft.com>
+Sent: Monday, September 26, 2022 12:54:44 PM
+To: Shawna Nichol <snichol@cloudspace.com>; support@mailbox.support.microsoft.com <support@mailbox.support.microsoft.com>
+Cc: ve-productivity@cloudspace.com <ve-productivity@cloudspace.com>; okany Matthews <okanym@compuprotect.com>
+Subject: Follow-up email regarding the Microsoft case: CS4413821 - Es... - TrackingID#2408230740207973
+ 
+Hello Jane, 
+ 
+
+I hope you're having a good day. I am writing to follow up on your support ticket, number (SR #2408230740207973), with Microsoft Partner Portal Technical Support.
+
+I attempted to contact you at +1 749-528-2363, but I reached your help desk instead. They informed me that you were unavailable at the time.
+
+I would like to inquire whether you had a chance to perform the suggested steps. If you did, please respond to this ticket and inform us of the outcome or the current status of the issue. This information will help us track the progress of the ticket and further investigate if the issue persists. If there is anything else I can assist you with, please don't hesitate to let me know. I will be happy to address any additional concerns you may have. If you are currently occupied with other work priorities or require more time to get back to us, please keep me informed.
+
+In the event that you have no further inquiries and the issue has been resolved, please inform us if we can proceed with closing the ticket.
+
+I look forward to hearing from you soon. Have a wonderful day ahead.
+
+Thank you for choosing Microsoft. We value your business.
+
+Best Regards,
+Nihanth G (He/Him)
+Support Analyst, Partner Center/API
+Office Phone: +1(866) 582 4370
+Working hours: Mon to Fri 09:00 AM PM EST   06.30 PM EST
+Do you require assistance outside of your working hours?
+Team DL   CNXAMTSSupport@microsoft.com 
+Executive: v-Anita@microsoft.com
+
+
+image
+Creation date: 2022-09-29 17:16:54 work_notes: The issue has been resolved and I am now able to add a customer.
+
+Okany Matthews
+416-638-8779 #1 
+
+
+From: Nihanth G  <support@mailbox.support.microsoft.com>
+Date: Tuesday, September 27, 2022 at 09:38 AM
+To: Okany Matthews <okanym@compuprotect.com>, supportmail@microsoft.com <supportmail@microsoft.com>, snichol@cloudspace.com <snichol@cloudspace.com>
+Cc: ve-productivity@cloudspace.com <ve-productivity@cloudspace.com>
+Subject: Follow-up email regarding the Microsoft case.... - TrackingID#2408230740207973
+Hello Jane, 
+
+Good day!
+
+Thank you for taking the time to speak with us earlier today. 
+
+As per our communication, we will eagerly await for the update.
+
+Thank you for choosing Microsoft. We value your business.
+Please take care and have a wonderful day ahead.
+
+
+Best Regards,
+Nihanth G (He/Him)
+Support Analyst, Partner Center/API
+Office Phone: +1(866) 582 4370
+Working hours: Mon to Fri 09:00 AM PM EST   06.30 PM EST
+Do you require assistance outside of your working hours?
+Team DL   CNXAMTSSupport@microsoft.com 
+Executive: v-Anita@microsoft.com
+
+
+ 
+------------------- Original Message -------------------
+From: okanym@compuprotect.com;
+Received: Tue Sep 27 2022 06:08:07 GMT+0430 (India Standard Time)
+To: supportmail@microsoft.com; snichol@cloudspace.com;
+Cc: ve-productivity@cloudspace.com;
+Subject: [EXTERNAL] Re: Follow-up email regarding the Microsoft case: ... - TrackingID#2408230740207973
+
+You rarely receive email messages from okanym@compuprotect.com. Understand why this is important
+
+I will be available tomorrow after 09:00 a.m. PT. 
+  
+ Okany
+ 
+Get Outlook for iOS
+________________________________________
+From: Nihanth G  <support@mailbox.support.microsoft.com>
+Sent: Friday, September 25, 2022 11:54:44 PM
+To: Shawna Nichol <snichol@cloudspace.com>; support@mailbox.support.microsoft.com <support@mailbox.support.microsoft.com>
+Cc: ve-productivity@cloudspace.com <ve-productivity@cloudspace.com>; Okany Matthews <okanym@compuprotect.com>
+Subject: Follow-up email regarding the Microsoft case: CS4413821 - Es... - TrackingID#2408230740207973 
+ 
+Hello Jane, 
+
+
+I hope you're having a good day.
+
+I am checking in regarding your support ticket, number (SR #2408230740207973), with Microsoft Partner Portal Technical Support.
+
+I attempted to contact you at +1 749-528-2363, but I reached your support instead. They informed me that you were unavailable at the time.
+
+I would like to inquire whether you had a chance to perform the suggested steps. If you did, kindly respond to this ticket and inform us of the outcome or the current status of the issue. This information will support us to track the progress of the ticket and further investigate if the issue persists. If there is anything else I can assist you with, please don't hesitate to let me know. I will be happy to address any additional concerns you may have. If you are currently occupied with other work priorities or require more time to get back to us, please keep me informed.
+
+In the event that you have no further inquiries and the problem has been resolved, kindly inform us if we can move with closing the ticket.
+
+I look forward to hearing from you soon. Have a wonderful day ahead.
+
+Thank you for choosing Microsoft. We value your business.
+
+Best Regards,
+Nihanth G (He/Him)
+Support Analyst, Partner Center/API
+Office Phone: +1(866) 582 4370
+Working hours: Mon to Fri 09:00 AM PM EST   06.30 PM EST
+Do you require assistance outside of your working hours?
+Team DL   CNXAMTSSupport@microsoft.com 
+Executive: v-Anita@microsoft.com
+
+  
+------------------- Original Message -------------------
+From: support@mailbox.support.microsoft.com;
+Received: Thur Sep 22 2022 02:28:25 GMT+0430 (India Standard Time)
+To: Shawna Nichol <snichol@cloudspace.com>; support@mailbox.support.microsoft.com;
+Cc: ve-productivity@cloudspace.com; okanym@compuprotect.com;
+Subject: RE: CS4413821 - Building customer relationships... - TrackingID#2408230740207973
+  
+Hello Jane,
+ 
+
+I hope you are having a good day.
+
+Thank you very much for dedicating your time and displaying patience during our call.
+
+As previously mentioned, we will contact you on Sunday (25/09/2022)since our Partner (CompuProtect) is unavailable.
+ 
+Thank you for choosing Microsoft. We appreciate your business with us.
+Please take care and have a wonderful day ahead.
+Best Regards,
+Nihanth G (He/Him)
+Support Analyst, Partner Center/API
+Office Phone: +1(866) 582 4370
+Working hours: Mon to Fri 09:00 AM PM EST   06.30 PM EST
+Do you require assistance outside of your working hours?
+Team DL   CNXAMTSSupport@microsoft.com 
+Executive: v-Anita@microsoft.com
+
+ 
+------------------- Original Message -------------------
+From: support@mailbox.support.microsoft.com;
+Sent: Thursday Sep 22 2022 02:28:25 GMT+0430 (India Standard Time)
+To: Shawna Nichol <snichol@cloudspace.com>;
+Cc: ve-productivity@cloudspace.com; okanym@compuprotect.com;
+Subject: CS4413821 - Building customer relationships - TrackingID#2408230740207973
+  
+Hi Jane,
+
+I hope you are doing well,
+
+Thank you for reaching out to Microsoft Partners Technical Support. My ...

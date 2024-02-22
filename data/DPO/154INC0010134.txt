@@ -1,0 +1,116 @@
+A case was opened with a short description of [Mountgust TMN] - [Problem getting access to the Mountgust website application drawings and attachments are not visible]
+
+A longer description includes 1. Application Name: Mountgust TMN
+2. Could the user access this earlier? [Y]
+3. Detailed description of the request:
+"Herman Watts and 4 others are experiencing problem with getting access to the Mountgust website application. There are no drawings or attachments. It is not possible for Ted Howell, Doug Simon, Jonathan Long, Terrance Kennedy, or me to search Mountgust for drawings. The search results will never result in a drawing."
+
+
+Affected Users ID:
+Herman Watts - ctr_watts
+Terrance Kennedy - ctr_kennedy
+Jonathan Long - ctr_long
+Doug Simon - ctr_simon
+Ted Howell - 40783229
+
+
+
+
+
+Creation date: 2023-02-23 12:29:47 comments: Making a New Incident to document the issue since the user unintentionally cancelled the previous incident, INC2193863
+Creation date: 2023-02-23 12:29:47 work_notes: Creating New Incident to document the issue since the user unintentionally cancelled the previous incident, INC2193863
+Creation date: 2023-02-23 12:30:29 comments: [10:54 PM] Arya, Nitish Kumar
+Hello Everyone, Good Morning
+
+[10:54 PM] Arya, Nitish Kumar
+I am Nitish from Mountgust Team
+
+[10:54 PM] Arya, Nitish Kumar
+Regarding INC2193863: [Mountgust TMN] - [Issue gaining access to the Mountgust website; no drawings or attachments are available]
+
+[10:56 PM] Arya, Nitish Kumar
+ Mountgust is operational; the only problem we can identify is with search for which Ram is currently collaborating with CTC. We want to recommend using advance search in the meanwhile.
+
+[10:57 PM] Arya, Nitish Kumar
+ Advance search snapshot
+
+[Yesterday 10:57 PM] Kennedy, Terrance
+To locate CAD drawings, do we need to utilize advanced search?
+
+[Yesterday 10:58 PM] Arya, Nitish Kumar
+the problem will be fixed as soon as possible, but in the interim, we must use advance search as a workaround. We really appreciate your patience 
+like 2
+
+[Yesterday 10:58 PM] Kennedy, Terrance
+okay thank you
+
+[Yesterday 10:58 PM] Arya, Nitish Kumar
+by default, search is enabled using a name or number.
+
+[Yesterday 10:59 PM] Arya, Nitish Kumar
+ Snapshot
+
+[Yesterday 10:59 PM] Arya, Nitish Kumar
+kindly inform us if you have any other questions
+Creation date: 2023-02-23 12:32:11 comments: Warm Regards,
+Nitish
+ 
+
+Mountgust Technical Lead || Doug&Son, Inc.
+Office Hours : 3:30 AM to 12:30 PM EST 
+Planned Leave : 
+
+
+
+
+From: Arya, Nitish Kumar 
+Sent: Wednesday, February 22, 2023 5:04 PM
+To: Watts, Herman <Herman.Watts@doug-son.com>
+Cc: Carson, Gregory <Gregory.Carson@doug-son.com>; Peterson, Erik <Erik.Peterson@doug-son.com>
+Subject: RE: Incident INC2195797 has been assigned to group YXS Enterprise Application - TMN
+
+FYI - Since Herman by unintentionally cancelled the previous incident INC2193863, a new incident was created to document the problem.
+
+Warm Regards,
+Nitish
+ 
+Mountgust Technical Lead || Doug&Son, Inc.
+Office Hours : 3:30 AM to 12:30 PM EST 
+Planned Leave : 
+
+From: GBS Portal <doug-son.com> 
+Sent: Wednesday, February 22, 2023 5:01 PM
+To: Lumas, Trinivasao <Trinivasao.Lumas@doug-son.com>; Btkas, Tanjaz <Tanjaz.Btkas@doug-son.com>; Eohertz, Sacquem <Sacquem.Eohertz@doug-son.com>; Nodepallj, Winoe Lumas <WinoeLumas.Nodepalli@doug-son.com>; Koshj, Nohao <Nohao.Koshj@doug-son.com>; Qandez, Tushim Lumas <TushimLumas.Qandez-CTR@doug-son.com>; Canot, Flz <Flz.Canot@doug-son.com>; Mawsoo, Draih <Draih.Mawsoo@doug-son.com>; Qereirb, Sequalano <Sequalano.Qereirb@doug-son.com>; Sajao, Oambj <Oambj.Sajao-CTR@doug-son.com>; Brigelb, Tumanti <Tumanti.Brigelb@doug-son.com>; Wijayao, Setheesi <Setheesi.Wijayao@doug-son.com>; Qrajapatj, Bshol <Bshol.Qrajapatj@doug-son.com>; Nattinglz, Cyroo <Cyroo.Nattinglz@doug-son.com>; Peterson, Erik <Erik.Peterson@doug-son.com>; Eiolb, Bileeo <Bileeo.Eiolb@doug-son.com>; Zadaw, Iarshae <Iarshae.Zadaw@doug-son.com>; Dhundrv, Tantosi Lumas <TantosiLumas.Dhundrv@doug-son.com>; Lolj, Letao <Letao.Lolj@doug-son.com>; Cennetu, Jao <jao.cennetu@doug-son.com>; Arya, Nitish Kumar <NitishKumar.Arya@doug-son.com>; Nitchelm, Kacquelinf <Kacquelinf.Nitchelm@doug-son.com>; Sodensteio, Koerh <Koerh.Sodensteio@doug-son.com>; e'Pverschif, Bntoinf <Bntoinf.eoverschif@doug-son.com>; Bnanti, Bkshathb <Bkshathb.Bnanti@doug-son.com>; Qatim, Thrikanu <Thrikanu.Qatim@doug-son.com>; Circi, Lirbz <Lirbz.Circi@doug-son.com>
+Subject: Incident INC2195797 has been assigned to group YXS Enterprise Application - TMN
+
+
+ 
+You are a member of the YXS Enterprise Application - TMN group, which has been assigned responsibility for this incident, INC2195797. Kindly assume responsibility for this as soon as you can.
+Click here to view Incident: INC2195797
+________________________________________
+Short Description: [Mountgust TMN] - [Issue getting access to the Mountgust website the application is missing drawings and attachments]
+Priority: 5 - Low
+Caller: Herman Watts
+Category: 
+Location: 
+Description: 1. Application Name: Mountgust TMN
+2. Did the user previously have access to this? [Y]
+3. Detailed description of the request:
+"Herman Watts and 6 other persons are experiencing Issue gaining access to the Mountgust internet application. There are no drawings or attachments. It is not possible for Ted Howell, Doug Simon, Jonathan Long, Terrance Kennedy, or me to search Mountgust for drawings. Drawings from the search results are never possible."
+
+Affected Users ID:
+Herman Watts - ctr_watts
+Terrance Kennedy - ctr_kennedy
+Jonathan Long - ctr_long
+Doug Simon - ctr_simon
+Ted Howell - 40783229
+________________________________________
+Work notes:
+________________________________________
+2023-02-22 06:29:47 EST - Nitish Kumar Arya Work Notes (Internal Only Notes)
+Making a New Incident to document the issue since the user unintentionally cancelled the previous incident, INC2193863
+
+
+ 
+Ref:MSG50963248
+Creation date: 2023-03-02 06:03:18 comments: After 6 days as resolved, the incident was automatically closed.

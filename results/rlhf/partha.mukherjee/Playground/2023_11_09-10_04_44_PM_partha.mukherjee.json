@@ -1,0 +1,1 @@
+[{"role": "user", "content": "Hi", "tags": ["good", "bad"]}, {"role": "robot", "chosen": "Hi there! How can I help you today? 23232", "rejected": "Hi there! How can I help you?", "model": "NOW_LLM_llama13b_110723", "snapchosen": "Hi there! How can I help you today? 23232"}]

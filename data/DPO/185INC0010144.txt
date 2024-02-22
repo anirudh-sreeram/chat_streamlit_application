@@ -1,0 +1,88 @@
+A case was opened with a short description of NonProd Server at high memory utilization, higher than 96 for 31 min
+A longer description includes Significant high memory utilization for cvmwnt2322.smd.jst, at 97%
+
+There are top 5 processes with High Memory utilization below:
+Name  Process ID  Physical Memory
+MsMpEng.exe  4820  142,592 kB
+Registry  77  35,088 kB
+MsSense.exe  1218  23,488 kB
+gc_worker.exe  6276  20,336 kB
+SenseNdr.exe  7010  19,564 kB
+
+
+
+
+Creation date: 2023-04-13 18:12:09 comments: High Memory Utilization still, checking further.
+Creation date: 2023-04-17 16:20:56 comments: From: Bernard Aryes <Bernard.Aryes@jstenergy.com> 
+Sent: Sunday, April 16, 2023 11:20 PM
+To: Victor H. Garber <Victor.Garber@jstenergy.com>; Tim CAMERON <Tim.CAMERON@jstenergy.com>
+Cc: $HAL Mark <$HALMark@jstenergy.com>
+Subject: INC0907987 || cvmwnt2322.smd.jst has Significant high memory utilization : 97 %
+
+Hi Victor,
+
+I would like you to decrease the Memory consumption of this server following the notified processes.
+
+ 
+
+
+Regards,
+
+Bernard Aryes
+Creation date: 2023-04-18 12:22:51 comments: From: Victor H. Garber <Victor.Garber@jstenergy.com> 
+Sent: Monday, April 17, 2023 7:20 AM
+To: Bernard Aryes <Bernard.Aryes@jstenergy.com>; Tim CAMERON <Tim.CAMERON@jstenergy.com>; Security - Reliable Cyber Security Operations <Security-Reliable CyberSecurityOperations@jstenergy.com>
+Cc: $HAL Mark <$HALMark@jstenergy.com>; Ewan S. Neil <Ewan.Neil@jstenergy.com>
+Subject: RE: INC0907987 || cvmwnt2322.smd.jst has Significant high memory utilization : 97 %
+
+@Security - Reliable Cyber Security Operations
+Creation date: 2023-04-21 10:32:53 comments: From: Kathy G. Bates <Kathy.Bates@jstenergy.com> 
+Sent: Monday, April 17, 2023 8:17 AM
+To: Bernard Aryes <Bernard.Aryes@jstenergy.com>; Victor H. Garber <Victor.Garber@jstenergy.com>; Tim CAMERON <Tim.CAMERON@jstenergy.com>; Security - Reliable Cyber Security Operations <Security-Reliable CyberSecurityOperations@jstenergy.com>; Kevin Aryes <Kevin.Aryes@jstenergy.com>
+Cc: $HAL Mark <$HALMark@jstenergy.com>; Ewan V. Neil <Ewan.Neil@jstenergy.com>
+Subject: RE: INC0907987 || cvmwnt2322.smd.jst has Significant high memory utilization : 97 %
+
+Hi! 
+
+Thanks for your help! There can be high CPU Utilization because AV is running a 'Full Scan.' Is 5GB the recommended by PowerPop when Anti Virus is run with real time protection? If that's not the case, increasing RAM usually helped previously.
+
+@Kevin Aryes   What do you expect in accordance with this request? The Anti Malware Executable is utilizing only 54.3 MB of RAM, so it doesn't look like that should be the exact issue.
+Best, 
+
+Kathy Bates   GFEC
+Reliable Cyber Security Operations
+JST Energy
+
+From: Bernard Aryes <Bernard.Aryes@jstenergy.com> 
+Sent: Monday, April 17, 2023 8:03 AM
+To: Kathy G. Bates <Kathy.Bates@jstenergy.com>; Victor H. Garber <Victor.Garber@jstenergy.com>; Tim CAMERON <Tim.CAMERON@jstenergy.com>; Security - Reliable Cyber Security Operations <Security-Reliable CyberSecurityOperations@jstenergy.com>
+Cc: $HAL Mark <$HALMark@jstenergy.com>; Ewan S. Neil <Ewan.Neil@jstenergy.com>
+Subject: RE: INC0907987 || cvmwnt2322.smd.jst has Significant High memory utilization : 97 %
+
+Hi Kathy,
+
+OS is PowerPop Server 2019 Standard
+
+RAM 6 GB and 3 CPUs
+
+ 
+
+Regards,
+
+Bernard Aryes
+
+From: Kathy G. Bates Kathy.Bates@jstenergy.com 
+Sent: Monday, May 17, 2023 7:42 AM
+To: Victor H. Garber <Victor.Garber@jstenergy.com>; Bernard Aryes <Bernard.Aryes@jstenergy.com>; Tim CAMERON <Tim.CAMERON@jstenergy.com>; Security - Reliable Cyber Security Operations <Security-Reliable CyberSecurityOperations@jstenergy.com>
+Cc: $HAL Mark <$HALMark@jstenergy.com>; Ewan S. Neil <Ewan.Neil@jstenergy.com>
+Subject: RE: INC0907987 || cvmwnt2322.smd.jst has Significant High memory utilization : 97 %
+
+Hello Bernard and Team, 
+
+What is the OS this server is running? 
+What's the RAM GB allocation now?
+
+Best, 
+Kathy Bates   GFEC
+Reliable Cyber Security Operations
+JST Energy

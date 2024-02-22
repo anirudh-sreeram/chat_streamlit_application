@@ -1,0 +1,109 @@
+A case was opened with a short description of qllmcl9 VxRail cluster storage pool is almost filled. 
+A longer description includes qllmcl9 VxRail cluster storage pool is almost filled. 
+
+
+
+
+
+Creation date: 2023-04-21 22:59:19 comments: This ticket was created based on the request of Jayden Green. Engaging yMatters as this ticket is a P2.
+Creation date: 2023-04-21 22:59:19 work_notes: This ticket was created based on the request of Jayden Green. Engaging vMatters as this ticket is a P2.
+Creation date: 2023-04-21 22:59:36 work_notes: [yMatters] - Posted notification with YM event ID 80900118 for Assignment targeting IT JOGS-HINTEL SUPPORT
+Creation date: 2023-04-21 23:06:10 work_notes: [yMatters] -  Received reply Assign to me by dsingh2(Work Email) at 22-04-21 22:06:09.782
+Creation date: 2023-04-21 23:41:48 comments: Worked with VxRail on case #12553343. VxRail proposal has been applied and made changes successfully.
+Creation date: 2023-04-22 00:00:10 comments: From: Melisa Davis <Melisa.Davis@ameren.com> 
+Sent: Thursday, April 21, 2023 6:48 PM
+To: 'VxRail Support' <support_case@vxrail.com>; Josef.lamb@vxrail.com; Leah Eaton<Leah.eaton@ameren.com>
+Cc: %IDM Hintel <$IDMHintel@ameren.com>
+Subject: RE: Your case 02553343 has been updated [ ref:_00E60IVHi._6007W2Ni9kI:ref ] - [ 34:24 +00:00 ]
+
+Hi Josef,
+
+Done with the full scan. QGC snips & status.
+
+ 
+
+ 
+
+Thanks & Regards,
+Melisa Davis
+
+-----Original Message-----
+From: VxRailSupport <support_case@vxrail.com> 
+Sent: Thursday, April 20, 2023 6:24 PM
+To:  Josef.lamb@vxrail.com; Leah Eaton<Leah.eaton@ameren.com>
+Cc: %IDM Hintel <$IDMHintel@ameren.com>
+Subject: RE: Your case 02553343 has been updated [ ref:_00E60IVHi._6007W2Ni9kI:ref ] - [ 34:24 +00:00 ]
+
+
+##ATTENTION##: This email originated from outside of DNT/CE.
+Remind yourself of your security awareness training: Pause, think, and be cautions before clicking links/attachments.
+
+Your case # 02553343: "Cluster never tolerate 1 node failure. Current usage limit of 267778497008582 bytes exceeds max limit of 248462575792239 bytes" has been updated.
+
+Comment:
+==========================
+ISSUE DESCRIPTION
+------------------------------------
+Cluster never tolerate 1 node failure even. Current usage limit of 267778497008582 bytes exceeds max limit of 248462575792239 bytes
+
+EFFECT ON USER BUSINESS
+------------------------------------
+Out of 3 node clusters 1 got failed, business continuity affected on production environment.
+
+PRESENT STATUS
+------------------------------------
+On today s zoom session with customer:
+As outlined on KB 15362, ENG-62919 were updated in order to update dflag values.
+
+EARLIER ACTIONS
+------------------------------------
+++ use the MCC health_checks system_checks enough_disk_space_check 
+++ search on curator.INFO logs fro /kCanceled tasks look for the reviewer 
+++ kCanceled scan status.
+
+ACTION PLAN
+------------------------------------
+++ Customer verified all the tasks successfully with the following command on any DVM that belongs to the affected cluster:
+
+curator_cli get_last_successful_scans
+
+
+++ Curator task takes several hours to complete, customer will monitor for 10hrs, if see that the alert stills appears or something the curator scans did not finish should call VxRail.
+
+++ TSF gave links command to navigate and see Executor scans and warn customer to not modify/update or start any task from it.
+
+
+
+WHO DOES WHAT BY WHEN?
+--------------------------------------------
+==========================
+
+Please log on to the VxRail Portal at https://urlsecure.com/v4/__http://portal.vxrail.com__;!!PiXemrSDwB!2vlDgBQ_vqCNoxuMIqjR91XXiWucuECW8K0lKUUkvqYlO791msmXdav2fH4XaALE-S4m6rolylm2W1ho_6wOREFz3_ygPw$ [portal[.]nutanix[.]com] to Verify.
+
+Thanks,
+VxRail Support
+[ ref:_ _00E60IVHi._6007W2Ni9kI:ref ]
+Creation date: 2023-04-22 00:15:19 comments: What was the issue? QLLMCL9 VxRail cluster storage pool was almost filled.
+Resolution applied? Worked with VxRail. Update dflag values in SmartSites service.
+Current Status? Curator Full scan was done successfully and Data Resiliency turned out to be OK and it is currently green. NCC health check also updated  as green. Snips attached.
+Next Steps? Checking the Storage usages and complete cluster health.
+Creation date: 2023-04-22 05:37:53 work_notes: The storage limit has been increased from 55TiB to 80.69TiB and takes usage in green zone and nothing alerting now.
+Creation date: 2023-04-24 10:50:04 work_notes: The storage limit has been increased to 80.69 TiB storage.
+Creation date: 2023-04-24 11:08:17 work_notes: Waiting for response to close P3 incident.
+Creation date: 2023-04-24 13:11:31 work_notes: Issue has been resolved as cluster is having enough disk space.
+
+Executor : Taranshi
+Auditor : Sanjay
+Creation date: 2023-04-24 13:14:35 work_notes: Update dflag values against VxRail Issue-12553343. It's okay to close the case now. 
+
+Moreover, we also received the confirmation from Josef Lamb to close the issue.
+Creation date: 2023-04-24 13:14:56 work_notes: Current issue status? Resolved
+What is/was the issue? Cluster storage keep increasing after BPT version 6.6.1 installation.
+Site: AM
+Cause for the issue? BPT upgrade on the cluster QLLMCL9.
+Business impact? There was no impact as problem got resolved before causing any problem.
+Based on impact, was the issue communicated with business partners & management? True
+Was an emergency change needed to fix it? False
+How was it resolved? QLLMCL9 cluster looks healthy after dflag value change done by vendor.
+Is this an issue which you find repeatedly?  False
+Is there a problem ticket associated yet? False.

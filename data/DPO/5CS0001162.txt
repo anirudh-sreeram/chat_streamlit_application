@@ -1,0 +1,181 @@
+A case was opened with a short description of Experiencing difficulties when attempting to activate vCenter in Azure Arc through PowerShell.
+A longer description includes The client TUT Group is in the process of initiating a support request with Microsoft to facilitate the activation of vCenter in Azure Arc using a PowerShell script.
+
+Additional details from our client:
+
+"To provide further clarity, I am not seeking assistance with VMware support. My goal is to utilize the Azure Arc service to integrate a vCenter with Azure Arc. I am encountering a problem with the PowerShell script provided by Microsoft Azure and require support in using this script."
+
+
+
+
+
+Creation date: 2022-10-06 14:54:10 work_notes: yyeeeeet
+Creation date: 2022-10-06 15:01:16 comments: Susan,
+
+Thank you for contacting Nimbus Support. My name is Esme Todd, and I am a member of the Infrastructure Support group. Could you kindly share the documentation you referred to when setting this up? Additionally, can you describe any errors or issues you encounter when attempting to run the script?
+Creation date: 2022-10-06 15:38:28 comments: Hello Esme,
+
+Kindly find the description below provided by the client:
+
+I have attempted to execute this script on multiple servers. The primary problem with both servers is that it halts at a specific point and fails to continue any further.
+Server 1, an ESXi VM on a host connected to the vCenter. I m never asked to sign into Azure.
+Kindly login to Azure CLI.
+                * If you are running the script for the initial time please, choose yes.
+                 *If you have logged into Azure just before running the script, you can select no.
+
+Do you confirm login to azure cli?
+Yes(y)/No(n)?: y
+
+
+Server 2, a Hyper-V VM that is on the vCenter server's network. I successfully completed the Azure login but when it reaches the resource deployment stage for bridge, it pauses and does not prompt me for credentials.
+==> Please furnish vCenter details for deploying the Arc resource bridge VM. The provided credential will be utilized by the Arc resource bridge to manage updates and scaling.
+Create Config
+Starting createconfig
+
+-John
+
+
+Regards
+
+Susan Boel
+Advancement Manager
+susan@newtech.com
+[cid:image001.png@01E8D95F.654249F0]
+Creation date: 2022-10-06 16:11:59 comments: Susan,
+
+I will escalate this case to Microsoft. 
+
+In order to open Microsoft ticket, I would need:
+
+Best Contact First/Last Name:
+Email:
+Phone:
+Desired contact method:
+Round the clock support or business hours:
+Creation date: 2022-10-06 16:42:22 comments: Hello Esme,
+
+Below is the list of requested information:
+
+Best Contact First/Last Name: John Porter
+Email: jporter@tut.com<mailto:jporter@tut.com>
+Phone: 753.579.0157
+Desired contact method: Email
+Round the clock support or business hours: 9-6 EDT
+
+Thank you for your assistance!
+
+Regards,
+
+Susan Boel
+Advancement Manager
+susan@newtech.com
+[cid:image001.png@01D8D966.4B9dDAE0]
+Creation date: 2022-10-06 18:05:21 comments: Susan, 
+
+This case has been escalated to Microsoft,  Case ID:  2210050030006016. An engineer from Microsoft will contact you directly once they have been assigned to the case. This case will now be transferred to our Vendor Escalation Group who can assist with communications with Microsoft. Feel free to reach out if you have any inquiries in the meantime.
+Creation date: 2022-10-06 18:06:04 work_notes: The partner has asked us to include the customer in the CC list for the MSFT case: jporter@tut.com
+Creation date: 2022-10-11 17:25:53 comments: Hi,
+
+At the time of writing, our client has not received any communication from Microsoft.
+
+Kindly provide guidance on how we should handle this situation.
+
+
+Regards,
+
+Liam Hamm
+Operations Exec
+Newtech LLC
+E.
+Creation date: 2022-10-11 21:49:54 work_notes: Hi team! 
+
+Hope all is well today. I am so sorry for the delay. Unfortunately, I was OOO yesterday and some of today due to an emergency. My partner, Liam, and end user, John, have been added to this e-mail conversation.
+
+@liam@newtech.com and @jporter@tut.com please see the highlighted portions below and let us know!
+
+Please share the following:
+1. Document or instructions that are being followed
+2. vCenter version: 
+3. Does your vCenter Server instance include more than 9500 VMs?
+4. Any additional information or screenshots that may be important:
+Creation date: 2022-10-11 21:49:54 comments: Hi Liam,
+
+I regret the delay, but I experienced a personal emergency that required me to be away from the office yesterday and part of today. I have now included you and the end user in the e-mail conversation.
+
+Thanks!
+Creation date: 2022-10-18 22:32:01 work_notes: John, 
+I have contacted the Product Group Team to examine the behavior.
+
+I will update you on the next steps or if any additional information is required.
+
+ Thanks,
+
+Patrick Richardson
+ Support Engineer.
+USA
+Storage & Critical Availability
+Planned OoO: 
+Feel free to contact the Premier Support line if you need immediate assistance at: 1-800-825-2100
+TA
+Jose.Koyote@microsoft.com
+mike.wolf@microsoft.com
+TM
+v-paras@microsoft.com
+elton.gomez@microsoft.com
+
+ 
+Office: +49530050968
+Mon-Fri | 09:00   18:00 CST
+v-patrickw@microsoft.com
+
+
+________________________________________
+From: John Porter<jporter@tut.com>
+Sent: Monday, October 17, 2022 12:50 PM
+To: Patrick Richardson (Noting IT LLC ) <v-patrickw@microsoft.com>; Nick Jones <njones@nimbus.com>; Microsoft Support <helpmail@microsoft.com>; Liam Powell <liam@newtech.com>
+Cc: Esme Todd <etodd@nimbus.com>; Jacob Abelins <jabelinsnimbus.com>; Vendor Escalations- Infrastructure Technical Help <ve-infrastructure@nimbus.com>; Ravi Kumar<rkumar@microsoft.com>
+Subject: [EXTERNAL] RE: Experiencing difficulties when attempting to activate vCenter in Azure Arc through Pow... - TrackingID#2210050030006016 
+ 
+Regarding the Azure account:
+1. Are there multiple users linked to the subscription? Yes, there are. I am one of the owners of the subscription, however.
+
+2. Is the current user granted administrator permissions? Yes, I am using my account, which is an owner of the subscription and has permissions inherited by all organizational units. Additionally, I hold the role of domain admin within the domain on the server from which I am running this script, and I am also an administrator involved in the vCenter onboarding process.
+1. Can you observe the resource creation process? No, I cannot. Resources are never created in vCenter or Azure.
+2. If so, do their resources vanish or persist? Are you able to utilize them? N/A, For further details on the expected behavior, this script is intended to deploy a VM in vCenter that establishes a connection to Azure arc. This connection should enable the visibility and management of all VMs in vCenter through the VM deployed in vCenter.
+-John
+ 
+From: Patrick Richardson (Noting IT LLC ) <v-patrickw@microsoft.com> 
+Sent: Monday, October 17, 2022 12:48 PM
+To: John Porter <jporter@tut.com>; Nick Jones <njones@nimbus.com>; Microsoft Support <helpmail@microsoft.com>; Liam Powell <liam@newtech.com>
+Cc: Esme Todd <etodd@nimbus.com>; Jacob Abelins <jabelinsnimbus.com>; Vendor Escalations - Infrastructure Technical Help <ve-infrastructure@nimbus.com>; Ravi Kumar <rkumar@microsoft.com>
+Subject: Re: Experiencing difficulties when attempting to activate vCenter in Azure Arc through Pow... - TrackingID#2210050030006016 
+ 
+John, 
+
+Thank you. can you please verify the following:
+
+Regarding the Azure account:
+1. Are there multiple users linked to the subscription? 
+2. Is the current user granted administrator permissions?
+Regarding the process for onboarding :
+1. Can you observe the resource creation process?
+2. If so, do their resources vanish or persist? Are you able to utilize them? 
+ Thanks,
+ 
+Patrick Richardson
+ Support Engineer.
+USA
+Storage & Critical Availability
+Planned OoO: 
+Feel free to contact the Gold Support line if you need immediate assistance at: 1-800-825-2100
+TA
+Jose.Koyote@microsoft.com
+mike.wolf@microsoft.com
+TM
+v-paras@microsoft.com
+elton.gomez@microsoft.com
+
+ 
+Office: +49530050968
+Mon-Fri | 09:00   18:00 CST
+v-patrickw@microsoft.com

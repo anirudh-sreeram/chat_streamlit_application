@@ -1,0 +1,284 @@
+A case was opened with a short description of zanmspab2||12825021-DuntenGudem||Critical:: Urgent :: Node ZANMSPAB2 is Poor.
+A longer description includes zanmspab2||12825021-DuntenGudem||Critical:: Urgent :: Node ZANMSPAB2 is Poor.
+
+
+
+
+Creation date: 2023-02-20 15:06:21 work_notes: All notifications in matter 12825021
+159187509::4::zanmspab2::Critical:: Urgent :: Node ZANMSPAB2 is Poor.
+
+Creation date: 2023-02-20 15:46:59 work_notes: KR Mishra Nolan Work Notes (Internal Only Notes) 2023-02-19 16:05:24
+
+consulted with on-site users and determined that the switch failed to restart successfully. Presently, we require console access to assess the switch's physical status. As a result, a support request has been initiated with the vendor. Thus, the ticket status is set to awaiting 4th party.
+
+
+From: Pooja K, Mahalakshmi <Mahalakshmi.SundariS@rolte-favoury.com>
+Sent: Sunday, February 19, 2023 3:55 PM
+To: manvitha.desoza@weh.co.za; theophi.bondey@weh.co.za; jumpal.kirong@weh.co.za; helpbench@weh.co.za
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; KYL-SigaleInfo <KYL-SigaleInfo@rolte-favoury.com>
+Subject: Re: Urgent Request for Immediate Technical Dispatch for RGAZJ02. - RG Hakwins
+
+Hello Group,
+
+Would you kindly elevate the priority of the ticket and furnish us with the ticket reference?
+ 
+Kindly schedule the technical dispatch as soon as possible and communicate the estimated time of arrival (ETA).
+
+Please note that we offer 24x7 round-the-clock support services. Kindly duplicate our team's DL(KYL-NOC@rolte-favoury.com)
+
+Warm regards,
+
+Mahalakshmi Pooja K| KYL-NOC
+mahalakshmi.poojak@rolte-favoury.com
+Mobile: (+91)8568098812
+www.rolte-favoury.com
+
+________________________________________
+From: Pooja K, Mahalakshmi <Mahalakshmi.PoojaK@rolte-favoury.com>
+Sent: Sunday, February 19, 2023 3:01 PM
+To: manvitha.desoza@weh.co.za <manvitha.desoza@weh.co.za>; theophi.bondey@weh.co.za <theophi.bondey@weh.co.za>; jumpal.kirong@weh.co.za <jumpal.kirong@weh.co.za>; helpbench@weh.co.za <helpbench@weh.co.za>
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; KYL-SigaleInfo <KYL-SigaleInfo@rolte-favoury.com>
+Subject: Urgent Request for Immediate Technical Dispatch for RGAZJ02. - RG Hakwins
+
+Hello WEH Group,
+
+An urgent technical dispatch is required immediately for the Hakwins site, Europe.
+
+Kindly initiate the ticket for the technician's visit and keep us promptly informed. 
+
+The technician is required to grant console access to the equipment.
+
+Site Address :
+
+Vadam Public park 5 Platinum Drive Vadam Park, Hakwins, Europe
+
+Please note that we offer 24x7 round-the-clock support services. Kindly duplicate our team's DL(KYL-NOC@rolte-favoury.com)
+
+Best Regards,
+
+Mahalakshmi Pooja K| KYL-NOC
+mahalakshmi.poojak@rolte-favoury.com
+Mobile: (+91)8568098812
+www.rolte-favoury.com
+Creation date: 2023-02-20 19:17:03 work_notes: A work note not taken from the primary incident: As a temporary solution, we have enabled the access switch with a limited number of functional ports. The local area network is currently operational with manual IP assignments on-site. The core switch remains offline, and we anticipate a technician's arrival on February 20th to establish console access to the switch.
+Creation date: 2023-02-20 21:05:23 work_notes: FE will arrive at the location today at 9:00 AM surrounding time.
+Creation date: 2023-02-20 23:23:07 work_notes: From: Naveen Bel <naveen.bel@ism-sa.co.za>
+Sent: 20 February 2023 12:16
+To: Justin, Aaric <Aaric.Justin@rolte-favoury.com>
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; Samuel Kuits <gideon@ism-sa.co.za>; Jaydon Bil <Jaydon@ism-sa.co.za>; cherry@marnom.co.za <cherry@marnom.co.za>; vasista@marnom.co.za <vasista@marnom.co.za>; berry@marnom.co.za <berry@marnom.co.za>
+Subject: Re: External: - IN-20220302-54 - Fresh phone Call Ahtr | Ref 438 | Rolte-Favoury : Hakwins - Hands & Feet Assistance
+ 
+Infrequent receipt of emails from naveen.bel@ism-sa.co.za. is noteworthy. Understand the significance of this. WARNING: Incoming external email.
+
+Hello Aaric 
+
+Sure, I ll be present 09:00 AM GMT+3
+
+---------------------------------------------------------
+From: Justin, Aaric <Aaric.Justin@rolte-favoury.com>
+Sent: Monday, February 19, 2023 8:25:05 PM
+To: Naveen Bel <naveen.bel@ism-sa.co.za>
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; Samuel Kuits <gideon@ism-sa.co.za>; Jaydon Bil <Jaydon@ism-sa.co.za>; cherry@marnom.co.za <cherry@marnom.co.za>; vasista@marnom.co.za <vasista@marnom.co.za>; berry@marnom.co.za <berry@marnom.co.za>
+Subject: Re: External: - IN-20220302-54 - Fresh phone Call Ahtr | Ref 438 | Rolte-Favoury : Hakwins - Hands & Feet Assistance
+ 
+Hello Naveen Bel,
+
+Appreciate the details. Would you kindly verify if the indicated time of 09:00 refers to 09:00 AM in the local time zone?
+
+Best Regards,
+Aaric Justin | KYL-NOC
+aaric.justin@rolte-favoury.com
+Mobile: (+91)7598874624
+www.rolte-favoury.com
+Please note that we offer 24x7 round-the-clock support services. Kindly duplicate our team's DL (KYL-NOC@rolte-favoury.com)
+
+---------------------------------------------------------------
+From: Naveen Bel <naveen.bel@ism-sa.co.za>
+Sent: 20 February 2023 11:36
+To: KYL-NOC <KYL-NOC@rolte-favoury.com>
+Cc: Samuel Kuits <gideon@ism-sa.co.za>; Jaydon Bil <Jaydon@ism-sa.co.za>; cherry@marnom.co.za <cherry@marnom.co.za>; vasista@marnom.co.za <vasista@marnom.co.za>; berry@marnom.co.za <berry@marnom.co.za>
+Subject: External: - IN-20220302-54 - Fresh phone Call Ahtr | Ref 438 | Rolte-Favoury : Hakwins - Hands & Feet Assistance
+ 
+Certain recipients of this message infrequently receive emails from naveen.bel@ism-sa.co.za. Understand the significance of this matter.
+IMPORTANT: External email
+Great day
+
+ I trust this email reaches you in good health.
+ 
+I will be heading to the client at 09:00. Feel free to reach out to me at 307-700-0577 to discuss the necessary actions.
+
+ Best Wishes
+Naveen Bel
+Network Engineer
+36 Nuker Street, Hakwins, 3650
+Office: +71 45 488 3144
+Email: assist@ism-sa.co.za | Web: www.ism-sa.co.za
+Creation date: 2023-02-20 23:23:24 work_notes: FE will arrive at the location today at 9:00 AM local time zone.
+Creation date: 2023-02-21 14:54:20 work_notes: This ticket is being forwarded to the NW DATA team.
+Creation date: 2023-02-21 16:32:58 work_notes: A work note not duplicated from the primary incident: Upon obtaining console access, we identified that the switch was hanging during the boot-up process and not proceeding. We have documented the hardware details.
+The switch was revived by resetting it to factory defaults with the assistance of a dispatched technician. We have reconfigured it, and CLCL has reverted the changes made to their CPE.
+Creation date: 2023-02-21 16:33:04 work_notes: A work note triggered a primary incident: We received confirmation from the user that the services, including Wi-Fi, are functioning normally. The user wishes to continue monitoring it until tomorrow morning, so we will maintain the ticket status as awaiting user info until then, after which we will transition the incident to solution proposed.
+Creation date: 2023-02-21 16:49:57 work_notes: A work note duplicated from the main incident: [8:51 PM] Ujala, Knpr,
+All computers have successfully NOCnected to the network, and everything appears to be functioning without issues. Should we maintain the call open for monitoring purposes until tomorrow morning, 
+Like 2
+
+[8:52 PM] Ujala, Knpr
+  
+
+[8:53 PM] Nolan, Mishra
+Certainly, Knpr will oversee it until tomorrow morning, and during this time, we will maintain the ticket status as awaiting user information.
+Creation date: 2023-02-21 16:50:38 work_notes: [8:51 PM] Ujala, Knpr
+All computers have successfully Cnected to the network, and everything appears to be functioning without issues. Should we maintain the call open for monitoring purposes until tomorrow morning,
+ like 2
+
+[8:52 PM] Ujala, Knpr
+  
+
+[8:53 PM] Nolan, Mishra
+Certainly, Knpr will oversee it until tomorrow morning, and during this time, we will maintain the ticket status as awaiting user information.
+Creation date: 2023-02-22 15:24:53 work_notes: A work note has been duplicated from the primary incident. Once more, due to a power fluctuation, the core switch became unresponsive, rendering the site inaccessible, which includes the access switch and access point.
+Nonetheless, the network has been temporarily reestablished by NOCfiguring the access switch independently at CLCL CPE and rerouting the cables from the faulty core switch.
+Awaiting the arrival of the dispatched technician to physically inspect the core switch via console access. NOCsequently, maintaining the ticket status as awaiting 4th party.
+
+
+
+From: Jumpal Kirong <jumpal.kirong@weh.co.za> 
+Sent: Tuesday, February 21, 2023 6:06 PM
+To: Max, Bolton <Bolton.Max@rolte-favoury.com>; Manvitha Desoza <manvitha.desoza@weh.co.za>; HelpBench <helpbench@weh.co.za>; Theophi Bondey <theophi.bondey@weh.co.za>
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; KYL-SigaleInfo <KYL-SigaleInfo@rolte-favoury.com>
+Subject: RE: External: - IN-20220302-67 - Fresh phone Call Ahtr | Ref 438 | Rolte-Favoury : Hakwins - Hands & Feet Assistance
+
+ Certain recipients of this message infrequently receive emails from jumpal.kirong@weh.co.za. Understand the significance of this matter.
+
+CAUTION: Outside email 
+Hello @Max, Bolton,
+
+Thank you for your message. We are addressing your inquiry, and we will provide feedback as soon as there is an update.
+ 
+Best Regards,
+
+Jumpal Kirong 
+Incident, Change and Service Request Co-Ordinator
+560 896 5648 | Jumpal.Kirong@weh.co.za
+www.weh.co.za 
+
+ 
+
+
+
+
+From: Max, Bolton <Bolton.Max@rolte-favoury.com> 
+Sent: Tuesday, 21 February 2023 14:09
+To: Jumpal Kirong <jumpal.kirong@weh.co.za>; Manvitha Desoza <manvitha.desoza@weh.co.za>; HelpBench <helpbench@weh.co.za>; Theophi Bondey <theophi.bondey@weh.co.za>
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; KYL-SigaleInfo <KYL-SigaleInfo@rolte-favoury.com>
+Subject: RE: External: - IN-20220302-54 - Fresh phone Call Ahtr | Ref 438 | Rolte-Favoury : Hakwins - Hands & Feet Assistance
+
+Hello Jumpal/Team
+
+Kindly direct this inquiry to the relevant team and offer assistance promptly, as it is of  critical.
+
+Best Regards,
+  
+Muyur Max | KYL-NOC
+Bolton.Max@rolte-favoury.com
+Mobile: (+91)8050274517
+www.rolte-favoury.com
+
+From: Max, Bolton <Bolton.Max@rolte-favoury.com> 
+Sent: Tuesday, February 21, 2023 4:48 PM
+To: Joedin Nehemiah <berry@marnom.co.za>; Samuel Kuits <gideon@ism-sa.co.za>; Jaydon Bil <Jaydon@ism-sa.co.za>; Danie Pretorius <cherry@marnom.co.za>; Maritsa Erian <vasista@marnom.co.za>
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; KYL-SigaleInfo <KYL-SigaleInfo@rolte-favoury.com>; Kamisetti, Hema Sai <HemaSai.Kamisetti@rolte-favoury.com>; Nolan, Mishra <Mishra.Nolan@rolte-favoury.com>; Naveen Bel <naveen.bel@ism-sa.co.za>
+Subject: RE: External: - IN-20220302-54 - Fresh phone Call Ahtr | Ref 438 | Rolte-Favoury : Hakwins - Hands & Feet Assistance
+
+Hello Group
+
+Could someone please investigate this matter? It's of utmost importance to our business, so kindly recognize the urgency of the situation and assign an engineer who is available to visit the site.
+
+Best Regards,
+  
+Muyur Max | KYL-NOC
+Bolton.Max@rolte-favoury.com
+Mobile: (+91)8050274517
+www.rolte-favoury.com
+
+From: Max, Bolton 
+Sent: Tuesday, February 21, 2023 2:18 PM
+To: Berry Nehemiah <berry@marnom.co.za>; Samuel Kuits <gideon@ism-sa.co.za>; Jaydon Bil <Jaydon@ism-sa.co.za>; Cherry Wolks <cherry@marnom.co.za>; Vasista Horeny <vasista@marnom.co.za>
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; KYL-SigaleInfo <KYL-SigaleInfo@rolte-favoury.com>; Pulathotti, Latha Priya <LathaPriya.Pulathotti@rolte-favoury.com>; Nolan, Mishra <Mishra.Nolan@rolte-favoury.com>; Naveen Bel <naveen.bel@ism-sa.co.za>
+Subject: RE: External: - IN-20220302-54 - Fresh phone Call Ahtr | Ref 438 | Rolte-Favoury : Hakwins - Hands & Feet Assistance
+
+Hello Team
+
+Kindly allocate an engineer at the earliest opportunity. We require dispatch today and urgent seek assistance on-site. Business operations have been significantly affected for more than 3 days.. 
+
+
+Best regards,
+  
+Muyur Max | KYL-NOC
+Bolton.Max@rolte-favoury.com
+Mobile: (+91)8050274517
+www.rolte-favoury.com
+
+From: Naveen Bel <naveen.bel@ism-sa.co.za> 
+Sent: Tuesday, February 21, 2023 11:09 PM
+To: Nolan, Mishra <Mishra.Nolan@rolte-favoury.com>; Joedin Nehemiah <berry@marnom.co.za>; Samuel Kuits <gideon@ism-sa.co.za>; Jaydon Bil <Jaydon@ism-sa.co.za>; Danie Pretorius <cherry@marnom.co.za>; Maritsa Erian <vasista@marnom.co.za>
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; KYL-SigaleInfo <KYL-SigaleInfo@rolte-favoury.com>; Kamisetti, Hema Sai <HemaSai.Kamisetti@rolte-favoury.com>
+Subject: RE: External: - IN-20220302-54 - Fresh phone Call Ahtr | Ref 438 | Rolte-Favoury : Hakwins - Hands & Feet Assistance
+
+ Certain individuals receiving this communication infrequently receive emails from naveen.bel@ism-sa.co.za. Understand the significance of this matter.
+
+WARNING: External correspondence. Regrettably, my schedule is fully occupied for the remainder of the week. I will only be available to assist on Monday afternoon.
+ 
+Best regards
+
+Naveen Bel
+Network Engineer 
+
+42 York Street, Hakwins, 3650 
+Office: +32 33 488 3414 
+Email: help@ism-sa.co.za | Web: www.ism-sa.co.za
+
+   
+
+From: Nolan, Mishra <Mishra.Nolan@rolte-favoury.com> 
+Sent: Tuesday, February 21, 2023 6:47 AM
+To: Naveen Bel <naveen.bel@ism-sa.co.za>; Joedin Nehemiah <berry@marnom.co.za>; Samuel Kuits <gideon@ism-sa.co.za>; Jaydon Bil <Jaydon@ism-sa.co.za>; Danie Pretorius <cherry@marnom-sa.co.za>; Maritsa Erian <vasista@marnom.co.za>
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; KYL-SigaleInfo <KYL-SigaleInfo@rolte-favoury.com>; Kamisetti, Hema Sai <HemaSai.Kamisetti@rolte-favoury.com>
+Subject: Re: External: - IN-20220302-54 - Fresh phone Call Ahtr | Ref 438 | Rolte-Favoury : Hakwins - Hands & Feet Assistance
+
+Certainly, Naveen, but once more, we are unable to access the switch via console. Kindly NOCsider revisiting the site at your earliest NOCvenience.
+ 
+Best regards,
+  
+Mishra Nolan | Network Operations
+mishra.nolan@rolte-favoury.com
+Mobile: (+91)9699419811
+www.rolte-favoury.com
+ 
+
+
+
+________________________________________
+
+From: Naveen Bel <naveen.bel@ism-sa.co.za>
+Sent: Tuesday, 21 February 2023, 10:07
+To: Nolan, Mishra <Mishra.Nolan@rolte-favoury.com>; Joedin Nehemiah <berry@marnom.co.za>; Samuel Kuits <gideon@ism-sa.co.za>; Jaydon Bil <Jaydon@ism-sa.co.za>; Danie Pretorius <cherry@marnom.co.za>; Maritsa Erian <vasista@marnom.co.za>
+Cc: KYL-NOC <KYL-NOC@rolte-favoury.com>; KYL-SigaleInfo <KYL-SigaleInfo@rolte-favoury.com>; Kamisetti, Hema Sai <HemaSai.Kamisetti@rolte-favoury.com>
+Subject: RE: External:  - IN-20220302-54 - Fresh phone Call Ahtr | Ref 438 | Rolte-Favoury : Hakwins - Hands & Feet Assistance
+
+ Certain individuals receiving this communication infrequently receive emails from naveen.bel@ism-sa.co.za. Understand the significance of this matter.
+
+CAUTION: Ex
+Creation date: 2023-02-23 12:24:17 work_notes: The access point is now operational on the NOCnector after being NOCnected to the access switch. Therefore, I'm transitioning the incident to the solution proposed.
+
+GHRTBYJE03#yh cdp ne
+Capability Codes: R - Router, T - Trans Bridge, B - Source Route Bridge
+                  S - Switch, H - Host, I - JHKM, r - Repeater, P - Phone
+
+Device ID        Local Intrfce     Holdtme    Capability  Platform  Port ID
+ZANMSPAB2        Fas 1/7           614           T I      AIR-AP311 Fas 0.2
+ZANMSPAB3        Fas 1/6           614           T I      AIR-AP311 Fas 0.2
+ZANMSJEU04#
+Creation date: 2023-02-23 12:24:30 work_notes: [ymessage] - Ended the ongoing events for this incident.
+Creation date: 2023-03-03 06:00:49 comments: admin2023-03-02 12:00:49
+The incident was normally NOCcluded after 6 days in the resolved status.

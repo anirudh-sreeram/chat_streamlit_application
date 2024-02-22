@@ -1,0 +1,126 @@
+A case was opened with a short description of FW: Open Commitment Record
+A longer description includes ________________________________
+From: MI Audit <MIAudit@carverbancorp.com>
+Sent: Tuesday, September 27, 2022 3:53:40 PM (UTC-04:00) Eastern Time (United states & Canada)
+To: Denwick MI (Now Edicta) SPAL <SalesPushActionLink@enactmi.com>; GDenwick MI (Now Edicta) Sales Open Agreements <SalesOpenAgreements@edicta.com>
+Cc: Max Hamilton H (Edicta MI) <Hamilton.Max@edicta.com>
+Sub: RE: Open Commitment Record
+
+
+ALERT: The email address is external. Use attachments and links with caution.
+
+Hello Edicta Team,
+Please find the updated open commits report, complete with closing dates and status, attached. 
+
+I wanted to draw your attention to one inconsistency: row 33 in the Carver bancorp loan worksheet the edicta cert # 7588514654 is showed by KFLR111115844, although the cert # of 7312731392 is found in the file. Since cert 7312731391 fits all other information, I think we should activate that coverage for this loan and borrower. Upon searching out system for cer # 75885144654, I am unable to locate the cert linked to any carver bancorp loans.
+
+I underlined the cell added a brief note about the discrepancy in the workbook. If you require any additional information or have any problems activating certificate #7312731392.
+
+Sincerely!
+
+[die:pic002.jpg@02E9E37E.GB6CE571]
+CONTINGENCY REMARKABLE
+
+Jared Howard | Conventional Mortgage Insurance Analyst
+Carver Bancorp Financial | Corporate NMLS# 2931 | 158 S Fir St, Suite 500 | Ventura, California(CA), 93001
+Mobile: 925.448.8693 |Email: jHoward@carverbancorp.com<mailto:dcabrall@carverbancorp.com>| Web: www.carverbancorp.com<https://nam12.safelinks.protection.mailmate.com/?url=http%3A%2F%2Fwww.carverbancorp.com%2F&data=04%7C01%7JHoward%40carverbancorp.com%7Cb5ca5adf1af94ef1aa9908d997dcc5ed%7C57d88166f2474deea6f9e6359f96ff2c%7C0%7C0%7C637707796729686225%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=sr4QnxwuC%2BptMLUCGuBXd7oBA%2BRFKDs0h%2BkqfIB9%2FWY%3D&reserved=0>
+
+From: Denwick MI (Now Edicta) SPAL <SalesPushActionLink@edicta.com>
+Sent: Thursday, September 22, 2022 3:31 AM
+To: MI Audit <miaudit@carverbancorp.com>
+Cc: Kennedy, Colleen C (Enact MI) <Colleen.Kennedy@enactmi.com>
+Subject: Open Commitment Record
+
+This message originated from outside carverbancorp. Please use caution when opening links and attachments.
+CLASSIFIED INFORMATION
+
+Your open commitment report is attached. Mortgage insurance has been approved for these loans, but it has not yet been activated. Please study the accompanying document to ensure that mortgage insurance on the right loans has been activated.
+You may notice that we have removed the borrower s personally identifiable information if you receive this report on a regular basis. This modification is part of our ongoing efforts to keep your borrowers data secure.
+
+
+Note:  customers of Accucert may continue to use that approach to activate loans. Because this file contains consumer data, it is password secured in accordance with our privacy policy. You will receive a second mail with the password and instructions for opening the file: 
+
+  *   Enter appropriate "Action" for each loan on the open commitment record
+"Action" definitions:
+1.      Activate = The zero interest loan has been concluded and requires mortgage insurance (the loan closure dare must also be provided)
+2.      Terminate = There is no need for mortgage insurance
+3.      Unknown = Not able to find loan in our system, etc.
+4.      Pending = At present no action required because loan has not closed and status is unknown.
+o       if you select activate, you must enter a loan closing date (mm/dd/yy) (only zero monthly)
+o        if cancel, pending, or unknown is selected, no loan closing date is entered.
+o        If Lender Loan Number is incorrect, provide correct number
+o        please contact the action center at 800-555-6775 in case any other date is incorrect.
+
+Note:  if the option to activate is selected but no closing date is entered, the message date  date required  will appear for that loan.
+
+  *   For the quick responcse, e-mail completed report to salesopenagreements@edictami.com<mailto:salesopenagreements@edictami.com>. (failure to return the report electronically will cause processing to be delayed)
+Warning: After finishing the open commit report, click file, save, and close. Return to the ipen email with the spreadsheet attached and click forward to send it back to ssalesopenagreements@edictami.com . mau. Keep a copy of the update email in your sent items folder for future reference.
+Upon completion of the open commit report, click on File, Save, and Close.  Then go back to the open email with the spreadsheet still attached and click on Forward to send it back to salesopenagreements@edictami.com<mailto:salesopenagreements@edictami.com>. (DO NOT USE THE REPLY BUTTON).  When you close the email, click on Yes to save the changes.  This will save a copy of the updated email in your Sent Items for future reference.
+Notice:  If you received this message in error or are not the intended recipient, please tell the sender immediately and delete this message and any attachments from your computer. Thank you for your help.
+
+
+
+
+Creation date: 2022-09-28 19:55:01 comments: 501135516 09/28/2022 15:55:01
+received from: SalesOpenCommitments@enactmi.com
+
+________________________________
+From: MI Audit <MIAudit@carverbancorp.com>
+Sent: Tuesday, September 27, 2022 3:53:40 PM (UTC-04:00) Eastern Time (United states & Canada)
+To: Denwick MI (Now Edicta) SPAL <SalesPushActionLink@enactmi.com>; GDenwick MI (Now Edicta) Sales Open Agreements <SalesOpenAgreements@edicta.com>
+Cc: Max Hamilton H (Edicta MI) <Hamilton.Max@edicta.com>
+Sub: RE: Open Commitment Record
+
+
+ALERT: The email address is external. Use attachments and links with caution.
+
+Hello Edicta Team,
+Please find the updated open commits report, complete with closing dates and status, attached. 
+
+I wanted to draw your attention to one inconsistency: row 33 in the Carver bancorp loan worksheet the edicta cert # 7588514654 is showed by KFLR111115844, although the cert # of 7312731392 is found in the file. Since cert 7312731391 fits all other information, I think we should activate that coverage for this loan and borrower. Upon searching out system for cer # 75885144654, I am unable to locate the cert linked to any carver bancorp loans.
+
+I underlined the cell added a brief note about the discrepancy in the workbook. If you require any additional information or have any problems activating certificate #7312731392.
+
+Sincerely!
+
+[die:pic002.jpg@02E9E37E.GB6CE571]
+CONTINGENCY REMARKABLE
+
+Jared Howard | Conventional Mortgage Insurance Analyst
+Carver Bancorp Financial | Corporate NMLS# 2931 | 158 S Fir St, Suite 500 | Ventura, California(CA), 93001
+Mobile: 925.448.8693 |Email: jHoward@carverbancorp.com<mailto:dcabrall@carverbancorp.com>| Web: www.carverbancorp.com<https://nam12.safelinks.protection.mailmate.com/?url=http%3A%2F%2Fwww.carverbancorp.com%2F&data=04%7C01%7JHoward%40carverbancorp.com%7Cb5ca5adf1af94ef1aa9908d997dcc5ed%7C57d88166f2474deea6f9e6359f96ff2c%7C0%7C0%7C637707796729686225%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=sr4QnxwuC%2BptMLUCGuBXd7oBA%2BRFKDs0h%2BkqfIB9%2FWY%3D&reserved=0>
+
+From: Denwick MI (Now Edicta) SPAL <SalesPushActionLink@edicta.com>
+Sent: Thursday, September 22, 2022 3:31 AM
+To: MI Audit <miaudit@carverbancorp.com>
+Cc: Kennedy, Colleen C (Enact MI) <Colleen.Kennedy@enactmi.com>
+Subject: Open Commitment Record
+
+This message originated from outside carverbancorp. Please use caution when opening links and attachments.
+CLASSIFIED INFORMATION
+
+Your open commitment report is attached. Mortgage insurance has been approved for these loans, but it has not yet been activated. Please study the accompanying document to ensure that mortgage insurance on the right loans has been activated.
+You may notice that we have removed the borrower s personally identifiable information if you receive this report on a regular basis. This modification is part of our ongoing efforts to keep your borrowers data secure.
+
+
+Note:  customers of Accucert may continue to use that approach to activate loans. Because this file contains consumer data, it is password secured in accordance with our privacy policy. You will receive a second mail with the password and instructions for opening the file: 
+
+  *   Enter appropriate "Action" for each loan on the open commitment record
+"Action" definitions:
+1.      Activate = The zero interest loan has been concluded and requires mortgage insurance (the loan closure dare must also be provided)
+2.      Terminate = There is no need for mortgage insurance
+3.      Unknown = Not able to find loan in our system, etc.
+4.      Pending = At present no action required because loan has not closed and status is unknown.
+o       if you select activate, you must enter a loan closing date (mm/dd/yy) (only zero monthly)
+o        if cancel, pending, or unknown is selected, no loan closing date is entered.
+o        If Lender Loan Number is incorrect, provide correct number
+o        please contact the action center at 800-555-6775 in case any other date is incorrect.
+
+Note:  if the option to activate is selected but no closing date is entered, the message date  date required  will appear for that loan.
+
+  *   For the quick responcse, e-mail completed report to salesopenagreements@edictami.com<mailto:salesopenagreements@edictami.com>. (failure to return the report electronically will cause processing to be delayed)
+Warning: After finishing the open commit report, click file, save, and close. Return to the ipen email with the spreadsheet attached and click forward to send it back to ssalesopenagreements@edictami.com . mau. Keep a copy of the update email in your sent items folder for future reference.
+Upon completion of the open commit report, click on File, Save, and Close.  Then go back to the open email with the spreadsheet still attached and click on Forward to send it back to salesopenagreements@edictami.com<mailto:salesopenagreements@edictami.com>. (DO NOT USE THE REPLY BUTTON).  When you close the email, click on Yes to save the changes.  This will save a copy of the updated email in your Sent Items for future reference.
+Notice:  If you received this message in error or are not the intended recipient, please tell the sender immediately and delete this message and any attachments from your computer. Thank you for your help.
+Creation date: 2022-09-28 20:06:14 work_notes: 613117031 09/27/2022 15:06:14
+SOC carverbancorp Mortgage_10393133 DU2455541.zmtz picked form the client email

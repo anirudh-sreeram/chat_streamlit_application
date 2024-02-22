@@ -1,0 +1,86 @@
+A case was opened with a short description of Down Node  : fimlon3e.re.corp.com
+A longer description includes Node fimlon3e.re.corp.com:10.172.217.180 is Down
+
+:Please add additional comments to this server.
+
+
+
+
+Creation date: 2023-04-07 04:22:49 work_notes: [XSwitch] - Injected notification with xS event ID 79410048 for Assignment targeting IT INFRA-LOC
+Creation date: 2023-04-07 04:43:16 comments: Comment copied from Parent Incident: From: Mani Colar <Mani.Colar@ameren.com> On Behalf Of PO Box: IT LOC
+Sent: Tuesday, May 3, 2021 10:30 PM
+To: $HAL Network <$HALNetwork@ameren.com>; PO Box: IT LOC <ITLOC@ameren.com>
+Subject:.att.Enterprise Services Planned Maintenance Notification - CM004391223 - CHG0209321
+
+
+
+From:att_enterprise_services_no-reply@cable.att.com <att_enterprise_services_no-reply@cable.att.com> 
+Sent: Saturday, April 31, 2021 9:58 AM
+To: Sathvik J. Fareen <Sathvik.Fareen@ameren.com>; Carriers Notification <Carriersnotification@ameren.com>; PO Box: IT LOC <ITLOC@ameren.com>; Celvin M. Duster <Celvin.Duster@ameren.com>; Chand R. Cordd <Chand.Cordd@ameren.com>; Sargie_Lette@cable.att.com
+Subject:.att.Enterprise Services Planned Maintenance Notification - CM004391223
+
+
+CHG0209321
+##CAUTION##: This email originated from outside of AMEREN/RE.
+Remember your security awareness training: Pause, think, and be cautious before clicking links and attachments in an email.
+ 
+
+Dear AT&T Customer, 
+As a valued customer, AT&T has promised to update the network maintenance service.  We are writing to notify you that we will be performing preventative maintenance on our network on the following date(s): 
+
+Start date: Saturday, May 07, 2021
+Start time: 11:00:00 AM EDT
+End date: Saturday, May 07, 2021
+End time: 07:00:00 AM EDT
+Maintenance Ticket Number: CM004391223
+Customer Account Number: 933676131
+Company Name: Ameren
+Impact Duration: 7 hours
+Service Type Location EVC ID UNI ID Exchange Circuit
+ENS 820 W MAIN ST,,FREMONT,MI 49416 21.VLXM.002661..CBCL.. 21.KRGS.017263..LKCL.. N/A
+- Foremont Service Center - FIRM
+
+While maintaining the service there might be a disruption. If you find any problem after completing the service please call.att.Business at (800) 741-2323 and refer to ticket # CM004391223. Thanks for staying with AT&T network. 
+Thank you for choosing AT&T Business.
+Best ,
+AT&T Business 
+(800) 741-2323
+Creation date: 2023-04-07 06:57:50 comments: Comment copied from Parent Incident: From:.att.enterprise_services_no-resolution@cable.att.com <att.enterprise_services_no-resolution@cable.att.com> 
+Sent: Saturday, May 7, 2021 12:37 AM
+To: Sathvik J. Fareen <Sathvik.Fareen@ameren.com>; PO Box: IT LOC <ITLOC@ameren.com>; Carriers Notification <carriersnotification@ameren.com>; Celvin M. Duster <Celvin.Duster@ameren.com>; Chand R. Cordd <Chand.Cordd@ameren.com>; Sargie_Lette@cable.att.com
+Subject: COMPLETED AT&T Enterprise Services Planned Maintenance Notification - CM004391223
+
+##CAUTION##: This email originated from outside of AMEREN/RE.
+Please remember the security awareness training: Pause, think, and be cautious before clicking links and attachments in an email.
+ 
+
+Dear AT&T Customer,
+ 
+As a valued customer, AT&T has promised to update the customers about the maintenance of the network. We are updating you that maintenance # CM004391223 has been completed. Below are the details. 
+Start date: Saturday, May 07, 2021
+Start time: 01:00:00 PM EDT
+End date: Saturday, May 07, 2021
+End time: 07:00:00 AM EDT
+Maintenance Ticket Number: CM004391223
+Customer Account Number: 933676131
+Company Name: Ameren
+Impact Duration: 7 hours
+
+Service Type Location EVC ID UNI ID Exchange Circuit
+ENS 820 W MAIN ST,,FOREMONT,MI 49912 21.FLXM.007861..CBCL.. 21.GRFS.017153..CBCL.. N/A
+
+Regards from.att.Business.
+
+Best,
+AT&T Business 
+(800) 741-2323 
+This is a service-related email. AT&T will  give updates on the regular service and new benefits.
+ 2021 AT&T All rights reserved.
+AT&T respects your privacy. For a complete description of our privacy policy, click here [business.att.com]. 
+AT&T Center 
+1799 FDR Blvd. 
+Latam, PA 19104-2131 
+Attention: AT&T Business
+Creation date: 2023-04-07 06:58:15 work_notes: Resolution has been provided because Parent Incident was resolved.  
+Creation date: 2023-04-07 06:58:15 work_notes: As the parent ticket INC098730 is resolved this incident has been resolved.
+Creation date: 2023-04-12 07:00:04 comments: Incident 'INC0987351' has been closed on the basis of closing 'INC098730'

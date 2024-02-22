@@ -1,0 +1,51 @@
+A case was opened with a short description of File System Capacity for SQL is greater than 89%:rsvwntsrg.se.corp.com:P:\ Label: a6b2c2c4 for SQL volumes
+A longer description includes P:\ Label: a6b2c2c4 on rsvwntsrg  is 91 % Used
+
+
+
+
+Creation date: 2023-04-18 12:43:33 work_notes: Hello Team,
+
+Would you mind updating us on this?
+ Right now's drive status:-
+ 
+
+
+Thank you & Greetings,
+Hamish Lam
+
+
+
+
+From: Hamish Lam <Hamish.Lam@sempraenergy.com> 
+Sent: Thursday, August 18, 2021 10:49 AM
+To: SE_Support@CornerstoneConsulting<sesupport@cornerstone.com>
+Cc: CornerstoneSupport <CornerstoneSupport@sempraenergy.com>; $HP SQL DBA <HPSQLDBA@sempraenergy.com>
+Subject: FW: P6:Your crew has been given the assignment INC3426980.
+
+Hello Team,
+ (BYHKQ121_BW) rsvwntsrc, rsvwntsrg (Contact Center)The production database server's P: (Data Disk) is now 87% full. I kindly ask you to check the data and save up space by archiving or purging the unnecessary data.
+ The report on the top tables in the PNPIQ database is attached. Let us know if you need any other information, please.
+
+
+Thank you & Greetings,
+Hamish Lam
+
+
+From: CMS Energy Zendesk <cmsenergy@zendesk.com> 
+Sent: Wednesday, August 18, 2021 10:44 PM
+To: William Schultz <William.Schultz@sempraenergy.com>; AMEERA TATE <AMEERA.TATE@sempraenergy.com>; Nabil Serrano <Nabil.Serrano@sempraenergy.com>; Armaan K. Cortez <ARMAAN.CORTEZ@sempraenergy.com>; Nikita Bryan <Nikita.Bryan@sempraenergy.com>; Cayden R. Hobbs<Cayden.Hobbs@sempraenergy.com>; Ashis Yadav <Ashis.Yadav@sempraenergy.com>; Gavin K. Gamble <Gavin.Gamble@sempraenergy.com>; ELSA ODONELL<ELSA.ODONELL@sempraenergy.com>; Hamish Lam <Hamish.Lam@sempraenergy.com>; Patrick R. Buchanan<Patrick.Buchanan@sempraenergy.com>
+Subject: P6:Incident INC3426980 has been assigned to your group.
+
+Date: 2021-09-18 22:44:48 EDT
+Number: INC3426980
+Detailed Description: File System Capacity for SQL is greater than 86%:rsvwntsrg.se.corp.com:P:\ Label: a6b2c2c4 for SQL  volumes 
+ 
+Your team has been tasked with resolving an issue. Please take the necessary steps to assign this event to a specific person for resolution.
+ 
+If you need more details or think this incident's assignment is wrong, please contact the Help Desk.
+ 
+Thanks,
+The Help Desk
+ 
+Ref:MSG43806612

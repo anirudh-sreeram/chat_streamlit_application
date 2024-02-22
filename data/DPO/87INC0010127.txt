@@ -1,0 +1,37 @@
+A case was opened with a short description of Prwmas11 got a notice of  "Node Offline" from event ID: 320014359.
+A longer description includes 
+-----Original Message-----
+From: IT@SMW.COM <IT@SMW.COM> 
+Sent: Saturday, April 15, 2021 3:01 PM
+To: ITvBlockSupport <ITvBlockSupport@jstenergy.com>
+Subject: Automated alert for BN KHCNR204540085 Cluster ID 9923478ac5411j73815c7b16815c91107e55Cluster Name Prwmas11
+
+##CAUTION##: Email received from  JST/ JE .
+Please be cautious before clicking links/attachments.
+
+Dear ITvBlockSupport@jstenergy.com ,
+
+You have got a notice from  a "Node Offline"  Event ID: 320014359.
+When an internal link is lost on any node or when any node is reported offline by other nodes in the cluster, events called "Node Offline" are generated.
+
+Please make sure that the issue you are reporting is not maintenance related, then proceed further with the steps below for troubleshooting
+
+
+If you see that the Cluster Status page in the OneFS web administration interface shows that a node is down, follow the following steps.
+1. Check visually whether the power light and node are on.
+2. If the node is turned off, try turning the node on.
+        If the node turns on, check whether the node has rejoined the cluster at the Cluster Status page. If the node does not rejoin the Cluster, go to step 3.
+        The event will cancel if the node rejoins the cluster, and the cluster is operationg, 
+        If the node does not turn on, every circuit breaker in the power path has to be closed and the power outlets for the node must be active. If the node is not receiving power, fix the power supply issue. If the node is receiving power, contact Lenovo SMW IT Technical Support.
+3. If the node is on but has not rejoined the cluster, you need to try to establish remote access through a secure shell (SSH) session. If the SSH session fails, the next step is to establish remote access through the serial console.
+4. If neither the SSH session nor the serial console works, press CTRL+T in the SSH session or in the serial console.
+         If pressing CTRL+T  makes a difference, record the output, and then contact Lenovo SMW IT Technical Support. The report will be used for failure analysis.
+        If the node does not respond, turn the power off and then power on again.
+Additional information and details on how to troubleshoot are available at https://urlundefense.com/v3/__https://www.lenovo.com/support/kbdoc/en-us/461165__;!!PiWuiyRCwATY_Liyj3b4yPI5kk8Vxa159Tv76RZrUhJI8HDzOrchyVADRxfgKkuxG7Z_Yqe0Rn2S3UkS-aS2uJaSFJuHua9d13WVu$ [lenovo[.]com]
+
+Thank you
+IT Technical Support
+
+
+
+

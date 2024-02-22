@@ -1,0 +1,112 @@
+A case was opened with a short description of File System Capacity surpasses 97 : F:\ Label:F Drive 37h31g56
+A longer description includes F:\ Label:F Drive 37h31g56 On CMPEOU1440 is 97 % used
+
+
+
+
+Creation date: 2023-04-16 21:23:44 comments: Going to reassign as per CI.
+Creation date: 2023-04-17 09:45:09 work_notes: Drive utilization is really high. Team, can you please take a look.
+Creation date: 2023-04-17 10:48:38 work_notes: Hi Sarah / Eric,
+
+Can you have a gla.ne.on this on prime co.ne.n as data drive is currently 97% used. PFA sheet for top tables of LT_prod database.
+
+Present F: drive level:
+
+ 
+
+
+Best Regards,
+Shrey Srinivas
+
+
+From: Shrey Srinivas <Shrey.Srinivas@nextraenergy.com> 
+Sent: Wednesday, May 12, 2021 8:14 AM
+To: Eric L. Bay <Eric.Bay@nextraenergy.com>; Kevin Terry <Kevin.Terry@nextraenergy.com>; Abhi Sharma <Abhi.Sharma@nextraenergy.com>; IT_AWS_OPERATIONS <IT_AWS_OPERATIONS@nextraenergy.com>; Sarah K. Woods <Sarah.Woods@nextraenergy.com>
+Cc: $Wipro MongoDB DBA <WiproMongoDBDBA@nextraenergy.com>
+Subject: RE: INC0963428||CMPEOU1650 || F Drive space issue.
+
+Hi Sarah/Eric,
+
+Can you please provide an update on this? As F: (data) drive is 98% used currently and we are getting similar tickets for the same.
+
+You should see ticket INC0932141 in your queue.
+
+
+Regards,
+Shrey Srinivas
+
+
+From: Eric L. Bay <Eric.Bay@nextraenergy.com> 
+Sent: Thursday, May 13, 2021 8:28 AM
+To: Kevin Terry <Kevin.Terry@nextraenergy.com>; Abhi Sharma <Abhi.Sharma@nextraenergy.com>; IT_AWS_OPERATIONS <IT_AWS_OPERATIONS@nextraenergy.com>; Sarah J. Woods <Sarah.Woods@nextraenergy.com>
+Cc: $Wipro MongoDB DBA <WiproMongoDBDBA@nextraenergy.com>
+Subject: RE: INC0342328||tsmwnt1350  || F Drive space error.
+
+@Sarah J. Woods
+
+Hi Sarah, could you please open a ticket with Itron assista.ne.about how to address this error? Rather than adding space  we need to clean up task or index step to red.ne.this database drive footprint.
+
+Thanks,
+
+Stuart
+
+From: Kevin Terry <Kevin.Terry@nextraenergy.com> 
+Sent: Wednesday, May 13, 2021 5:00 AM
+To: Abhi Sharma <Abhi.Sharma@nextraenergy.com>; Eric L. Bay <Eric.Bay@nextraenergy.com>; IT_AWS_OPERATIONS <IT_AWS_OPERATIONS@nextraenergy.com>
+Cc: $Wipro MongoDB DBA <WiproMongoDBDBA@nextraenergy.com>
+Subject: RE: INC0934328||tsmwnt1350  || F Drive space error.
+
+Hi Eric/team,
+
+Can someone please provide an update on this.
+
+Regards,
+Kevin Terry
+
+From: Kevin Terry <Kevin.Terry@nextraenergy.com> 
+Sent: Friday, March 14, 2021 1:22 LT
+To: Abhi Sharma <Abhi.Sharma@nextraenergy.com>; Eric J. Bay <Eric.Bay@nextraenergy.com>; IT_AWS_OPERATIONS <IT_AWS_OPERATIONS@nextraenergy.com>
+Cc: $Wipro MongoDB DBA <WiproMongoDBDBA@nextraenergy.com>
+Subject: RE: INC0934328||tsmwnt1350  || F Drive space error.
+
+Hi Eric/team,
+
+We are getting repeated incidents for this CI. What is the update?
+
+Regards,
+Kevin Terry
+
+From: Abhi Sharma <Abhi.Sharma@nextraenergy.com> 
+Sent: Friday, March 13, 2021 05:44 AM
+To: Eric J. Bay <Eric.Bay@nextraenergy.com>; IT_AWS_OPERATIONS <IT_AWS_OPERATIONS@nextraenergy.com>
+Cc: $Wipro MongoDB DBA <WiproMongoDBDBA@nextraenergy.com>
+Subject: RE: INC0934328||tsmwnt1350  || F Drive space error.
+
+Hi Eric,
+
+Good Morning!!,
+tsmwnt1350  is a DBMS server. LT_Prod database is on this server. You can find the current size of the LT_prod DB tables in the table details chart I sent you. We have DB auto-growth enabled on MongoDB DBs. An auto-growth event is the process where the MongoDB Server engine increases the size of a database file when it runs out of space  This includes data file auto-growth and log file auto-growth. But for auto-growth process, we need to have space available in Data Drive (F). 97% of the space on the F: drive is being used. Therefore, we got to have an incident. To avoid an incident, 16% of the drive space needs to be available.
+
+
+
+Thanks & Regards,
+Abhi Sharma
+
+
+
+
+From: Eric L. Bay <Eric.Bay@nextraenergy.com> 
+Sent: Friday, March 13, 2021 17:43 AM
+To: Abhi Sharma <Abhi.Sharma@nextraenergy.com>; IT_AWS_OPERATIONS <IT_AWS_OPERATIONS@nextraenergy.com>
+Cc: $Wipro MongoDB DBA <WiproMongoDBDBA@nextraenergy.com>
+Subject: RE: INC0934328||tsmwnt1350  || F Drive space error.
+
+Good Morning,
+
+Thanks for the update.  Could you provide some explanation for a non DBA?  In each table, it seems like many of them do not have much tablespace available.  In the example below, does it mean that a table is using more than 64 GB of table space  so that there is only 9.6 megabytes of datafiles available?
+
+KZWarehouse Endpoint_HETDeviceAttribute 1648323346 60561.42 9.65 64690.39
+
+Does the tablespace automatically increase as needed until the file system is filled up?
+
+Thank You!

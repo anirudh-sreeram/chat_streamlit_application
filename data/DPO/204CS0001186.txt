@@ -1,0 +1,99 @@
+A case was opened with a short description of Cannot assign licenses in the Microsoft Admin Portal for client
+A longer description includes Despite the license lot being available and active in the CLOUDSPACE portal, we are currently unable to assign it in the clients Microsoft Admin Portal
+
+
+
+
+Creation date: 2022-10-05 16:30:34 work_notes: From duplicate CS720998
+
+Currently, we are facing difficulties in assigning the license obtained via the CLOUDSPACE platform to the end user. Although the license appears unavailable for assignment in the Admin Portal, it is active in the CLOUDSPACE platform. In addition, the client's directly purchased licenses with Microsoft are set to expire within the next week.
+Creation date: 2022-10-05 18:15:36 work_notes: e3 license has expired in the cloudspace system, sending to orders and billing department for further action
+Creation date: 2022-10-05 18:52:06 work_notes: licenses obtained from cloudspace are excellent.
+Creation date: 2022-10-05 18:59:44 work_notes: [11:52 PM] Ben Cain
+they did at first and it's possible i misunderstood. But what is he saying the licenses can't be assigned?
+
+[11:55 PM] Leon Duke
+may i ask who from the msp contacted you?
+
+[11:57 PM] Ben Cain
+Jackie Woolley
+Creation date: 2022-10-05 19:08:56 work_notes: ct of licenses is ok
+assigned licenses - unavailable
+Creation date: 2022-10-05 19:20:24 work_notes: From duplicate CS724093
+
+From: Jackie Woolley On Behalf Of Cloudspace Notifications
+Sent: Tuesday, October 4, 2022 1:15 PM
+To: 'Cloudspace Support' <support@cloudspace.com>; Cloudspace Notifications <cloudspace@ztek.com>; bcain@cloudspace.com
+Subject: RE: Open Case: Cannot assign license in the Microsoft Admin Portal for client [CS4720865]
+
+Uploaded is the requested products section screenshot.
+
+Jackie Woolley
+Purchasing Expert
+d. 621-383-3904 | www.ztek.com
+Florida: 619-627-6401 | Wyoming: 303-800-9301
+Know why our employees constantly rate us as the best place to work!
+[v1] - Corporate
+From: Cloudspace Support <support@cloudspace.com<mailto:support@cloudspace.com>>
+Sent:Tuesday, October 4, 2022 10:19 AM
+To: Cloudspace Notifications <cloudspace@ztek.com<mailto:cloudspace@ztek.com>>; bcain@cloudspace.com<mailto:bcain@cloudspace.com>
+Subject: Open Case: Cannot assign license in the Microsoft Admin Portal for client [CS4720865]
+
+ .##- Reply to Cloudspace Support above this line -##
+[cid:image002.png@01D8D8C4.D3925ED1]
+
+Support
+
+
+Thank you for reaching out to Cloudspace Support. Your case number is is CS720865. 
+
+A representative will promptly review your case and reach out to you shortly.
+
+Issue Description:
+Even though it appears available and active in the CLOUDSPACE portal, we are facing difficulties assigning the license lot in the clients Microsoft Admin Portal.
+
+Product: Microsoft 365 E5 [New Business Experience]
+Partner: ztek Partners
+Customer: Leander Sports
+Priority: 2
+cloudspace.com<https://app.cloudspace.com/support>
+
+[Cloudspace LinkUp]<https://www.linkup.com/CloudspaceCloud/>
+[Cloudspace Hive]<https://hive.com/Cloudspace>
+[Cloudspace Connexion]<https://www.connexion.com/company/Cloudspace>
+
+Ref:MSG6488154_FLh3HmVlavzSadDcBPcb
+
+Viraguard has scanned this email for spam and viruses
+Creation date: 2022-10-06 12:47:04 comments: Hi Jackie,
+
+Could you please provide further clarification on the issue encountered while attempting to assign the license in the Admin Portal? I have verified that the licenses acquired through Cloudspace have been correctly provisioned in Microsoft.
+
+Kindly be aware that the "your products" tab may not always show accurate information in that it will display licenses as "expired" or "not available" even if they are active. Microsoft is aware of this issue and initially stated that it would be fixed, but I have not received any updates on when this fix will be implemented. To obtain a more accurate view of available licenses and reassign them to another user, please go to the Billing > Licenses section.
+
+Regards,
+-Jane
+Creation date: 2022-10-10 20:52:13 comments: Hello,
+
+I hope you had a great weekend. Since we haven't heard from you in a while, I wanted to follow up and see if you still require assistance with this matter.
+
+If so, please let me know how I can assist you further. If you do not require additional help, please inform us so this case may be closed.
+
+Regards,
+-Jane
+Creation date: 2022-10-12 12:48:25 comments: Hi Jackie,
+
+I wanted to check in one last time before we close this ticket to ensure that your enquiry has been resolved. Please let me know if there is anything else I can assist you with at the moment.
+
+Regards,
+-Jane
+Creation date: 2022-10-18 13:20:02 comments: Hi Jackie,
+
+Since we have not received any response, this ticket will be closed. If you require additional assistance, this ticket can be reopened within 72 hours.
+
+ Alternatively, you can reply to the email to open a new ticket for this issue, or call our support line at at 844-834-6249 (US) 0810 385 2279 (UK) 1324 292 165 (AU) for around-the-clock support.
+
+I appreciate the time and thought you have put into this.
+-Jane
+Creation date: 2022-10-21 13:34:35 work_notes: Case automatically closed after spending 3 days in the resolved state.
+Creation date: 2022-10-24 13:41:31 work_notes: Customer Satisfaction Survey dispatched  2022-10-23 05:36:39

@@ -1,0 +1,88 @@
+A case was opened with a short description of Frevvo Consent link broken, does not open the page where the customer would enter their consent.
+A longer description includes **PLEASE RAISE THE PRORITY OF THIS TICKET**
+
+Customers who receive the Frevvo email requesting their data privacy consent would click on the link to review the details then get taken to a blank page. Please check the screenshots of the email body and the following page after clicking "Review Details and Options of Consent".
+
+
+
+
+Creation date: 2023-04-24 13:47:50 comments: **PLEASE RAISE THIS TICKET'S PRORITY**
+
+Customers who receive the Frevvo email requesting their data privacy consent would click on the link to review the details then get taken to a blank page. Please check the screenshots of the email body and the following page after clicking "Review Details and Options of Consent".
+Creation date: 2023-04-24 14:36:23 comments: There is only a link to ameren.com, not through Frevvo, according to Kacie Mason of the Privacy team. We considered constructing it from scratch using Frevvo, but CustOps opted against it. Please forward it to me and Andrew Walls, the project's CustOps representative, for follow-up.
+Creation date: 2023-04-24 14:36:46 work_notes: I updated the requester on the status of this ticket.
+______
+
+Notification: I used chat to send Herman Conner a direct message
+Recipient: Herman Conner
+Ticket state actions: the same ticket state
+via: Flexport[s3]
+Creation date: 2023-04-24 14:41:39 work_notes: Hi team,
+
+After reviewing the matter with our team head, I'm escalating this ticket to your team[11:05 AM] Luis Todd forwarded it to the client billing team
+
+PC tag -  PC86992
+Call back number -  517-778-8998
+Please support BP.
+Creation date: 2023-04-25 11:50:15 work_notes: For more information, kindly consult Tyrell or Rehan. This doesn't seem to be billing
+Creation date: 2023-04-25 14:03:26 comments: This is just for clarification. This is about Data Privacy Consent for ASP and the Frevvo link that was sent by our Wellcomm vendor, so that our cusomers can consent to enroll into ASP for Data Privacy.
+Creation date: 2023-04-25 14:23:45 work_notes: From: Rehan Ross
+Sent: Wednesday, April 25, 2021 11:21 AM
+To: Raymond Glass <Raymond.Glass@ameren.com>
+Cc: Tristan Reyes<TRISTAN.REYES@ameren.com>; Francis Lester <Francis.Lester@ameren.com>; Herman Conner<Herman.S.Conner@ameren.com>; Maddison Frederick 1 <maddison.frederick@ameren.com>; Damian Ball <Damian.Ball@ameren.com>; Tomas Mclaughlin<TOMAS.MCLAUGHLIN@ameren.com>; Tyrell Fields 1 <Tyrell.Fields@ameren.com>; Anika King <anika.king@ameren.com>
+Subject: INC1884206 : Frevvo Consent link broken, does not open the page where the customer try to enter their consent.
+
+Hello Raymond   Could you maybe identify someone who can assist in resolving this issue from the vendor side? Here's the reference to the broken Frevvo Email link for Data Privacy consent.
+Please refer to the attached document.
+Thank you.
+
+Best wishes,
+Rehan
+
+
+
+Customers who receive the Frevvo email requesting their data privacy consent would click on the link to review the details then get taken to a blank page. Please check the screenshots of the email body and the following page after clicking "Review Details and Options of Consent".
+Creation date: 2023-04-25 14:43:16 work_notes: From: Dalton Meadows 1 <Dalton.Meadows1@ameren.com> 
+Sent: Wednesday, April 25, 2021 11:40 AM
+To: Tomas Mclaughlin<TOMAS.MCLAUGHLIN@ameren.com>; Raymond Glass <Raymond.Glass@ameren.com>; Rehan Ross <Rehan.Ross@ameren.com>
+Cc: Tristan Reyes<TRISTAN.REYES@ameren.com>; Francis Lester <Francis.Lester@ameren.com>; Herman S. Conner<Herman.S.Conner@ameren.com>; Maddison Frederick<Maddison.Frederick@ameren.com>; Damian Ball <Damian.Ball@ameren.com>; Tyrell Fields <Tyrell.Fields@ameren.com>; Anika King <Anika.King@ameren.com>; Aliyah Aguilar <ALIYAH.AGUILAR@ameren.com>
+Subject: RE: INC1884206 : Frevvo Consent link broken, does not open the page where the customer would enter their consent.
+
+Hello All,
+
+Yes, the problem has been fixed. In order to fix the problem, Aliyah Aguilar assisted in restoring the missing content item on the website. To ensure that a similar situation doesn't occur again, he will also examine what went wrong.
+
+Greetings and thanks
+Dalton Meadows
+Director of Technology, Power Services
+Cell : 1-517-738-3270
+DELIVERING THE ENERGY YOU REQUIRE  WHENEVER YOU REQUIRE IT. THAT IS WHAT WE HAVE PROMISED ANTONIA!
+           
+
+                                                       
+
+From: Tomas Mclaughlin<TOMAS.MCLAUGHLIN@ameren.com> 
+Sent: Wednesday, April 25, 2021 11:37 AM
+To: Raymond Glass <Raymond.Glass@ameren.com>; Rehan Ross<Rehan.Ross@ameren.com>
+Cc: Tristan Reyes<TRISTAN.REYES@ameren.com>; Francis Lester <Francis.Lester@ameren.com>; Herman Conner<Herman.S.Conner@ameren.com>; Maddison 
+ Frederick 1 <Maddison.Frederick@ameren.com>; Damian Ball <Damian.Ball@ameren.com>; Tyrell Fields 1 <Tyrell.Fields@ameren.com>; Anika King <Anika.King@ameren.com>; Dalton Meadows 1 <Dalton.Meadows1@ameren.com>
+Subject: RE: INC1884206 : Frevvo Consent link broken, does not open the page where the customer would enter their consent.
+
+Adding Rajan for awareness. 
+
+According to what I gather, the problem has been solved. Is that true?
+
+We also want to know what the root cause of the problem was. Who is investigating that, do we know?
+
+Thank you everybody!
+Tomas
+
+From: Raymond Glass <Raymond.Glass@ameren.com> 
+Sent: Wednesday, April 25, 2021 11:35 AM
+To: Rehan Ross<Rehan.Ross@ameren.com>
+Cc: Tristan Reyes<TRISTAN.REYES@ameren.com>; Francis Lester <Francis.Lester@ameren.com>; Herman Conner<Herman.S.Conner@ameren.com>; Maddison Frederick<Maddison.Frederick@ameren.com>; Damian Ball <Damian.Ball@ameren.com>; Tomas Mclaughlin<TOMAS.MCLAUGHLIN@ameren.com>; Tyrell Fields <Tyrell.Fields@ameren.com>; Anika King <Anika.King@ameren.com>
+Subject: Re: INC1884206 : Frevvo Consent link broken, does not open the page where the customer would enter their consent.
+
+Sam Chan and Frevvo are already working on this!! Thank you 
+
+Get Google Workspace for Android

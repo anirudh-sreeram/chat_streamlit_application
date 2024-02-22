@@ -1,0 +1,74 @@
+A case was opened with a short description of Submit a request for reimbursement.
+A longer description includes Ensure accurate SAP entries for organizational hierarchy and income.
+
+
+
+
+Creation date: 2022-10-24 12:24:30 work_notes: 2022-10-25 10:23:29 - Zain Thornton (Work Remarks (Internal Only Remarks))
+From: Chapman, Darcey <Darcey.Chapman@stryker.com> 
+Sent: Monday 25. October 2022 14:15
+To: Thornton, Zain <Zain.Thornton@stryker.com>; Skinner, Ebony <Ebony.Skinner@stryker.com>
+Cc: Munoz, Esme <Esme.Munoz@stryker.com>
+Subject: RE: Armaan Wong HRP1705172 & Aiden Gomez HRP1705113
+
+Zain
+
+I endorse the modifications detailed by Esme below.
+
+Regards
+
+Darcey
+
+2022-10-25 09:14:48 - Zain Thornton Zain Thornton (Work Remarks (Internal Only Remarks))
+
+Hello Ebony, I'd welcome your feedback on the message I forwarded to both Darcey and yourself. Much appreciated, Zain.
+
+2022-10-25 07:59:29 - Zain Thornton Zain Thornton (Work Remarks (Internal Only Remarks))
+
+From: Thornton, Zain 
+Sent: Monday 25. October 2022 11:56
+To: Chapman, Darcey <Darcey.Chapman@stryker.com>; Skinner, Ebony <Ebony.Skinner@stryker.com>
+Cc: Munoz, Esme <Esme.Munoz@stryker.com>
+Subject: Armaan Wong HRP1705172 & Aiden Gomez HRP1705113
+
+Hello Darcey, I respectfully request your authorization for the adjustments required in SAP for Armaan and Aiden.
+
+@Skinner, Ebony, Could you please verify if you are able to implement the modifications listed for Armaan and Aiden, or if I should initiate the entire process anew? 
+
+Aiden Gomez HRP1705113
+Title Quality Manager ok in SAP
+Reporting to: Rectify Faith Bright's salary in SAP to CHP 103 501 (100%)   CHP 171 405 (80% Aiden s work load) to be modified in SAP
+AIP: 20% confirmed in SAP
+
+
+Armaan Wong HRP1705172
+Title: Senior Engineering & Research Manager ok in SAP
+Reporting to: Rectify Faith Bright's salary in SAP
+Salary: CHP 192 573.40 confirmed in SAP
+AIP: 15% confirmed in SAP
+
+2022-10-25 05:31:40 - Shane Clements (Work Remarks (Internal Only Remarks))
+Hello Group,
+
+Kindly be aware that we cannot amend the manager in the transaction as it is an immutable field. We are only able to rectify the compensation, but we require authorization from Jenna and Darcy, both of whom have previously endorsed it.
+
+Should the necessity for a different manager arise, it may be essential to annul and commence the transaction anew to ensure all particulars are accurate. The same approvals would apply in the event of this course of action being required.
+
+Appreciate your help
+Best wishes
+Bobby
+
+2022-10-25 05:13:08 - Zain Thornton (Work Remarks (Internal Only Remarks))
+In accordance with the request made by Esme Munoz, kindly rectify the reporting hierarchy and salary details in SAP for Aiden Gomez:
+Productive day: November 2, 2022
+
+Aiden Gomez
+Title Quality Manager: ok in SAP
+Reporting to: Rectify Faith Bright's salary in SAP to CHP 103 501 (100%)   CHP 171 405 (80% Aiden s work load) to be modified in SAP
+AIP: 20% confirmed in SAP
+
+2022-10-25 05:09:57 - Zain Thornton (Work Remarks (Internal Only Remarks))
+Amend the job transition within SAP.
+
+
+Creation date: 2022-10-24 12:25:25 work_notes: HRIS team, kindly make the essential updates in SAP. Darcey Chapman's authorization follows. Thank you, Zain.

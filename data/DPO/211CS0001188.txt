@@ -1,0 +1,253 @@
+A case was opened with a short description of ASR crash
+A longer description includes  One of our VMs stopped replicating to Azure and replication will not resume. OG-NAV-RTC02 is the server name. We attempted disabling and re-enabling the replication and removed and reinstalled the mobility service agent but nothing is working.
+
+
+
+
+Creation date: 2022-10-04 17:18:17 comments: Hi Robert,
+
+Thanks for reaching out to Nimbus Help.  I'm Ezekiel Hancock, an engineer with Nimbus Structure Support, and I'll be guiding you with your Azure Site Recovery problem.  Can you kindly confirm the Recovery Services Vault which the machines are being replicated to and/or the subscription ID: qb334949-6b45-4720-86e0-c2f3c40a8c1d?  The subscription is not showing any active replications or replicated items currently. Could you also confirm the Customer ID in the Nimbus Portal?
+
+Thanks,
+Ezekiel
+Creation date: 2022-10-04 17:44:09 comments: r55b3c54-6b7b-3f6a-ya0c-u049853388r7 2022-10-03  09:43:09
+The subscription ID is ref84d3b-12a3-6d69-qc37-6b85e620a816 and the Recovery Services Vault is OG-RSV-Prod
+
+I saw the company was duplicated when I was opening the ticket. There were two entries, sweetleaf and Sweet Leaf. I might have selected the wrong one
+
+[cid:image004.png@02D8G7DE.43E06D60]
+Creation date: 2022-10-04 18:25:18 comments: Hi Robert,
+
+No problem! I wanted to make sure I was looking at the right info which is why I asked. It looks like you disabled and re-enabled the replication and the mobility service agent is being reinstalled. Did you check whether the source machine is connected to the Process server?
+That seems to be the where the breakdown in communication is happening.
+https://learn.microsoft.com/en-us/azure/site-recovery/vmware-physical-azure-troubleshooting-server#step-3-verify-time-sync-on-source-machine
+
+Thanks,
+Ezekiel
+Creation date: 2022-10-04 18:40:24 comments: Yes I did that. I don't think communication is the problem here.
+I got some errors in the cxps log saying  access denied  but I don't know what to do with them.
+Creation date: 2022-10-04 19:06:30 comments: Robert,
+
+Could you add these logs to the case? I can use them to figure out our next steps.
+
+Thanks,
+Ezekiel
+Creation date: 2022-10-04 19:30:38 comments: The log records are quite large so I just took the copy from the tail end of them into new records and attached them. A client IP of 10.100.4.82 which has the log entries are the ones referred to the host in query
+Creation date: 2022-10-04 20:19:11 comments: Hi Robert,
+
+Can we do a screen share? I want to look into a couple of things on the OG-NAV-RTC02 and Process Server.  I can meet from 3:30 - 4:30 pm CDST and from at 9 am and 12 pm CDST tomorrow.  
+Would any of those times work for you?
+
+Thanks,
+Ezekiel
+Creation date: 2022-10-04 20:43:50 comments: Yes, I can do either of those times. 
+
+Creation date: 2022-10-04 21:07:24 comments: Hi Robert,
+
+Tomorrow morning  I scheduled a meet for 9 CDST in Teams. 
+Then I will be waiting to have a conversation with you.
+
+Thanks,
+Ezekiel
+Creation date: 2022-10-05 15:14:28 comments: Hi Robert,
+
+Hope all is well. My meeting ran late until 15 after. If you would be ok with rescheduling. I can do 10 - 10:30 CDST today and I also have a window open from 10:30 am - 12:30 pm CDST tomorrow on August 6.
+
+Thanks,
+Ezekiel
+Creation date: 2022-10-05 15:47:58 work_notes: VA:  MSFT Case opened:  1210680070902432.  SevB Email.  MSFT case does not list partner as additional contact. MFST Engineer has not yet been assigned.
+
+POC:  Robert Goodman
+Email:  robert@codecomms.com
+Phone:  (508) 783-2001
+Working Hours  Pacific 7-4
+
+Severity B
+Status Open
+Case request ID 1210680070902432
+Created on Tue, Oct 4, 2022, 09:40:49 AM
+Created by Ezekiel Hancock
+Contact method Email: ehancock@nimbus.com
+Support plan Premier
+Advanced diagnostic data P
+
+Details
+When did the issue first begin?
+Sun, Oct 2, 2022, 11:00 AM (UTC-07:00) Pacific Time (US & Canada)
+What is the context?
+Protecting physical services from on-premises to Azure
+Kindly provide the name of the virtual machine(s) with the issue.
+OG-NAV-RTC02
+Kindly provide the ID of the Site Recovery job that crashed.
+ovgcenter_50177345-46ac-rdee-5b14-77955148b702
+Kindly provide any additional  information about the problem.
+OG-NAV-RTC02 ceased replicating. Disabled and re-enabled replication and mobility service agent was re-installed with no luck. Tested communication between server and process server, looks fine. Attaching error log
+Advanced diagnostic data
+Yes
+
+Support method
+Severity
+B - Moderate
+Support plan
+Premier
+Your availability
+Working Hours
+Support language
+English
+Contact method
+Email
+
+Contact information
+Name of contact
+Ezekiel Hancock
+Email
+ehancock@nimbus.com
+Additional email for notices
+ve-structure@nimbus.com,opacheco@nimbus.com,afinch@nimbus.com
+Country/region
+US
+Creation date: 2022-10-05 15:47:58 comments: Thanks for your valuable time Robert.
+
+As we said and you completed all the troubleshooting steps listed here: https://learn.microsoft.com/en-us/azure/site-retrieve/physical-vmware-azure-troubleshooting-process-host  This case is being escalated to Microsoft. This case will also be transferred to our Vendor Assistance team and they will assist with communicating with Microsoft once an engineer has been allocated to your case.
+
+Thanks,
+Ezekiel
+Creation date: 2022-10-05 19:33:50 work_notes: Hi Clyde!
+
+Hope all is going well for you today and thank you for contacting us! @robert has been added to this email thread and is our Partner who has been having issues. Robert please see the email below and add any additional details you may have!
+
+Thanks,
+
+From: Clyde S <help@mailbox.help.microsoft.com> 
+Sent: Tuesday, October 4, 2022 10:08 AM
+To: Ezekiel Hancock <ehancock@nimbus.com>
+Cc: Vendor Escalations - Infrastructure Technical Support <ve-structure@nimbus.com>; Oskar Pacheco <opacheco@nimbus.com>; Aiza Finch <afinch@nimbus.com>; Abubakar Holman <aholman@microsoft.com>
+Content: [External] [NIM5706852] ASR Replication Failing - TrackingID#1210680070902432
+
+Hi Ezekiel,
+ 
+Thanks for reaching out to Microsoft Help. I'm Clyde Whitney and I work in Azure Backup & Recovery Services as an engineer. I will be working on this case with you.
+ 
+According to what we have seen so far, the VM was replicating in the past. Are you aware of any changes that could have affected the replication?
+We looked into the logs that you shared but to look into this further, we need more details from VM OG-NAV-RTC02. Kindly perform the following:
+
+1.Select the start menu
+2.Search for 'MSDT' in the search bar, then select 'MSDT' from the resulting list of programs
+3.Enter your support key 1916266395 in the space given and select next
+4.Run diagnostics on this computer by following the instructions that appear on your screen
+ 
+From the Process server, please compress the folder given below and upload it to the link provided
+ 
+C:\%ProgramData%\Microsoft Azure
+ 
+File Transfer - Case 1210680070902432
+ 
+Please use my contact info below if you need to be speak with me personally.
+
+Please reach out if you have any questions or concerns.
+
+Clyde Sam Whitney
+Support Analyst
+Azure Backup and Recovery Services
+Client Services & Support| Microsoft Company 
+Office +806 4614 3685 | csamwhitney@microsofthelp.com
+Mon-Fri 7:00AM to 6:00PM MST
+
+Please reach out to my backup for immediate help with Azure Back and Restore
+Abel Tim Holden | +508 4101 2034 | abeltim@microsofthelp.com 
+Business Hours: Mon-Fri 6:00AM   3:00PM MST
+
+For the next available engineer, please contact the following numbers if you need assistance outside of the hours listed above:
+Premier: +1 (800)-736-3900
+Professional: +1 (800)-736-8901
+Please let me, my technical advisor, or supervisor know if you would like to share any feedback regarding my work.
+Technical Mentor | April Shah  april.shah@microsoft.com
+My Supervisor | Amin Underwood   amunder@microsoft.com
+
+ 
+This email has been scanned for spam and viruses by Jukebox Inc
+Creation date: 2022-10-18 18:16:59 work_notes: Requested folders have been uploaded.
+
+From: Clyde Sam Whitney <csamwhitney@microsoft.com> 
+Sent: Monday, October 17, 2022 6:34 AM
+To: Robert Powers<robert@codecomms.com>; April Shah <April.Shah@microsoft.com>; afinch@nimbus.com; ehancock@nimbus.com
+Cc: ve-structure@nimbus.com; opacheco@nimbus.com; Abubakar Holman <aholman@microsoft.com>; Microsoft Help <helpmail@microsoft.com>
+Content: RE: [External] [NIM5706852] ASR Replication Fail...- TrackingID#1210680070902432
+
+CAUTION: External Email
+
+Good day Robert! 
+
+Your case has been escalated to the Product Group, as soon as we hear back with an update, we will let you know!
+
+In the meantime, we would like to check the certificate on the source VM, since we noticed something in the logs! Could you compress and upload the following folders?
+
+C:\ProgramData\Microsoft Azure Site Recovery\private\
+
+C:\ProgramData\Microsoft Azure Site Recovery\certificates
+
+C:\ProgramData\Microsoft Azure Site Recovery\fingerprints\
+
+File Transfer - Case 1210680070902432
+
+Clyde Sam Whitney
+Support Analyst
+Azure Backup and Recovery Services
+Client Services & Support| Microsoft Company 
+Office +806 4614 3685 | csamwhitney@microsofthelp.com
+Mon-Fri 7:00AM to 6:00PM MST
+
+Please reach out to my backup for immediate help with Azure Back and Restore
+Abel Tim Holden | +508 4101 2034 | abeltim@microsofthelp.com 
+Business Hours: Mon-Fri 6:00AM   3:00PM MST
+
+For the next available engineer, please contact the following numbers if you need assistance outside of the hours listed above:
+Premier: +1 (800)-736-3900
+Professional: +1 (800)-736-8901
+Please let me, my technical advisor, or supervisor know if you would like to share any feedback regarding my work.
+Technical Mentor | April Shah  april.shah@microsoft.com
+My Supervisor | Amin Underwood   amunder@microsoft.com
+
+ 
+
+From: Robert Powers<robert@codecomms.com> 
+Sent: Sunday, October 16, 2022 11:12 PM
+To: Clyde Sam Whitney <csamwhitney@microsoft.com>; April Shah <April.Shah@microsoft.com>; afinch@nimbus.com; ehancock@nimbus.com
+Cc: ve-structure@nimbus.com; opacheco@nimbus.com; Abubakar Holman <aholman@microsoft.com>; Microsoft Help <helpmail@microsoft.com>
+Content: RE: [External] [NIM5706852] ASR Replication Fail...- TrackingID#1210680070902432
+
+ 
+
+From: Clyde Sam Whitney <csamwhitney@microsoft.com> 
+Sent: Sunday, October 16, 2022 09:57 AM
+To: Robert Powers<robert@codecomms.com>; April Shah <April.Shah@microsoft.com>; afinch@nimbus.com; ehancock@nimbus.com
+Cc: ve-structure@nimbus.com; opacheco@nimbus.com; Abubakar Holman <aholman@microsoft.com>; Microsoft Help <helpmail@microsoft.com>
+Content: RE: [External] [NIM5706852] ASR Replication Fail...- TrackingID#1210680070902432
+
+CAUTION: External Email
+
+Thank you Robert! 
+ 
+Can you take a screenshot of the telnet test and share it here?
+ 
+Clyde Sam Whitney
+Support Analyst
+Azure Backup and Recovery Services
+Client Services & Support| Microsoft Company 
+Office +806 4614 3685 | csamwhitney@microsofthelp.com
+Mon-Fri 7:00AM to 6:00PM MST
+
+Please reach out to my backup for immediate help with Azure Back and Restore
+Abel Tim Holden | +508 4101 2034 | abeltim@microsofthelp.com 
+Business Hours: Mon-Fri 6:00AM   3:00PM MST
+
+For the next available engineer, please contact the following numbers if you need assistance outside of the hours listed above:
+Premier: +1 (800)-736-3900
+Professional: +1 (800)-736-8901
+Please let me, my technical advisor, or supervisor know if you would like to share any feedback regarding my work.
+Technical Mentor | April Shah  april.shah@microsoft.com
+My Supervisor | Amin Underwood   amunder@microsoft.com
+Creation date: 2022-10-18 18:19:07 work_notes: PG verified ticket.
+
+Hi everyone, Robert, just so you are aware, the Microsoft Product Group team has been assigned to your case. This team cannot be reached by anyone other than the engineers assigned to the cases. There is no manager for this team and cases cannot be escalated beyond them. This team are a busy group and cases they receive can be addressed and resolved anywhere from 24 hours to "the patch will be implemented next quarter". I don't mean to frighten you, just want you to know what to expect.
+Thanks!

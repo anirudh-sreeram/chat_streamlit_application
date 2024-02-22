@@ -1,0 +1,307 @@
+A case was opened with a short description of CybSecure problem
+A longer description includes I am having problems with CybSecure. Nothing happens when I release an email out of quarantine. I click on the message, select Release From Quarantine, click GO, the button goes grey, but nothing happens afterward. It's not frozen, it's just there. If I unselect and select again, and hit go, exact same outcome. Nothing. This occurred two times today already. I need to get these emails released from quarantine.
+
+Martin Price
+IT Specialist
+mprice@caplandco.com<mailto:mprice@caplandco.com>
+Direct: (742) 390-4247
+
+[cid:image003.jpg@01D8CE72.76108F82]
+7524 Menaul Blvd, Ste 300, Albuquerque, NM 87110
+
+
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law.
+
+This email has been verified for spam and viruses by CybSecure Corps
+
+
+
+
+Creation date: 2022-09-22 15:01:57 work_notes: No details found about sender, Kindly review entitlement with Partner.
+Creation date: 2022-09-22 15:46:20 work_notes: only Martha Logan appears in CybSecure partner level account
+
+mprice@caplandco.com  is listed as organization administrator in the customer-level tenant
+
+contacting the partner to ensure that this is not a customer-direct support 6274659933
+Creation date: 2022-09-22 15:49:31 work_notes: got sent to voicemail, left a message that we got the case from an account that appears in the customer tenant and not the partner's and we don't actually have permission to do direct customer service. 
+
+Added partner admin to the case and sent him an email for confirmation
+Creation date: 2022-09-22 15:54:04 comments: Hello Martha,
+
+I left you a voicemail when I called. My name is Maliha and I'm a Level 2 technical support engineer with the Nimbus email security team.
+Martin Price created a case, but Neufort Systems, Inc. doesn't list his account as a contact on the Nimbus platform. It's listed in the customer tenant in CybSecure instead.
+
+Can you kindly confirm that
+Martin Price
+IT Specialist
+mprice@caplandco.com<mailto:mprice@caplandco.com> is a partner-level employee with you?
+
+I appreciate your help and time!
+Thanks and Regards,
+Maliha
+
+Creation date: 2022-09-22 15:57:56 comments: Thanks for the response. Martin is one of my clients' IT support.
+Can you transfer the case so it is in my name and I will speak with him?
+
+Martha Logan
+Neufort Systems, Inc.
+69 Church Street
+Nalan, NY  22846
+627-465-0933
+mlogan@neufortsys.com<mailto:mlogan@neufortsys.com>
+www.neufortsys.com<http://www.neufortsys.com/>
+Creation date: 2022-09-22 16:48:19 comments: Thanks for the latest update Martha!!
+
+
+The email he sent in is here:
+" I am having problems with CybSecure. Nothing happens when I release an email out of quarantine. I click on the message, select Release From Quarantine, click GO, the button goes grey, but nothing happens afterward. It's not frozen, it's just there. If I unselect and select again, and hit go, exact same outcome. Nothing. This occurred two times today already. I need to get these emails released from quarantine.
+
+Martin Price
+IT Specialist
+mprice@caplandco.com<mailto:mprice@caplandco.com>
+Direct: (742) 390-4247
+
+[cid:image003.jpg@01D8CE72.76108F82]
+7524 Menaul Blvd, Ste 300, Albuquerque, NM 87110
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law.
+
+This email has been verified for spam and viruses by CybSecure Corps"
+
+We have seen this happen if the email is marked for Fraud and the user uses the "Release and Approve" function rather than "Release from quaratine"
+
+Release and approve will add the sender to a safe sender whitelist and is not permitted for email marked for Fraud. If there is anything else we can help with, please reach out and thank you for your patience and your time!
+
+Thanks and Regards,
+
+Maliha
+Creation date: 2022-09-22 17:06:24 work_notes: Duplicate ticket NIM5656550:
+
+Sent from my Android
+
+Begin forwarded message:
+
+From: Martin Price <mprice@caplandco.com>
+Date: September 21, 2022 at 1:00:23 PM EDT
+To: Martha Logan <mlogan@neufortsys.com>
+Subject: RE: Case updated: CybSecure Issue [NIM5654174]
+
+ 
+Yes, we tried that before but it doesn't allow me to do that.
+[image002.png]
+
+I can release from quarantine, but nothing happens, the go button goes grey, and nothing happens after. The Go button will undim if I click elsewhere on the page. I tried this in other browsers, too so it's not a browser issue. I've also signed out and signed back into CybSecure, same thing. This is not an issue on my end, there's something wrong with CybSecure. I have also tried this on multiple users quarantined messages. This needs to be fixed, I have people waiting to receive their emails.
+[image001.png]
+
+
+Martin Price
+IT Specialist
+mprice@caplandco.com<mailto:mprice@caplandco.com>
+Direct: (742) 390-4247
+
+[image004.jpg]
+7524 Menaul Blvd, Ste 300, Albuquerque, NM 87110
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law.
+
+From: Martha Logan <mlogan@neufortsys.com>
+Sent: Wednesday, September 21, 2022 11:49 PM
+To: Martin Price <mprice@caplandco.com>
+Subject: Fwd: Case updated: CybSecure Issue [NIM5654174]
+
+Update below.
+Sent from my Android
+
+Begin forwarded message:
+From: Nimbus Support <support@nimbus.com<mailto:support@nimbus.com>>
+
+Date: September 21, 2022 at 11:48:36 PM EDT
+To: Martha Logan <mlogan@neufortsys.com<mailto:mlogan@neufortsys.com>>
+Subject: Case updated: CybSecure Issue [NIM5654174]
+Reply-To: Nimbus Support <support@nimbus.com<mailto:support@nimbus.com>>
+ 
+ .##- Reply to Nimbus Support above this line -##
+
+[image005.png]
+
+Support
+
+There has been an update to your case.
+
+________________________________
+2022-09-21 09:48:19 MDT - Maliha Chen Additional comments
+Thanks for the latest update Martha!!
+Creation date: 2022-09-22 17:06:29 work_notes: Duplicate ticket NIM5656550:
+
+Sent from my Android
+
+Begin forwarded message:
+
+From: Martin Price <mprice@caplandco.com>
+Date: September 21, 2022 at 1:00:23 PM EDT
+To: Martha Logan <mlogan@neufortsys.com>
+Subject: RE: Case updated: CybSecure Issue [NIM5654174]
+
+ 
+Yes, we tried that before but it doesn't allow me to do that.
+[image002.png]
+
+I can release from quarantine, but nothing happens, the go button goes grey, and nothing happens after. The Go button will undim if I click elsewhere on the page. I tried this in other browsers, too so it's not a browser issue. I've also signed out and signed back into CybSecure, same thing. This is not an issue on my end, there's something wrong with CybSecure. I have also tried this on multiple users quarantined messages. This needs to be fixed, I have people waiting to receive their emails.
+[image001.png]
+
+
+Martin Price
+IT Specialist
+mprice@caplandco.com<mailto:mprice@caplandco.com>
+Direct: (742) 390-4247
+
+[image004.jpg]
+7524 Menaul Blvd, Ste 300, Albuquerque, NM 87110
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law.
+
+From: Martha Logan <mlogan@neufortsys.com>
+Sent: Wednesday, September 21, 2022 11:49 PM
+To: Martin Price <mprice@caplandco.com>
+Subject: Fwd: Case updated: CybSecure Issue [NIM5654174]
+
+Update below.
+Sent from my Android
+
+Begin forwarded message:
+From: Nimbus Support <support@nimbus.com<mailto:support@nimbus.com>>
+
+Date: September 21, 2022 at 11:48:36 PM EDT
+To: Martha Logan <mlogan@neufortsys.com<mailto:mlogan@neufortsys.com>>
+Subject: Case updated: CybSecure Issue [NIM5654174]
+Reply-To: Nimbus Support <support@nimbus.com<mailto:support@nimbus.com>>
+ 
+ .##- Reply to Nimbus Support above this line -##
+
+[image005.png]
+
+Support
+
+There has been an update to your case.
+
+________________________________
+2022-09-21 09:48:19 MDT - Maliha Chen Additional comments
+Thanks for the latest update Martha!!
+Creation date: 2022-09-22 17:53:13 work_notes: called  (742) 390-4247
+Creation date: 2022-09-22 17:57:26 work_notes: LVM requesting permalinks of emails that have this issue and would be very helpful for the investigation if we could get a screen recording of the issue shared, since we are able to release emails from quarantine on our side of the environment. I also mentioned we cannot do direct customer support so he should send all the requested info to Martha at Neufort systems.
+Creation date: 2022-09-22 18:00:22 comments: Hello Martha,
+
+Just phoned and left a voicemail at the Capland Co number that's in the case description. I requested permalinks of the emails that are stuck in quarantine or a screen recording of the issue being rep]roduced since we can release emails from quarantine on our side of the environment and other customers/partners haven't reported having this issue.
+
+Thank you for any info that you may have!
+
+Thanks & Regards,
+Maliha
+
+Creation date: 2022-09-22 18:16:09 comments: 88yresdvh76453dkiuhgtrd2357vcdkir396t2022-09-21 10:15:09
+
+Nimbus called and informed me that I should speak with you instead of them. They requested permalinks of the email that I can't release from quarantine.
+
+I can't release anything currently, but sharing links here for the ones I need as soon as possible. As I mentioned, it doesn't what I choose to release, nothing ever happens. The Go button goes grey, and that's all. The Go button seem to be working at all.
+
+https://us1.cybsecure.com/index01.qst?mod_id=13&mod_option=itemlog&e_id=107545&mail_id_num=1663797173-VCXUoSJpmZf5&mrid=18870918727
+https://us1.cybsecure.com/index01.qst?mod_id=13&mod_option=itemlog&e_id=107545&mail_id_num=2774888875-jmBwD_WpN_jX&mrid=18863727456
+https://us1.cybsecure.com/index01.qst?mod_id=13&mod_option=itemlog&e_id=107545&mail_id_num=2774888875-vP79amG1OAaX&mrid=29974838005
+https://us1.cybsecure.com/index01.qst?mod_id=13&mod_option=itemlog&e_id=107545&mail_id_num=1663716064-868X3JHR0kZo&mrid=18853659071
+https://us1.cybsecure.com/index01.qst?mod_id=13&mod_option=itemlog&e_id=107545&mail_id_num=1663716058-2Uf-sURHaBvC&mrid=29853658390
+Creation date: 2022-09-22 18:22:11 comments: Hello Everyone,
+
+W=Thanks for providing the permalinks:
+https://us1.cybsecure.com/index01.qst?mod_id=13&mod_option=itemlog&e_id=107545&mail_id_num=1663797173-VCXUoSJpmZf5&mrid=18870917616            Marked as Fraud when clicked and released from quarantine: "This message will be released from quarantine once it has been checked and cleared of known malicious activity."
+
+Did you see the banner before and the email still wasn't being sent?
+
+I appreciate your help and patience!
+Thanks & Regards,
+Maliha
+
+Creation date: 2022-09-22 18:23:46 work_notes: now the status is showing as Delivered (Released)
+Creation date: 2022-09-22 18:31:43 work_notes: https://us1.cybsecure.com/index01.qst?mod_id=13&mod_option=itemlog&e_id=107545&mail_id_num=2774888875-jmBwD_WpN_jX&mrid=18863727456
+  marked as fraud
+
+https://us1.cybsecure.com/index01.qst?mod_id=13&mod_option=itemlog&e_id=107545&mail_id_num=2774888875-vP79amG1OAaX&mrid=29974838005   marked as fraud
+
+released from quarantine with banner
+Creation date: 2022-09-22 18:32:30 work_notes: called (742) 390-4247
+Creation date: 2022-09-22 18:48:57 comments: See the screengrabs...I click on a message, click GO...see  how the Go button goes grey? This is what's happening when I click on an email and click Go. There's not message bar, NOTHING HAPPENS AT ALL. I don't know how to be any clearer than that.
+[cid:image002.png@01D8CE92.097CCAC1]
+[cid:image003.png@01D8CE92.097CCAC1]
+
+
+Martin Price
+IT Specialist
+mprice@caplandco.com<mailto:mprice@caplandco.com>
+Direct: (742) 390-4247
+
+Creation date: 2022-09-22 18:54:22 work_notes: I talked to Martin and he showed me that he can't release any emails in a quick assist session, i confirmed no strange network activity was occurring and that he was able to release emails from Quarantine inthe past
+
+He is the Organization admin in the tenant and was logged in as the org admin and he showed me how nothing happens when he clicks on the check box for "Release from quarantine" and then the "Go" button
+Creation date: 2022-09-23 14:15:22 comments: https://us1.cybsecure.com/index01.qst?mod_id=13&mod_option=itemlog&e_id=107545&mail_id_num=1663875355-x8eREDPztQGr&mrid=192566631329
+
+Kindly release it. Issue is not solved yet and it is recurring. 
+
+Martin Price
+IT Specialist
+mprice@caplandco.com<mailto:mprice@caplandco.com>
+Direct: (742) 390-4247
+
+[cid:image002.jpg@01D8CF35.28F34ED1]
+7524 Menaul Blvd, Ste 300, Albuquerque, NM 87110
+
+
+The content of this email is of confidential nature and may have legal privilege. It is exclusively intended for the individual named as the recipient. Access to this email by any other party is prohibited if you are not the intended recipient. Any disclosure, duplication, dissemination, or any action taken or omitted in reliance on it is not allowed and could potentially be in violation of the law.
+Creation date: 2022-09-23 14:37:16 comments: Hello Martin,
+
+I released it and am still speaking with the CybSecure team. I started a chat to follow up and they just told me this is a known problem. can you access the user logs and try to release them from there? Thanks for your patience and your time!
+
+Thanks & Regards,
+Maliha
+
+Creation date: 2022-09-23 15:22:58 work_notes: called 7423903247
+
+Creation date: 2022-09-23 15:26:36 work_notes: I talked to Martin and told him that by going to all users will let him release the emails in quarantine and CybSecure has an open escalated case with their engineering team to fix this issue of not being able to release emails from quarantine usingg single user logs
+
+WFV
+Creation date: 2022-09-26 15:30:48 work_notes: the case has been reopened, WFV
+Creation date: 2022-09-27 12:43:44 work_notes: WFV
+Creation date: 2022-09-28 12:48:46 work_notes: WFV Dev
+Creation date: 2022-09-29 12:38:05 work_notes: WFV Dev
+Creation date: 2022-09-30 12:35:03 work_notes: WFV Dev
+Creation date: 2022-10-03 12:41:00 work_notes: WFV Dev
+Creation date: 2022-10-04 11:50:06 work_notes: WFV Dev
+
+We'll be speaking with CybSecure about today at odele
+Creation date: 2022-10-05 12:23:39 work_notes: Info from odele:
+The fix for the CybSecure quarantine release bug is being rolled out and will be on all stacks by Wednesday
+Creation date: 2022-10-05 12:26:06 comments: Hello Martin,
+
+The CybSecure team told us yesterday that they are rolling out a fix for the quarantine release bug that we reported. It'll be rolled out to all stacks and should be done by Wednesday. Please let us know if this resolves your issue and thank you for your patience and your time!
+
+Thanks and Regards,
+Maliha
+
+Creation date: 2022-10-06 13:08:01 work_notes: called 7423903247
+
+Creation date: 2022-10-06 13:10:03 work_notes: Our case is being followed up on by LVM team
+Creation date: 2022-10-06 13:11:36 comments: Hello Martin,
+
+I tried calling you but I haven't heard anything so I left a voicemail updating you that CybSecure carried out a fix for the quarantine issue we reported to them. Can you verify if you are able to release emails from quarantine now and that everything is functioning normally? Thank you for your help and time!
+
+Thanks & Regards,
+Maliha
+
+Creation date: 2022-10-07 18:22:38 comments: Hi Martha,
+
+As mentioned earlier, this problem was resolved by CybSecure
+
+If we do not receive a reply, we will archive this ticket.
+
+If you need more help with this matter , please make sure you update the ticket. 
+Creation date: 2022-10-10 18:30:31 work_notes: Automatically closed after case is in the resolved state for 3 days.
+Creation date: 2022-10-12 08:01:47 work_notes: Customer Satisfaction Survey sent 2022-10-11 01:00:00

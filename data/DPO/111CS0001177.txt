@@ -1,0 +1,228 @@
+A case was opened with a short description of Wildegard Services - Customer Migration   Acquisition
+A longer description includes Hi,
+
+We are attempting to onboard a customer into Cloudspace with Turnover but received a message saying that the client domain is already affiliated with another account and we cant create it. I assume that MSP we are taking over an account from is using Cloudspace. Can we go ahead and create the client account? If so what info is shared with the other MSP?
+
+Dexter Barret
+Technology Solutions Analyst
+Zimbu
+[https://cdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/phone-icon-2x.png]
+482-372-9267<tel:482-372-9267>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/email-icon-2x.png]
+dexter.white@zimbu.co<mailto:dexter.white@zimbu.co>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/link-icon-2x.png]
+www.zimbu.co<http://www.zimbu.co/>
+[https://zimbuit.com/wp-content/attach/2020/10/Zimbu_IT_icon_new.png]
+
+
+This email has been scanned by Securety for spam and viruses
+
+
+
+
+Creation date: 2022-10-12 14:22:08 work_notes:  Kindly verify entitlement with Partner. Could not identify Requestor Partner.
+Creation date: 2022-10-12 14:39:54 comments: Hi Dexter,
+
+Hope you are doing well. In this case the migration will be handled for you by us. We first obtain approval from the release and acquisition providers. Can you verify the domain for the company that is being migrated?
+
+Thanks,
+Amara
+Creation date: 2022-10-12 14:43:49 comments: Can the other MSP see who it will be transferred to or do they only see that a transfer request was submitted? It doesn't really matter either way but we would like to know what the other end is expecting. That way, we can tell them what to watch out for.
+
+Dexter White
+Technology Solutions Analyst
+Zimbu
+[https://cdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/phone-icon-2x.png]
+482-372-9267<tel:482-372-9267>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/email-icon-2x.png]
+dexter.white@zimbu.co<mailto:dexter.white@zimbu.co>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/link-icon-2x.png]
+www.zimbu.co<http://www.zimbu.co/>
+[https://zimbuit.com/wp-content/attach/2020/10/Zimbu_IT_icon_new.png]
+Creation date: 2022-10-12 14:52:27 comments: Hi Dexter, 
+
+We did not disclose the acquisition partner to the MSP. Kindly let me know if you have any other  queries, problems, or concerns. If you want to proceed with the migration, we need to verify the domain first. 
+
+Thanks,
+Amara
+Creation date: 2022-10-12 15:08:27 comments: Alright. Once MSP has removed all their services,  I will request a transfer.
+Thanks!
+
+Dexter White
+Technology Solutions Analyst
+Zimbu
+[https://cdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/phone-icon-2x.png]
+482-372-9267<tel:482-372-9267>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/email-icon-2x.png]
+dexter.white@zimbu.co<mailto:dexter.white@zimbu.co>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/link-icon-2x.png]
+www.zimbu.co<http://www.zimbu.co/>
+[https://zimbuit.com/wp-content/attach/2020/10/Zimbu_IT_icon_new.png]
+Creation date: 2022-10-12 15:19:53 comments: Hi Dexter, 
+
+Migration will include the services. Let me know if you want to go ahead with this migration. 
+
+Thanks,
+Amara
+Creation date: 2022-10-12 16:26:06 comments: I thought all the services they provide are being removed. We might have retained the Microsoft licensing but only that one. Either way, we aren't signed up as a partner with Microsoft so our customers are being charged directly through O365.
+
+The domain is wildegardservices.com
+
+I thought I would give the other MSP the opportunity to remove those services before we migrate. Is that not recommended?
+
+Dexter White
+Technology Solutions Analyst
+Zimbu
+[https://cdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/phone-icon-2x.png]
+482-372-9267<tel:482-372-9267>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/email-icon-2x.png]
+dexter.white@zimbu.co<mailto:dexter.white@zimbu.co>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/link-icon-2x.png]
+www.zimbu.co<http://www.zimbu.co/>
+[https://zimbuit.com/wp-content/attach/2020/10/Zimbu_IT_icon_new.png]
+Creation date: 2022-10-12 16:44:32 comments: Hi Dexter, 
+
+I understand. We can wait for the release MSP to cancel their subscriptions and delete the company if we aren't going to migrate any subscription. We can reclaim the domain after the company is deleted so you can build out the company then. Please reach out if you have additional queries, problems, or concerns.
+
+Thanks,
+Amara
+Creation date: 2022-10-14 15:57:37 comments: After talking to another MSP there is  license  to stay until November so we need to change the account. Can we move forward with that?
+
+Dexter White
+Technology Solutions Analyst
+Zimbu
+[https://cdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/phone-icon-2x.png]
+482-372-9267<tel:482-372-9267>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/email-icon-2x.png]
+dexter.white@zimbu.co<mailto:dexter.white@zimbu.co>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/link-icon-2x.png]
+www.zimbu.co<http://www.zimbu.co/>
+[https://zimbuit.com/wp-content/attach/2020/10/Zimbu_IT_icon_new.png]
+Creation date: 2022-10-17 14:13:33 work_notes: KB for migration process: https://cloudspaceprod.deskflow.com/kb_view.do?sysparm_article=KB0026543
+For tracking, please append "Customer Transfer   Acquisition" to the Short Description
+Checklist as Word doc: https://cloudspace.sharepoint.com/:w:/t/ServiceDesk/EU9pbrwaL2NMrXXyy9DumsegdkyZkhH8wJp4A1FuYSOxl36A?e=xcC2NO
+
+Verifying items:
+
+  Create Deskflow
+ tickets for acquisition approval from "winning" Partner (if it does not already exist)
+   Generate Deskflow
+ case for release approval from "losing" Partner (if it does not already exist)
+  Add the "losing" Partner ticket to the "winning" Partner ticket by adding the "losing" ticket number in the Parent field in Deskflow
+ on the "winning" Partner's ticket
+  Select the Primary Partner Administrator as a starting point to approve an acquisition/release
+   Add CAM for losing Partner to Deskflow Watchlist
+   Verify active services in Cloudspace Platform
+   Depending on the active services, determine whether the "winning" Partner has an appropriate Partner Shells configuration
+   Look for the customer's name in the One Time Charges section to determine if there are any services offered under the Partner's shadow company
+   If the customer does not have active services, ask the "losing" Partner if the customer can be removed from their account on the platform,  rather than authorize the transfer
+   Send initial communications to Partner(s) for approvals (use Deskflow
+ macros)
+   If there is no answer after two attempts, call the partner using CAM or check if there is an  alternative contact who can approve the transfer
+   If there is no progress after using the CAM, file a Wrike with DataOps and immediately flag the RSM to ask if they can review the transfer request and approve it 
+   RSM is the correct escalation resource if a Partner gets upset or adds any complexity  to the transfer request
+   Once the Wrike has been filed and all possible approvals have been submitted, the Service Desk should advise the "winning" Partner on the process timeline and advise the Partner once everything is complete
+
+Creation date: 2022-10-17 14:13:33 comments: Hi Dexter,
+ 
+ It seems that a customer migration is needed from a current Cloudspace Partner for customer Wildegard Services and all active subscriptions to your Cloudspace account. Our process will record an approval from yourself and the current Partner in our system who owns the account. After both approvals have been received, the request can be sent to our backend team to migrate the customer(s) and all active subscription(s).
+ 
+If you agree to this request, kindly fill out the template below with your information and paste the completed version as a response to this message: 
+ 
+I, [ADD RESPONSIBLE PARTY NAME], representing [ADD PARTNER RECEIVING THE CLIENT], hereby accepts the acquisition of Wildegard Services and with all  active subscriptions on the Cloudspace Platform, effective the following earliest date: [INSERT EFFECTIVE DATE].  
+ 
+If you are denying the request, state the reason for denial. 
+ 
+
+*Kindly note processing time is subject to Cloudspace obtaining  all required partner and vendor approvals  as well as the services being used by the customer.  Further, given the high volume of requests at or near the end of the month, requests that are received within five days of the last day of the month may not be migrated until the following month.
+Creation date: 2022-10-17 14:13:33 work_notes: Added as a child of CS4793562
+Creation date: 2022-10-17 16:20:24 comments: I, Dexter White, representing Zimbu, hereby agree to receive the acquisition of Wildegard Services and all active subscriptions on Cloudspace with an effective date of 10/16/2022.
+
+
+Dexter White
+Technology Solutions Analyst
+Zimbu
+[https://cdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/phone-icon-2x.png]
+482-372-9267<tel:482-372-9267>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/email-icon-2x.png]
+dexter.white@zimbu.co<mailto:dexter.white@zimbu.co>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/link-icon-2x.png]
+www.zimbu.co<http://www.zimbu.co/>
+[https://zimbuit.com/wp-content/attach/2020/10/Zimbu_IT_icon_new.png]
+Creation date: 2022-10-17 19:43:44 comments: Hey Dexter,
+
+Thanks for the approval! I've sent both approvals to our development team and company migration has started.
+
+I will reach out once this ticket is complete or if we need additional action or info from you.
+
+Thanks
+Amara
+Creation date: 2022-10-19 17:49:26 work_notes: - To finalize the migration. winning Partner should open a Microsoft Partner shell
+-Approaching CAM for assistance
+Creation date: 2022-10-20 18:17:23 work_notes: Duplicate tickets CS4293392:
+
+Are there updates on this?
+
+Dexter White
+Technology Solutions Analyst
+Zimbu
+[https://cdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/phone-icon-2x.png]
+482-372-9267<tel:482-372-9267>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/email-icon-2x.png]
+dexter.white@zimbu.co<mailto:dexter.white@zimbu.co>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/link-icon-2x.png]
+www.zimbu.co<http://www.zimbu.co/>
+[https://zimbuit.com/wp-content/attach/2020/10/Zimbu_IT_icon_new.png]
+
+From: White, Dexter
+Sent: Friday, October 14, 2022 6:12 PM
+To: Francisco Parker <fparker@cloudspace.com>
+Subject: RE: Cloudspace - Customer Move
+
+The old MSP should have removed those licenses. The customer want to directly purchase licensing from Microsoft and already did so.
+
+Dexter White
+Zimbu
+[https://cdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/phone-icon-2x.png]
+482-372-9267<tel:482-372-9267>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/email-icon-2x.png]
+dexter.white@zimbu.co<mailto:dexter.white@zimbu.co>
+[https://hdn2.checkpoint.net/pointfs/53/tools/email-sign-generator/logo/link-icon-2x.png]
+www.zimbu.co<http://www.zimbu.co/>
+[https://zimbuit.com/wp-content/attach/2020/10/Zimbu_IT_icon_new.png]
+
+
+From: Francisco Parker <fparker@cloudspace.com<mailto:cbathauer@cloudspace.com>>
+Sent: Friday, October 14, 2022 5:15 PM
+To: White, Dexter <dexter.white@zimbu.co<mailto:dexter.white@zimbu.co>>
+Subject: Cloudspace - Customer Move
+
+Hi Dexter,
+
+We are working on transferring Wildegard Services to you. The active Microsoft subscriptions that they have will come with the transfer. Do you have an MPNID and CSP with Microsoft now? If yes we have to unlock the Microsoft Partner Shell in the Cloudspace platform so this customer with Microsoft can be transferred to Zimbu. If no we will need to sign you up with MPNID so the process can be finished. Let me know if you have an MPNID and I can hop into a call to help you unlock the partner shell.
+
+Best,
+Francisco
+
+[A image containing logo  Definition generated automatically]
+Francisco Parker
+Channel Account Supervisor
+Direct: 720.476.6853
+
+cloudspace.com
+5500 S Randolph Road Suite 32
+Grensfell, CO 82344
+
+
+[cloudspace.com]<https://us.content.exclaimer.net/?url=https%3A%2F%2Fwww.cloudspace.com%2F&tenantid=Zy07XoXOEeylBwANOhMDEQ&templateid=40d033fa2622ed11bd6e2818786ef6cf&excomponentid=bc8z72qFX4EgTf7tJ-WdTpo5YTKyZ2_6iLTe8SULtAQ>
+Francisco Parker  
+Channel Account supervisor
+Direct: 720.476.6853<tel:(720)%20476-6853>
+Support: 1 855 895 7309, ext. 2
+Creation date: 2022-10-20 19:14:54 comments: amara@cloudspace.com 2022-10-1911:13:54
+Hi Dexter, 
+
+I hope you are well. The migration is scheduled to take place on 10/26/2022. If you have any additional queries, problems, or concerns, let me know. 
+
+Thanks,
+Amara

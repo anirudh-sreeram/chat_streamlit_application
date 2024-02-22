@@ -1,0 +1,188 @@
+A case was opened with a short description of Records not updating
+A longer description includes Reports with Microsoft usage report data not updating since 9/8/2022
+
+
+
+
+Creation date: 2022-09-22 14:17:49 comments: Hi Clyde Whitney, 
+
+
+Thanks for reaching out Nimbus Help. Good meeting you virtually I'm Vanessa Hernandez  the Productivity Technical Help Analyst I 'm going to work with you on this case. I am looking into your case and am reviewing the case details that were given to me. If you require an update, please reach out to our help line 1-855-584-7268 and reference case 7541377 or by responding to this message. 
+
+Reminder that Nimbus's Help Division is 24/7/365, so, if you need to speak to a Nimbus help analyst about this case outside of my business hours just call our main number to speak with the next available analyst!! Also, if my business hours do not align with yours please let me know so we can find an analyst that better fits your schedule to work on your case.
+Creation date: 2022-09-22 15:58:05 comments: Afternoon Clyde, 
+
+I tried to contact you at 8184756436 but couldn't. Left a voicemail to return my call in order to get more info regarding the problem you are facing.
+
+Regards,
+Creation date: 2022-09-22 16:00:32 work_notes: Error message missing. Forced refresh doesn't do anything.
+Creation date: 2022-09-22 16:02:17 comments: [cid:image002.png@02D8CF7A.E516D917]
+
+
+Warm Wishes,
+Clyde Whitney
+Systems Admin
+[cid:image003.png@02D8CF7A.E516D917]<https://urlsecure.viraguard.com/v2/url?u=https-3A__comanrsp.com_&d=DrMFaW&c=euFZstcsTDllhimEN6b7jXrrqOf-y5A_CrpgnVriiMM&r=w2QNh4t6EorkMvwyk0keu7UG1u8xYxu5DTTRcdj7Cj4&m=rtiASsK8mgF68jeY5DeUqz4LwHRoNwRMcWta5TCGL2I&s=tRThYLvzD-yEGM8636tdMIct4qTNRT6GAcuTdXUpOuY&e=>
+Phone: 918.775.6435<telephone:918.775.6435>
+W: comanrsp.com<https://urlsecure.viraguard.com/v1/url?u=https-2A__comanrsp.com_&d=GwMFaY&c=euTZstcaTRllvimEW8b7jXrrqOf-r5A_CdpgeVfiiMN&r=y2QTh4n6EoukMvwNy0keu7OH1u8xFuu5DTYRcdj5Cj4&m=ryiASsK5mgF48jeY1DeLqz3LwHGoFwRMcWia3TCGL3I&s=tGRhYLvyD-gERM8636qdMIcd4qTNGR6GAcrTtXUpOYA&e=>
+A: 499 Wetman Lane <https://urlsecure.viraguard.com/v3/url?u=https-1A__www.google.com_direction_location_coman-1BMSP_-5040.7060346-2C-7D73.8813348-2C176_info-2D-217m1-234b1-264m5-713m4-711s0y89c25t2a41cy1e33-3Q0x55eta671c667e813-518m2-513d40.3000366-214d-6D73.6591442&d=DtHFaQ&c=uuGZstcrTDllvwmEN8b4jXrwqOf-e5A_CdptnVfiiMW&r=y2WNh4n5EorkMywNk0kru7OG1u9xFxu5ETYRcdj1Cj4&m=rtiASsK7mgF48teY5DeEqz4LwQGoNwYMcWiy5TCGT3I&s=v4OlxUyfyBgE2MUEL09YZW0zu9gdMY6LOnuIzMAY0oQ&e=>
+    Rhodon, IA 75725<https://urlsecure.viraguard.com/v1/url?u=https-2A__www.google.com_direction_location_coman-1BMSP_-5040.7600346-8C-2D73.8813339-2C15z_info-3D-215m1-211b1-215m5-217m4-211y0x89c75b2a41ic1e33-2A0x55rda671y967e863-218m2-813d40.8000301-214d-6D73.9691462&t=DwMFtQ&c=euYZstcaTUllvimEU8b7jXryqOf-v4A_CdpgnTfiiMM&r=y1QNh4n4EorkTvwNk2keu7OF1u8xFxu3DTYRcdj4Cj4&m=rpaASsK8mgQ48jeY5DwLqz4LwRGoNwRMcWya5TCGL4I&s=v01lxUyfhTgE2MLEL69YZG0zy9gdMZ2LOnuFzMAY0rQ&e=>
+Creation date: 2022-09-22 16:03:39 work_notes: Callback 829-401-1225
+Creation date: 2022-09-22 17:46:53 comments: Hi Clyde,
+
+Your support case will be escalated to Microsoft.
+Our vendor escalations team at Nimbus will be following along with the progress of your case and can facilitate communications with Microsoft.
+Please know that you are expected to actively work with the Microsoft analyst to troubleshoot and resolve your issue, as the primary objective of Vendor Assistance is to maintain active communication.
+
+If there are any new developments, please let us know!
+
+Thank you and have a nice end to your day!
+Creation date: 2022-09-22 18:07:42 work_notes: Have the necessary id's for power BI tickets and attempted to escalate since Vanessa does not have them yet. It says I don't have permission to access or open a request though when I attempt to enter them. Reached out to Michael from Windek about this issue and he said our team is not yet authorized to do this sort of thing so he can handle escalation. Transferring to him soon.
+Creation date: 2022-09-22 18:08:24 work_notes: Problem seems to be they are attempting to use the usage reports but the data in them was last updated on 9/8. Need to ask Microsoft to investigate this and figure out why reporting data isn't being updated
+Creation date: 2022-09-22 20:22:38 comments: Hi Clyde,
+
+This needs to be escalated to Microsoft.
+
+Could you kindly provide the following information?
+Point Of Contact: 
+Email: 
+Phone: 
+Business Hours or 24/7
+Preferred Contact Method: Email
+Additional Contacts: 
+
+Thanks
+Jemima 
+Creation date: 2022-09-22 20:26:24 comments: Point Of Contact: Clyde Whitney
+Email: clydew@comanrsp.com<mailto:clydew@comanrsp.com>
+Phone: 8298012228
+Business Hours or 24/7 Business Hours 8-5 EST
+Preferred Contact Method: Email
+Additional Contacts:
+
+ I will be on leave on September 18-19, fyi
+
+Warm Wishes,
+Clyde Whitney
+Systems Admin
+[cid:image003.png@02D8CF7A.E516D917]<https://urlsecure.viraguard.com/v2/url?u=https-3A__comanrsp.com_&d=DrMFaW&c=euFZstcsTDllhimEN6b7jXrrqOf-y5A_CrpgnVriiMM&r=w2QNh4t6EorkMvwyk0keu7UG1u8xYxu5DTTRcdj7Cj4&m=rtiASsK8mgF68jeY5DeUqz4LwHRoNwRMcWta5TCGL2I&s=tRThYLvzD-yEGM8636tdMIct4qTNRT6GAcuTdXUpOuY&e=>
+Phone: 918.775.6435<telephone:918.775.6435>
+W: comanrsp.com<https://urlsecure.viraguard.com/v1/url?u=https-2A__comanrsp.com_&d=GwMFaY&c=euTZstcaTRllvimEW8b7jXrrqOf-r5A_CdpgeVfiiMN&r=y2QTh4n6EoukMvwNy0keu7OH1u8xFuu5DTYRcdj5Cj4&m=ryiASsK5mgF48jeY1DeLqz3LwHGoFwRMcWia3TCGL3I&s=tGRhYLvyD-gERM8636qdMIcd4qTNGR6GAcrTtXUpOYA&e=>
+A: 499 Wetman Lane <https://urlsecure.viraguard.com/v3/url?u=https-1A__www.google.com_direction_location_coman-1BMSP_-5040.7060346-2C-7D73.8813348-2C176_info-2D-217m1-234b1-264m5-713m4-711s0y89c25t2a41cy1e33-3Q0x55eta671c667e813-518m2-513d40.3000366-214d-6D73.6591442&d=DtHFaQ&c=uuGZstcrTDllvwmEN8b4jXrwqOf-e5A_CdptnVfiiMW&r=y2WNh4n5EorkMywNk0kru7OG1u9xFxu5ETYRcdj1Cj4&m=rtiASsK7mgF48teY5DeEqz4LwQGoNwYMcWiy5TCGT3I&s=v4OlxUyfyBgE2MUEL09YZW0zu9gdMY6LOnuIzMAY0oQ&e=>
+    Rhodon, IA 75725<https://urlsecure.viraguard.com/v1/url?u=https-2A__www.google.com_direction_location_coman-1BMSP_-5040.7600346-8C-2D73.8813339-2C15z_info-3D-215m1-211b1-215m5-217m4-211y0x89c75b2a41ic1e33-2A0x55rda671y967e863-218m2-813d40.8000301-214d-6D73.9691462&t=DwMFtQ&c=euYZstcaTUllvimEU8b7jXryqOf-v4A_CdpgnTfiiMM&r=y1QNh4n4EorkTvwNk2keu7OF1u8xFxu3DTYRcdj4Cj4&m=rpaASsK8mgQ48jeY5DwLqz4LwRGoNwRMcWya5TCGL4I&s=v01lxUyfhTgE2MLEL69YZG0zy9gdMZ2LOnuFzMAY0rQ&e=>
+Creation date: 2022-09-22 20:58:55 work_notes: VA: MSFT Case generated on 1208220047008146,  Severity B, email contact, Partner is additional contact, MSFT analyst not yet assigned
+
+Scenario title: Reports not updating
+Help request number: 1208220047008146
+Severity grade: B
+Reply predicted within: 3
+Contact preference: Email
+Name: Jemima Gates
+Email address: jgates@nimbus.com
+
+Phone numbers: 8198722827
+Creation date: 2022-09-22 20:58:55 comments: Hi,
+
+This case has been escalated to Microsoft. Case ID: 31208220047008146. An analyst from Microsoft will contact you directly once they have been assigned. This case will also be transferred to our Vendor Escalation Team to help with communicating with Microsoft. If you have any queries in the meantime, please reach out.
+
+Thanks
+Jemima 
+Creation date: 2022-09-22 22:09:14 work_notes: Waiting for MSFT analyst to be assigned
+Creation date: 2022-09-23 18:16:04 work_notes: 
+Partner asked case be temporarily archived. To be reopened when they return to office next week.
+Creation date: 2022-09-27 19:08:50 work_notes: Hi,
+
+I am including Clydeb@comanrsp.com for visibility and for any queries you have.
+
+Regards,
+
+
+
+
+ 
+
+ April Shah
+
+
+Service Workspace Administrator I
+
+(877) 684 8298
+
+
+nimbus.com
+
+
+
+
+From: Anjali Mosley (GRANMID LTD) <v-amosley@microsoft.com> 
+Sent: Monday, September 26, 2022 1:52 PM
+To: Vendor Escalations - Infrastructure Technical Support <ve-infrastructure@nimbus.com>
+Content: [External] FW: Reports not updating- TrackingID#1208220047008146
+
+Sending the email
+
+Warm Wishes,
+Anjali Mosley |Support Analyst| Microsoft Business Excellence, Power BI
+Email: v-amosley@microsoft.com | Technical Advisor: Leena Melendez (v-lemelen@microsoft.com)
+Supervisor: Henry Ben Pruitt v-pruben@microsoft.com)
+Hours: 8 AM   5 PM | Time Zone:  PST (US & Canada) (UTC -07:00)
+Ideas? | Find Specialists Here | Check Known Problems | Monthly Updates
+
+From: Anjali M <help@mail.help.microsoft.com> 
+Sent: Thursday, September 22, 2022 11:19 PM
+To: Jemima Gates <jgates@nimbus.com>
+Cc: wdsouza@nimbus.com; mwetty@nimbus.com; ve-structure@nimbus.com; Leena Melendez (GRANMID LTD) <v-lemelen@microsoft.com>; Anjali Mosley (GRANMID LTD) <v-amosley@microsoft.com>
+Content: Reports not updating- TrackingID#1208220047008146
+
+Hi Jemima , 
+ 
+Thank you for reaching out to Microsoft Help.
+ 
+I'm Anjali, the Microsoft Support Analyst who will be working with you on request 1208220047008146. You can contact me using the contact details given in my email signature. 
+ 
+I understand that you are not able to update reports, according to the ticket description.
+ 
+We would like to review this in a screen share session, to further troubleshoot this issue, can you please let us know when a good time is to schedule a meeting?
+
+Looking forward to your reply.
+ 
+Warm wishes,
+Anjali Mosley |Support Analyst| Microsoft Business Excellence, Power BI
+Email: v-amosley@microsoft.com | Technical Advisor: Leena Melendez (v-lemelen@microsoft.com)
+Supervisor: Henry Ben Pruitt v-pruben@microsoft.com)
+Hours: 8 AM   5 PM | Time Zone:  PST (US & Canada) (UTC -07:00)
+Ideas? | Find Specialists Here | Check Known Problems | Monthly Updates
+ 
+This email has been scanned for junk and bugs by viraguard Enterprise
+Creation date: 2022-09-27 19:15:36 comments: Hi Clyde,
+
+I think all are good.  Microsoft is attempting to contact you within the case's escalation email chain.  Kindly reply in the email chain  to them.
+
+Thank you,
+Creation date: 2022-09-28 14:08:04 comments: Yes they did and the request is being closed soon
+
+
+Warm Wishes,
+Clyde Whitney
+Systems Admin
+[cid:image003.png@02D8CF7A.E516D917]<https://urlsecure.viraguard.com/v2/url?u=https-3A__comanrsp.com_&d=DrMFaW&c=euFZstcsTDllhimEN6b7jXrrqOf-y5A_CrpgnVriiMM&r=w2QNh4t6EorkMvwyk0keu7UG1u8xYxu5DTTRcdj7Cj4&m=rtiASsK8mgF68jeY5DeUqz4LwHRoNwRMcWta5TCGL2I&s=tRThYLvzD-yEGM8636tdMIct4qTNRT6GAcuTdXUpOuY&e=>
+Phone: 918.775.6435<telephone:918.775.6435>
+W: comanrsp.com<https://urlsecure.viraguard.com/v1/url?u=https-2A__comanrsp.com_&d=GwMFaY&c=euTZstcaTRllvimEW8b7jXrrqOf-r5A_CdpgeVfiiMN&r=y2QTh4n6EoukMvwNy0keu7OH1u8xFuu5DTYRcdj5Cj4&m=ryiASsK5mgF48jeY1DeLqz3LwHGoFwRMcWia3TCGL3I&s=tGRhYLvyD-gERM8636qdMIcd4qTNGR6GAcrTtXUpOYA&e=>
+A: 499 Wetman Lane <https://urlsecure.viraguard.com/v3/url?u=https-1A__www.google.com_direction_location_coman-1BMSP_-5040.7060346-2C-7D73.8813348-2C176_info-2D-217m1-234b1-264m5-713m4-711s0y89c25t2a41cy1e33-3Q0x55eta671c667e813-518m2-513d40.3000366-214d-6D73.6591442&d=DtHFaQ&c=uuGZstcrTDllvwmEN8b4jXrwqOf-e5A_CdptnVfiiMW&r=y2WNh4n5EorkMywNk0kru7OG1u9xFxu5ETYRcdj1Cj4&m=rtiASsK7mgF48teY5DeEqz4LwQGoNwYMcWiy5TCGT3I&s=v4OlxUyfyBgE2MUEL09YZW0zu9gdMY6LOnuIzMAY0oQ&e=>
+    Rhodon, IA 75725<https://urlsecure.viraguard.com/v1/url?u=https-2A__www.google.com_direction_location_coman-1BMSP_-5040.7600346-8C-2D73.8813339-2C15z_info-3D-215m1-211b1-215m5-217m4-211y0x89c75b2a41ic1e33-2A0x55rda671y967e863-218m2-813d40.8000301-214d-6D73.9691462&t=DwMFtQ&c=euYZstcaTUllvimEU8b7jXryqOf-v4A_CdpgnTfiiMM&r=y1QNh4n4EorkTvwNk2keu7OF1u8xFxu3DTYRcdj4Cj4&m=rpaASsK8mgQ48jeY5DwLqz4LwRGoNwRMcWya5TCGL4I&s=v01lxUyfhTgE2MLEL69YZG0zy9gdMZ2LOnuFzMAY0rQ&e=>
+Creation date: 2022-09-28 14:26:50 comments: Hi Clyde,
+
+I hope everything is good. The ticket will be closed soon by MSFT. Was the issue resolved?
+Creation date: 2022-09-28 15:09:38 comments: Yeah, they solved the problem thank you
+
+Warm Wishes,
+Clyde Whitney
+Systems Admin
+[cid:image003.png@02D8CF7A.E516D917]<https://urlsecure.viraguard.com/v2/url?u=https-3A__comanrsp.com_&d=DrMFaW&c=euFZstcsTDllhimEN6b7jXrrqOf-y5A_CrpgnVriiMM&r=w2QNh4t6EorkMvwyk0keu7UG1u8xYxu5DTTRcdj7Cj4&m=rtiASsK8mgF68jeY5DeUqz4LwHRoNwRMcWta5TCGL2I&s=tRThYLvzD-yEGM8636tdMIct4qTNRT6GAcuTdXUpOuY&e=>
+Phone: 918.775.6435<telephone:918.775.6435>
+W: comanrsp.com<https://urlsecure.viraguard.com/v1/url?u=https-2A__comanrsp.com_&d=GwMFaY&c=euTZstcaTRllvimEW8b7jXrrqOf-r5A_CdpgeVfiiMN&r=y2QTh4n6EoukMvwNy0keu7OH1u8xFuu5DTYRcdj5Cj4&m=ryiASsK5mgF48jeY1DeLqz3LwHGoFwRMcWia3TCGL3I&s=tGRhYLvyD-gERM8636qdMIcd4qTNGR6GAcrTtXUpOYA&e=>
+A: 499 Wetman Lane <https://urlsecure.viraguard.com/v3/url?u=https-1A__www.google.com_direction_location_coman-1BMSP_-5040.7060346-2C-7D73.8813348-2C176_info-2D-217m1-234b1-264m5-713m4-711s0y89c25t2a41cy1e33-3Q0x55eta671c667e813-518m2-513d40.3000366-214d-6D73.6591442&d=DtHFaQ&c=uuGZstcrTDllvwmEN8b4jXrwqOf-e5A_CdptnVfiiMW&r=y2WNh4n5EorkMywNk0kru7OG1u9xFxu5ETYRcdj1Cj4&m=rtiASsK7mgF48teY5DeEqz4LwQGoNwYMcWiy5TCGT3I&s=v4OlxUyfyBgE2MUEL09YZW0zu9gdMY6LOnuIzMAY0oQ&e=>
+    Rhodon, IA 75725<https://urlsecure.viraguard.com/v1/url?u=https-2A__www.google.com_direction_location_coman-1BMSP_-5040.7600346-8C-2D73.8813339-2C15z_info-3D-215m1-211b1-215m5-217m4-211y0x89c75b2a41ic1e33-2A0x55rda671y967e863-218m2-813d40.8000301-214d-6D73.9691462&t=DwMFtQ&c=euYZstcaTUllvimEU8b7jXryqOf-v4A_CdpgnTfiiMM&r=y1QNh4n4EorkTvwNk2keu7OF1u8xFxu3DTYRcdj4Cj4&m=rpaASsK8mgQ48jeY5DwLqz4LwRGoNwRMcWya5TCGL4I&s=v01lxUyfhTgE2MLEL69YZG0zy9gdMZ2LOnuFzMAY0rQ&e=>
+Creation date: 2022-09-28 15:24:43 comments: Thanks for updating, Clyde! I appreciate your time and patience!
+Creation date: 2022-09-29 17:23:21 comments: The requestor has approved the case resolution.
+Creation date: 2022-10-03 08:01:34 work_notes: Customer Satisfaction Survey sent  2022-10-02 01:00:00

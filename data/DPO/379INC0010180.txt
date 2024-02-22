@@ -1,0 +1,86 @@
+A case was opened with a short description of Agile Office api for  RITM7674050 failed.
+A longer description includes {"Text":"The request is not valid.","ModelState":{"request.RequestedFor":["There was no match for the specified parameters."]}}
+
+
+
+
+Creation date: 2023-04-11 11:39:55 work_notes: From: NADIA D. DECKER 
+Sent: Tuesday, April 11, 2022 8:37 AM
+To: Dalton P. Flynn <Dalton.Flynn@wecenergy.com>
+Subject: RE: *ACTION REQUIRED* Wireless Device Notification - Change of Employee or Leave - Ashwin Osborn
+
+You're welcome Dalton.  I notice that Ashwin's name is in the Requested For Field, which has caused your suspend ticket RITM7674050 to be denied out. The request is denied since they haven't been in the office for a while and their status in our inventory system is shown as inactive.
+
+I submitted a new suspend ticket on your behalf, listing your name as the Requested For and putting Ashwin's name in the remarks. If you have any questions, please refer to this new ticket number, RITM4874050.
+
+Thank you,
+Nadia
+
+
+From: Dalton P. Flynn <Dalton.Flynn@wecenergy.com> 
+Sent: Monday, April 10, 2022 6:03 PM
+To: NADIA D. DECKER <NADIA.DECKER@wecenergy.com>
+Cc: Dalton P. Flynn <Dalton.Flynn@wecenergy.com>
+Subject: RE: *ACTION REQUIRED* Wireless Device Notification - Change of Employee or Leave - Ashwin Osborn
+
+I appreciate you taking the time to elaborate. I've requested a mobile suspend.
+
+From: NADIA D. DECKER <NADIA.DECKER@wecenergy.com> 
+Sent: Monday, April 10, 2022 4:13 PM
+To: Dalton P. Flynn <Dalton.Flynn@wecenergy.com>
+Subject: RE: *ACTION REQUIRED* Wireless Device Notification - Change of Employee or Leave - Ashwin Osborn
+
+Hello Dalton,
+Yes, I can see that the service was suspended in May of last year. However, according to Ashwin's email below, the service was restored 91 days later.
+
+You may re-apply for mobile suspend so that you won't be charged while the phone is suspended and he can maintain the 248-367-7551 number for when he gets back.
+
+You can file a Mobile Cancel request to stop the service on this phone if he no longer needs it.
+
+In case you have any further inquiries, do let me know.
+{  ..}
+
+Thanks,
+Nadia
+
+From: Dalton P. Flynn <Dalton.Flynn@wecenergy.com> 
+Sent: Monday, April 10, 2022 1:30 PM
+To: NADIA D. DECKER <NADIA.DECKER@wecenergy.com>
+Subject: RE: *ACTION REQUIRED* Wireless Device Notification - Change of Employee or Leave - Ashwin Osborn
+
+Good day,
+
+
+I'm not sure how to answer this one. The mentioned worker has been absent due to illness since Feb of 2020. The service was terminated by my previous manager, but the employee still has the phone.
+
+From: NADIA D. DECKER <NADIA.DECKER@wecenergy.com> 
+Sent: Monday, April 10, 2022 12:14 AM
+To: Dalton P. Flynn <Dalton.Flynn@wecenergy.com>
+Subject: RE: *ACTION IS NECESSARY* Device Notification through Wireless - Change of Employee or Leave - Ashwin Osborn
+
+Hi Dalton,
+
+We have been informed that Ashwin Osborn, a member of your team, recently experienced a change in work status. According to our data, the following mobile device has been assigned to this employee:
+
+Device Type Mobile #
+Samsung Galaxy S21 128GB 7551367842
+
+
+If any of the mentioned devices are no longer being used by this employee, kindly have one of the following tasks from the Zendesk catalog be completed for each one of them. (If the employee is still utilizing the gadget, please let me know.)
+
+(*NOTE: Please enter your name in the 'Requested for' area on the request form rather than the employee's to prevent it from being rejected. For reference, you can provide the employee's name in the comments box.)
+1. To terminate service and have the device deactivated, submit a Mobile Cancel request ticket.    
+2. To transfer control of the device to a different user, submit a Mobile Change request ticket.
+3. If the device will be reassigned but the new user is not yet identified, submit a Mobile Change request ticket to halt service.
+
+Let me know if you have any questions concerning this.
+
+Thank You,
+Nadia Decker
+WEC Energy
+TS&M - IT Request Fulfillment Team
+Creation date: 2023-04-11 11:42:19 comments: answer from: NADIA.DECKER@wecenergy.com
+
+I'm satisfied with how the situation was handled. Close the incident, please.
+
+Ref:MSG71072072

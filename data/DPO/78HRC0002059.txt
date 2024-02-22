@@ -1,0 +1,76 @@
+A case was opened with a short description of ISC0301270 | Make a decision on conducting a Background Check - S - 95265  Dale Benson (Previous Employee) - S-95265 similar problem as before when attempting t
+A longer description includes Dale Benson, a candidate for rehire, has attempted to address this through his email but has encountered the same problems that he had previously when attempting to acknowledge earlier forms.
+
+Kindly refer to HR Case ISC0301270, and if I can be of more assistance, please let me know....
+
+
+Thanks,
+________________________________
+From: Dale Benson <bensondale151@yahoo.com>
+Sent: Tuesday, March 30, 2022 10:49 AM
+To: Donald Rennis <donald.rennis@hajoca.com>
+Subject: Fwd: You Have Got a Task to Do: Make a decision on conducting a background check for Dale Benson (Previous Employee) - S-95265 - Job Application as of 02/25/2022, Delivery Truck Driver with a CDL
+
+
+---------- Forwarded message ---------
+From: hajoca@mysap.com<mailto:hajoca@mysap.com> <hajoca@mysap.com<mailto:hajoca@mysap.com>>
+Date: Mon, Mar 29, 2022, 5:42 PM
+Subject: You have Got A Task to Do: Make a decision on conducting a background check Dale Benson (Prior Employee) - S-95265 - Job Application as of 02/25/2022, Delivery Truck Driver with a CDL
+To: <Bensondale151@yahoo.comm<mailto:Bensondale151@yahoo.com>>
+
+
+To perform this task, sign in to the SAP platform.
+
+Business Method: Dale Benson's Background Verification for job application. - S-95265 CDL-holder Delivery Truck Driver (Open)
+Subject: Application for a Job: Dale Benson (Previous Employee) - S-95265 as of 02/25/2022, Delivery Truck driver with a CDL
+Details: Background Verification of Job Application: Dale Benson (Previous Employee) - S-95264 for Job Application as of 02/25/2022, Delivery Truck Driver with a CDL
+To view the notification information, click Here <https://www.mysap.com/hajoca/email-universal/inst/879$19523436/rel-task/3997$4087.htmld>
+Email address Bensondale151@yahoo.com was the recipient of this message<mailto:Bensondale151@yahoo.com>  Control preferences<https://www.mysap.com/hajoca/d/task/3998$2726.htmld>
+
+
+
+
+Creation date: 2022-03-29 16:33:30 work_notes: HR Case email created and forwarded by: donald.rennis@hajoca.com
+
+You have Got Task to Do: Make a decision on conducting a background check Dale Benson (Previous Employee) - S-95265 - Job Application as of 02/25/2022, Delivery Truck Driver with a CDL
+
+Dale Benson, a candidate for rehire, has attempted to address this via email but has encountered the same problems that he had previously when attempting to acknowledge earlier forms.
+
+Please refer to HR Case ISC0301270, and if I can be of more assistance, please let me know....
+
+
+Thank you,
+________________________________
+From: Dale Benson <Bensondale151@yahoo.com>
+Sent: Tuesday, March 30, 2022 10:49 AM
+To: Donald Rennis <donald.rennis@hajoca.com>
+Subject: You have Got Task to Do: Make a decision after conducting a background check Dale Benson (Prior Employee) - S-95265 - Job Application as of 02/25/2022, Delivery Truck Driver with a CDL
+
+
+---------- Forwarded message ---------
+From: hajoca@mysap.com<mailto:hajoca@mysap.com> <hajoca@mysap.com<mailto:hajoca@mysap.com>>
+Date: Mon, Mar 29, 2022, 5:42 PM
+Subject: You have Got A Task to Do: Make a decision on conducting a background check Dale Benson (Prior Employee) - S-95265 - Job Application as of 02/25/2022, Delivery Truck Driver with a CDL
+To: <Bensondale151@yahoo.comm<mailto:Bensondale151@yahoo.com>>
+
+
+To perform this task, sign in to the SAP platform.
+
+Business Method: Dale Benson's Background Verification for job application. - S-95265 CDL-holder Delivery Truck Driver (Open)
+Application for a Job: Dale Benson (Previous Employee) - S-95265 as of 02/25/2022, delivery truck driver with a CDL
+Details: Background Check: Dale Benson (Previous Employee) - S-95264 for Job Application as of 02/25/2022, delivery truck driver with a CDL
+To view the notification information, click Here <https://www.mysap.com/hajoca/email-universal/inst/879$19523436/rel-task/3997$4087.htmld>
+Email address Bensondale151@yahoo.com was the recipient of this message<mailto:Bensondale151@yahoo.com>  Control preferences<https://www.mysap.com/hajoca/d/task/3998$2726.htmld>
+Creation date: 2022-03-29 20:24:35 comments: The case has been moved:
+
+ Old case type: Normal Enquiry
+New case type: Drug & Background
+Creation date: 2022-03-29 22:43:03 comments: Status was changed from "Open" to "Awaiting Customer"
+Creation date: 2022-03-30 13:55:51 comments: reply from: donald.rennis@hajoca.com
+
+He has now taken care of everything required on your end, and all that is left is for us to wait for the generation of his BB # number for onboarding; if that happens, everything will be ok. He kept insisting me that he needed to access something, perhaps just for evaluation..
+
+Thank you,
+Creation date: 2022-03-30 13:55:51 comments: Status was changed from "Awaiting Customer" to "Work in Progress"
+Creation date: 2022-03-30 14:17:49 comments: Status was changed from "Work in Progress" to "Closed"
+Creation date: 2022-03-30 14:17:49 work_notes: Updated the close notes. Empty was replaced with 'The hiring event is over, the manager must update CSD as of 3/19/16'.

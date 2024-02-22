@@ -1,0 +1,469 @@
+A case was opened with a short description of The system state backup on the on-premise server experienced a failure in Azure Backup.
+A longer description includes After performing an upgrade on the server where Azure backup is installed, we encountered a problem with backing up the system state of our on-premise server. The error message we receive states that the "Azure backup agent cannot locate a successful system state backup from WindowsServerBackup". 
+
+Do you have any suggestions or solutions for this issue?
+
+
+
+
+Creation date: 2022-09-29 17:35:50 comments: Hi Myron,
+
+Thank you for contacting Cloudspace IT Support. My name is Jocelyn Davila, and I am an Infrastructure Support Analyst at Cloudspace. To assist you better, could you please provide the specific resource in question?
+
+Additionally, please provide a detailed description of the issue, along with any troubleshooting steps that your team has already taken. It would be helpful if you could also provide any relevant screenshots or additional context.
+
+Regarding your request, could you please download the manual and update the MARS agent to the latest version on the on-premise server, then reboot the server and try running the backup again?
+ https://learn.Microsoft.com/en-us/Azure/backup/backup-support-matrix-mars-agent
+
+Regards,
+
+Jocelyn 
+
+Creation date: 2022-09-29 19:16:46 comments: I am currently running Azure backup on an on-premises DC 2022. 
+
+After a thorough review of the permissions and properties of the backup job, I ensured that all the relevant services were running. However, despite finding that the VSS was not running, the backup job still failed. I further examined the VSS writers and found no errors. Following Microsoft's recommendation, the next step I took was to uninstall Windows Server Backup and await a reboot in order to reinstall it. I hope that this action will resolve the issue.
+
+Myron Kramer
+Systems Analyst
+Mixo Tech, LLC
+4652 Lancshire Circle
+Wilmer, MT 84353
+434.566.5050 x188 | 434.532.7662 (cell)
+DCJS # 11-7648
+
+[cid:image002.png@01D8D899.A67A2BT2]
+
+www.CFTHealth.com<https://www.cfthealth.com/> | LinkUp<https://www.linkup.com/cft/> | Connexion<https://www.connexion.com/company/cft> | About Me<https://www.cfthealthcare.com/meet-our-group/>
+
+*** This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and our policy dictates that emails are limited to business usages only.***
+Creation date: 2022-09-29 19:38:16 comments: Myron,
+
+Good! I'm glad to hear that you are making progress. Please feel free to reach out to me if you encounter issues.
+
+Regards,
+
+Jocelyn
+Creation date: 2022-09-29 23:39:34 comments: Alright, I have rebooted the server and confirmed that the server backup is installed. I initiated a new backup, but unfortunately, I am still receiving the same error message.
+
+[cid:image002.png@01D8D43A.EE936B70]
+
+Myron Kramer
+Systems Analyst
+Mixo Tech, LLC
+4652 Lancshire Circle
+Wilmer, MT 84353
+434.566.5050 x188 | 434.532.7662 (cell)
+DCJS # 11-7548
+
+[cid:image002.png@01D8D899.A67A2BD0]
+
+www.CFTHealth.com<https://www.cfthealth.com/> | LinkUp<https://www.linkup.com/cft/> | Connexion<https://www.connexion.com/company/cft> | About Me<https://www.cfthealthcare.com/meet-our-group/>
+
+*** This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and our policy dictates that emails are limited to business usages only.***
+Creation date: 2022-09-30 12:32:03 comments: Hi Myron,
+
+Understood. I have noticed the error regarding the failed recovery services vault from the Azure side, but there is limited information available to determine the cause.
+
+WindowsBackup
+Computer name: a3sworks-dc.a3sworks.local
+Item Type: File-Folders
+Last backup status: Failed
+Last refreshed at:
+9/28/2022, 8:15:27 PM
+
+Would it be possible for you to gather and provide the event log for that particular computer : a3sworks-dc.a3sworks.local
+I need to examine the event log to see if there are any VSS writer timeout errors.
+Is there any active anti-virus software running on this computer?
+
+
+Regards,
+
+Jocelyn 
+
+Creation date: 2022-10-03 12:10:51 comments: Hi Myron,
+
+Everything appears to be fine. I wanted to follow up on this case to inquire about the progress. Were you and your team able to collect and send over the event logs for that server a3sworks-dc.a3sworks.local? ?
+
+Please let me know if there is anything else I can help you with today.
+
+Regards,
+
+Jocelyn 
+Creation date: 2022-10-03 12:25:51 comments: 
+I will review the logs and investigate the situation to see if the issue persists with the same error message. It's still failing currently with the message from before.
+
+Myron Kramer
+Systems Analyst
+Mixo Tech, LLC
+4652 Lancshire Circle
+Wilmer, MT 84353
+434.566.5050 x188 | 434.532.7662 (cell)
+DCJS # 11-7548
+
+[cid:image002.png@01D8D899.A67A2BD0]
+
+www.CFTHealth.com<https://www.cfthealth.com/> | LinkUp<https://www.linkup.com/cft/> | Connexion<https://www.connexion.com/company/cft> | About Me<https://www.cfthealthcare.com/meet-our-group/>
+
+*** This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and our policy dictates that emails are limited to business usages only.***
+Creation date: 2022-10-03 12:31:19 comments: Hi Myron,
+
+Thank you. Once you have accessed the Event Viewer and obtained the logs, could you please share them with me? This will provide us with more specific and potentially shed some light on resolving the issue.
+
+Regards,
+
+Jocelyn 
+Creation date: 2022-10-03 20:59:00 comments: I have examined the even log and reviewed the Cloud Backup, and the only thing I found is the following message:
+
+
+[cid:image002.png@01D8D749.243CD2F1]
+
+I have initiated and commenced the rebuilding of the system state backup for the server to determine if it has any impact on the situation.
+
+Myron Kramer
+Systems Analyst
+Mixo Tech, LLC
+4652 Lancshire Circle
+Wilmer, MT 84353
+434.566.5050 x188 | 434.532.7662 (cell)
+DCJS # 11-7548
+
+[cid:image002.png@01D8D899.A67A2BD0]
+
+www.CFTHealth.com<https://www.cfthealth.com/> | LinkUp<https://www.linkup.com/cft/> | Connexion<https://www.connexion.com/company/cft> | About Me<https://www.cfthealthcare.com/meet-our-group/>
+
+*** This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and our policy dictates that emails are limited to business usages only.***
+Creation date: 2022-10-03 21:07:49 comments: Hi Myron,
+
+Thank you for the update. Please keep me informed about the progress of rebuilding the system state backup for this server.
+
+Regards,
+
+Jocelyn 
+Creation date: 2022-10-04 16:23:07 comments: Hi Myron,
+
+I hope everything is going well. I'm just following up on this case to see if you were able to get the backup running with your group. 
+
+Please let me know if there's anything else I can assist you with today.
+
+Regards,
+
+Jocelyn 
+Creation date: 2022-10-04 18:25:15 comments: I have rebuilt the system state backup. I will check later this evening to confirm if it has been completed successfully.
+
+Myron Kramer
+Systems Analyst
+Mixo Tech, LLC
+4652 Lancshire Circle
+Wilmer, MT 84353
+434.566.5050 x188 | 434.532.7662 (cell)
+DCJS # 11-7548
+
+[cid:image002.png@01D8D899.A67A2BD0]
+
+www.CFTHealth.com<https://www.cfthealth.com/> | LinkUp<https://www.linkup.com/cft/> | Connexion<https://www.connexion.com/company/cft> | About Me<https://www.cfthealthcare.com/meet-our-group/>
+
+*** This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and our policy dictates that emails are limited to business usages only.***
+Creation date: 2022-10-04 19:08:18 comments: Hi Myron,
+
+Understood. Please keep me informed and updated on any developments.
+
+Regards,
+
+Jocelyn 
+Creation date: 2022-10-05 00:51:47 comments: 
+I received a different message this time: 
+
+The latest backup could not create a new recovery point due to Microsoft Azure Recovery Service Agent detecting inconsistencies.
+
+
+Myron Kramer
+Systems Analyst
+Mixo Tech, LLC
+4652 Lancshire Circle
+Wilmer, MT 84353
+434.566.5050 x188 | 434.532.7662 (cell)
+DCJS # 11-7548
+
+[cid:image002.png@01D8D899.A67A2BD0]
+
+www.CFTHealth.com<https://www.cfthealth.com/> | LinkUp<https://www.linkup.com/cft/> | Connexion<https://www.connexion.com/company/cft> | About Me<https://www.cfthealthcare.com/meet-our-group/>
+
+*** This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and our policy dictates that emails are limited to business usages only.***
+Creation date: 2022-10-05 12:14:19 comments: Hi Myron,
+
+Thank you for providing an update regarding the issue you are facing, which is related to the detection of inconsistencies by the Microsoft Azure recovery service agent while verifying the latest backup. Due to the urgency of the situation, it would be prudent to engage Microsoft's support directly to explore the possibility of resolving this issue. 
+
+To proceed, I can initiate the case on your behalf. However, I would appreciate clarification on whether you prefer phone or email as the primary form of contact with Microsoft. If you prefer phone contact, please provide the best number for them to reach you. 
+
+Once I have this information, I will proceed with creating the case for you.
+
+Regards,
+Jocelyn 
+Creation date: 2022-10-05 12:26:51 comments: Thank you, the best way to reach me is through email. Previously, I have encountered difficulties in contacting Microsoft over the phone.
+
+Myron Kramer
+Systems Analyst
+Mixo Tech, LLC
+4652 Lancshire Circle
+Wilmer, MT 84353
+434.566.5050 x188 | 434.532.7662 (cell)
+DCJS # 11-7548
+
+[cid:image002.png@01D8D899.A67A2BD0]
+
+www.CFTHealth.com<https://www.cfthealth.com/> | LinkUp<https://www.linkup.com/cft/> | Connexion<https://www.connexion.com/company/cft> | About Me<https://www.cfthealthcare.com/meet-our-group/>
+
+*** This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and our policy dictates that emails are limited to business usages only.***
+Creation date: 2022-10-05 12:49:58 comments: Hi Myron,
+
+Understood. I believe that the next backup will attempt to transfer the data again, which may resolve the error. Additionally, I just noticed that this Azure subscription was not purchased through Cloudspace. However, the subscription is still managed for billing and purchases under the CSP named CFT.
+
+
+Regards,
+Jocelyn
+Creation date: 2022-10-05 13:06:35 comments: I bought the subscription from your team, so I'm not sure what you are seeing on your end. We are responsible for handling the billing and purchasing aspects of it.
+
+Myron Kramer
+Systems Analyst
+Mixo Tech, LLC
+4652 Lancshire Circle
+Wilmer, MT 84353
+434.566.5050 x188 | 434.532.7662 (cell)
+DCJS # 11-7548
+
+[cid:image002.png@01D8D899.A67A2BD0]
+
+www.CFTHealth.com<https://www.cfthealth.com/> | LinkUp<https://www.linkup.com/cft/> | Connexion<https://www.connexion.com/company/cft> | About Me<https://www.cfthealthcare.com/meet-our-group/>
+
+*** This email is private and intended solely for the recipient. Unauthorized copying, forwarding, or use of the information by any person other than the intended recipient is prohibited. If you received this email by mistake, please inform the sender right away and our policy dictates that emails are limited to business usages only.***
+Creation date: 2022-10-05 13:22:41 comments: Hi Myron,
+
+Understood, I just want to confirm that you are still able to manage the subscription and that I am referring to the correct subscription.
+
+ I am also submitting a ticket 2210050040005475 to Microsoft and will be transferring the Cloudspace ticket to our Vendor Support for further assistance. They will check that the escalation to Microsoft remains on track, so please look out for any communication from a Cloudspace analyst in the coming days.
+
+
+Regards,
+Jocelyn 
+Creation date: 2022-10-05 13:32:38 work_notes: Awaiting assignment of a MFST agent.
+Creation date: 2022-10-05 19:50:39 work_notes: Hello Blair,
+
+Thank you for getting in touch! I've included the partner Dusty in this email thread. Kindly review the information below and let us know if you are able to view it Dusty.
+
+Regards,
+
+From: Margarito Baxter <mbaxter@Microsoft.com> 
+Sent: Tuesday, October 4, 2022 8:04 AM
+To: Jocelyn Davila <jdavila@cloudspace.com>
+Cc: Vendor Escalations - Infrastructure IT Support <ve-infrastructure@cloudspace.com>; Mckenzie Bosten <mbosten@cloudspace.com>; Freda Tran <ftran@cloudspace.com>; Cornelius Frankie <cfrankie @Microsoft.com>; Microsoft Support <supportmail@Microsoft.com>
+Subject: [OUTSIDE] Re: The backup process did not successfully complete. - TrackingID#2210050040005574
+
+Hello Myron,
+
+I forgot to mention something in my previous email. 
+  I received 'CBPIcskylineviewvalidationfailure'. 
+The error message: The error occurs when the Microsoft Azure recovery service agent detects inconsistencies during the verification of the latest backup, preventing the creation of a new recovery point. 
+Scenario : In the post backup phase, this error code occurs when there is a failure in the integrity check (IC).
+Reason :  When there is corruption in the source meta data VHD located in the scratch location, this issue will occur. 
+Recommendation : Allow the backup to perform a set of prerequisites on the source metadata VHD, which should fix the issue. If the backup continues to fail consistently with this error, it is suggested to check for any AV interference. 
+
+It seems that the next backup after 'CBPIcskylineviewvalidationfailure' was successful. We can monitor the subsequent backups for a few days to see if the error persists. If the next backups consistently succeed, we can consider the issue resolved."
+
+
+Regards,
+Margarito Baxter
+
+ 
+
+Backup & Site Recovery Analyst 
+Microsoft Azure IT Support
+Client Service and Support  Office: +1 513-405-5572 
+mbaxter@Microsoft.com
+Working hours: 8 to 5 Mon - Fri EST
+
+Please reach out to My Backup if you require immediate assistance with Azure backup and site recovery. 
+
+Duke Anibal | +1 (587) 943-5944 | danibal@Microsoft.com - Working hours: Mon-Fri 8AM - 5PM MST
+
+If you require assistance from another support analyst outside of my working hours, kindly send an email abrssupport@Microsoftsupport.com providing your case number and availability. 
+We greatly value your feedback, so feel free to contact my executive at cornelius.matthews@Microsoft.com to share your experiences regarding the level of service you have received.
+
+________________________________________
+From: Anita C <support@mail.support.Microsoft.com>
+Sent: Tuesday, October 3, 2022 09:47 AM
+To: Myron Kramer <mkramer@cloudspace.com>
+Cc: ve-infrastructure@cloudspace.com <ve-infrastructure@cloudspace.com>; mbosten@cloudspace.com <mbosten@cloudspace.com>; snichol@cloudspace.com <snichol@cloudspace.com>; Cornelius Frankie <cfrankie@Microsoft.com>; Margarito Baxter <mbaxter@Microsoft.com>
+Subject:  The backup process did not successfully complete. - TrackingID#2210050040005574
+ 
+Hello Myron,
+ 
+ My name is Margarito Baxter I am part of Azure backup support group and I will be support analyst for the case SR#2210050040004363
+ 
+Issue Statement :I comprehend that you are experiencing a problem specifically with the MARS system state backup
+ 
+Affected Resource : a3sworks-dc.a3sworks.local System State Backup
+ 
+Initial Investigation : 
+ 
+ I have observed that the backup history indicates successful backups for files and folders. However, there have been some failures for the system backup. The error code received for these failures is "systemstatebackupnotfound." CBPIcSkylineViewValidationFailure
+ 
+Action Plan :
+
+1. Kindly request you to browse a zipped folder and upload its contents.D:\Program Files\Microsoft Azure Recovery Services Agent\Temp to File Transfer - Case 2210050040004363
+2. Please check the size of the scratch space (take a screenshot as shown below and provide feedback).
+   a. By default, the scratch folder is located in D:\Program Files\Microsoft Azure Recovery Services Agent\Scratch, but I believe it was moved to E:\BackupCache\Scratch  for this VM (if that is the case, please check the size of this path).
+3. Check the available free space on the D: drive for the shadow storage location (take a screenshot as shown below and provide feedback).
+   a. Open an elevated command prompt and execute the command vssadmin list shadowstorage.
+4. Gather system and application event logs and upload them to the provided URL.
+   a. To export, open the event visitor and save it with the evtx extension
+  
+5. Navigate to D:\WINDOWS\Logs\WindowsServerBackup\Backup_Error-03-09-2022_12-47-37.log,and upload the file to the given link if it exists. If there is no exact file with that name, please upload any recently created files instead.
+6. Run the mountvol command while the system state backup is running.
+   a. Start a new system state backup job or wait for the scheduled job to begin.
+   b. One minute after the job starts, open and execute the mountvol command.
+   c. If you encounter a volume with "recycle bin" in it, please let me know.
+
+7. Go to the E:\BackupCache\Scratch\SSBV  path and capture a screenshot to identify which files exist in this folder.
+
+
+Next Moves:
+- On Myron, kindly follow the Action Plan and upload the requested information. Revert back if you have any queries.
+- On Microsoft's end, I will wait for your response. Once the logs are uploaded, I will analyze them and provide you with further feedback.
+ 
+ 
+ 
+Thanks,
+Margarito Baxter
+
+ 
+
+Backup & Site Recovery Analyst 
+Microsoft Azure IT Support
+Client Service and Support  Office: +1 513-405-5572 
+mbaxter@Microsoft.com
+Working hours: 8 to 5 Mon - Fri EST
+
+Please reach out to My Backup if you require immediate assistance with Azure backup and site recovery. 
+
+Duke Anibal | +1 (587) 943-5944 | danibal@Microsoft.com - Working hours: Mon-Fri 8AM - 5PM MST
+
+If you require assistance from another support analyst outside of my working hours, kindly send an email abrssupport@Microsoftsupport.com providing your case number and availability. 
+We greatly value your feedback, so feel free to contact my executive at cornelius.matthews@Microsoft.com to share your experiences regarding the level of service you have received.
+Creation date: 2022-10-05 19:50:55 work_notes: The partners are currently connected to the email, awaiting a response from the partner.
+Creation date: 2022-10-07 12:02:16 work_notes: Hi Myron,
+
+
+Yes, I can confirm that the backup was successful on October 4th.  Let's keep an eye on the next system state backup to see if it also succeeds. 
+
+Comment: Backups with a writer ID of 0 refer to files and folders backup, while non-zero writer IDs indicate a system state backup. 
+
+
+
+ 
+Thanks,
+Margarito Baxter
+
+
+-----------------------------------
+I checked it this morning, and it seems to have completed successfully and efficiently last night.
+
+Myron Kramer
+Systems Analyst
+Creation date: 2022-10-07 13:56:59 work_notes: I got this yesterday evening.
+
+Description
+Alert name Backup not successful
+Severity Sev3
+Monitor condition Fired
+Affected assets windowsbackup
+
+Resource type Microsoft.recoveryservices/vaults
+Resource group azbackup-rg
+Subscription Azure subscription 2
+Description Backup Failure
+Monitoring service Azure Backup
+Signal type Log
+Fired time October 6, 2022 2:09 UTC
+Alert ID 83610864-0d31-4d71-852b-da684b9c09d1
+
+ 
+
+Is there any action I should take based on this failure?
+
+Myron Kramer
+Systems Analyst
+
+-------------------
+Hi Myron,
+
+
+Since the backup on October 5th was successful, do you believe we are in a good position to resolve the case?
+
+ 
+
+
+Thanks,
+Margarito Baxter
+Creation date: 2022-10-07 14:39:10 work_notes: Hello Myron,
+
+
+The latest backup was successful, but there were some warnings. 
+
+These warnings occur when MARS is unable to back up a few files during the backup process. Although most of the system and user files are backed up, if there are any files that cannot be backed up, MARS still considers the backup as successful but with warnings.
+
+Why are there certain files that MARS is unable to back up?
+
+- Temporary files created by applications that are deleted shortly after creation.
+- Files with unsupported file types, as mentioned in the documentation.
+- Corrupted or unreadable files or directories.
+- Files that the system cannot locate.
+- Access denied by antivirus or other applications.
+
+Some other reasons include:
+- Unsupported file attributes, such as compressed streams or reparse points in a OneDrive folder. Please refer to the support matrix for a complete list.
+- File system problem.
+- Interference from another process, such as antivirus software holding handles on files that prevent the MARS agent from accessing them.
+- Files locked by an app.
+How can I determine which files were not successfully backed up? 
+- Access the specified location to find the files.C:\Program Files\Microsoft Azure Recovery Service Agent\temp\LastBackupFailedFilesxxxz.txt
+
+To find the location of the file that was kept and attempted for backup in subsequent backup jobs, please navigate to the specified location. 
+
+Additional information about the warnings can be found in the documentation provided.
+
+https://learn.Microsoft.com/en-us/Azure/backup/backup-Azure-mars-troubleshoot?AT.mc_id=Portal-Microsoft_Azure_Support#backup-jobs-completed-with-warning
+
+
+Regards,
+Margarito Baxter
+Creation date: 2022-10-10 14:41:48 work_notes: Hello Myron,
+
+
+I reviewed the most recent backup status and noted that the jobs finished successfully without any issues. As previously mentioned, the files that caused warnings have been addressed by the subsequent backup jobs. 
+
+Please inform me if there is anything I can do to resolve the support case.
+
+ 
+
+
+Thanks,
+Margarito Baxter
+Creation date: 2022-10-10 14:42:06 work_notes: Certainly, you can close the case.
+
+Myron Kramer
+Systems Analyst
+Creation date: 2022-10-10 14:52:16 work_notes: Hi Myron,
+
+
+Working with you has been a delightful experience!
+
+Thank you for confirming. I will proceed to close this case.
+As part of the closure, you will receive a feedback link.
+
+Kindly spare a few moments to provide your input by answering a brief questionnaire. It should not exceed 5 minutes of your time.
+We value your feedback and would greatly appreciate any input you have regarding your experience with this case.
+
+Regards,
+Margarito Baxter
+Creation date: 2022-10-13 23:30:41 work_notes: The system automatically closes the ticket after it is in the resolved state for a duration of 3 days.
+Creation date: 2022-10-17 08:01:38 work_notes: The survey to measure customer satisfaction has been sent.  2022-10-16 01:01:00

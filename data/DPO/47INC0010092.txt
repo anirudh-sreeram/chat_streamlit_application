@@ -1,0 +1,89 @@
+A case was opened with a short description of Arya phone line malfunction
+A longer description includes Dial back number. 8281564012
+Mobile no. 8283012101
+Certain callers are unable to hear the consumer.
+Also Calls Automatically disconnecting.
+
+
+
+
+Creation date: 2022-10-21 14:57:36 work_notes: Arya phone line malfunction.
+Certain callers are unable to hear the consumer.
+Also Calls Automatically disconnecting.
+The closed light is turned on.
+Faced with  the problem from Last 4 days implies that everyone has been affected since Tuesday.
+No Problem in Phones.
+Everyone facing the error.
+Its occurring in both handset and headset.
+Only incoming calls are effected.
+KB0010445
+
+Network statistics for 20.293.60.14:
+    Packets: Sent = 620, Received = 620, Lost = 0 (0% loss),
+Estimated total  trip times in milli-seconds:
+    Minimum = 43ms, Maximum = 78ms, Average = 54ms
+
+Network statistics for 20.293.60.141:
+    Packets: Sent = 662, Received = 662, Lost = 0 (0% loss),
+Estimated total  trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 94ms, Average = 56ms
+
+According to KB, Sending a ticket to the infra Lead.
+Creation date: 2022-10-21 15:23:43 work_notes: Voice Comm, please help
+Creation date: 2022-10-21 16:47:19 work_notes: From: BHARATH KUMAR
+Sent: Thursday, October 20, 2022 11:45 PM
+To: Aashna Hegde<ahegde@suptelco.net>; Manav Chabbra<mchabbra@fom.com>; TwoImportantCash<twoimportant@suptelco.net>; Sanket Mehta<smehta@suptelco.net>; Sehaj Arora <sarora@suptelco.net>; Tanzeel Khan<tkhan@suptelco.net>; Anirudh Sharma <asharma@suptelco.net>
+Cc: Mohammad Ali <Mohammad.Ali@fom.com>
+Subject: RE: INC0610819 score 3004- Kindly escalate the static and jumbled inbound call issues - 6878507
+
+Here are some examples of inbound call from 1004.
+
+
+inbound calls: 7:21 am 828-518-3211 (att&t cell phone) 8:00 am 828-426-7111 (landline)
+
+
+Thank you,
+
+BHARATH KUMAR
+Telephony Solutions Engineer Sr
+105 SR Nagar, HYD 50013
+  803.316.9101 | bharath.kumar@fom.com
+ 
+
+ 
+
+From: Aashna Hegde<ahegde@suptelco.net> 
+Sent: Thursday, October 20, 2022 11:27 PM
+To: Manav Chabbra<mchabbra@fom.com>; TwoImportantCash<twoimportant@suptelco.net>; Sanket Mehta<smehta@suptelco.net>; Sehaj Arora <sarora@suptelco.net>; Tanzeel Khan<tkhan@suptelco.net>; Anirudh Sharma <asharma@suptelco.net>
+Cc: Mohammad Ali <Mohammad.Ali@fom.com>; BHARATH KUMAR <bharath.kumar@fom.com>
+Subject: RE: INC0610819 score 3004- Kindly escalate the static and jumbled inbound call issues - 6878507
+
+** EXTERNAL EMAIL - USE CAUTION **
+
+Making use of the same ticket 6878507 
+ 
+Thanks,
+Aashna Hegde
+Enterprise Account Manager
+ 
+SupTelCo
+9 Lb Nagar 300 Dmart HYD 50001
+T 401-213-0919 or 866-615-8542
+E ahegde@suptelco.net | W suptelco.net
+ 
+
+ 
+ 
+"How am I doing? We appreciate your opinion. To rate this interaction, click this link. https://suptelco.iad2.qualtrics.com/jfe/form/SV_4FrRR0i0ZWSfYrE
+
+ 
+From: Manav Chabbra<mchabbra@fom.com> 
+Sent: Thursday, October 20, 2022 11:23 PM
+To: FinancialOneMan<Financialone@suptelco.net>; Aashna Hegde<ahegde@suptelco.net>; Sanket Mehta<smehta@suptelco.net>; Sehaj Arora <sarora@suptelco.net>; Tanzeel Khan<tkhan@suptelco.net>; Anirudh Sharma <asharma@suptelco.net>
+Cc: Mohammad Ali <Mohammad.Ali@fom.com>; BHARATH KUMAR <bharath.kumar@fom.com>; Manav Chabbra<mchabbra@fom.com>
+Subject: RE: INC0610819 score 3004- Kindly escalate the static and jumbled inbound call issues
+
+The identical problem is present at another branch here in FL, Ram will be providing  call samples.
+ 
+Score 1004- TFN- 828-416-3510
+Creation date: 2022-10-25 13:35:09 work_notes: Malvika informed me that there haven't been any new problems

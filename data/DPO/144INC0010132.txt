@@ -1,0 +1,181 @@
+A case was opened with a short description of [AFM] - [Turn Off the Request]
+A longer description includes 1. Application Name: AFM
+2. Did the user have access to this previously? [NA]
+3. Thorough explaination of the request: svc_sap_vendor_test@sborg.nu.brace.com
+to disable this account, two factor authentication is required. at the moment, it requests a phone number, and messages. the account is being used by an automated bot. this must be turned off. its dataverse
+
+
+
+
+Creation date: 2023-02-27 13:51:18 work_notes: Incident created from Interaction SIM0124500
+Creation date: 2023-02-27 13:51:18 work_notes: Chat History:
+ 
+[13:09] Virtual Agent: Hello! Welcome to A+T chat support.
+[13:09] Virtual Agent: For which service do you require assistance?
+[13:09] Abhishek Sharma: IT Services
+[13:09] Virtual Agent: Please choose one of the options given:
+[13:09] Abhishek Sharma: Start live chat with IT Support
+[13:09] Virtual Agent: Transferring to a Live IT agent.
+[13:09] Virtual Agent: Kindly wait as I connect you to a live agent.
+[13:09] System: Rishabh Meher has joined.
+[13:09] Rishabh Meher: Thank you for contacting live support. We will be with you soon.
+[13:10] Rishabh Meher: Hi, Abhishek
+[13:10] Abhishek Sharma: hi rishabh
+[13:10] Abhishek Sharma: i would need your assistance with one issue
+[13:10] Abhishek Sharma: svc_sap_vendor_test@sborg.nu.brace.com
+[13:10] Abhishek Sharma: two factor authentication for this account needs to be disabled
+[13:10] Abhishek Sharma: right now it asks for phone number
+[13:10] Abhishek Sharma: and messages
+[13:10] Abhishek Sharma: we are using this account for an automated bot
+[13:11] Abhishek Sharma: so can you assist please
+[13:11] Rishabh Meher: Can you please give screenshot of where it asks for phone number and messages?
+[13:18] Rishabh Meher: Are you there?
+[13:18] Abhishek Sharma: hello
+[13:18] Abhishek Sharma: yes
+[13:18] Abhishek Sharma: sure
+[13:18] Abhishek Sharma: can you wait
+[13:19] Rishabh Meher: Sure
+[13:30] Abhishek Sharma: sending you
+[13:30] Abhishek Sharma: @L[https://nu-brace-art-tex.com/api/now/v2/cs/media/aPizVcQ5eVgajFISxCP7A9DEaV9HB7ih2csD1oRT42aPbMOWE1aGJg7qWh0OXlR9|aPizVcQ5eWgajWGSxCP9A4HYaV9HB7ih2csD1oRT42aPbMOKB6aGJg0qQe6O7lR9]
+[13:31] Abhishek Sharma: this needs to be disabled
+[13:32] Rishabh Meher: Can you please tell to which application are you trying to log in with this email?
+[13:40] Abhishek Sharma: its dataverse
+[13:40] Rishabh Meher: Kindly give a moment, I'll look into it it for you
+[13:42] Rishabh Meher: According to information, I'll escalate this ticket to resolution team.
+[13:46] Abhishek Sharma: okay
+[13:46] Abhishek Sharma: which team pls?
+[13:47] Abhishek Sharma: can you share any pointers to us
+[13:47] Abhishek Sharma: please also give us the ticket number
+[13:47] Rishabh Meher: I will give you the ticket number in a second with all the information.
+[13:47] Abhishek Sharma: sure
+[13:47] Abhishek Sharma: thanks
+[13:48] Rishabh Meher: I will provide you the ticket number via teams.
+[13:48] Rishabh Meher: Can I assist you with anything else?
+[13:48] Abhishek Sharma: sure
+[13:48] Abhishek Sharma: no nothing else
+[13:49] Abhishek Sharma: thanks
+[13:49] Rishabh Meher: You're welcome! Have a good day!
+[13:51] System: Rishabh Meher  ended the conversation.
+[13:51] Virtual Agent: Thanks for your time, have a pleasant day!
+
+Creation date: 2023-02-27 13:55:47 work_notes: Attachment: 2023-02-26 10_30_19-Window.jpeg has been attached.
+Creation date: 2023-02-27 13:56:38 work_notes: Knowledge article KB0050782:
+What to do nextIn case you receive a chat/call/ticket and you are unsure on where to reassign the matter, this list explains the scope of each security team.
+&nbsp;
+Threat Management scope
+Queue: SNI - Enterprise Threat Management
+- Cybersecurity Incidents
+- Legal cases related to Cybersecurity, legal hold, e-Discovery requests
+- Vulnerabilities, Tenable scan results, tenable scan setup
+- Phishing attempts
+- getting information from the e-mail of an employee who left the company and requires our approval
+&nbsp;
+Security Engineering scope
+Queue: SNI - Security Engineering
+- GP troubleshooting
+&nbsp;
+Security Operations scope
+Queue: SNI - Security Operations
+- managing requests to unblock/whitelist a page
+- One drive/storage request and issues
+- blocking the traffic on Firewall/PaloAlto
+&nbsp;
+Access and Management scope
+Queue: SNI - Identity and Access Management
+- Enabling disabled accounts in AD
+- Account management :
+
+Service accounts
+privileged accounts
+
+&nbsp;
+If the issue is beyond your purivew or you are still unsure of where to assign the case, contact with IM available on the shift.
+&nbsp;
+Creation date: 2023-02-27 14:01:05 work_notes: L2 Forwarding - NIA - Identity and Access Management ||
+
+Hello Team,
+Can you help?
+Below troubleshooting actions were carried out:
+- [L1 Consulted]
+- [According to L1: There is a "Revoke Authenticator sessions" button,  however, not sure if Service Desk has permission to utilize it or if this is a temporary measure]
+- [Kindly confirm if this action to disable AFM is allowed]
+Thanks in advance.
+Creation date: 2023-02-27 16:55:31 work_notes: Hello Team, in order to prohibit interactive logon if truly wish to disable the AFM, check with the user and add this service account to the 'SIG-LocalInterfacesDenyLogon" group. After disabling interactive logon, you could add this service account to 'Microsoft AFM Exception' so that it is not included in AFM. Note, we must obtain permission from the  RMQ team in order to get  interactive logon access (RDP) and disable AFM.
+Creation date: 2023-02-27 17:50:50 work_notes: From: ICM-AID 
+Sent: Sunday, February 26, 2023 10:20 PM
+To: Sharma, Abhishek <Abhishek Sharma@nu-brace.com>
+Cc: ICM-AID <ICM-AID@nu-brace.com>
+Subject: INC1197123 -  [AFM] - [Turn Off the Request]
+
+Hello Abhishek,
+
+Would you kindly clarify whether you wish to disable AFM or Not.
+
+Regards,
+Madhu Chonat
+
+
+ 
+Identity and Access Management Team
+ICM-iam@nu-brace.com
+Creation date: 2023-03-01 14:08:10 work_notes: From: ICM-AID <ICM-AID@nu-brace.com> 
+Sent: Tuesday, February 28, 2023 6:35 PM
+To: Sharma, Abhishek <Abhishek Sharma@nu-brace.com>
+Cc: Bhatt, Neil <Neil.Bhatt@nu-brace.com>; Farooqui, Munawar <Munawar.Farroqui-CTR@nu-brace.com>; ICM-AID <ICM-AID@nu-brace.com>
+Subject: RE: INC1197123 - [AFM] - [Turn Off the Request]
+
+Hello Abhishek,
+
+Please note, we have delete the disable MFA. Kindly verify the ticket closure.
+
+Regards,
+Madhu Chonat
+
+ 
+Identity and Access Management Team
+ICM-iam@nu-brace.com
+Creation date: 2023-03-01 14:59:53 work_notes: From: ICM-AID 
+Sent: Tuesday, February 28, 2023 7:29 PM
+To: Sharma, Abhishek <Abhishek Sharma@nu-brace.com>
+Cc: Bhatt, Neil <Neil.Bhatt@nu-brace.com>; Farooqui, Munawar <Munawar.Farroqui-CTR@nu-brace.com>; ICM-AID <ICM-AID@nu-brace.com>
+Subject: RE: INC1197123 - [AFM] - [Turn Off the Request]
+
+Hello Abhishek,
+
+FYI, this account - svc_sap_vendor_test@sborg.nu.brace.com no longer uses two factor authentication. Please verify the ticket closure.
+
+Regards,
+Madhu Chonat
+
+ 
+Identity and Access Management Team
+ICM-iam@nu-brace.com
+Creation date: 2023-03-01 16:46:59 work_notes: From: Sharma, Abhishek <Abhishek Sharma@nu-brace.com> 
+Sent: Tuesday, Feburary 28, 2023 8:53 PM
+To: ICM-AID <ICM-AID@nu-brace.com>
+Cc: Bhatt, Neil <Neil.Bhatt@nu-brace.com>; Farooqui, Munawar <Munawar.Farroqui-CTR@nu-brace.com>
+Subject: RE: INC1197123 - [AFM] - [Turn Off the Request]
+
+Thanks, I can confirm its working for us
+
+
+Thanks & Regards,
+Abhi
+
+From: ICM-AID <ICM-AID@nu-brace.com> 
+Sent: Tuesday, February 28, 2023 2:59 PM
+To: Sharma, Abhishek <Abhishek Sharma@nu-brace.com>
+Cc: Bhatt, Neil <Neil.Bhatt@nu-brace.com>; Farooqui, Munawar <Munawar.Farroqui-CTR@nu-brace.com>; ICM-AID <ICM-AID@nu-brace.com>
+Subject: RE: INC1197123 - [AFM] - [Turn Off the Request]
+
+Hello Abhishek,
+
+FYI, this account - svc_sap_vendor_test@sborg.nu.brace.com no longer uses two factor authentication. Please verify the ticket closure.
+
+Regards,
+Madhu Chonat
+ 
+Identity and Access Management Team
+ICM-iam@nu-brace.com
+Creation date: 2023-03-01 16:47:22 comments: Closing the task, As user confirmed.
+Creation date: 2023-03-09 06:38:51 comments: After 7 days in the Resolved state, the incident is automatically closed.

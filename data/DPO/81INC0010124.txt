@@ -1,0 +1,68 @@
+A case was opened with a short description of Agile Office api failed for RITM0508880
+A longer description includes {"Message":"Request is not valid.","ModelState":{"request.References[0].InventoryId":["There was no match for the specified parameters."],"request.Accessories":["There is no wireless number that fits the given criteria(6154308862)."]}}
+
+
+
+
+Creation date: 2023-04-13 11:37:09 work_notes: From: WILSON S. KOCH 
+Sent: Thursday, April 13, 2021 8:36 AM
+To: Gregory D. Moon <Gregory.Moon@ameren.com>
+Subject: RITM0508880 - Requests for wireless headphones are not accepted
+
+Hello Gregory,
+
+We regret to tell you that your request for wireless headphones, reference number RITM0508880, has been canceled because the mobile number provided was an invalid company number. The mobile number you entered is 615-488-5162. 
+
+I notice from your comments that you need these to return to office again.  Are you trying to find a headset for your laptop?
+
+
+
+Thanks,
+Wilson Krumm
+PG&E
+Technology Strategy & Management
+IT Request Fulfillment Team
+Creation date: 2023-04-20 11:56:25 work_notes: WSKOCH
+ 2021-04-20 08:56:25
+From: WILSON S. KOCH 
+Sent: Thursday, April 13, 2021 10:35 AM
+To: Gregory D. Moon <Gregory.Moon@ameren.com>
+Subject: RE: RITM0508880 - Requests for wireless headphones are not accepted
+
+Here is a link to the options for headphones that you can use for Teams calls and other things on your laptop..... Headphones for computer <link>
+
+If you have any queries, let me know.
+
+Thanks,
+Wilson
+
+From: Gregory D. Moon <Gregory.Moon@ameren.com> 
+Sent: Thursday, April 13, 2021 8:37 AM
+To: WILSON S. KOCH <WILSON.KOCH@ameren.com>
+Subject: RE: RITM0508880 - Requests for wireless headphones are not accepted
+
+Yes I am. 
+
+From: WILSON S. KOCH <WILSON.KOCH@ameren.com> 
+Sent: Thursday, April 13, 2021 9:36 AM
+To: Gregory D. Moon <Gregory.Moon@ameren.com>
+Subject: RITM0508880 - Requests for wireless headphones are not accepted
+
+Good day Gregory,
+
+We regret to tell you that your request for wireless headphones, reference number RITM0508880, has been canceled because the mobile number provided was an invalid company number. The mobile number you entered is 615-488-5162.   
+
+I notice from your comments that you need these to return to office again.  Are you trying to find a headset for your laptop?
+
+
+
+Thanks,
+Wilson Krumm
+PG&E
+Technology Strategy & Management
+IT Request Fulfillment Team
+Creation date: 2023-04-20 12:20:58 comments: reply from: WILSON.KOCH@ameren.com
+
+I'm satisfied with how this incident was handled. Please close the incident.
+
+Ref:MSG27218885

@@ -1,0 +1,90 @@
+A case was opened with a short description of MDOM Solutions: Swiftguard Rental Agreement, Provision Task: 3958164
+A longer description includes Provision Task type: Deprovision, Partner Name: MDOM Solutions
+, Company Name: MDOM Solutions
+, Vendor: Swiftguard, Product: Swiftguard Rental Agreement, Quantity: 1.9999
+
+
+
+
+Creation date: 2022-10-06 17:07:33 work_notes: The customer has chosen to terminate their subscription due to: Mistake: Other, Wasn't what I thought it was, not needed.
+Creation date: 2022-10-06 17:07:34 work_notes: Services to be cancelled on: Wed Oct 05 00:00:00 MDT 2022
+Creation date: 2022-10-06 19:30:51 comments: Hello Ian, 
+
+I trust your day is progressing smoothly! We have received your Swiftguard cancellation request and are currently processing it. I will keep you posted on any additional information or if there are any questions I may have for you.
+
+Thank you, and I wish you a fantastic day!
+Creation date: 2022-10-06 19:35:48 work_notes: Case #94550848 that was created for Nimbus US account.
+
+Region: South America
+Topic: VCSP Pulse
+Issue: VCSP Cancel Pulse: MDOM Solutions
+
+
+Contact Info: +16196284204
+
+Additional Details: Hi Swiftguard team,
+
+The below customer opted to cancel/terminate their account due to Mistake: Other, Wasn't what I thought it was, not needed
+
+Partner Name: MDOM Solutions
+
+PRA: PRA-988888
+
+Partner Contact: Kim John
+
+Partner Email: ian@mdomsolns.net
+Creation date: 2022-10-06 19:36:30 comments: Hello Ian, 
+
+We have submitted the cancellation request for your Swiftguard, I will keep you posted, once I receive a response.  Kindly allow us a week time to receive a response about your Swiftguard cancellation. 
+
+We appreciate your patience, and have a wonderful day!
+Creation date: 2022-10-06 20:51:56 work_notes: From: Swiftguard Support <support2@swiftguard.com> 
+Sent: Wednesday, October 5, 2022 1:49 PM
+To: Jaime Rubio <jrubio@nimbus.com>; ian@mdomsolns.net
+Subject: [External] RE: VCSP Cancel Pulse: MDOM Solutions
+ - Case # 94550848[ ref:_00E39RWR._5007V28mTtK:ref ]
+
+Hello Ian,
+
+Nimbus has contacted behalf of you to initiate cancellation of MNO Tech LLC, VCSP plus bundle 91798428 and associated license under a No commit plan. Kindly confirm if you have any usage to submit for September and whether you approve of this cancellation.
+
+Warm Regards,
+Alex Wade
+VCSP Pulse Team
+Creation date: 2022-10-10 13:56:54 work_notes: From: Swiftguard Support <support@swiftguard.com> 
+Sent: Thursday, October 6, 2022 8:04 AM
+To: max.schultz@swiftguard.com; Ian@mdomsolns.net; Jaime Rubio <jrubio@nimbus.com>
+Subject: [External] RE: VCSP Cancel Pulse: MDOM Solutions
+ - Case # 94550848[ [ ref:_00E30yWR._5007h28mTtK:ref ]
+
+Thank you for your confirmation Ian.
+
+MDOM Solutions VCSP Pulse bundle 91798428 and licenses on a No Commit plan has been terminated effective 8/30/22.  Feel free to inform us if your licensing requirements change in the future, and we will be delighted to assist.
+
+Warm Regards,
+Alex Wade
+VCSP Pulse Team
+
+
+--------------- Initial Message ---------------
+From: Ian John - MNO Tech [Ian@mdomsolns.net]
+Sent: 10/5/2022 4:11PM
+To: support@swiftguard.com
+Subject: RE: VCSP Cancel Pulse: MDOM Solutions - Case # 94550848   [ ]
+
+There is no usage to be submitted, kindly cancel.
+
+
+Regards,
+
+Ian John
+
+MDOM Solutions
+
+Creation date: 2022-10-10 13:57:27 work_notes: Confirmation has been received from Swiftguard that partner has been terminated effective  8/30/22
+Creation date: 2022-10-10 13:58:47 comments: Hello Ian, 
+
+I assume you are having a wonderful day! Your  Pulse account and licenses now been confirmed terminated by Swiftguard and this ticket will be closed now! 
+
+Thank you, and have a lovely day!
+Creation date: 2022-10-10 13:58:56 work_notes: Carbon Copy Task Update: Updated Task Status to: Completed

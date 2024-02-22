@@ -1,0 +1,53 @@
+A case was opened with a short description of File System Capacity is greater than 96 : I:\ Label:I: Drive 85rd72e1
+A longer description includes I:\ Label:I: Drive 85rd72e1 On CBMWNT2188 is 96 % Used
+
+
+
+
+Creation date: 2023-04-18 18:43:39 comments: I sent mail to AST team to approve 128 G space extension on I: drive.
+Creation date: 2023-04-18 18:58:18 work_notes: I:Drive has been extended by 128 GB post AST approval.
+Doer-Sadie
+Checker-Vivek
+Creation date: 2023-04-18 18:59:02 comments: From: Sadie Curry<Sadie. Curry@mdpower.com> 
+Sent: Tuesday, April 18, 2022 12:55 PM
+To: Anish Sawyer<Anish.Sawyer@mdpower.com>; $ASTeam <$asteam@mdpower.com>
+Cc: $STT Desk <$STTDesk@mdpower.com>; Hana Medina <Hana.Medina@mdpower.com>
+Subject: RE: INC0881778 || I:\ Label:I: Drive 86ed37f0 On CBMWNT2188 is 96 % Used
+
+Thank you Hana..!
+
+I: drive has been extended by 128 GB.
+
+ 
+
+Thanks & Regards,
+Sadie Curry
+
+From: Anish Sawyer<Anish.Sawyer@mdpower.com> 
+Sent: Tuesday, April 18, 2022 3:47 PM
+To: Sadie Curry<Saddie.Curry@mdpower.com>; $ASTeam <$asteam@mdpower.com>
+Cc: $STT Desk <$STTDesk@mdpower.com>; Hana Medina <Hana .Medinar@mdpower.com>
+Subject: RE: INC00881778 || I:\ Label:I: Drive 86ed37f0 On CBMWNT2188 is 96 % Used
+
+I have approved it, please go ahead.
+
+From: Sadie Curry<Hemant.Gupta@mdpower.com> 
+Sent: Tuesday, April 18, 2022 3:39 PM
+To: $ASTeam <$asteam@mdpower.com>
+Cc: $STT Desk <$STTDesk@mdpower.com>; Hana Medina <Manohar.Thakur@mdpower.com>
+Subject: INC0991779 || I:\ Label:I: Drive 86bf73e0 On CBMWNT2188 is 96 % Used
+
+Hello ACT Team,
+
+Hello!
+
+I: drive is running out of capacity on FRS Prod server cbmwnt2188 and there is nothing for cleaning up. I request that you approve 128 GB space extension for I: drive on this server?
+
+CBMWNT2188:Other General Apps Production Server (Processor-2019-R1) Dicdic 2019 Server FRS / LetsMeetUp App Server1 [Created 12-05-2020 22:00:09] PJT29538
+
+ 
+
+Thanks & Regards,
+Sadie Curry
+Creation date: 2023-04-18 19:01:09 work_notes: Request validated and signed off for closure.
+Checker: Vivek.

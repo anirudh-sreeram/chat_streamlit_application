@@ -1,0 +1,1 @@
+{"conversation": [{"role": "context", "content": "hi"}, {"role": "user", "content": "hi"}, {"role": "robot", "chosen": "How can I help you on this beautiful day? \u2600\ufe0f", "rejected": "How can I assist you today?", "model": "NOW_LLM_llama13b_convclass_dpo_12723_nonpairwise_loss"}], "metadata": {"metatags": {"instrTotalTurnNumber": "None"}}}
