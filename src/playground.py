@@ -96,7 +96,7 @@ def playground():
     s1,s2 = st.columns([1,1])
     user_prompt = s1.selectbox("User prompt", st.session_state[KP+"user_prompt_data"], key=KP+"user_prompt")
     if user_prompt != "None":
-        st.text_input("", user_prompt, key=KP+"user_prompt_display")
+        u_prompt = st.text_input("", user_prompt, key=KP+"user_prompt_display")
 
     submit_button = st.button(label='Submit')
 
@@ -107,7 +107,7 @@ def playground():
         for model in st.session_state[KP+"model_name"]:
             output = predict.predict(
                 model=model,
-                prompt=system_prompt+'\n\n'+prompt_input+'\n\n'+user_prompt,
+                prompt=system_prompt+'\n\n'+prompt_input+'\n\n'+u_prompt,
                 max_new_tokens=128, #int(st.session_state[KP+"max_new_tokens"]),
                 temperature=0.2, #float(st.session_state[KP+"temperature"]),
                 num_beams=1, #int(st.session_state[KP+"num_beams"]),
