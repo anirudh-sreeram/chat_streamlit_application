@@ -3,5 +3,6 @@
     "Summarize the chat conversation",
     "Did the customer greet you?",
     "What was your response to the customer's request?",
-    "Suggest a resolution to the customer's problem."
+    "Suggest a resolution to the customer's problem.",
+    "Given the above conversation, on the first line provide the most likely response when a live agent highlighting the issue they are facing joins the conversation and on the next line provide a detailed explanation of why you believe the above line would be most likely.\nNOTE: DO NOT INCLUDE ANYTHING OTHER THAN THE ACTUAL MESSAGE"
 ]

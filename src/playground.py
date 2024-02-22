@@ -67,6 +67,8 @@ def load_chats():
         #     st.session_state[KP+'chat_transcript_name'].append(element['chat_label'])
     if KP+"user_prompt_data" not in st.session_state:
         st.session_state[KP+"user_prompt_data"] = read_json_file(st.session_state[KP + "config_loaded"]['GLOBAL']['user_prompt_path'])
+    if KP+"sprompt_data" not in st.session_state:
+        st.session_state[KP+"sprompt_data"] = read_json_file(st.session_state[KP + "config_loaded"]['GLOBAL']['system_prompt_path'])
 
 
 def playground():
@@ -88,7 +90,10 @@ def playground():
     # Name the app
     st.title('LLM Playground')
     st.divider()
-    system_prompt = st.text_area("System prompt", "You are an AI agent assigned to help the customer", key=KP+"system_prompt")
+    
+    st.selectbox("select system prompt",["None"] + st.session_state[KP+"sprompt_data"], key=KP+"sp")
+    if st.session_state[KP+"sp"] != "None":
+       system_prompt = st.text_area("System prompt", st.session_state[KP+"sp"], key=KP+"system_prompt")
     c1, c2 = st.columns([1, 1])
     c1.selectbox("select chat transcript",["None"] + st.session_state[KP+'chat_transcript_name'] , key=KP+"chat_transcript",on_change=add_transcript_to_prompt,args=(KP+"chat_transcript",))
     st.write("Chat transcript")
