@@ -14,6 +14,10 @@ def read_json_file(file_path):
         data = json.load(f)
     return data
 
+def wrtie_json_file(file_path, data):
+    with open(file_path, "w") as f:
+        json.dump(data, f, indent=4)
+
 def read_excel_file(file_path):
     df = pd.read_excel(file_path,sheet_name="ITSM - VA Hand Off - v5.3")
     return df
@@ -71,6 +75,22 @@ def load_chats():
         st.session_state[KP+"sprompt_data"] = read_json_file(st.session_state[KP + "config_loaded"]['GLOBAL']['system_prompt_path'])
 
 
+def add_user_prompt(ekey):
+    if st.session_state[ekey] not in st.session_state[KP+"user_prompt_data"]:
+        st.session_state[KP+"user_prompt_data"].append(st.session_state[ekey])
+        wrtie_json_file(st.session_state[KP + "config_loaded"]['GLOBAL']['user_prompt_path'], st.session_state[KP+"user_prompt_data"])
+        st.success("[SUCCESS] User prompt added successfully")
+    else:
+        st.warning("[WARNING] User prompt already exists")
+    
+def add_sys_prompt(ekey):
+    if st.session_state[ekey] not in st.session_state[KP+"sprompt_data"]:
+        st.session_state[KP+"sprompt_data"].append(st.session_state[ekey])
+        wrtie_json_file(st.session_state[KP + "config_loaded"]['GLOBAL']['system_prompt_path'], st.session_state[KP+"sprompt_data"])
+        st.success("[SUCCESS] System prompt added successfully")
+    else:
+        st.warning("[WARNING] System prompt already exists")
+
 def playground():
     load_config()
     load_chats()
@@ -93,15 +113,16 @@ def playground():
     
     st.selectbox("select system prompt",["None"] + st.session_state[KP+"sprompt_data"], key=KP+"sp")
     if st.session_state[KP+"sp"] != "None":
-       system_prompt = st.text_area("System prompt", st.session_state[KP+"sp"], key=KP+"system_prompt")
+        st.text_area("System prompt", st.session_state[KP+"sp"], key=KP+"system_prompt")
     c1, c2 = st.columns([1, 1])
     c1.selectbox("select chat transcript",["None"] + st.session_state[KP+'chat_transcript_name'] , key=KP+"chat_transcript",on_change=add_transcript_to_prompt,args=(KP+"chat_transcript",))
     st.write("Chat transcript")
-    prompt_input = st.text_area("Prompt", "", height=500, key=KP+"prompt", label_visibility="collapsed")
+    st.text_area("Prompt", "", height=500, key=KP+"prompt", label_visibility="collapsed")
     s1,s2 = st.columns([1,1])
     user_prompt = s1.selectbox("User prompt", st.session_state[KP+"user_prompt_data"], key=KP+"user_prompt")
     if user_prompt != "None":
-        u_prompt = st.text_input("", user_prompt, key=KP+"user_prompt_display")
+        st.write("User prompt")
+        st.text_input("", user_prompt, key=KP+"user_prompt_display")
 
     submit_button = st.button(label='Submit')
 
@@ -112,7 +133,7 @@ def playground():
         for model in st.session_state[KP+"model_name"]:
             output = predict.predict(
                 model=model,
-                prompt=system_prompt+'\n\n'+prompt_input+'\n\n'+u_prompt,
+                prompt=st.session_state[KP+"system_prompt"]+'\n\n'+st.session_state[KP+'prompt']+'\n\n'+st.session_state[KP+"user_prompt_display"],
                 max_new_tokens=128, #int(st.session_state[KP+"max_new_tokens"]),
                 temperature=0.2, #float(st.session_state[KP+"temperature"]),
                 num_beams=1, #int(st.session_state[KP+"num_beams"]),
@@ -149,6 +170,14 @@ def playground():
 
             # st.form_submit_button("Submit", on_click=log_sample)
 
-
+    col1,col2,col3 = st.columns([6,2,2])
+        # write the user prompt to the user prompt file
+    
+    col2.button("Add system prompt",on_click=add_sys_prompt,args=(KP+"system_prompt",),use_container_width=True)
+    col3.button("Add user prompt",on_click=add_user_prompt,args=(KP+"user_prompt_display",), use_container_width=True) 
+        
+    
+            
+        
 if __name__ == '__main__':
     playground()
