@@ -16,6 +16,7 @@ RUN pip3 install streamlit-float==0.3.2
 RUN pip3 install icecream==2.1.3
 RUN pip3 install fuzzywuzzy
 RUN pip3 install streamlit-scrollable-textbox
+RUN pip3 install torch
 RUN curl https://console.elementai.com/cli/install | sh && chmod +x ./eai && mv ./eai /usr/local/bin/ && eai upgrade
 RUN apt-get install -y apt-transport-https
 RUN apt-get update
@@ -24,5 +25,5 @@ RUN apt-get install -y vim
 ENV TZ="America/Los_Angeles"
 CMD set -x;cd ~;pwd;ls;\
     git clone -b main --single-branch https://anirudh-sreeram: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@github.com/anirudh-sreeram/chat_streamlit_application.git && \
-    cd chat_streamlit_application && rm -rf results && ln -s /mnt/task_intel_org_home/chat_streamlit_job_data results && pip install fuzzywuzzy &&\
+    cd chat_streamlit_application && rm -rf results && ln -s /snow.task_intel_org.home/chat_streamlit_job_data results && pip install fuzzywuzzy &&\
     streamlit run main.py --server.port=8080 --browser.serverAddress=https://${EAI_JOB_ID}.job.console.elementai.com --server.enableXsrfProtection=false --server.enableCORS=false
