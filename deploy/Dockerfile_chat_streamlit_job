@@ -1,6 +1,6 @@
 FROM python:3.9
 
-RUN pip3 install streamlit==1.30.0
+RUN pip3 install streamlit==1.31.0
 RUN pip3 install streamlit-ace==0.1.1
 RUN pip3 install langchain==0.0.209
 RUN pip3 install datasets==2.12.0
