@@ -38,10 +38,6 @@ def load_global_config():
 def add_transcript_to_prompt(ekey):
         idx = st.session_state[KP+ 'read_chat_transcript_data'].index[st.session_state[KP+ 'read_chat_transcript_data']['Task Number (DO NOT EDIT)'] == st.session_state[ekey]].tolist()
         st.session_state[KP+"prompt"] = st.session_state[KP+ 'read_chat_transcript_data']['Hand off Chat extracted'][idx[0]]
-        # for element in st.session_state[KP+ 'read_chat_transcript_data']:
-        #     if st.session_state[ekey] == element['chat_label']:
-        #         st.session_state[KP+"prompt"] =  element['chat_transcript']
-        #         break
 
 def log_sample():
     for model in st.session_state[KP+"model_name"]:
@@ -64,11 +60,8 @@ def log_sample():
 
 def load_chats():
     if KP+'chat_transcript_name' not in st.session_state:
-        # st.session_state[KP+'chat_transcript_name'] = []
         st.session_state[KP+ 'read_chat_transcript_data'] = read_excel_file(st.session_state[KP + "config_loaded"]['GLOBAL']['chat_transcript_path'])
         st.session_state[KP+'chat_transcript_name'] = list(st.session_state[KP+ 'read_chat_transcript_data']['Task Number (DO NOT EDIT)'])
-        # for element in st.session_state[KP+ 'read_chat_transcript_data']:
-        #     st.session_state[KP+'chat_transcript_name'].append(element['chat_label'])
     if KP+"user_prompt_data" not in st.session_state:
         st.session_state[KP+"user_prompt_data"] = read_json_file(st.session_state[KP + "config_loaded"]['GLOBAL']['user_prompt_path'])
     if KP+"sprompt_data" not in st.session_state:
@@ -79,17 +72,19 @@ def add_user_prompt(ekey):
     if st.session_state[ekey] not in st.session_state[KP+"user_prompt_data"]:
         st.session_state[KP+"user_prompt_data"].append(st.session_state[ekey])
         wrtie_json_file(st.session_state[KP + "config_loaded"]['GLOBAL']['user_prompt_path'], st.session_state[KP+"user_prompt_data"])
-        st.success("[SUCCESS] User prompt added successfully")
+        return "Saved"
     else:
-        st.warning("[WARNING] User prompt already exists")
+        return "Not saved"
     
 def add_sys_prompt(ekey):
     if st.session_state[ekey] not in st.session_state[KP+"sprompt_data"]:
         st.session_state[KP+"sprompt_data"].append(st.session_state[ekey])
         wrtie_json_file(st.session_state[KP + "config_loaded"]['GLOBAL']['system_prompt_path'], st.session_state[KP+"sprompt_data"])
-        st.success("[SUCCESS] System prompt added successfully")
+        st.session_state[KP + 'save_user_prompt'] =  "Saved"
+        return st.session_state[KP + 'save_user_prompt']
     else:
-        st.warning("[WARNING] System prompt already exists")
+        st.session_state[KP + 'save_user_prompt'] = "Not saved"
+        return st.session_state[KP + 'save_user_prompt']
 
 def playground():
     load_config()
@@ -150,7 +145,7 @@ def playground():
             output_list = output.split(" ")
 
             for word in output_list:
-                time.sleep(0.05)
+                time.sleep(0.02)
                 content += word + " "
                 logtxtbox.text_area(label=model, value=content, height=200)
 
@@ -169,15 +164,20 @@ def playground():
                 # }
 
             # st.form_submit_button("Submit", on_click=log_sample)
+    
+    #add a button to ask follow up questions
+    # st.button("Ask follow up questions",on_click=follow_up_questions,ar
 
     col1,col2,col3 = st.columns([6,2,2])
         # write the user prompt to the user prompt file
     
-    col2.button("Add system prompt",on_click=add_sys_prompt,args=(KP+"system_prompt",),use_container_width=True)
-    col3.button("Add user prompt",on_click=add_user_prompt,args=(KP+"user_prompt_display",), use_container_width=True) 
+    col2.button("Save system prompt",on_click=add_sys_prompt,args=(KP+"system_prompt",),use_container_width=True)   
+    col3.button("Save user prompt",on_click=add_user_prompt,args=(KP+"user_prompt_display",), use_container_width=True)
         
     
             
-        
+def init(forced=False):
+    st.session_state[KP + "chat_history"] = list()
+
 if __name__ == '__main__':
     playground()
