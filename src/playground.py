@@ -117,7 +117,7 @@ def playground():
     user_prompt = s1.selectbox("User prompt", st.session_state[KP+"user_prompt_data"], key=KP+"user_prompt")
     if user_prompt != "None":
         st.write("User prompt")
-        st.text_input("", user_prompt, key=KP+"user_prompt_display")
+        st.text_area("", user_prompt, key=KP+"user_prompt_display")
 
     submit_button = st.button(label='Submit')
 
